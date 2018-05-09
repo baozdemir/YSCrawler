@@ -16,15 +16,12 @@ for city in cities:
 	city_name = city_name_span.get_text()
 	city_href = city['href']	
 	print('{}{}'.format(city_name,"\n"))
-	city_data = {}
 	names.append(city_name)
 	hrefs.append(city_href)
-json_data = [{"name" : n, "href" : h} for n,h in zip(names,hrefs)]	
-#city_data['city_name'] = city_name
-#city_data['city_href'] = city_href
-#json_data = json.dumps(city_data)
+json_data = { "cities" : [{"name" : n, "href" : h} for n,h in zip(names,hrefs)]}	
+
 with open('cities.json', 'w') as f:
-    json.dump(json_data, f)
+    json.dump(json_data, f,ensure_ascii=False)
 
 
 
