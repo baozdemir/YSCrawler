@@ -21,9 +21,9 @@ def getAllZones ():
 			json_innerData = { opt['label'] : [{"name" : n, "url" : u} for n,u in zip(zoneNames,zoneUrls)]}
 			zoneInfo.append(json_innerData)
 			zoneNames, zoneUrls = [], []
-		cityZoneInfo.append( {city['name'] :[zoneInfo]})
+		cityZoneInfo.append( {city['name'] :zoneInfo})
 		zoneInfo = [] 
-	json_data = { "allZones" : [cityZoneInfo]}		
+	json_data = { "allZones" : cityZoneInfo}		
 	with open('zones.json', 'w') as f:
     		json.dump(json_data, f, ensure_ascii=False, indent=4, sort_keys=True)
 
