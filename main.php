@@ -3,23 +3,25 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
     <head>
         <meta charset="UTF-8">
-            <title></title>
+            <title>city-zone</title>
+            <script src="js/jquery-2.1.1.js"></script>
+            <script src="js/main.js"></script>
     </head>
     <body>
-        <select>
-        <?php
-        $string = file_get_contents("http://dentaltourism-turkey.com/yscrawler/cities.json");
-        $json_a = json_decode($string, true);
-        $city_length = count($json_a['cities']);
-        for ($i = 1; $i < $city_length ; $i++){
-            echo "<option value='".$json_a['cities'][$i]['href']."'>".$json_a['cities'][$i]['name']."</option>";
-        }
-        
-        #foreach ($json_a as $person_name => $person_a) {
-            #echo $person_a['name'];
-            #echo "<option value='".$json_a."'>".$json_a."</option>";
-        #}
-        ?>
+        <select id="cities" name="cities">
+            <?php
+            $string = file_get_contents("http://dentaltourism-turkey.com/yscrawler/cities.json");
+            $json_a = json_decode($string, true);
+            $city_length = count($json_a['cities']);
+            echo "<option value='" . $i . "/" . $json_a['cities'][$i]['name'] . "'>" . $json_a['cities'][$i]['name'] . "</option>";
+            for ($i = 1; $i < $city_length; $i++) {
+                echo "<option value='" . $i . "/" . $json_a['cities'][$i]['name'] . "'>" . $json_a['cities'][$i]['name'] . "</option>";
+            }
+            ?>
         </select>
-    </body>
+        <!-- That select options will be populate after cities option change-->
+        <select id="zones" name="zones"></select>
+
+        <script 
+</body>
 </html>
