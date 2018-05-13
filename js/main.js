@@ -41,4 +41,20 @@ $(document).ready(function () {
             });
         }
     });
+    $(document).on('change', '#zones', function () {
+        var zone_id = $(this).val();
+        if (zone_id != "") {
+            $.ajax({
+                url: "get_data.php",
+                type: 'POST',
+                data: {zone_id: zone_id},
+                success: function (response) {
+                    //var resp = $.trim(response);
+                    if (response != '') {
+                        $("#companylist").removeAttr('disabled', 'disabled').html(response);
+                    }
+                }
+            });
+        }
+    });
 });

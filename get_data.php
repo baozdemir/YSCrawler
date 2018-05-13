@@ -14,7 +14,7 @@ if (isset($_POST['cities_id'])) {
     echo "$zonelength";
     echo " <optgroup label='Kampüsler'>";
     for ($i = 0; $i < $zonelength; $i++) {
-        echo "<option value='" . $jsonfile['allZones'][$index][$city][1]['Tüm Kampüsler'][$i]['name'] . "'>" . $jsonfile['allZones'][$index][$city][1]['Tüm Kampüsler'][$i]['name'] . "</option>";
+        echo "<option value='" . $jsonfile['allZones'][$index][$city][1]['Tüm Kampüsler'][$i]['url'] . "'>" . $jsonfile['allZones'][$index][$city][1]['Tüm Kampüsler'][$i]['name'] . "</option>";
     }
     echo "</optgroup>";
 
