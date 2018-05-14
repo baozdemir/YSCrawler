@@ -11,18 +11,19 @@ if (isset($_POST['cities_id'])) {
 
     //All normal zones parsing from zones.json 
     $zonelength = count($jsonfile['allZones'][$index][$city][1]['Tüm Kampüsler']);
-    echo "$zonelength";
+    $zonelength2 = count($jsonfile['allZones'][$index][$city][0]['Diğer Semtler']);
+
     echo " <optgroup label='Kampüsler'>";
     for ($i = 0; $i < $zonelength; $i++) {
-        echo "<option value='" . $jsonfile['allZones'][$index][$city][1]['Tüm Kampüsler'][$i]['url'] . "'>" . $jsonfile['allZones'][$index][$city][1]['Tüm Kampüsler'][$i]['name'] . "</option>";
+        $len = $i+$zonelength2 ;
+        echo "<option value='" .$len . "/" . $jsonfile['allZones'][$index][$city][1]['Tüm Kampüsler'][$i]['name'] . "'>" . $jsonfile['allZones'][$index][$city][1]['Tüm Kampüsler'][$i]['name'] . "</option>";
     }
     echo "</optgroup>";
 
     //All uni campus zones parsing from zones.json
-    $zonelength2 = count($jsonfile['allZones'][$index][$city][0]['Diğer Semtler']);
     echo " <optgroup label='Bölgeler'>";
     for ($j = 0; $j < $zonelength2; $j++) {
-        echo "<option value='" . $jsonfile['allZones'][$index][$city][0]['Diğer Semtler'][$j]['name'] . "'>" . $jsonfile['allZones'][$index][$city][0]['Diğer Semtler'][$j]['name'] . "</option>";
+        echo "<option value='" . $j . "/" . $jsonfile['allZones'][$index][$city][0]['Diğer Semtler'][$j]['name'] . "'>" . $jsonfile['allZones'][$index][$city][0]['Diğer Semtler'][$j]['name'] . "</option>";
     }
     echo "</optgroup>";
 
@@ -34,9 +35,25 @@ if (isset($_POST['cities_id'])) {
         echo "<script>console.log( 'Debug Objects: " . $output . "' );</script>";
     }
 
-} else if (isset($_POST['country_id'])) {
+} else if (isset($_POST['zone_id'])) {
+    $pair = explode("/", $_POST['city_id']);
+    $index = $pair[0];
+    $city = $pair[1];
     
-} else if (isset($_POST['state_id'])) {
+    $pair = explode("/", $_POST['zone_id']);
+    $index_zone = $pair[0];
+    $zone = $pair[1];
     
+    $string = file_get_contents("http://dentaltourism-turkey.com/yscrawler/json/".$city."_companies.json");
+    $jsonfile = json_decode($string, TRUE);
+    
+    $company_length = count($jsonfile[$city][$index_zone][$zone][0]['comps']);
+    
+    for ($i = 0; $i < $company_length; $i++) {
+        $DisplayName = $jsonfile[$city][$index_zone][$zone][0]['comps'][$i]['DisplayName'];
+        $href = $jsonfile[$city][$index_zone][$zone][0]['comps'][$i]['href'];
+        echo "<li><a href=".$href.">".$DisplayName."</a></li>";
+    }
+        
 }
 ?>

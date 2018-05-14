@@ -14,8 +14,7 @@
                 $string = file_get_contents("http://dentaltourism-turkey.com/yscrawler/cities.json");
                 $json_a = json_decode($string, true);
                 $city_length = count($json_a['cities']);
-                echo "<option value='" . $i . "/" . $json_a['cities'][$i]['name'] . "'>" . $json_a['cities'][$i]['name'] . "</option>";
-                for ($i = 1; $i < $city_length; $i++) {
+                for ($i = 0; $i < $city_length; $i++) {
                     echo "<option value='" . $i . "/" . $json_a['cities'][$i]['name'] . "'>" . $json_a['cities'][$i]['name'] . "</option>";
                 }
                 ?>

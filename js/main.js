@@ -43,11 +43,12 @@ $(document).ready(function () {
     });
     $(document).on('change', '#zones', function () {
         var zone_id = $(this).val();
+        var city_id = $('#cities').val();
         if (zone_id != "") {
             $.ajax({
                 url: "get_data.php",
                 type: 'POST',
-                data: {zone_id: zone_id},
+                data: {zone_id: zone_id,city_id: city_id},
                 success: function (response) {
                     //var resp = $.trim(response);
                     if (response != '') {
