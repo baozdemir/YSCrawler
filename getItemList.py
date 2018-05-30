@@ -33,7 +33,11 @@ def getAllCompaniesFromZone(href):
 			i=i+1
 		json_innerData = { "menu" : [{"Product_name" : p,"Product_info" : n, "Price_info" : u} for p,n,u in zip(item_names,product_info,price_info)]}
 		item_names,product_info, price_info = [], [],[]
-		with open("menusjson{}.json".format(href), 'w') as f:
+		#dirname=os.path.dirname("menusjson{}.json".format(href))
+		#if not os.path.exists(dirname):
+		#	os.makedirs(dirname)
+		#open("/home/user/YSCrawler/menusjson/")
+		with open("menusjson{}_.json".format(href), 'w') as f:
 			json.dump(json_innerData, f, ensure_ascii=False, indent=4, sort_keys=True)
 
 os.chdir("json")
