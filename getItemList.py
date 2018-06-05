@@ -58,18 +58,28 @@ def getAllCompaniesFromZone(href):
 					for stre in flavourStringD:
 						flavourString = stre.get_text()
 					flavour = re.sub("\D", "", flavourString)
-					note = comment.find('p').get_text()
-					dateString = comment.find('div', class_='commentDate').find('div').get_text()
-					dateNumber = re.sub("\D", "", dateString)
+					noteP = comment.find_all('p')
+					for stre in noteP:						
+						note = stre.get_text()					
+					dateStringDc = comment.find_all('div', class_='commentDate')
+					for dateStringD in dateStringDc:
+						dateString = dateStringD.find_all('div')
+						for dateS in dateString:						
+							dateLast = dateS.get_text()
+					dateNumber = re.sub("\D", "", dateLast)
 					if("gün" in dateString):
 						date = currentDate - timedelta(days=int(dateNumber))
-					if("ay" in dateString):
+						dateL.append(date.strftime("%Y-%m-%d %H:%M:%S"))
+					elif("ay" in dateString):
 						date = currentDate - timedelta(days=(int(dateNumber)*30))
+						dateL.append(date.strftime("%Y-%m-%d %H:%M:%S"))
+					else:
+						dateL.append("")
 					flavourL.append(flavour)
 					speedL.append(speed)
 					servingL.append(serving)
 					noteL.append(note)
-					dateL.append(date.strftime("%Y-%m-%d %H:%M:%S"))
+
 		json_innerData = { "menu" : [{"ItemName" : n, "ItemInfo" : i, "ItemPrice" : p } for n,i,p in zip(itemNameL,itemInfoL,itemPriceL)],"comment" : [{"Date" : d, "Speed" : sp, "Serving" : sv, "Flavour" : f, "Comment" : c } for d,sp,sv,f,c in zip(dateL,speedL,servingL,flavourL,noteL)]}
 
 		print(href)
