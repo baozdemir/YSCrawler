@@ -2,44 +2,23 @@ import requests
 import json
 from bs4 import BeautifulSoup
 import glob, os, os.path
+from datetime import datetime, timedelta
+import re
 
+class DateTimeAwareEncoder(json.JSONEncoder):
+    def default(self, o):
+        if isinstance(o, datetime):
+            return o.isoformat()
+
+        return json.JSONEncoder.default(self, o)
 def getAllCompaniesFromZone(href):
 	if(not(os.path.isfile("{}{}.json".format("/home/knetwork/Desktop/YSCrawler/menusjson",href)))):
 		page = requests.get('https://www.yemeksepeti.com{}'.format(href))
 		soup = BeautifulSoup(page.content, 'html.parser')
-
-		#//f = open ('out.txt', 'w')
-		#f.write(soup.prettify())
-		
-		'''itemNames = soup.find_all('a', class_='getProductDetail')
-		productInfos = soup.find_all('span', class_='productInfo')
-		prices = soup.find_all('span', class_='pull-right newPrice')
-		
-		names, hrefs = [], []
-		item_names=[]
-		product_info=[]
-		price_info=[]
-		i=0
-		for itemName in itemNames:
-			item_name = itemName.get_text()
-			item_names.append(item_name)
-			for productInfo in productInfos:
-				product_info_p = productInfo.find('p')
-				product_info.append(product_info_p.get_text())
-				for price in prices:	
-					price_info.append(price.get_text())
-			print('{}'.format(item_name))
-			print('{}'.format(product_info[i]))
-			print('{}{}'.format(price_info[i],"\n"))
-			i=i+1'''
+		#####Menu listing#####
 		itemNameL, itemInfoL, itemPriceL = [],[],[]
 		restDetailBox = soup.find_all('div', class_='listBody')
 		for category in restDetailBox:
-			#categoryNameB = category.find('b')
-			#print(categoryNameB)
-			#if (not (categoryNameB is None)):
-			#	break
-			#categoryName = categoryNameB.get_text();
 			categoryItems = category.find_all('li')
 			for item in categoryItems:
 				itemNameSpan  = item.find_all('a')
@@ -54,13 +33,47 @@ def getAllCompaniesFromZone(href):
 				itemInfoL.append(itemInfo)
 				itemPriceL.append(itemPrice)				
 				#print("{} {} {}".format(itemName,itemInfo,itemPrice))
-		json_innerData = { "menu" : [{"ItemName" : n, "ItemInfo" : i, "ItemPrice" : p } for n,i,p in zip(itemNameL,itemInfoL,itemPriceL)]}
-		#dirname=os.path.dirname("menusjson{}.json".format(href))
-		#if not os.path.exists(dirname):
-		#	os.makedirs(dirname)
-		#open("/home/user/YSCrawler/menusjson/")
+		#####comment listing####
+		flavourL,speedL,servingL,noteL,dateL = [],[],[],[],[]
+		#get total comment page number
+		pageListNav = soup.find_all('nav', class_='ys-pagination')
+		currentDate = datetime.now()
+		for pageList in pageListNav:
+			pageA  = pageList.find_all('a')
+			for page in pageA:
+				commentHref = page['href']
+				commentPage = requests.get('https://www.yemeksepeti.com{}'.format(commentHref))
+				commentSoup = BeautifulSoup(commentPage.content, 'html.parser')
+				commentBodies = commentSoup.find_all('div', class_='comments-body')
+				for comment in commentBodies:
+					speedStringD = comment.find_all('div', class_='speed')
+					for stre in speedStringD:
+						speedString = stre.get_text()
+					speed = re.sub("\D", "", speedString)
+					servingStringD = comment.find_all('div', class_='serving')
+					for stre in servingStringD:
+						servingString = stre.get_text()
+					serving = re.sub("\D", "", servingString)
+					flavourStringD = comment.find_all('div', class_='flavour')
+					for stre in flavourStringD:
+						flavourString = stre.get_text()
+					flavour = re.sub("\D", "", flavourString)
+					note = comment.find('p').get_text()
+					dateString = comment.find('div', class_='commentDate').find('div').get_text()
+					dateNumber = re.sub("\D", "", dateString)
+					if("gün" in dateString):
+						date = currentDate - timedelta(days=int(dateNumber))
+					if("ay" in dateString):
+						date = currentDate - timedelta(days=(int(dateNumber)*30))
+					flavourL.append(flavour)
+					speedL.append(speed)
+					servingL.append(serving)
+					noteL.append(note)
+					dateL.append(date.strftime("%Y-%m-%d %H:%M:%S"))
+		json_innerData = { "menu" : [{"ItemName" : n, "ItemInfo" : i, "ItemPrice" : p } for n,i,p in zip(itemNameL,itemInfoL,itemPriceL)],"comment" : [{"Date" : d, "Speed" : sp, "Serving" : sv, "Flavour" : f, "Comment" : c } for d,sp,sv,f,c in zip(dateL,speedL,servingL,flavourL,noteL)]}
+
 		print(href)
-		if(len(json.dumps(json_innerData))>30):
+		if(len(json.dumps(json_innerData))>50):
 			with open("{}{}.json".format("/home/knetwork/Desktop/YSCrawler/menusjson",href), 'w') as f:
 				json.dump(json_innerData, f, ensure_ascii=False, indent=4, sort_keys=True)
 
