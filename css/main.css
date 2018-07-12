@@ -8,3 +8,30 @@ and open the template in the editor.
     Author     : MesutKutlu
 */
 
+.price{
+    color: orange;
+    float: left;
+    width: 5%;
+    padding-left: 20px;
+    text-align: right;
+    font-weight: bold;
+}
+
+.menuitem{
+    color: orange;
+    float: right;
+    width: 30%;
+    padding-left: 10px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.menudescription{
+    color: black;
+    float: right;
+    width: 30%;
+    padding-left: 10px;
+    text-align: left;
+    font-weight: normal;
+    font-style:italic;
+}
