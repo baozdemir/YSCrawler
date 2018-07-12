@@ -3,35 +3,77 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
-/* 
+/*
     Created on : Jun 7, 2018, 2:35:21 PM
     Author     : MesutKutlu
 */
-
-.price{
-    color: orange;
+/* card kismi left veya right column'un icerisine gomulecek */
+* {
+    box-sizing: border-box;
+}
+.leftcolumn {
     float: left;
-    width: 5%;
-    padding-left: 20px;
-    text-align: right;
+    width: 50%;
+}
+
+.rightcolumn {
+    float: left;
+    text-align: left;
+}
+.price{
+    color: darkorange;
+    text-align: center;
     font-weight: bold;
+    padding: 5px;
+    margin-top: 5px;
 }
 
 .menuitem{
-    color: orange;
-    float: right;
-    width: 30%;
-    padding-left: 10px;
+    width: 100%;
+    color: darkorange;
+    float: left;
     text-align: left;
     font-weight: bold;
+    padding: 5px;
+    margin-top: 5px;
 }
 
 .menudescription{
     color: black;
-    float: right;
-    width: 30%;
-    padding-left: 10px;
+    float: left;
     text-align: left;
     font-weight: normal;
     font-style:italic;
+    padding-left: 5px;
 }
+
+/*
+Ornek kullanim
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="test.css"></link>
+</head>
+
+<body>
+
+<div class="leftcolumn">
+  <div class="menuitem">
+    Lahmacun
+  </div>
+  <div class="menudescription">
+    Göbek marul, maydanoz, soğan, limon
+  </div>
+</div>
+<div class="rightcolumn">
+<div class="price">
+    15,00 TL
+</div>
+</div>
+</body>
+</html>
+
+
+*/
