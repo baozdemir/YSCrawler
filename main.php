@@ -18,7 +18,7 @@
         <header class="main ys-header ">
             <div class="top"></div>
             <div class="inner ys-header-zone">
-                <div class="container">
+                <div class="menuitem">
                     <div class="row">
                         <div class="col-md-3 logoSection">
                             <img src="img/yslogo.png" alt="logo"></img>
@@ -43,7 +43,7 @@
                 </div>
             </div>
         </header>
-        <div class="container">
+        <div class="menuitem">
             <div class="row">
                 <ul id="companylist" name="companylist">
 
@@ -54,7 +54,7 @@
 
 
         </div>
-        <div class="menu-table-container">
+        <div class="menuitem">
             <table id="menu-table" class="table-light">
 
             </table>
