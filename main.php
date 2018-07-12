@@ -18,7 +18,7 @@
         <header class="main ys-header ">
             <div class="top"></div>
             <div class="inner ys-header-zone">
-                <div class="menuitem">
+                <div class="container">
                     <div class="row">
                         <div class="col-md-3 logoSection">
                             <img src="img/yslogo.png" alt="logo"></img>
@@ -36,6 +36,7 @@
                             </select>
                         </div>    
                         <div class="col-md-4">
+                            
                             <!-- That select options will be populate after cities option change-->
                             <select id="zones" name="zones"></select>
                         </div>
@@ -43,7 +44,7 @@
                 </div>
             </div>
         </header>
-        <div class="menuitem">
+        <div class="container">
             <div class="row">
                 <ul id="companylist" name="companylist">
 
