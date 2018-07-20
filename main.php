@@ -36,6 +36,7 @@
                             </select>
                         </div>    
                         <div class="col-md-4">
+                            
                             <!-- That select options will be populate after cities option change-->
                             <select id="zones" name="zones"></select>
                         </div>
@@ -54,7 +55,7 @@
 
 
         </div>
-        <div class="menu-table-container">
+        <div class="menuitem">
             <table id="menu-table" class="table-light">
 
             </table>
