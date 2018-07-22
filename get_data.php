@@ -72,7 +72,7 @@ if (isset($_POST['cities_id'])) {
         $ItemPrice = $jsonfile['menu'][$i]['ItemPrice'];
 
         $href = $jsonfile[$city][$index_zone][$zone][0]['comps'][$i]['href'];
-        echo "<tr><td>" . $ItemName . "</td><td>" . $ItemInfo . "</td><tr>" . $ItemPrice . "</td></tr>";
+        echo "<tr><td>" . $ItemName . "<br />" . $ItemInfo . "</td><tr>" . $ItemPrice . "</td></tr>";
     }
 } else if (isset($_POST['href2'])) {
 
@@ -89,7 +89,9 @@ if (isset($_POST['cities_id'])) {
         $serving = $jsonfile['comment'][$i]['Serving'];
 
         $href = $jsonfile[$city][$index_zone][$zone][0]['comps'][$i]['href'];
-        echo "<p>&#34;" . $comment . "&#34;<br /> Date:" . $date . "<br />Flavour:" . $flavour . "<br /> Speed:".$speed."<br />Serving:".$serving."</p>";
+        #echo "<p>&#34;" . $comment . "&#34;<br /> Date:" . $date . "<br />Flavour:" . $flavour . "<br /> Speed:".$speed."<br />Serving:".$serving."</p>";
+        echo "<div class='card card-inner'><div class='card-body'><div class='row'><div class='col-md-10'><p class='text-secondary '>Flavour:" . $flavour . "<br /> Speed:".$speed."<br />Serving:".$serving."</p><p>.$comment.</p>".$date."<br /></div></div></div></div>";
+        
     }
 }
 ?>
