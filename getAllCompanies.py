@@ -63,13 +63,4 @@ def getAllCompaniesFromZone():
                 with open("json/{}_companies.json".format(key), 'w') as f:
                     json.dump(aCity, f, ensure_ascii=False, indent=4, sort_keys=True)
 
-
-                                
-
 getAllCompaniesFromZone()
-
-
-                                
-
-getAllCompaniesFromZone()
-            
