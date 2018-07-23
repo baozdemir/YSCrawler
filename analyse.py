@@ -21,10 +21,10 @@ for file in glob.glob("*ankara.json"):
                 for word in sitemName.split(" "):
                     if word in comment["Comment"].lower():
                         commentCounts[item["ItemName"]] = commentCounts[item["ItemName"]]+1
-                        if comment["Flavour"] is not None:
-                            avg = ((float(comment["Flavour"]) + float(comment["Serving"]) + float(comment["Speed"])) / 3)
-                        else:
+                        if re.match("^\d+?\.\d+?$",  comment["Flavour"]) is None:
                             avg = 0
+                        else:
+                       		avg = ((float(comment["Flavour"]) + float(comment["Serving"]) + float(comment["Speed"])) / 3)
                         averagePoints[item["ItemName"]] = round(((averagePoints[item["ItemName"]] * (commentCounts[item["ItemName"]] - 1)) + avg) / commentCounts[item["ItemName"]])
         print("yemek bazlı ortalama puanlar :")
         print(averagePoints)
