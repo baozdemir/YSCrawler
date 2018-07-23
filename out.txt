@@ -1,0 +1,1049 @@
+<!DOCTYPE html>
+<html>
+ <head lang="tr">
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <script type="text/javascript">
+   window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"ca590f2658","applicationID":"5529513","transactionName":"YgRRYkFQC0FTVxJQC1tOclVHWApcHXwJVAF2Dl1CQV4JXldGSXoNQRhgU19UBkZbWwg=","queueTime":0,"applicationTime":90,"ttGuid":"D2FA948F061499EE","agent":""}
+  </script>
+  <script type="text/javascript">
+   (window.NREUM||(NREUM={})).loader_config={xpid:"VQQPUFRaGwYFVlhXBgI="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);
+  </script>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="Yemek Sepeti ile binlerce restoran, yüz binlerce yemekten istediğinizi anında online sipariş edebilir, paket servis ile yemek siparişi verebilirsiniz." name="description"/>
+  <meta content="" name="author"/>
+  <meta content="2P1nmfXKixvRphF_kt3uFySa0_l5A90DKcaqTaOj3Sk" name="google-site-verification">
+   <meta content="286237568142803" name="fb:app_id"/>
+   <meta content="Yemek Sepeti - Online Yemek Siparişi ve Paket Servis" name="og:title"/>
+   <meta content="website" name="og:type"/>
+   <meta content="assets/image/default_share_avatar_L.png" name="og:image"/>
+   <meta content="/sehir-secim" name="og:url"/>
+   <meta content="Yemek Sepeti ile binlerce restoran, yüz binlerce yemekten istediğinizi anında online sipariş edebilir, paket servis ile yemek siparişi verebilirsiniz." name="og:description"/>
+   <meta content="summary" name="twitter:card">
+    <meta content="@yemeksepeti" name="twitter:site">
+     <meta content="Yemek Sepeti - Online Yemek Siparişi ve Paket Servis" name="twitter:title">
+      <meta content="Yemek Sepeti ile binlerce restoran, yüz binlerce yemekten istediğinizi anında online sipariş edebilir, paket servis ile yemek siparişi verebilirsiniz." name="twitter:description">
+       <meta content="assets/image/default_share_avatar_L.png" name="twitter:image">
+        <meta content="yemeksepeti://sehir-secim" property="al:ios:url">
+         <meta content="373034841" property="al:ios:app_store_id">
+          <meta content="Yemeksepeti" property="al:ios:app_name">
+           <meta content="https://www.yemeksepeti.com/sehir-secim" property="al:android:url">
+            <meta content="Yemeksepeti" property="al:android:app_name">
+             <meta content="com.inovel.app.yemeksepeti" property="al:android:package"/>
+             <meta content="false" property="al:web:should_fallback"/>
+             <meta content="TR" name="twitter:app:country"/>
+             <meta content="Yemeksepeti" name="twitter:app:name:iphone"/>
+             <meta content="373034841" name="twitter:app:id:iphone"/>
+             <meta content="yemeksepeti://sehir-secim" name="twitter:app:url:iphone"/>
+             <meta content="Yemeksepeti" name="twitter:app:name:ipad"/>
+             <meta content="373034841" name="twitter:app:id:ipad"/>
+             <meta content="yemeksepeti://sehir-secim" name="twitter:app:url:ipad"/>
+             <meta content="Yemeksepeti" name="twitter:app:name:googleplay"/>
+             <meta -="" content="com.inovel.app.yemeksepeti" name="twitter:app:id:googleplay"/>
+             <meta content="https://www.yemeksepeti.com/sehir-secim" name="twitter:app:url:googleplay"/>
+             <title>
+              Yemek Sepeti - Online Yemek Siparişi ve Paket Servis
+             </title>
+             <link href="//fonts.googleapis.com/css?family=Open+Sans:700,600|Paytone+One|Dosis&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"/>
+             <link href="//assets.yemeksepeti.com/assets/styles/ysapp.css?v=b4af344624962ed2ea9ce354d4c1414b81fe4290" rel="stylesheet"/>
+             <link href="/assets/images/favicon.ico" rel="shortcut icon" type="image/icon">
+              <link href="https://www.yemeksepeti.com/" rel="canonical">
+               <link href="https://www.yemeksepeti.com/sehir-secim" hreflang="tr-tr" rel="alternate"/>
+               <link href="https://www.yemeksepeti.com/en/city-selection" hreflang="en-tr" rel="alternate"/>
+               <link href="https://www.yemeksepeti.com/en/city-selection" hreflang="x-default" rel="alternate"/>
+               <script src="/resources/resource">
+               </script>
+               <script src="/resources/globals?636678998237724555">
+               </script>
+               <script type="text/javascript">
+                Globals = Globals || {};Globals.AnalyticsEvents = new Array();Globals.AnalyticsData = Globals.AnalyticsData || {};Globals.AnalyticsData.PageName = "sehir_secim";Globals.AnalyticsData.PageType = "sehir_secim";Globals.AnalyticsData.ObjectType = "Static";Globals.AnalyticsData.CatalogName = "";Globals.AnalyticsData.AutoPush = true;var machineName = window.document.getElementById("machineName");if (machineName) {machineName.innerHTML = Globals.CurrentState.MachineName;}
+               </script>
+               <noscript>
+                <img alt="" height="1" src="https://analytics.twitter.com/i/adsct?txn_id=l58l0&amp;p_id=Twitter" style="display: none;" width="1"/>
+                <img alt="" height="1" src="//t.co/i/adsct?txn_id=l58l0&amp;p_id=Twitter" style="display: none;" width="1"/>
+               </noscript>
+               <!-- Facebook Pixel Code -->
+               <script>
+                !function (f, b, e, v, n, t, s) {if (f.fbq) return; n = f.fbq = function () {n.callMethod ?n.callMethod.apply(n, arguments) : n.queue.push(arguments)}; if (!f._fbq) f._fbq = n;n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)}(window,document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');fbq('init', '625669554162699');fbq('track', "PageView");
+               </script>
+               <noscript>
+                <img height="1" src="https://www.facebook.com/tr?id=625669554162699&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+               </noscript>
+               <!-- End Facebook Pixel Code -->
+               <script type="text/javascript">
+                window.Globals['feController'] = "" + " " + "ys-CitySelect";
+               </script>
+               <!--[if lt IE 9]><script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script><script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+               <!-- Begin TVSquared Tracking Code -->
+               <script type="text/javascript">
+                var _tvq = window._tvq = window._tvq || [];(function () {var u = (("https:" == document.location.protocol) ? "https://collector-732.tvsquared.com/" : "http://collector-732.tvsquared.com/");_tvq.push(['setSiteId', "TV-276372-1"]);_tvq.push(['setTrackerUrl', u + 'tv2track.php']);_tvq.push([function () { this.deleteCustomVariable(5, 'page') }]);_tvq.push(['trackPageView']);var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0]; g.type = 'text/javascript'; g.defer = true; g.async = true; g.src = u + 'tv2track.js';setTimeout(function () {s.parentNode.appendChild(g);}, 1000);})();
+               </script>
+               <!-- End TVSquared Tracking Code -->
+               <!-- Start Braze Javascript -->
+               <script type="text/javascript">
+                +function (a, p, P, b, y) { appboy = {}; appboyQueue = []; for (var s = "initialize destroy getDeviceId toggleAppboyLogging setLogger openSession changeUser requestImmediateDataFlush requestFeedRefresh subscribeToFeedUpdates requestContentCardsRefresh subscribeToContentCardsUpdates logCardImpressions logCardClick logCardDismissal logFeedDisplayed logContentCardsDisplayed logInAppMessageImpression logInAppMessageClick logInAppMessageButtonClick logInAppMessageHtmlClick subscribeToNewInAppMessages removeSubscription removeAllSubscriptions logCustomEvent logPurchase isPushSupported isPushBlocked isPushGranted isPushPermissionGranted registerAppboyPushMessages unregisterAppboyPushMessages submitFeedback trackLocation stopWebTracking resumeWebTracking wipeData ab ab.User ab.User.Genders ab.User.NotificationSubscriptionTypes ab.User.prototype.getUserId ab.User.prototype.setFirstName ab.User.prototype.setLastName ab.User.prototype.setEmail ab.User.prototype.setGender ab.User.prototype.setDateOfBirth ab.User.prototype.setCountry ab.User.prototype.setHomeCity ab.User.prototype.setLanguage ab.User.prototype.setEmailNotificationSubscriptionType ab.User.prototype.setPushNotificationSubscriptionType ab.User.prototype.setPhoneNumber ab.User.prototype.setAvatarImageUrl ab.User.prototype.setLastKnownLocation ab.User.prototype.setUserAttribute ab.User.prototype.setCustomUserAttribute ab.User.prototype.addToCustomAttributeArray ab.User.prototype.removeFromCustomAttributeArray ab.User.prototype.incrementCustomUserAttribute ab.User.prototype.addAlias ab.InAppMessage ab.InAppMessage.SlideFrom ab.InAppMessage.ClickAction ab.InAppMessage.DismissType ab.InAppMessage.OpenTarget ab.InAppMessage.ImageStyle ab.InAppMessage.TextAlignment ab.InAppMessage.Orientation ab.InAppMessage.CropType ab.InAppMessage.prototype.subscribeToClickedEvent ab.InAppMessage.prototype.subscribeToDismissedEvent ab.InAppMessage.prototype.removeSubscription ab.InAppMessage.prototype.removeAllSubscriptions ab.InAppMessage.Button ab.InAppMessage.Button.prototype.subscribeToClickedEvent ab.InAppMessage.Button.prototype.removeSubscription ab.InAppMessage.Button.prototype.removeAllSubscriptions ab.SlideUpMessage ab.ModalMessage ab.FullScreenMessage ab.HtmlMessage ab.ControlMessage ab.Feed ab.Feed.prototype.getUnreadCardCount ab.ContentCards ab.ContentCards.prototype.getUnviewedCardCount ab.Card ab.ClassicCard ab.CaptionedImage ab.Banner ab.ControlCard ab.WindowUtils display display.automaticallyShowNewInAppMessages display.showInAppMessage display.showFeed display.destroyFeed display.toggleFeed display.showContentCards display.hideContentCards display.toggleContentCards sharedLib".split(" "), i = 0; i < s.length; i++) { for (var m = s[i], k = appboy, l = m.split("."), j = 0; j < l.length - 1; j++)k = k[l[j]]; k[l[j]] = (new Function("return function " + m.replace(/\./g, "_") + "(){appboyQueue.push(arguments); return true}"))() } appboy.getUser = function () { return new appboy.ab.User }; appboy.getCachedFeed = function () { return new appboy.ab.Feed }; appboy.getCachedContentCards = function () { return new appboy.ab.ContentCards }; (y = p.createElement(P)).type = 'text/javascript'; y.src = 'https://js.appboycdn.com/web-sdk/2.2/appboy.min.js'; y.async = 1; (b = p.getElementsByTagName(P)[0]).parentNode.insertBefore(y, b) }(window, document, 'script');appboy.initialize('YOUR-API-KEY-HERE');appboy.display.automaticallyShowNewInAppMessages();/** If you have a unique identifier for this user (e.g. they are logged into your site) it's a good idea to call* changeUser here.* See https://js.appboycdn.com/web-sdk/latest/doc/module-appboy.html#.changeUser for more information.*/// appboy.changeUser(userIdentifier);appboy.openSession();
+               </script>
+               <!-- Start Alexa Certify Javascript -->
+               <script type="text/javascript">
+                _atrk_opts = { atrk_acct: "B7S7i1acVE008y", domain: "yemeksepeti.com", dynamic: true };(function () { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(as, s); })();
+               </script>
+               <noscript>
+                <img alt="" height="1" src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=B7S7i1acVE008y" style="display:none" width="1"/>
+               </noscript>
+               <!-- End Alexa Certify Javascript -->
+               <!-- Global site tag (gtag.js) - Google AdWords: 992760409 -->
+               <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-992760409">
+               </script>
+               <script>
+                window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'AW-992760409');
+               </script>
+              </link>
+             </link>
+            </meta>
+           </meta>
+          </meta>
+         </meta>
+        </meta>
+       </meta>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body class="cleanLayout ys-CitySelect Unknown" data-pagename="sehir_secim" data-pagetype="sehir_secim" itemscope="" itemtype="http://schema.org/WebPage">
+  <header class="main ys-header ys-header-small">
+   <div class="inner">
+    <div class="container ys-container">
+     <div class="row">
+      <div class="col-md-4 logoSection">
+       <a class="logo2" href="/sehir-secim">
+       </a>
+      </div>
+      <div class="col-md-2 changeCulture pull-right">
+       <a class="englishSwitch btn btn-default" href="/en/city-selection">
+        ENGLISH
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+  </header>
+  <div class="citySelectionWrapper">
+   <div class="background" style="background-image: url(//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/citySelectImg/sehirsecim-gorseller-big03.jpg)">
+   </div>
+   <div class="innerHeader">
+    <h1>
+     Yemeksepeti'yle yemeğin sadece birkaç tık uzaklıkta! Şehrinizi seçip sipariş verin.
+    </h1>
+   </div>
+   <div class="container ys-main">
+    <div class="row">
+     <div class="col-md-16">
+      <div class="cityPlatesContainer">
+       <a class="cityLink col-md-1 " href="/adana">
+        <div class="cityContainer">
+         <span class="plateNo">
+          01
+         </span>
+        </div>
+        <span class="name">
+         Adana
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/adiyaman">
+        <div class="cityContainer">
+         <span class="plateNo">
+          02
+         </span>
+        </div>
+        <span class="name">
+         Adıyaman
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/afyonkarahisar">
+        <div class="cityContainer">
+         <span class="plateNo">
+          03
+         </span>
+        </div>
+        <span class="name">
+         Afyon karahisar
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/amasya">
+        <div class="cityContainer">
+         <span class="plateNo">
+          05
+         </span>
+        </div>
+        <span class="name">
+         Amasya
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/ankara">
+        <div class="cityContainer">
+         <span class="plateNo">
+          06
+         </span>
+        </div>
+        <span class="name">
+         Ankara
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/antalya">
+        <div class="cityContainer">
+         <span class="plateNo">
+          07
+         </span>
+        </div>
+        <span class="name">
+         Antalya
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/aydin">
+        <div class="cityContainer">
+         <span class="plateNo">
+          09
+         </span>
+        </div>
+        <span class="name">
+         Aydın
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/balikesir">
+        <div class="cityContainer">
+         <span class="plateNo">
+          10
+         </span>
+        </div>
+        <span class="name">
+         Balıkesir
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/bilecik">
+        <div class="cityContainer">
+         <span class="plateNo">
+          11
+         </span>
+        </div>
+        <span class="name">
+         Bilecik
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/bolu">
+        <div class="cityContainer">
+         <span class="plateNo">
+          14
+         </span>
+        </div>
+        <span class="name">
+         Bolu
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/burdur">
+        <div class="cityContainer">
+         <span class="plateNo">
+          15
+         </span>
+        </div>
+        <span class="name">
+         Burdur
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/bursa">
+        <div class="cityContainer">
+         <span class="plateNo">
+          16
+         </span>
+        </div>
+        <span class="name">
+         Bursa
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/canakkale">
+        <div class="cityContainer">
+         <span class="plateNo">
+          17
+         </span>
+        </div>
+        <span class="name">
+         Çanakkale
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/cankiri">
+        <div class="cityContainer">
+         <span class="plateNo">
+          18
+         </span>
+        </div>
+        <span class="name">
+         Çankırı
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/corum">
+        <div class="cityContainer">
+         <span class="plateNo">
+          19
+         </span>
+        </div>
+        <span class="name">
+         Çorum
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/denizli">
+        <div class="cityContainer">
+         <span class="plateNo">
+          20
+         </span>
+        </div>
+        <span class="name">
+         Denizli
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/diyarbakir">
+        <div class="cityContainer">
+         <span class="plateNo">
+          21
+         </span>
+        </div>
+        <span class="name">
+         Diyarbakır
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/edirne">
+        <div class="cityContainer">
+         <span class="plateNo">
+          22
+         </span>
+        </div>
+        <span class="name">
+         Edirne
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/elazig">
+        <div class="cityContainer">
+         <span class="plateNo">
+          23
+         </span>
+        </div>
+        <span class="name">
+         Elazığ
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/erzincan">
+        <div class="cityContainer">
+         <span class="plateNo">
+          24
+         </span>
+        </div>
+        <span class="name">
+         Erzincan
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/erzurum">
+        <div class="cityContainer">
+         <span class="plateNo">
+          25
+         </span>
+        </div>
+        <span class="name">
+         Erzurum
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/eskisehir">
+        <div class="cityContainer">
+         <span class="plateNo">
+          26
+         </span>
+        </div>
+        <span class="name">
+         Eskişehir
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/gaziantep">
+        <div class="cityContainer">
+         <span class="plateNo">
+          27
+         </span>
+        </div>
+        <span class="name">
+         Gaziantep
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/giresun">
+        <div class="cityContainer">
+         <span class="plateNo">
+          28
+         </span>
+        </div>
+        <span class="name">
+         Giresun
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/hatay">
+        <div class="cityContainer">
+         <span class="plateNo">
+          31
+         </span>
+        </div>
+        <span class="name">
+         Hatay
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/isparta">
+        <div class="cityContainer">
+         <span class="plateNo">
+          32
+         </span>
+        </div>
+        <span class="name">
+         Isparta
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/mersin">
+        <div class="cityContainer">
+         <span class="plateNo">
+          33
+         </span>
+        </div>
+        <span class="name">
+         Mersin
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/istanbul">
+        <div class="cityContainer">
+         <span class="plateNo">
+          34
+         </span>
+        </div>
+        <span class="name">
+         İstanbul
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/izmir">
+        <div class="cityContainer">
+         <span class="plateNo">
+          35
+         </span>
+        </div>
+        <span class="name">
+         İzmir
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/kastamonu">
+        <div class="cityContainer">
+         <span class="plateNo">
+          37
+         </span>
+        </div>
+        <span class="name">
+         Kastamonu
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/kayseri">
+        <div class="cityContainer">
+         <span class="plateNo">
+          38
+         </span>
+        </div>
+        <span class="name">
+         Kayseri
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/kirklareli">
+        <div class="cityContainer">
+         <span class="plateNo">
+          39
+         </span>
+        </div>
+        <span class="name">
+         Kırklareli
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/kirsehir">
+        <div class="cityContainer">
+         <span class="plateNo">
+          40
+         </span>
+        </div>
+        <span class="name">
+         Kırşehir
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/kocaeli">
+        <div class="cityContainer">
+         <span class="plateNo">
+          41
+         </span>
+        </div>
+        <span class="name">
+         Kocaeli
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/konya">
+        <div class="cityContainer">
+         <span class="plateNo">
+          42
+         </span>
+        </div>
+        <span class="name">
+         Konya
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/kutahya">
+        <div class="cityContainer">
+         <span class="plateNo">
+          43
+         </span>
+        </div>
+        <span class="name">
+         Kütahya
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/malatya">
+        <div class="cityContainer">
+         <span class="plateNo">
+          44
+         </span>
+        </div>
+        <span class="name">
+         Malatya
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/manisa">
+        <div class="cityContainer">
+         <span class="plateNo">
+          45
+         </span>
+        </div>
+        <span class="name">
+         Manisa
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/kahramanmaras">
+        <div class="cityContainer">
+         <span class="plateNo">
+          46
+         </span>
+        </div>
+        <span class="name">
+         Kahraman maraş
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/mardin">
+        <div class="cityContainer">
+         <span class="plateNo">
+          47
+         </span>
+        </div>
+        <span class="name">
+         Mardin
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/mugla">
+        <div class="cityContainer">
+         <span class="plateNo">
+          48
+         </span>
+        </div>
+        <span class="name">
+         Muğla
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/nevsehir">
+        <div class="cityContainer">
+         <span class="plateNo">
+          50
+         </span>
+        </div>
+        <span class="name">
+         Nevşehir
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/nigde">
+        <div class="cityContainer">
+         <span class="plateNo">
+          51
+         </span>
+        </div>
+        <span class="name">
+         Niğde
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/ordu">
+        <div class="cityContainer">
+         <span class="plateNo">
+          52
+         </span>
+        </div>
+        <span class="name">
+         Ordu
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/rize">
+        <div class="cityContainer">
+         <span class="plateNo">
+          53
+         </span>
+        </div>
+        <span class="name">
+         Rize
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/sakarya">
+        <div class="cityContainer">
+         <span class="plateNo">
+          54
+         </span>
+        </div>
+        <span class="name">
+         Sakarya
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/samsun">
+        <div class="cityContainer">
+         <span class="plateNo">
+          55
+         </span>
+        </div>
+        <span class="name">
+         Samsun
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/sinop">
+        <div class="cityContainer">
+         <span class="plateNo">
+          57
+         </span>
+        </div>
+        <span class="name">
+         Sinop
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/sivas">
+        <div class="cityContainer">
+         <span class="plateNo">
+          58
+         </span>
+        </div>
+        <span class="name">
+         Sivas
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/tekirdag">
+        <div class="cityContainer">
+         <span class="plateNo">
+          59
+         </span>
+        </div>
+        <span class="name">
+         Tekirdağ
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/tokat">
+        <div class="cityContainer">
+         <span class="plateNo">
+          60
+         </span>
+        </div>
+        <span class="name">
+         Tokat
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/trabzon">
+        <div class="cityContainer">
+         <span class="plateNo">
+          61
+         </span>
+        </div>
+        <span class="name">
+         Trabzon
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/sanliurfa">
+        <div class="cityContainer">
+         <span class="plateNo">
+          63
+         </span>
+        </div>
+        <span class="name">
+         Şanlıurfa
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/usak">
+        <div class="cityContainer">
+         <span class="plateNo">
+          64
+         </span>
+        </div>
+        <span class="name">
+         Uşak
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/van">
+        <div class="cityContainer">
+         <span class="plateNo">
+          65
+         </span>
+        </div>
+        <span class="name">
+         Van
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/yozgat">
+        <div class="cityContainer">
+         <span class="plateNo">
+          66
+         </span>
+        </div>
+        <span class="name">
+         Yozgat
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/zonguldak">
+        <div class="cityContainer">
+         <span class="plateNo">
+          67
+         </span>
+        </div>
+        <span class="name">
+         Zonguldak
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/aksaray">
+        <div class="cityContainer">
+         <span class="plateNo">
+          68
+         </span>
+        </div>
+        <span class="name">
+         Aksaray
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/karaman">
+        <div class="cityContainer">
+         <span class="plateNo">
+          70
+         </span>
+        </div>
+        <span class="name">
+         Karaman
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/kirikkale">
+        <div class="cityContainer">
+         <span class="plateNo">
+          71
+         </span>
+        </div>
+        <span class="name">
+         Kırıkkale
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/batman">
+        <div class="cityContainer">
+         <span class="plateNo">
+          72
+         </span>
+        </div>
+        <span class="name">
+         Batman
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/bartin">
+        <div class="cityContainer">
+         <span class="plateNo">
+          74
+         </span>
+        </div>
+        <span class="name">
+         Bartın
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/igdir">
+        <div class="cityContainer">
+         <span class="plateNo">
+          76
+         </span>
+        </div>
+        <span class="name">
+         Iğdır
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/yalova">
+        <div class="cityContainer">
+         <span class="plateNo">
+          77
+         </span>
+        </div>
+        <span class="name">
+         Yalova
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/karabuk">
+        <div class="cityContainer">
+         <span class="plateNo">
+          78
+         </span>
+        </div>
+        <span class="name">
+         Karabük
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/osmaniye">
+        <div class="cityContainer">
+         <span class="plateNo">
+          80
+         </span>
+        </div>
+        <span class="name">
+         Osmaniye
+        </span>
+       </a>
+       <a class="cityLink col-md-1 " href="/duzce">
+        <div class="cityContainer">
+         <span class="plateNo">
+          81
+         </span>
+        </div>
+        <span class="name">
+         Düzce
+        </span>
+       </a>
+       <a class="cityLink col-md-1 btnKibris" href="/kktc">
+        <div class="cityContainer">
+         <i class="ys-icons ys-icons-kibrisWhite">
+         </i>
+        </div>
+        <span class="name">
+         KKTC
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script src="https://cdn.optimizely.com/js/2232010246.js">
+  </script>
+  <div class="container ys-container">
+   <div class="row">
+    <div class="col-md-16">
+     <div class="midLayer">
+      <div class="group">
+       <div class="row treeColumnArea">
+        <div class="col-16-3 homeOneColumn">
+         <img alt="Restoranı Seç" src="//assets.yemeksepeti.com/assets/images/frontpage/anonyColumnFirst.png?v=b4af344624962ed2ea9ce354d4c1414b81fe4290"/>
+         <div class="columnInfo">
+          RESTORANI SEÇ
+         </div>
+        </div>
+        <div class="col-16-3 homeOneColumn">
+         <img alt="Siparişini Ver" src="//assets.yemeksepeti.com/assets/images/frontpage/anonyColumnSecond.png?v=b4af344624962ed2ea9ce354d4c1414b81fe4290"/>
+         <div class="columnInfo">
+          SİPARİŞİNİ VER
+         </div>
+        </div>
+        <div class="col-16-3 homeOneColumn">
+         <img alt="Kapında Öde" src="//assets.yemeksepeti.com/assets/images/frontpage/anonyColumnLast.png?v=b4af344624962ed2ea9ce354d4c1414b81fe4290"/>
+         <div class="columnInfo">
+          DİLEDİĞİN GİBİ ÖDE
+         </div>
+        </div>
+       </div>
+       <h3 class="info">
+        Pizza, lahmacun, sandviç, kebap, döner, hamburger ve tüm yemek siparişlerinizi en hızlı ve en kolay şekilde alıyor, ilgili restorana anında iletiyoruz.
+        <b>
+         Kredi kartı, güvenlik sorunu yok.
+        </b>
+        Yemek siparişinizi hiçbir ekstra ücret ödemeden verin,
+        <b>
+         10-45
+        </b>
+        dakika (restoranın ortalama gönderim süresi) içerisinde yemeğiniz elinizde olsun.
+       </h3>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="footer">
+   <div class="brandContainer">
+    <a href="/bambi">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/bambicafe.png"/>
+    </a>
+    <a href="/bolulu-hasan-usta">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/boluluhasan.png"/>
+    </a>
+    <a href="/burger-king">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/burgerking.png"/>
+    </a>
+    <a href="/carls-jr">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/carls-jr.png"/>
+    </a>
+    <a href="/dominos-pizza">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/dominos.png"/>
+    </a>
+    <a href="/duran-sandwich">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/duran.png"/>
+    </a>
+    <a href="/etiler-marmaris-bufe">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/etiler_marmaris_bufe.png"/>
+    </a>
+    <a href="/kfc">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/kentucky.png"/>
+    </a>
+    <a href="/komagene">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/komagene.png"/>
+    </a>
+    <a href="/kucuk-ev">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/kucukev.png"/>
+    </a>
+    <a href="/little-caesars">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/littlecaesars.png"/>
+    </a>
+    <a href="/mcdonalds">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/mcdonalds.png"/>
+    </a>
+    <a href="/papa-johns">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/papa_johns.png"/>
+    </a>
+    <a href="/pizza-bulls">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/pizzabulls.png"/>
+    </a>
+    <a href="/pizza-hut">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/pizzahut.png"/>
+    </a>
+    <a href="/pizza-pizza">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/pizzapizza.png"/>
+    </a>
+    <a href="/popeyes">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/popeyes.gif"/>
+    </a>
+    <a href="/sampi">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/sampi.png"/>
+    </a>
+    <a href="/subway">
+     <img src="//cdn.yemeksepeti.com/App_Themes/Default_tr-TR/images/sehirsecimMarkalar/subway.png"/>
+    </a>
+   </div>
+  </div>
+  <footer class="">
+   <div class="top">
+    <div class="container">
+     <div class="row content">
+      <div class="col-md-3 links">
+       <ul>
+        <li>
+         <a href="/istanbul/sss">
+          S.S.S. ve İşlem Rehberi
+         </a>
+        </li>
+        <li>
+         <a href="/kullanici-sozlesmesi">
+          Kullanıcı Sözleşmesi
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col-md-3 links">
+       <ul>
+        <li>
+         <a href="/iletisim">
+          İletişim
+         </a>
+        </li>
+        <li>
+         <a href="https://portakal.yemeksepeti.com" target="_blank">
+          Restoran Portal
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col-md-3 links">
+       <ul>
+        <li>
+         <a href="/mobil">
+          Mobil
+         </a>
+        </li>
+        <li>
+         <a href="/restoran-oner">
+          Restoran Öner
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="middle">
+    <div class="container">
+     <div class="row">
+      <div class="col-md-8">
+       Görüş ve sorularınız için
+       <a href="mailto:info@yemeksepeti.com">
+        info@yemeksepeti.com
+       </a>
+       adresine email gönderebilirsiniz.
+      </div>
+      <div class="col-md-8 text-right">
+       <a href="javascript:void(0)" id="to-mobile-banner" style="display: none;">
+        <i class="ys-icons ys-icons-Standard-icons-mobile-button">
+        </i>
+       </a>
+       <a href="http://ymk.st/iphone" target="_blank">
+        <i class="ys-icons ys-icons-appStore">
+        </i>
+       </a>
+       <a href="http://ymk.st/android" target="_blank">
+        <i class="ys-icons ys-icons-googlePlay">
+        </i>
+       </a>
+      </div>
+     </div>
+     <div class="row follow-us">
+      <div class="col-md-6">
+       <strong>
+        Bizi Takip Edin:
+       </strong>
+       <a href="https://www.facebook.com/Yemeksepeti" target="_blank">
+        <i class="ys-icons ys-icons-fb">
+        </i>
+       </a>
+       <a href="http://www.twitter.com/yemeksepeti" target="_blank">
+        <i class="ys-icons ys-icons-tw">
+        </i>
+       </a>
+       <a href="http://blog.yemeksepeti.com/" target="_blank">
+        <i class="ys-icons ys-icons-blog">
+        </i>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="bottom">
+    <div class="container">
+     <div class="row">
+      <div class="col-md-7">
+       Çağrı merkezi bekleme müzikleri için
+       <a href="http://www.radioeksen.com/" rel="nofollow" target="_blank">
+        <i class="ys-icons ys-icons-radyo-eksen">
+        </i>
+       </a>
+       'e teşekkür ederiz.
+      </div>
+      <div class="col-md-1 machineName" id="machineName">
+      </div>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <div id="fb-root">
+  </div>
+  <script language="JavaScript" src="//assets.yemeksepeti.com/assets/scripts/ysapp.min.js?v=b4af344624962ed2ea9ce354d4c1414b81fe4290" type="text/javascript">
+  </script>
+ </body>
+</html>
