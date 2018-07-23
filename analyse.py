@@ -3,6 +3,13 @@ import glob, os, os.path
 from datetime import datetime, timedelta
 import re
 
+def isfloat(value):
+  try:
+    float(value)
+    return True
+  except ValueError:
+    return False
+
 directory = os.path.dirname(os.path.realpath(__file__))
 os.chdir("menusjson")
 for file in glob.glob("*ankara.json"):
@@ -21,10 +28,10 @@ for file in glob.glob("*ankara.json"):
                 for word in sitemName.split(" "):
                     if word in comment["Comment"].lower():
                         commentCounts[item["ItemName"]] = commentCounts[item["ItemName"]]+1
-                        if re.match("^\d+?\.\d+?$",  comment["Flavour"]) is None:
-                            avg = 0
+                        if isfloat(comment["Flavour"]) &isfloat(comment["Serving"]) & isfloat(comment["Speed"]):
+                            avg = ((float(comment["Flavour"]) + float(comment["Serving"]) + float(comment["Speed"])) / 3)
                         else:
-                       		avg = ((float(comment["Flavour"]) + float(comment["Serving"]) + float(comment["Speed"])) / 3)
+                       		avg = 0
                         averagePoints[item["ItemName"]] = round(((averagePoints[item["ItemName"]] * (commentCounts[item["ItemName"]] - 1)) + avg) / commentCounts[item["ItemName"]])
         print("yemek bazlı ortalama puanlar :")
         print(averagePoints)
