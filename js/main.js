@@ -51,10 +51,19 @@ $(document).ready(function () {
                 type: 'POST',
                 data: {zone_id: zone_id, city_id: city_id},
                 success: function (response) {
-                    //var resp = $.trim(response);
-                    console.log("lol");
                     if (response != '') {
                         $("#companylist").removeAttr('disabled', 'disabled').html(response);
+                    }
+                }
+                
+            });
+             $.ajax({
+                url: "get_data.php",
+                type: 'POST',
+                data: {zone_id2: zone_id, city_id2: city_id},
+                success: function (response) {
+                    if (response != '') {
+                        $("#zoneInfo").removeAttr('disabled', 'disabled').html(response);
                     }
                 }
                 
@@ -65,7 +74,8 @@ $(document).ready(function () {
 function getList(hrefv) {
         var href = hrefv;
         var href2 = hrefv;
-
+        var href3 = hrefv;
+        
         if (href != "") {
             $.ajax({
                 url: "get_data.php",
@@ -89,5 +99,17 @@ function getList(hrefv) {
                     }
                 }
             });
+            $.ajax({
+                url: "get_data.php",
+                type: 'POST',
+                data: {href3: href3},
+                success: function (response3) {
+                    //var resp = $.trim(response);
+                    if (response3 != '') {
+                        $("#analysis").removeAttr('disabled', 'disabled').html(response3);
+                    }
+                }
+            });
+           
         }
     }

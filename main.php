@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+.<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
     <head>
@@ -70,21 +70,50 @@
             </div>
         </header>
         <div class="container">
+
             <div class="page-header">
                 <h1><span class="pull-right label label-default"></span></h1>
             </div>
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-12">
                     <div class="panel with-nav-tabs panel-default">
                         <div class="panel-heading">
                             <ul class="nav nav-tabs">
-                                <li class="active"><a href="#tab1default" data-toggle="tab">Restorantlar</a></li>
+                                <li class="active"><a href="#zone-tab" data-toggle="tab">Bölge Bilgileri</a></li>
 
                             </ul>
                         </div>
                         <div class="panel-body">
                             <div class="tab-content">
-                                <div class="tab-pane fade in active" id="tab1default">
+                                <div class="tab-pane fade in active" id="restorant-tab">
+                                    <table border=0 class="circle-list">
+                                        <tr>
+                                            <td>
+                                                <div id="zoneInfo">
+
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr/>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="panel with-nav-tabs panel-default">
+                        <div class="panel-heading">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a href="#restorant-tab" data-toggle="tab">Restorantlar</a></li>
+
+                            </ul>
+                        </div>
+                        <div class="panel-body">
+                            <div class="tab-content">
+                                <div class="tab-pane fade in active" id="restorant-tab">
                                     <table border=0 class="circle-list">
                                         <tr>
                                             <td>
@@ -102,32 +131,29 @@
                     <div class="panel with-nav-tabs panel-default">
                         <div class="panel-heading">
                             <ul class="nav nav-tabs">
-                                <li class="active"><a href="#tab1default" data-toggle="tab">Menüler</a></li>
-                                <li><a href="#tab2default" data-toggle="tab">Yorumlar</a></li>
-                                <li><a href="#tab3default" data-toggle="tab">Analizler</a></li>
-                                <!--<li class="dropdown">
-                                    <a href="#" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
-                                    <ul class="dropdown-menu" role="menu">
-                                        <li><a href="#tab4default" data-toggle="tab">Default 4</a></li>
-                                        <li><a href="#tab5default" data-toggle="tab">Default 5</a></li>
-                                    </ul>
-                                </li>-->
+                                <li class="active"><a href="#menu-tab" data-toggle="tab">Menüler</a></li>
+                                <li><a href="#yorum-tab" data-toggle="tab">Yorumlar</a></li>
+                                <li><a href="#analiz-tab" data-toggle="tab">Analizler</a></li>                             
                             </ul>
                         </div>
                         <div class="panel-body">
                             <div class="tab-content">
-                                <div class="tab-pane fade in active" id="tab1default">
+                                <div class="tab-pane fade in active" id="menu-tab">
                                     <div class="menuitem">
                                         <table id="menu-table" class="table-light">
                                         </table>
                                     </div>
                                 </div>
-                                <div class="tab-pane fade" id="tab2default">
+                                <div class="tab-pane fade" id="yorum-tab">
                                     <div id="comments">
 
                                     </div>
                                 </div>
-                                <div class="tab-pane fade" id="tab3default"></div>
+                                <div class="tab-pane fade" id="analiz-tab">
+                                    <div id="analysis">
+
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
