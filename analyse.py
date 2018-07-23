@@ -5,7 +5,7 @@ import re
 
 directory = os.path.dirname(os.path.realpath(__file__))
 os.chdir("menusjson")
-for file in glob.glob("*.json"):
+for file in glob.glob("*ankara.json"):
     commentCounts = {}
     averagePoints = {}
     with open(file, 'r') as f:
@@ -21,7 +21,10 @@ for file in glob.glob("*.json"):
                 for word in sitemName.split(" "):
                     if word in comment["Comment"].lower():
                         commentCounts[item["ItemName"]] = commentCounts[item["ItemName"]]+1
-                        avg = ((float(comment["Flavour"]) + float(comment["Serving"]) + float(comment["Speed"])) / 3)
+                        if comment["Flavour"] is not None:
+                            avg = ((float(comment["Flavour"]) + float(comment["Serving"]) + float(comment["Speed"])) / 3)
+                        else:
+                            avg = 0
                         averagePoints[item["ItemName"]] = round(((averagePoints[item["ItemName"]] * (commentCounts[item["ItemName"]] - 1)) + avg) / commentCounts[item["ItemName"]])
         print("yemek bazlı ortalama puanlar :")
         print(averagePoints)
