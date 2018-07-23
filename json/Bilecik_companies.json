@@ -5,22 +5,80 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,3",
-                            "CategoryName": "913edf4c-76f4-400b-85b2-c8f7ac6d2277",
+                            "AvgPoint": "8,2",
+                            "CategoryName": "0e01848b-5d3f-4813-a131-8761eb776a9c",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
+                                "Fast Food & Sandwich",
+                                "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "İlhan Dayı Tost & Kahvaltı, İstiklal Mah.",
-                            "FlavourText": "7,2",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/ilhandayitost_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 15.0,
+                            "DisplayName": "Acıktım 2 Raso Dayı, Gazipaşa Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/aciktim2rasodayi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,5",
+                            "WorkHoursText": "12:00-04:00",
+                            "href": "/aciktim-2-raso-dayi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "35546710-ddd0-42f6-bbb1-f1c8b50e66f5",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Battalbey Çiğ Köftecisi, Gazipaşa Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/battalbey_cigkoftecisi_2_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:45-02:00",
+                            "href": "/battalbey-cig-koftecisi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,1",
+                            "CategoryName": "41a5b0e8-c26b-47f3-95ca-dcebb59de31f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfteci Ömer Usta, İsmetpaşa Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/cigkofteci_omerusta_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 6.0,
                             "ServingText": "6,9",
-                            "SpeedText": "7,7",
-                            "WorkHoursText": "07:00-19:30",
-                            "href": "/ilhan-dayi-tost-kahvalti-istiklal-mah-bilecik"
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-02:30",
+                            "href": "/cig-kofteci-omer-usta-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "eb8f3a65-e294-45c4-a3a7-5375a134e722",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmet Paşa",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "10:00-01:45",
+                            "href": "/dominos-pizza-ismet-pasa-bilecik"
                         },
                         {
                             "AvgPoint": "7,4",
@@ -31,15 +89,70 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "İtimat Izgara, İsmetpaşa Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/itimat-izgara_big.gif",
                             "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
                             "MainCuisineName": "Kebap & Türk Mutfağı",
                             "MinimumDeliveryPrice": 20.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "7,2",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "24 Saat Açık",
                             "href": "/itimat-izgara-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "7dd677b8-659e-46a4-8aaf-a5e976bc980b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İzmir Sandviç & Tantuni, İsmetpaşa Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/izmir-sandvic-tantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,7",
+                            "WorkHoursText": "11:00-03:30",
+                            "href": "/izmir-sandvic-tantuni-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "26ab1aa1-0f5b-46a3-bb41-fd7512aa26d1",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkabasa Fast Food, Bahçelievler Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tiıkabasa-fast-food_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-01:00",
+                            "href": "/tikabasa-fast-food-bahcelievler-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "017f05bb-52f8-4de8-aced-8b2bacac4356",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkıntı Kokoreç & Tantuni, Cumhuriyet Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tikinti-kokorec-tantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "6,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:15-02:00",
+                            "href": "/tikinti-kokorec-tantuni-cumhuriyet-mah-bilecik"
                         }
                     ]
                 }
@@ -57,22 +170,80 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,3",
-                            "CategoryName": "913edf4c-76f4-400b-85b2-c8f7ac6d2277",
+                            "AvgPoint": "8,2",
+                            "CategoryName": "0e01848b-5d3f-4813-a131-8761eb776a9c",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
+                                "Fast Food & Sandwich",
+                                "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "İlhan Dayı Tost & Kahvaltı, İstiklal Mah.",
-                            "FlavourText": "7,2",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/ilhandayitost_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 15.0,
+                            "DisplayName": "Acıktım 2 Raso Dayı, Gazipaşa Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/aciktim2rasodayi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,5",
+                            "WorkHoursText": "12:00-04:00",
+                            "href": "/aciktim-2-raso-dayi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "35546710-ddd0-42f6-bbb1-f1c8b50e66f5",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Battalbey Çiğ Köftecisi, Gazipaşa Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/battalbey_cigkoftecisi_2_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 7.5,
+                            "ServingText": "7,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:45-02:00",
+                            "href": "/battalbey-cig-koftecisi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,1",
+                            "CategoryName": "41a5b0e8-c26b-47f3-95ca-dcebb59de31f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfteci Ömer Usta, İsmetpaşa Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/cigkofteci_omerusta_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 6.0,
                             "ServingText": "6,9",
-                            "SpeedText": "7,7",
-                            "WorkHoursText": "07:00-19:30",
-                            "href": "/ilhan-dayi-tost-kahvalti-istiklal-mah-bilecik"
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-02:30",
+                            "href": "/cig-kofteci-omer-usta-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "eb8f3a65-e294-45c4-a3a7-5375a134e722",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmet Paşa",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "10:00-01:45",
+                            "href": "/dominos-pizza-ismet-pasa-bilecik"
                         },
                         {
                             "AvgPoint": "7,4",
@@ -83,15 +254,88 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "İtimat Izgara, İsmetpaşa Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/itimat-izgara_big.gif",
                             "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
                             "MainCuisineName": "Kebap & Türk Mutfağı",
                             "MinimumDeliveryPrice": 20.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "7,2",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "24 Saat Açık",
                             "href": "/itimat-izgara-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "7dd677b8-659e-46a4-8aaf-a5e976bc980b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İzmir Sandviç & Tantuni, İsmetpaşa Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/izmir-sandvic-tantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,7",
+                            "WorkHoursText": "11:00-03:30",
+                            "href": "/izmir-sandvic-tantuni-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "8,3",
+                            "CategoryName": "abddfacb-b1d8-4f23-81ba-7f1a18c4122b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, Bozüyük (Çarşı)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,1",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/pizza-pizza-bozuyuk-carsi-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "26ab1aa1-0f5b-46a3-bb41-fd7512aa26d1",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkabasa Fast Food, Bahçelievler Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tiıkabasa-fast-food_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-01:00",
+                            "href": "/tikabasa-fast-food-bahcelievler-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "017f05bb-52f8-4de8-aced-8b2bacac4356",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkıntı Kokoreç & Tantuni, Cumhuriyet Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tikinti-kokorec-tantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "6,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:15-02:00",
+                            "href": "/tikinti-kokorec-tantuni-cumhuriyet-mah-bilecik"
                         }
                     ]
                 }
@@ -102,22 +346,80 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,3",
-                            "CategoryName": "913edf4c-76f4-400b-85b2-c8f7ac6d2277",
+                            "AvgPoint": "8,2",
+                            "CategoryName": "0e01848b-5d3f-4813-a131-8761eb776a9c",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
+                                "Fast Food & Sandwich",
+                                "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "İlhan Dayı Tost & Kahvaltı, İstiklal Mah.",
-                            "FlavourText": "7,2",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/ilhandayitost_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 10.0,
+                            "DisplayName": "Acıktım 2 Raso Dayı, Gazipaşa Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/aciktim2rasodayi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 2.25,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,5",
+                            "WorkHoursText": "12:00-04:00",
+                            "href": "/aciktim-2-raso-dayi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "35546710-ddd0-42f6-bbb1-f1c8b50e66f5",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Battalbey Çiğ Köftecisi, Gazipaşa Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/battalbey_cigkoftecisi_2_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:45-02:00",
+                            "href": "/battalbey-cig-koftecisi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,1",
+                            "CategoryName": "41a5b0e8-c26b-47f3-95ca-dcebb59de31f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfteci Ömer Usta, İsmetpaşa Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/cigkofteci_omerusta_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 5.0,
                             "ServingText": "6,9",
-                            "SpeedText": "7,7",
-                            "WorkHoursText": "07:00-19:30",
-                            "href": "/ilhan-dayi-tost-kahvalti-istiklal-mah-bilecik"
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-02:30",
+                            "href": "/cig-kofteci-omer-usta-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "eb8f3a65-e294-45c4-a3a7-5375a134e722",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmet Paşa",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "10:00-01:45",
+                            "href": "/dominos-pizza-ismet-pasa-bilecik"
                         },
                         {
                             "AvgPoint": "7,4",
@@ -128,15 +430,70 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "İtimat Izgara, İsmetpaşa Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/itimat-izgara_big.gif",
                             "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
                             "MainCuisineName": "Kebap & Türk Mutfağı",
                             "MinimumDeliveryPrice": 9.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "7,2",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "24 Saat Açık",
                             "href": "/itimat-izgara-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "7dd677b8-659e-46a4-8aaf-a5e976bc980b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İzmir Sandviç & Tantuni, İsmetpaşa Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/izmir-sandvic-tantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 8.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,7",
+                            "WorkHoursText": "11:00-03:30",
+                            "href": "/izmir-sandvic-tantuni-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "26ab1aa1-0f5b-46a3-bb41-fd7512aa26d1",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkabasa Fast Food, Bahçelievler Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tiıkabasa-fast-food_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-01:00",
+                            "href": "/tikabasa-fast-food-bahcelievler-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "017f05bb-52f8-4de8-aced-8b2bacac4356",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkıntı Kokoreç & Tantuni, Cumhuriyet Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tikinti-kokorec-tantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 0,
+                            "ServingText": "6,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:15-02:00",
+                            "href": "/tikinti-kokorec-tantuni-cumhuriyet-mah-bilecik"
                         }
                     ]
                 }
@@ -145,70 +502,393 @@
         {
             "Bozüyük (4 Eylül)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,4",
+                            "CategoryName": "36ca08c0-43b5-40e3-9db3-0d0d0f7f4a98",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Bozüyük (Yeni)",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 10.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "10:30-01:00",
+                            "href": "/dominos-pizza-bozuyuk-yeni-bilecik"
+                        },
+                        {
+                            "AvgPoint": "8,3",
+                            "CategoryName": "abddfacb-b1d8-4f23-81ba-7f1a18c4122b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, Bozüyük (Çarşı)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,1",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/pizza-pizza-bozuyuk-carsi-bilecik"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Bozüyük (Akpınar)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,3",
+                            "CategoryName": "abddfacb-b1d8-4f23-81ba-7f1a18c4122b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, Bozüyük (Çarşı)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,1",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/pizza-pizza-bozuyuk-carsi-bilecik"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Bozüyük (Cihangazi)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,3",
+                            "CategoryName": "abddfacb-b1d8-4f23-81ba-7f1a18c4122b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, Bozüyük (Çarşı)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,1",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/pizza-pizza-bozuyuk-carsi-bilecik"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Bozüyük (Çarşı)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,4",
+                            "CategoryName": "36ca08c0-43b5-40e3-9db3-0d0d0f7f4a98",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Bozüyük (Yeni)",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 10.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "10:30-01:00",
+                            "href": "/dominos-pizza-bozuyuk-yeni-bilecik"
+                        },
+                        {
+                            "AvgPoint": "8,3",
+                            "CategoryName": "abddfacb-b1d8-4f23-81ba-7f1a18c4122b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, Bozüyük (Çarşı)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,1",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/pizza-pizza-bozuyuk-carsi-bilecik"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Bozüyük (Kasımpaşa)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,4",
+                            "CategoryName": "36ca08c0-43b5-40e3-9db3-0d0d0f7f4a98",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Bozüyük (Yeni)",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 10.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "10:30-01:00",
+                            "href": "/dominos-pizza-bozuyuk-yeni-bilecik"
+                        },
+                        {
+                            "AvgPoint": "8,3",
+                            "CategoryName": "abddfacb-b1d8-4f23-81ba-7f1a18c4122b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, Bozüyük (Çarşı)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,1",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/pizza-pizza-bozuyuk-carsi-bilecik"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Bozüyük (Saraycık)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,3",
+                            "CategoryName": "abddfacb-b1d8-4f23-81ba-7f1a18c4122b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, Bozüyük (Çarşı)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,1",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/pizza-pizza-bozuyuk-carsi-bilecik"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Bozüyük (Tekke)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,4",
+                            "CategoryName": "36ca08c0-43b5-40e3-9db3-0d0d0f7f4a98",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Bozüyük (Yeni)",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 10.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "10:30-01:00",
+                            "href": "/dominos-pizza-bozuyuk-yeni-bilecik"
+                        },
+                        {
+                            "AvgPoint": "8,3",
+                            "CategoryName": "abddfacb-b1d8-4f23-81ba-7f1a18c4122b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, Bozüyük (Çarşı)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,1",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/pizza-pizza-bozuyuk-carsi-bilecik"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Bozüyük (Yediler)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,4",
+                            "CategoryName": "36ca08c0-43b5-40e3-9db3-0d0d0f7f4a98",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Bozüyük (Yeni)",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 10.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "10:30-01:00",
+                            "href": "/dominos-pizza-bozuyuk-yeni-bilecik"
+                        },
+                        {
+                            "AvgPoint": "8,3",
+                            "CategoryName": "abddfacb-b1d8-4f23-81ba-7f1a18c4122b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, Bozüyük (Çarşı)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,1",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/pizza-pizza-bozuyuk-carsi-bilecik"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Bozüyük (Yeni)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,4",
+                            "CategoryName": "36ca08c0-43b5-40e3-9db3-0d0d0f7f4a98",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Bozüyük (Yeni)",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 10.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "10:30-01:00",
+                            "href": "/dominos-pizza-bozuyuk-yeni-bilecik"
+                        },
+                        {
+                            "AvgPoint": "8,3",
+                            "CategoryName": "abddfacb-b1d8-4f23-81ba-7f1a18c4122b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, Bozüyük (Çarşı)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,1",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/pizza-pizza-bozuyuk-carsi-bilecik"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Bozüyük (Yeşilkent)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,4",
+                            "CategoryName": "36ca08c0-43b5-40e3-9db3-0d0d0f7f4a98",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Bozüyük (Yeni)",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 11.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "10:30-01:00",
+                            "href": "/dominos-pizza-bozuyuk-yeni-bilecik"
+                        },
+                        {
+                            "AvgPoint": "8,3",
+                            "CategoryName": "abddfacb-b1d8-4f23-81ba-7f1a18c4122b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, Bozüyük (Çarşı)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,1",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/pizza-pizza-bozuyuk-carsi-bilecik"
+                        }
+                    ]
                 }
             ]
         },
@@ -217,22 +897,80 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,3",
-                            "CategoryName": "913edf4c-76f4-400b-85b2-c8f7ac6d2277",
+                            "AvgPoint": "8,2",
+                            "CategoryName": "0e01848b-5d3f-4813-a131-8761eb776a9c",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
+                                "Fast Food & Sandwich",
+                                "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "İlhan Dayı Tost & Kahvaltı, İstiklal Mah.",
-                            "FlavourText": "7,2",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/ilhandayitost_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 10.0,
+                            "DisplayName": "Acıktım 2 Raso Dayı, Gazipaşa Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/aciktim2rasodayi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,5",
+                            "WorkHoursText": "12:00-04:00",
+                            "href": "/aciktim-2-raso-dayi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "35546710-ddd0-42f6-bbb1-f1c8b50e66f5",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Battalbey Çiğ Köftecisi, Gazipaşa Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/battalbey_cigkoftecisi_2_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 6.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:45-02:00",
+                            "href": "/battalbey-cig-koftecisi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,1",
+                            "CategoryName": "41a5b0e8-c26b-47f3-95ca-dcebb59de31f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfteci Ömer Usta, İsmetpaşa Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/cigkofteci_omerusta_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 6.0,
                             "ServingText": "6,9",
-                            "SpeedText": "7,7",
-                            "WorkHoursText": "07:00-19:30",
-                            "href": "/ilhan-dayi-tost-kahvalti-istiklal-mah-bilecik"
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-02:30",
+                            "href": "/cig-kofteci-omer-usta-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "eb8f3a65-e294-45c4-a3a7-5375a134e722",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmet Paşa",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "10:00-01:45",
+                            "href": "/dominos-pizza-ismet-pasa-bilecik"
                         },
                         {
                             "AvgPoint": "7,4",
@@ -243,15 +981,70 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "İtimat Izgara, İsmetpaşa Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/itimat-izgara_big.gif",
                             "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
                             "MainCuisineName": "Kebap & Türk Mutfağı",
                             "MinimumDeliveryPrice": 9.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "7,2",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "24 Saat Açık",
                             "href": "/itimat-izgara-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "7dd677b8-659e-46a4-8aaf-a5e976bc980b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İzmir Sandviç & Tantuni, İsmetpaşa Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/izmir-sandvic-tantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 8.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,7",
+                            "WorkHoursText": "11:00-03:30",
+                            "href": "/izmir-sandvic-tantuni-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "26ab1aa1-0f5b-46a3-bb41-fd7512aa26d1",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkabasa Fast Food, Bahçelievler Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tiıkabasa-fast-food_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-01:00",
+                            "href": "/tikabasa-fast-food-bahcelievler-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "017f05bb-52f8-4de8-aced-8b2bacac4356",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkıntı Kokoreç & Tantuni, Cumhuriyet Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tikinti-kokorec-tantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 0,
+                            "ServingText": "6,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:15-02:00",
+                            "href": "/tikinti-kokorec-tantuni-cumhuriyet-mah-bilecik"
                         }
                     ]
                 }
@@ -262,22 +1055,80 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,3",
-                            "CategoryName": "913edf4c-76f4-400b-85b2-c8f7ac6d2277",
+                            "AvgPoint": "8,2",
+                            "CategoryName": "0e01848b-5d3f-4813-a131-8761eb776a9c",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
+                                "Fast Food & Sandwich",
+                                "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "İlhan Dayı Tost & Kahvaltı, İstiklal Mah.",
-                            "FlavourText": "7,2",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/ilhandayitost_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 15.0,
+                            "DisplayName": "Acıktım 2 Raso Dayı, Gazipaşa Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/aciktim2rasodayi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,5",
+                            "WorkHoursText": "12:00-04:00",
+                            "href": "/aciktim-2-raso-dayi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "35546710-ddd0-42f6-bbb1-f1c8b50e66f5",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Battalbey Çiğ Köftecisi, Gazipaşa Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/battalbey_cigkoftecisi_2_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 7.5,
+                            "ServingText": "7,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:45-02:00",
+                            "href": "/battalbey-cig-koftecisi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,1",
+                            "CategoryName": "41a5b0e8-c26b-47f3-95ca-dcebb59de31f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfteci Ömer Usta, İsmetpaşa Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/cigkofteci_omerusta_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 6.0,
                             "ServingText": "6,9",
-                            "SpeedText": "7,7",
-                            "WorkHoursText": "07:00-19:30",
-                            "href": "/ilhan-dayi-tost-kahvalti-istiklal-mah-bilecik"
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-02:30",
+                            "href": "/cig-kofteci-omer-usta-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "eb8f3a65-e294-45c4-a3a7-5375a134e722",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmet Paşa",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "10:00-01:45",
+                            "href": "/dominos-pizza-ismet-pasa-bilecik"
                         },
                         {
                             "AvgPoint": "7,4",
@@ -288,15 +1139,70 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "İtimat Izgara, İsmetpaşa Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/itimat-izgara_big.gif",
                             "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
                             "MainCuisineName": "Kebap & Türk Mutfağı",
                             "MinimumDeliveryPrice": 25.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "7,2",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "24 Saat Açık",
                             "href": "/itimat-izgara-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "7dd677b8-659e-46a4-8aaf-a5e976bc980b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İzmir Sandviç & Tantuni, İsmetpaşa Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/izmir-sandvic-tantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,7",
+                            "WorkHoursText": "11:00-03:30",
+                            "href": "/izmir-sandvic-tantuni-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "26ab1aa1-0f5b-46a3-bb41-fd7512aa26d1",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkabasa Fast Food, Bahçelievler Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tiıkabasa-fast-food_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-01:00",
+                            "href": "/tikabasa-fast-food-bahcelievler-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "017f05bb-52f8-4de8-aced-8b2bacac4356",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkıntı Kokoreç & Tantuni, Cumhuriyet Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tikinti-kokorec-tantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "6,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:15-02:00",
+                            "href": "/tikinti-kokorec-tantuni-cumhuriyet-mah-bilecik"
                         }
                     ]
                 }
@@ -307,22 +1213,80 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,3",
-                            "CategoryName": "913edf4c-76f4-400b-85b2-c8f7ac6d2277",
+                            "AvgPoint": "8,2",
+                            "CategoryName": "0e01848b-5d3f-4813-a131-8761eb776a9c",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
+                                "Fast Food & Sandwich",
+                                "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "İlhan Dayı Tost & Kahvaltı, İstiklal Mah.",
-                            "FlavourText": "7,2",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/ilhandayitost_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 10.0,
+                            "DisplayName": "Acıktım 2 Raso Dayı, Gazipaşa Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/aciktim2rasodayi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,5",
+                            "WorkHoursText": "12:00-04:00",
+                            "href": "/aciktim-2-raso-dayi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "35546710-ddd0-42f6-bbb1-f1c8b50e66f5",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Battalbey Çiğ Köftecisi, Gazipaşa Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/battalbey_cigkoftecisi_2_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 2.5,
+                            "ServingText": "7,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:45-02:00",
+                            "href": "/battalbey-cig-koftecisi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,1",
+                            "CategoryName": "41a5b0e8-c26b-47f3-95ca-dcebb59de31f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfteci Ömer Usta, İsmetpaşa Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/cigkofteci_omerusta_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 6.0,
                             "ServingText": "6,9",
-                            "SpeedText": "7,7",
-                            "WorkHoursText": "07:00-19:30",
-                            "href": "/ilhan-dayi-tost-kahvalti-istiklal-mah-bilecik"
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-02:30",
+                            "href": "/cig-kofteci-omer-usta-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "eb8f3a65-e294-45c4-a3a7-5375a134e722",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmet Paşa",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "10:00-01:45",
+                            "href": "/dominos-pizza-ismet-pasa-bilecik"
                         },
                         {
                             "AvgPoint": "7,4",
@@ -333,15 +1297,70 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "İtimat Izgara, İsmetpaşa Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/itimat-izgara_big.gif",
                             "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
                             "MainCuisineName": "Kebap & Türk Mutfağı",
                             "MinimumDeliveryPrice": 9.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "7,2",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "24 Saat Açık",
                             "href": "/itimat-izgara-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "7dd677b8-659e-46a4-8aaf-a5e976bc980b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İzmir Sandviç & Tantuni, İsmetpaşa Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/izmir-sandvic-tantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 8.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,7",
+                            "WorkHoursText": "11:00-03:30",
+                            "href": "/izmir-sandvic-tantuni-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "26ab1aa1-0f5b-46a3-bb41-fd7512aa26d1",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkabasa Fast Food, Bahçelievler Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tiıkabasa-fast-food_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-01:00",
+                            "href": "/tikabasa-fast-food-bahcelievler-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "017f05bb-52f8-4de8-aced-8b2bacac4356",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkıntı Kokoreç & Tantuni, Cumhuriyet Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tikinti-kokorec-tantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 0,
+                            "ServingText": "6,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:15-02:00",
+                            "href": "/tikinti-kokorec-tantuni-cumhuriyet-mah-bilecik"
                         }
                     ]
                 }
@@ -352,22 +1371,78 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,3",
-                            "CategoryName": "913edf4c-76f4-400b-85b2-c8f7ac6d2277",
+                            "AvgPoint": "7,9",
+                            "CategoryName": "35546710-ddd0-42f6-bbb1-f1c8b50e66f5",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Battalbey Çiğ Köftecisi, Gazipaşa Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/battalbey_cigkoftecisi_2_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:45-02:00",
+                            "href": "/battalbey-cig-koftecisi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "7dd677b8-659e-46a4-8aaf-a5e976bc980b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İzmir Sandviç & Tantuni, İsmetpaşa Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/izmir-sandvic-tantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,7",
+                            "WorkHoursText": "11:00-03:30",
+                            "href": "/izmir-sandvic-tantuni-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "26ab1aa1-0f5b-46a3-bb41-fd7512aa26d1",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "İlhan Dayı Tost & Kahvaltı, İstiklal Mah.",
-                            "FlavourText": "7,2",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/ilhandayitost_big.gif",
+                            "DisplayName": "Tıkabasa Fast Food, Bahçelievler Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tiıkabasa-fast-food_big.gif",
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 25.0,
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-01:00",
+                            "href": "/tikabasa-fast-food-bahcelievler-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "017f05bb-52f8-4de8-aced-8b2bacac4356",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkıntı Kokoreç & Tantuni, Cumhuriyet Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tikinti-kokorec-tantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 30.0,
                             "ServingText": "6,9",
-                            "SpeedText": "7,7",
-                            "WorkHoursText": "07:00-19:30",
-                            "href": "/ilhan-dayi-tost-kahvalti-istiklal-mah-bilecik"
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:15-02:00",
+                            "href": "/tikinti-kokorec-tantuni-cumhuriyet-mah-bilecik"
                         }
                     ]
                 }
@@ -378,22 +1453,116 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,3",
-                            "CategoryName": "913edf4c-76f4-400b-85b2-c8f7ac6d2277",
+                            "AvgPoint": "8,2",
+                            "CategoryName": "0e01848b-5d3f-4813-a131-8761eb776a9c",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Acıktım 2 Raso Dayı, Gazipaşa Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/aciktim2rasodayi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,5",
+                            "WorkHoursText": "12:00-04:00",
+                            "href": "/aciktim-2-raso-dayi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "35546710-ddd0-42f6-bbb1-f1c8b50e66f5",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Battalbey Çiğ Köftecisi, Gazipaşa Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/battalbey_cigkoftecisi_2_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 13.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:45-02:00",
+                            "href": "/battalbey-cig-koftecisi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,1",
+                            "CategoryName": "41a5b0e8-c26b-47f3-95ca-dcebb59de31f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfteci Ömer Usta, İsmetpaşa Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/cigkofteci_omerusta_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,9",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-02:30",
+                            "href": "/cig-kofteci-omer-usta-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "7dd677b8-659e-46a4-8aaf-a5e976bc980b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İzmir Sandviç & Tantuni, İsmetpaşa Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/izmir-sandvic-tantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,7",
+                            "WorkHoursText": "11:00-03:30",
+                            "href": "/izmir-sandvic-tantuni-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "26ab1aa1-0f5b-46a3-bb41-fd7512aa26d1",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "İlhan Dayı Tost & Kahvaltı, İstiklal Mah.",
-                            "FlavourText": "7,2",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/ilhandayitost_big.gif",
+                            "DisplayName": "Tıkabasa Fast Food, Bahçelievler Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tiıkabasa-fast-food_big.gif",
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 25.0,
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-01:00",
+                            "href": "/tikabasa-fast-food-bahcelievler-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "017f05bb-52f8-4de8-aced-8b2bacac4356",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkıntı Kokoreç & Tantuni, Cumhuriyet Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tikinti-kokorec-tantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 20.0,
                             "ServingText": "6,9",
-                            "SpeedText": "7,7",
-                            "WorkHoursText": "07:00-19:30",
-                            "href": "/ilhan-dayi-tost-kahvalti-istiklal-mah-bilecik"
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:15-02:00",
+                            "href": "/tikinti-kokorec-tantuni-cumhuriyet-mah-bilecik"
                         }
                     ]
                 }
@@ -404,22 +1573,80 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,3",
-                            "CategoryName": "913edf4c-76f4-400b-85b2-c8f7ac6d2277",
+                            "AvgPoint": "8,2",
+                            "CategoryName": "0e01848b-5d3f-4813-a131-8761eb776a9c",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
+                                "Fast Food & Sandwich",
+                                "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "İlhan Dayı Tost & Kahvaltı, İstiklal Mah.",
-                            "FlavourText": "7,2",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/ilhandayitost_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 15.0,
+                            "DisplayName": "Acıktım 2 Raso Dayı, Gazipaşa Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/aciktim2rasodayi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,5",
+                            "WorkHoursText": "12:00-04:00",
+                            "href": "/aciktim-2-raso-dayi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "35546710-ddd0-42f6-bbb1-f1c8b50e66f5",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Battalbey Çiğ Köftecisi, Gazipaşa Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/battalbey_cigkoftecisi_2_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:45-02:00",
+                            "href": "/battalbey-cig-koftecisi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,1",
+                            "CategoryName": "41a5b0e8-c26b-47f3-95ca-dcebb59de31f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfteci Ömer Usta, İsmetpaşa Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/cigkofteci_omerusta_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
                             "ServingText": "6,9",
-                            "SpeedText": "7,7",
-                            "WorkHoursText": "07:00-19:30",
-                            "href": "/ilhan-dayi-tost-kahvalti-istiklal-mah-bilecik"
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-02:30",
+                            "href": "/cig-kofteci-omer-usta-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "eb8f3a65-e294-45c4-a3a7-5375a134e722",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmet Paşa",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "10:00-01:45",
+                            "href": "/dominos-pizza-ismet-pasa-bilecik"
                         },
                         {
                             "AvgPoint": "7,4",
@@ -430,15 +1657,70 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "İtimat Izgara, İsmetpaşa Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/itimat-izgara_big.gif",
                             "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
                             "MainCuisineName": "Kebap & Türk Mutfağı",
                             "MinimumDeliveryPrice": 15.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "7,2",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "24 Saat Açık",
                             "href": "/itimat-izgara-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "7dd677b8-659e-46a4-8aaf-a5e976bc980b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İzmir Sandviç & Tantuni, İsmetpaşa Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/izmir-sandvic-tantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,7",
+                            "WorkHoursText": "11:00-03:30",
+                            "href": "/izmir-sandvic-tantuni-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "26ab1aa1-0f5b-46a3-bb41-fd7512aa26d1",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkabasa Fast Food, Bahçelievler Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tiıkabasa-fast-food_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-01:00",
+                            "href": "/tikabasa-fast-food-bahcelievler-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "017f05bb-52f8-4de8-aced-8b2bacac4356",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkıntı Kokoreç & Tantuni, Cumhuriyet Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tikinti-kokorec-tantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 0,
+                            "ServingText": "6,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:15-02:00",
+                            "href": "/tikinti-kokorec-tantuni-cumhuriyet-mah-bilecik"
                         }
                     ]
                 }
@@ -449,22 +1731,80 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,3",
-                            "CategoryName": "913edf4c-76f4-400b-85b2-c8f7ac6d2277",
+                            "AvgPoint": "8,2",
+                            "CategoryName": "0e01848b-5d3f-4813-a131-8761eb776a9c",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
+                                "Fast Food & Sandwich",
+                                "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "İlhan Dayı Tost & Kahvaltı, İstiklal Mah.",
-                            "FlavourText": "7,2",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/ilhandayitost_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
+                            "DisplayName": "Acıktım 2 Raso Dayı, Gazipaşa Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/aciktim2rasodayi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
                             "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,5",
+                            "WorkHoursText": "12:00-04:00",
+                            "href": "/aciktim-2-raso-dayi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "35546710-ddd0-42f6-bbb1-f1c8b50e66f5",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Battalbey Çiğ Köftecisi, Gazipaşa Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/battalbey_cigkoftecisi_2_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:45-02:00",
+                            "href": "/battalbey-cig-koftecisi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,1",
+                            "CategoryName": "41a5b0e8-c26b-47f3-95ca-dcebb59de31f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfteci Ömer Usta, İsmetpaşa Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/cigkofteci_omerusta_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 3.0,
                             "ServingText": "6,9",
-                            "SpeedText": "7,7",
-                            "WorkHoursText": "07:00-19:30",
-                            "href": "/ilhan-dayi-tost-kahvalti-istiklal-mah-bilecik"
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-02:30",
+                            "href": "/cig-kofteci-omer-usta-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "eb8f3a65-e294-45c4-a3a7-5375a134e722",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmet Paşa",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "10:00-01:45",
+                            "href": "/dominos-pizza-ismet-pasa-bilecik"
                         },
                         {
                             "AvgPoint": "7,4",
@@ -475,15 +1815,70 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "İtimat Izgara, İsmetpaşa Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/itimat-izgara_big.gif",
                             "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
                             "MainCuisineName": "Kebap & Türk Mutfağı",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "7,2",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "24 Saat Açık",
                             "href": "/itimat-izgara-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "7dd677b8-659e-46a4-8aaf-a5e976bc980b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İzmir Sandviç & Tantuni, İsmetpaşa Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/izmir-sandvic-tantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,7",
+                            "WorkHoursText": "11:00-03:30",
+                            "href": "/izmir-sandvic-tantuni-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "26ab1aa1-0f5b-46a3-bb41-fd7512aa26d1",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkabasa Fast Food, Bahçelievler Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tiıkabasa-fast-food_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-01:00",
+                            "href": "/tikabasa-fast-food-bahcelievler-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "017f05bb-52f8-4de8-aced-8b2bacac4356",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkıntı Kokoreç & Tantuni, Cumhuriyet Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tikinti-kokorec-tantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 0,
+                            "ServingText": "6,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:15-02:00",
+                            "href": "/tikinti-kokorec-tantuni-cumhuriyet-mah-bilecik"
                         }
                     ]
                 }
@@ -494,22 +1889,42 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,3",
-                            "CategoryName": "913edf4c-76f4-400b-85b2-c8f7ac6d2277",
+                            "AvgPoint": "7,9",
+                            "CategoryName": "35546710-ddd0-42f6-bbb1-f1c8b50e66f5",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "İlhan Dayı Tost & Kahvaltı, İstiklal Mah.",
-                            "FlavourText": "7,2",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/ilhandayitost_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 25.0,
+                            "DisplayName": "Battalbey Çiğ Köftecisi, Gazipaşa Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/battalbey_cigkoftecisi_2_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:45-02:00",
+                            "href": "/battalbey-cig-koftecisi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,1",
+                            "CategoryName": "41a5b0e8-c26b-47f3-95ca-dcebb59de31f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfteci Ömer Usta, İsmetpaşa Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/cigkofteci_omerusta_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
                             "ServingText": "6,9",
-                            "SpeedText": "7,7",
-                            "WorkHoursText": "07:00-19:30",
-                            "href": "/ilhan-dayi-tost-kahvalti-istiklal-mah-bilecik"
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-02:30",
+                            "href": "/cig-kofteci-omer-usta-ismetpasa-mah-bilecik"
                         },
                         {
                             "AvgPoint": "7,4",
@@ -520,15 +1935,70 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "İtimat Izgara, İsmetpaşa Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/itimat-izgara_big.gif",
                             "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
                             "MainCuisineName": "Kebap & Türk Mutfağı",
                             "MinimumDeliveryPrice": 30.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "7,2",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "24 Saat Açık",
                             "href": "/itimat-izgara-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "7dd677b8-659e-46a4-8aaf-a5e976bc980b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İzmir Sandviç & Tantuni, İsmetpaşa Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/izmir-sandvic-tantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,7",
+                            "WorkHoursText": "11:00-03:30",
+                            "href": "/izmir-sandvic-tantuni-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "26ab1aa1-0f5b-46a3-bb41-fd7512aa26d1",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkabasa Fast Food, Bahçelievler Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tiıkabasa-fast-food_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-01:00",
+                            "href": "/tikabasa-fast-food-bahcelievler-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "017f05bb-52f8-4de8-aced-8b2bacac4356",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkıntı Kokoreç & Tantuni, Cumhuriyet Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tikinti-kokorec-tantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:15-02:00",
+                            "href": "/tikinti-kokorec-tantuni-cumhuriyet-mah-bilecik"
                         }
                     ]
                 }
@@ -539,22 +2009,80 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,3",
-                            "CategoryName": "913edf4c-76f4-400b-85b2-c8f7ac6d2277",
+                            "AvgPoint": "8,2",
+                            "CategoryName": "0e01848b-5d3f-4813-a131-8761eb776a9c",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
+                                "Fast Food & Sandwich",
+                                "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "İlhan Dayı Tost & Kahvaltı, İstiklal Mah.",
-                            "FlavourText": "7,2",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/ilhandayitost_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
+                            "DisplayName": "Acıktım 2 Raso Dayı, Gazipaşa Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/aciktim2rasodayi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,5",
+                            "WorkHoursText": "12:00-04:00",
+                            "href": "/aciktim-2-raso-dayi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "35546710-ddd0-42f6-bbb1-f1c8b50e66f5",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Battalbey Çiğ Köftecisi, Gazipaşa Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/battalbey_cigkoftecisi_2_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
                             "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:45-02:00",
+                            "href": "/battalbey-cig-koftecisi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,1",
+                            "CategoryName": "41a5b0e8-c26b-47f3-95ca-dcebb59de31f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfteci Ömer Usta, İsmetpaşa Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/cigkofteci_omerusta_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 6.0,
                             "ServingText": "6,9",
-                            "SpeedText": "7,7",
-                            "WorkHoursText": "07:00-19:30",
-                            "href": "/ilhan-dayi-tost-kahvalti-istiklal-mah-bilecik"
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-02:30",
+                            "href": "/cig-kofteci-omer-usta-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "eb8f3a65-e294-45c4-a3a7-5375a134e722",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmet Paşa",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "33ab3d6c-5d00-45c3-b0d0-632682be3135",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "10:00-01:45",
+                            "href": "/dominos-pizza-ismet-pasa-bilecik"
                         },
                         {
                             "AvgPoint": "7,4",
@@ -565,15 +2093,70 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "İtimat Izgara, İsmetpaşa Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/itimat-izgara_big.gif",
                             "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
                             "MainCuisineName": "Kebap & Türk Mutfağı",
                             "MinimumDeliveryPrice": 9.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "7,2",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "24 Saat Açık",
                             "href": "/itimat-izgara-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "7dd677b8-659e-46a4-8aaf-a5e976bc980b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İzmir Sandviç & Tantuni, İsmetpaşa Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/izmir-sandvic-tantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 8.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,7",
+                            "WorkHoursText": "11:00-03:30",
+                            "href": "/izmir-sandvic-tantuni-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "26ab1aa1-0f5b-46a3-bb41-fd7512aa26d1",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkabasa Fast Food, Bahçelievler Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tiıkabasa-fast-food_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-01:00",
+                            "href": "/tikabasa-fast-food-bahcelievler-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "017f05bb-52f8-4de8-aced-8b2bacac4356",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkıntı Kokoreç & Tantuni, Cumhuriyet Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tikinti-kokorec-tantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 0,
+                            "ServingText": "6,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:15-02:00",
+                            "href": "/tikinti-kokorec-tantuni-cumhuriyet-mah-bilecik"
                         }
                     ]
                 }
@@ -584,22 +2167,23 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,3",
-                            "CategoryName": "913edf4c-76f4-400b-85b2-c8f7ac6d2277",
+                            "AvgPoint": "7,9",
+                            "CategoryName": "35546710-ddd0-42f6-bbb1-f1c8b50e66f5",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "İlhan Dayı Tost & Kahvaltı, İstiklal Mah.",
-                            "FlavourText": "7,2",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/ilhandayitost_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 25.0,
-                            "ServingText": "6,9",
-                            "SpeedText": "7,7",
-                            "WorkHoursText": "07:00-19:30",
-                            "href": "/ilhan-dayi-tost-kahvalti-istiklal-mah-bilecik"
+                            "DisplayName": "Battalbey Çiğ Köftecisi, Gazipaşa Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/battalbey_cigkoftecisi_2_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:45-02:00",
+                            "href": "/battalbey-cig-koftecisi-gazipasa-mah-bilecik"
                         },
                         {
                             "AvgPoint": "7,4",
@@ -610,15 +2194,70 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "İtimat Izgara, İsmetpaşa Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/itimat-izgara_big.gif",
                             "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
                             "MainCuisineName": "Kebap & Türk Mutfağı",
                             "MinimumDeliveryPrice": 30.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "7,2",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "24 Saat Açık",
                             "href": "/itimat-izgara-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "7dd677b8-659e-46a4-8aaf-a5e976bc980b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İzmir Sandviç & Tantuni, İsmetpaşa Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/izmir-sandvic-tantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,7",
+                            "WorkHoursText": "11:00-03:30",
+                            "href": "/izmir-sandvic-tantuni-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "26ab1aa1-0f5b-46a3-bb41-fd7512aa26d1",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkabasa Fast Food, Bahçelievler Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tiıkabasa-fast-food_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-01:00",
+                            "href": "/tikabasa-fast-food-bahcelievler-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "017f05bb-52f8-4de8-aced-8b2bacac4356",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkıntı Kokoreç & Tantuni, Cumhuriyet Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tikinti-kokorec-tantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:15-02:00",
+                            "href": "/tikinti-kokorec-tantuni-cumhuriyet-mah-bilecik"
                         }
                     ]
                 }
@@ -636,22 +2275,78 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,3",
-                            "CategoryName": "913edf4c-76f4-400b-85b2-c8f7ac6d2277",
+                            "AvgPoint": "7,9",
+                            "CategoryName": "35546710-ddd0-42f6-bbb1-f1c8b50e66f5",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Battalbey Çiğ Köftecisi, Gazipaşa Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/battalbey_cigkoftecisi_2_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:45-02:00",
+                            "href": "/battalbey-cig-koftecisi-gazipasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "7dd677b8-659e-46a4-8aaf-a5e976bc980b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İzmir Sandviç & Tantuni, İsmetpaşa Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/izmir-sandvic-tantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,7",
+                            "WorkHoursText": "11:00-03:30",
+                            "href": "/izmir-sandvic-tantuni-ismetpasa-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "26ab1aa1-0f5b-46a3-bb41-fd7512aa26d1",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "İlhan Dayı Tost & Kahvaltı, İstiklal Mah.",
-                            "FlavourText": "7,2",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_BILECIK/ilhandayitost_big.gif",
+                            "DisplayName": "Tıkabasa Fast Food, Bahçelievler Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tiıkabasa-fast-food_big.gif",
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 25.0,
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-01:00",
+                            "href": "/tikabasa-fast-food-bahcelievler-mah-bilecik"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "017f05bb-52f8-4de8-aced-8b2bacac4356",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Tıkıntı Kokoreç & Tantuni, Cumhuriyet Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_BILECIK/tikinti-kokorec-tantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 30.0,
                             "ServingText": "6,9",
-                            "SpeedText": "7,7",
-                            "WorkHoursText": "07:00-19:30",
-                            "href": "/ilhan-dayi-tost-kahvalti-istiklal-mah-bilecik"
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:15-02:00",
+                            "href": "/tikinti-kokorec-tantuni-cumhuriyet-mah-bilecik"
                         }
                     ]
                 }

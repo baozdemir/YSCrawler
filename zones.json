@@ -609,6 +609,10 @@
                             "url": "/adana/narlica"
                         },
                         {
+                            "name": "Obalar Cad.",
+                            "url": "/adana/obalar-cad"
+                        },
+                        {
                             "name": "Onur ",
                             "url": "/adana/onur"
                         },
@@ -877,8 +881,8 @@
                             "url": "/adana/cukurova-universitesi-balcali-kampusu"
                         },
                         {
-                            "name": "Çukurova Üniversitesi - Turizm İşletmeciliği & Otelcilik Yüksekokulu",
-                            "url": "/adana/cukurova-universitesi-turizm-isletmeciligi-otelcilik-yuksekokulu"
+                            "name": "Çukurova Üniversitesi - Turizm İşletmeciliği & Otelcilik Y.O.",
+                            "url": "/adana/cukurova-universitesi-turizm-isletmeciligi-otelcilik-y-o"
                         }
                     ]
                 }
@@ -1409,10 +1413,6 @@
                             "url": "/ankara/baglar-caddesi"
                         },
                         {
-                            "name": "Bağlıca",
-                            "url": "/ankara/baglica"
-                        },
-                        {
                             "name": "Bahçelievler",
                             "url": "/ankara/bahcelievler"
                         },
@@ -1929,6 +1929,34 @@
                             "url": "/ankara/etimesgut-alsancak-mah"
                         },
                         {
+                            "name": "Etimesgut (Bağlıca Mah. - Bağlıca Blv.)",
+                            "url": "/ankara/etimesgut-baglica-mah-baglicablv"
+                        },
+                        {
+                            "name": "Etimesgut (Bağlıca Mah. - Belpınarı Cad.)",
+                            "url": "/ankara/etimesgut-baglica-mah-belpinari-cad"
+                        },
+                        {
+                            "name": "Etimesgut (Bağlıca Mah. - Etimesgut Blv.)",
+                            "url": "/ankara/etimesgut-baglica-mah-etimesgut-blv"
+                        },
+                        {
+                            "name": "Etimesgut (Bağlıca Mah. - Karatuz Cad.)",
+                            "url": "/ankara/etimesgut-baglica-mah-karatuz-cad"
+                        },
+                        {
+                            "name": "Etimesgut (Bağlıca Mah. - Mermeroğlu Cad.)",
+                            "url": "/ankara/etimesgut-baglica-mah-mermeroglu-cad"
+                        },
+                        {
+                            "name": "Etimesgut (Bağlıca Mah. - Yeşiltepe Cad.)",
+                            "url": "/ankara/etimesgut-baglica-mah-yesiltepe-cad"
+                        },
+                        {
+                            "name": "Etimesgut (Bağlıca Mah. - Zirve Cad.)",
+                            "url": "/ankara/etimesgut-baglica-mah-zirve-cad"
+                        },
+                        {
                             "name": "Etimesgut (Çarşı)",
                             "url": "/ankara/etimesgut-carsi"
                         },
@@ -2281,6 +2309,10 @@
                             "url": "/ankara/kecioren-sanatoryum"
                         },
                         {
+                            "name": "Keçiören (Sancaktepe)",
+                            "url": "/ankara/kecioren-sancaktepe"
+                        },
+                        {
                             "name": "Keçiören (Şehit Kubilay Mah.)",
                             "url": "/ankara/kecioren-sehit-kubilay-mah"
                         },
@@ -2311,6 +2343,10 @@
                         {
                             "name": "Keçiören (Yeşiltepe)",
                             "url": "/ankara/kecioren-yesiltepe"
+                        },
+                        {
+                            "name": "Keçiören (Yükseltepe)",
+                            "url": "/ankara/kecioren-yukseltepe"
                         },
                         {
                             "name": "Keklikpınarı",
@@ -2953,8 +2989,16 @@
                             "url": "/ankara/yenimahalle-merkez"
                         },
                         {
+                            "name": "Yenimahalle (Pamuklar Mah.)",
+                            "url": "/ankara/yenimahalle-pamuklar-mah"
+                        },
+                        {
                             "name": "Yenimahalle (R. Tüzün Cad.)",
                             "url": "/ankara/yenimahalle-r-tuzun-cad"
+                        },
+                        {
+                            "name": "Yenimahalle (Serhat Mah.)",
+                            "url": "/ankara/yenimahalle-serhat-mah"
                         },
                         {
                             "name": "Yenimahalle (Şentepe)",
@@ -3185,8 +3229,20 @@
                 {
                     "Diğer Semtler": [
                         {
+                            "name": "Aksu (Kundu Mah.)",
+                            "url": "/antalya/aksu-kundu-mah"
+                        },
+                        {
+                            "name": "Aksu (Macun)",
+                            "url": "/antalya/aksu-macun"
+                        },
+                        {
                             "name": "Aksu (Merkez)",
                             "url": "/antalya/aksu-merkez"
+                        },
+                        {
+                            "name": "Aksu (Sanayi)",
+                            "url": "/antalya/aksu-sanayi"
                         },
                         {
                             "name": "Aksu (Yenigöl Mah.)",
@@ -3321,6 +3377,10 @@
                             "url": "/antalya/kemer-merkez"
                         },
                         {
+                            "name": "Kemer (Tekirova Mah.)",
+                            "url": "/antalya/kemer-tekirova-mah"
+                        },
+                        {
                             "name": "Kepez (Ahatlı Mah.)",
                             "url": "/antalya/kepez-ahatli-mah"
                         },
@@ -3331,6 +3391,10 @@
                         {
                             "name": "Kepez (Altınova Sinan Mah.)",
                             "url": "/antalya/kepez-altinova-sinan-mah"
+                        },
+                        {
+                            "name": "Kepez (Atatürk Mah.)",
+                            "url": "/antalya/kepez-ataturk-mah"
                         },
                         {
                             "name": "Kepez (Barış Mah.)",
@@ -3351,10 +3415,6 @@
                         {
                             "name": "Kepez (Duraliler Mah.)",
                             "url": "/antalya/kepez-duraliler-mah"
-                        },
-                        {
-                            "name": "Kepez (Dutlubahçe Mah.)",
-                            "url": "/antalya/kepez-dutlubahce-mah"
                         },
                         {
                             "name": "Kepez (Düdenbaşı Mah.)",
@@ -3379,6 +3439,10 @@
                         {
                             "name": "Kepez (Göçerler Mah.)",
                             "url": "/antalya/kepez-gocerler-mah"
+                        },
+                        {
+                            "name": "Kepez (Göksu Mah.)",
+                            "url": "/antalya/kepez-goksu-mah"
                         },
                         {
                             "name": "Kepez (Gülveren Mah.)",
@@ -3585,8 +3649,20 @@
                             "url": "/antalya/kumluca-merkez"
                         },
                         {
+                            "name": "Manavgat (Aşağı Hisar Mah.)",
+                            "url": "/antalya/manavgat-asagi-hisar-mah"
+                        },
+                        {
+                            "name": "Manavgat (Aşağı Pazarcı Mah.)",
+                            "url": "/antalya/manavgat-asagi-pazarci-mah"
+                        },
+                        {
                             "name": "Manavgat (Aydınevler Mah.)",
                             "url": "/antalya/manavgat-aydinevler-mah"
+                        },
+                        {
+                            "name": "Manavgat (Bahçelievler Mah.)",
+                            "url": "/antalya/manavgat-bahcelievler-mah"
                         },
                         {
                             "name": "Manavgat (Çağlayan Mah.)",
@@ -3597,12 +3673,24 @@
                             "url": "/antalya/manavgat-ilica-mah"
                         },
                         {
+                            "name": "Manavgat (Kasaplar Mah.)",
+                            "url": "/antalya/manavgat-kasaplar-mah"
+                        },
+                        {
+                            "name": "Manavgat (Kavaklı Mah.)",
+                            "url": "/antalya/manavgat-kavakli-mah"
+                        },
+                        {
                             "name": "Manavgat (Merkez)",
                             "url": "/antalya/manavgat-merkez"
                         },
                         {
                             "name": "Manavgat (Milli Egemenlik Mah.)",
                             "url": "/antalya/manavgat-milli-egemenlik-mah"
+                        },
+                        {
+                            "name": "Manavgat (Örnek Mah.)",
+                            "url": "/antalya/manavgat-ornek-mah"
                         },
                         {
                             "name": "Manavgat (Sanayi Mah.)",
@@ -3631,6 +3719,14 @@
                         {
                             "name": "Manavgat (Yeniköy Mah.)",
                             "url": "/antalya/manavgat-yenikoy-mah"
+                        },
+                        {
+                            "name": "Manavgat (Yukarı Hisar Mah.)",
+                            "url": "/antalya/manavgat-yukari-hisar-mah"
+                        },
+                        {
+                            "name": "Manavgat (Yukarı Pazarcı Mah.)",
+                            "url": "/antalya/manavgat-yukari-pazarci-mah"
                         },
                         {
                             "name": "Muratpaşa (100. Yıl Caddesi)",
@@ -3721,6 +3817,10 @@
                             "url": "/antalya/muratpasa-doguyaka-mah"
                         },
                         {
+                            "name": "Muratpaşa (Dutlubahçe Mah.)",
+                            "url": "/antalya/muratpasa-dutlubahce-mah"
+                        },
+                        {
                             "name": "Muratpaşa (Elmalı Mah.)",
                             "url": "/antalya/muratpasa-elmali-mah"
                         },
@@ -3751,10 +3851,6 @@
                         {
                             "name": "Muratpaşa (Gençlik Mah.)",
                             "url": "/antalya/muratpasa-genclik-mah"
-                        },
-                        {
-                            "name": "Muratpaşa (Göksu Mah.)",
-                            "url": "/antalya/muratpasa-goksu-mah"
                         },
                         {
                             "name": "Muratpaşa (Güllük Mah.)",
@@ -4005,8 +4101,8 @@
                             "url": "/antalya/serik-belek-mah"
                         },
                         {
-                            "name": "Serik (Kundu Mah.)",
-                            "url": "/antalya/serik-kundu-mah"
+                            "name": "Serik (Kadriye Mah.)",
+                            "url": "/antalya/serik-kadriye-mah"
                         },
                         {
                             "name": "Serik (Merkez)",
@@ -5053,366 +5149,6 @@
                 {
                     "Diğer Semtler": [
                         {
-                            "name": "152 Evler",
-                            "url": "/bursa/152-evler"
-                        },
-                        {
-                            "name": "19 Mayıs",
-                            "url": "/bursa/19-mayis"
-                        },
-                        {
-                            "name": "23 Nisan",
-                            "url": "/bursa/23-nisan"
-                        },
-                        {
-                            "name": "29 Ekim",
-                            "url": "/bursa/29-ekim"
-                        },
-                        {
-                            "name": "75. Yıl",
-                            "url": "/bursa/75-yil"
-                        },
-                        {
-                            "name": "Acemler",
-                            "url": "/bursa/acemler"
-                        },
-                        {
-                            "name": "Adalet",
-                            "url": "/bursa/adalet"
-                        },
-                        {
-                            "name": "Ahmet Yesevi",
-                            "url": "/bursa/ahmet-yesevi"
-                        },
-                        {
-                            "name": "Ahmetpaşa",
-                            "url": "/bursa/ahmetpasa"
-                        },
-                        {
-                            "name": "Akpınar (1050 Knt.)",
-                            "url": "/bursa/akpinar-1050-knt"
-                        },
-                        {
-                            "name": "Aktarhüssam",
-                            "url": "/bursa/aktarhussam"
-                        },
-                        {
-                            "name": "Alaaddin",
-                            "url": "/bursa/alaaddin"
-                        },
-                        {
-                            "name": "Alacahırka",
-                            "url": "/bursa/alacahirka"
-                        },
-                        {
-                            "name": "Alacamescit",
-                            "url": "/bursa/alacamescit"
-                        },
-                        {
-                            "name": "Alemdar",
-                            "url": "/bursa/alemdar"
-                        },
-                        {
-                            "name": "Alipaşa",
-                            "url": "/bursa/alipasa"
-                        },
-                        {
-                            "name": "Altınova",
-                            "url": "/bursa/altinova"
-                        },
-                        {
-                            "name": "Altınşehir",
-                            "url": "/bursa/altinsehir"
-                        },
-                        {
-                            "name": "Altıparmak",
-                            "url": "/bursa/altiparmak"
-                        },
-                        {
-                            "name": "Anadolu",
-                            "url": "/bursa/anadolu"
-                        },
-                        {
-                            "name": "Ankara Cad.",
-                            "url": "/bursa/ankara-cad"
-                        },
-                        {
-                            "name": "Arabayatağı",
-                            "url": "/bursa/arabayatagi"
-                        },
-                        {
-                            "name": "As Merkez",
-                            "url": "/bursa/as-merkez"
-                        },
-                        {
-                            "name": "Ataevler",
-                            "url": "/bursa/ataevler"
-                        },
-                        {
-                            "name": "Atıcılar",
-                            "url": "/bursa/aticilar"
-                        },
-                        {
-                            "name": "Bademli",
-                            "url": "/bursa/bademli"
-                        },
-                        {
-                            "name": "Bağlaraltı",
-                            "url": "/bursa/baglaralti"
-                        },
-                        {
-                            "name": "Bağlarbaşı",
-                            "url": "/bursa/baglarbasi"
-                        },
-                        {
-                            "name": "Bahar",
-                            "url": "/bursa/bahar"
-                        },
-                        {
-                            "name": "Balat",
-                            "url": "/bursa/balat"
-                        },
-                        {
-                            "name": "Barış",
-                            "url": "/bursa/baris"
-                        },
-                        {
-                            "name": "Baruthane",
-                            "url": "/bursa/baruthane"
-                        },
-                        {
-                            "name": "Başaran",
-                            "url": "/bursa/basaran"
-                        },
-                        {
-                            "name": "Beşevler",
-                            "url": "/bursa/besevler"
-                        },
-                        {
-                            "name": "Beşevler Sanayi",
-                            "url": "/bursa/besevler-sanayi"
-                        },
-                        {
-                            "name": "Beşikçiler",
-                            "url": "/bursa/besikciler"
-                        },
-                        {
-                            "name": "Beşyol",
-                            "url": "/bursa/besyol"
-                        },
-                        {
-                            "name": "Beyazıt",
-                            "url": "/bursa/beyazit"
-                        },
-                        {
-                            "name": "BUSKİ",
-                            "url": "/bursa/buski"
-                        },
-                        {
-                            "name": "BUTTİM",
-                            "url": "/bursa/buttim"
-                        },
-                        {
-                            "name": "Carrefour",
-                            "url": "/bursa/carrefour"
-                        },
-                        {
-                            "name": "Cemal Nadir Cad.",
-                            "url": "/bursa/cemal-nadir-cad"
-                        },
-                        {
-                            "name": "Cumhuriyet",
-                            "url": "/bursa/cumhuriyet"
-                        },
-                        {
-                            "name": "Cumhuriyet Cad.",
-                            "url": "/bursa/cumhuriyet-cad"
-                        },
-                        {
-                            "name": "Çalı",
-                            "url": "/bursa/cali"
-                        },
-                        {
-                            "name": "Çamlıca",
-                            "url": "/bursa/camlica"
-                        },
-                        {
-                            "name": "Çarşamba",
-                            "url": "/bursa/carsamba"
-                        },
-                        {
-                            "name": "Çaybaşı",
-                            "url": "/bursa/caybasi"
-                        },
-                        {
-                            "name": "Çekirge",
-                            "url": "/bursa/cekirge"
-                        },
-                        {
-                            "name": "Çekirge Cad.",
-                            "url": "/bursa/cekirge-cad"
-                        },
-                        {
-                            "name": "Çınarönü",
-                            "url": "/bursa/cinaronu"
-                        },
-                        {
-                            "name": "Çırpan",
-                            "url": "/bursa/cirpan"
-                        },
-                        {
-                            "name": "Çiftehavuzlar",
-                            "url": "/bursa/ciftehavuzlar"
-                        },
-                        {
-                            "name": "Çirişhane",
-                            "url": "/bursa/cirishane"
-                        },
-                        {
-                            "name": "Darmstad Cad.",
-                            "url": "/bursa/darmstad-cad"
-                        },
-                        {
-                            "name": "Davutdede",
-                            "url": "/bursa/davutdede"
-                        },
-                        {
-                            "name": "Davutkadı",
-                            "url": "/bursa/davutkadi"
-                        },
-                        {
-                            "name": "Değirmenönü",
-                            "url": "/bursa/degirmenonu"
-                        },
-                        {
-                            "name": "Demetevler",
-                            "url": "/bursa/demetevler"
-                        },
-                        {
-                            "name": "Demirci",
-                            "url": "/bursa/demirci"
-                        },
-                        {
-                            "name": "Demirkapı",
-                            "url": "/bursa/demirkapi"
-                        },
-                        {
-                            "name": "Demirtaş",
-                            "url": "/bursa/demirtas"
-                        },
-                        {
-                            "name": "Demirtaş Sanayi",
-                            "url": "/bursa/demirtas-sanayi"
-                        },
-                        {
-                            "name": "Demirtaşpaşa",
-                            "url": "/bursa/demirtaspasa"
-                        },
-                        {
-                            "name": "Demiryolu Cad.",
-                            "url": "/bursa/demiryolu-cad"
-                        },
-                        {
-                            "name": "Dikkaldırım",
-                            "url": "/bursa/dikkaldirim"
-                        },
-                        {
-                            "name": "Dobruca",
-                            "url": "/bursa/dobruca"
-                        },
-                        {
-                            "name": "Doğanbey",
-                            "url": "/bursa/doganbey"
-                        },
-                        {
-                            "name": "Doğanevler",
-                            "url": "/bursa/doganevler"
-                        },
-                        {
-                            "name": "Duaçınarı",
-                            "url": "/bursa/duacinari"
-                        },
-                        {
-                            "name": "Eğitim",
-                            "url": "/bursa/egitim"
-                        },
-                        {
-                            "name": "Eker Meydan",
-                            "url": "/bursa/eker-meydan"
-                        },
-                        {
-                            "name": "Elmasbahçeler",
-                            "url": "/bursa/elmasbahceler"
-                        },
-                        {
-                            "name": "Emek Mah.",
-                            "url": "/bursa/emek-mah"
-                        },
-                        {
-                            "name": "Emirsultan",
-                            "url": "/bursa/emirsultan"
-                        },
-                        {
-                            "name": "Ergin Evler",
-                            "url": "/bursa/ergin-evler"
-                        },
-                        {
-                            "name": "Erikli",
-                            "url": "/bursa/erikli"
-                        },
-                        {
-                            "name": "Ertuğrul Kent",
-                            "url": "/bursa/ertugrul-kent"
-                        },
-                        {
-                            "name": "Ertuğrulgazi",
-                            "url": "/bursa/ertugrulgazi"
-                        },
-                        {
-                            "name": "Esenevler",
-                            "url": "/bursa/esenevler"
-                        },
-                        {
-                            "name": "Esentepe",
-                            "url": "/bursa/esentepe"
-                        },
-                        {
-                            "name": "Eski Fakülte",
-                            "url": "/bursa/eski-fakulte"
-                        },
-                        {
-                            "name": "Fatih",
-                            "url": "/bursa/fatih"
-                        },
-                        {
-                            "name": "Fethiye",
-                            "url": "/bursa/fethiye"
-                        },
-                        {
-                            "name": "Fomara",
-                            "url": "/bursa/fomara"
-                        },
-                        {
-                            "name": "FSM Bulvarı",
-                            "url": "/bursa/fsm-bulvari"
-                        },
-                        {
-                            "name": "Gazcılar Cad.",
-                            "url": "/bursa/gazcilar-cad"
-                        },
-                        {
-                            "name": "Gazi Caddesi",
-                            "url": "/bursa/gazi-caddesi"
-                        },
-                        {
-                            "name": "Gaziakdemir",
-                            "url": "/bursa/gaziakdemir"
-                        },
-                        {
-                            "name": "Geçit",
-                            "url": "/bursa/gecit"
-                        },
-                        {
                             "name": "Gemlik",
                             "url": "/bursa/gemlik"
                         },
@@ -5421,108 +5157,8 @@
                             "url": "/bursa/gemlik-org-sanayi"
                         },
                         {
-                            "name": "Görükle",
-                            "url": "/bursa/gorukle"
-                        },
-                        {
-                            "name": "Görükle Konutlar",
-                            "url": "/bursa/gorukle-konutlar"
-                        },
-                        {
-                            "name": "Görükle Köyü",
-                            "url": "/bursa/gorukle-koyu"
-                        },
-                        {
-                            "name": "Göynüklü",
-                            "url": "/bursa/goynuklu"
-                        },
-                        {
-                            "name": "Gülbahçe",
-                            "url": "/bursa/gulbahce"
-                        },
-                        {
-                            "name": "Güllük Siteler",
-                            "url": "/bursa/gulluk-siteler"
-                        },
-                        {
-                            "name": "Gümüştepe",
-                            "url": "/bursa/gumustepe"
-                        },
-                        {
                             "name": "Gürsu ",
                             "url": "/bursa/gursu"
-                        },
-                        {
-                            "name": "Hacı Seyfettin",
-                            "url": "/bursa/haci-seyfettin"
-                        },
-                        {
-                            "name": "Hacıilyas",
-                            "url": "/bursa/haciilyas"
-                        },
-                        {
-                            "name": "Hacıvat",
-                            "url": "/bursa/hacivat"
-                        },
-                        {
-                            "name": "Hamitler",
-                            "url": "/bursa/hamitler"
-                        },
-                        {
-                            "name": "Hamzabey ",
-                            "url": "/bursa/hamzabey"
-                        },
-                        {
-                            "name": "Hasanağa TOKİ",
-                            "url": "/bursa/hasanaga-toki"
-                        },
-                        {
-                            "name": "Haşim İşcan Cad.",
-                            "url": "/bursa/hasim-iscan-cad"
-                        },
-                        {
-                            "name": "Hat Caddesi",
-                            "url": "/bursa/hat-caddesi"
-                        },
-                        {
-                            "name": "Heykel",
-                            "url": "/bursa/heykel"
-                        },
-                        {
-                            "name": "Hocaalizade",
-                            "url": "/bursa/hocaalizade"
-                        },
-                        {
-                            "name": "Hocahasan",
-                            "url": "/bursa/hocahasan"
-                        },
-                        {
-                            "name": "Hocataşkın",
-                            "url": "/bursa/hocataskin"
-                        },
-                        {
-                            "name": "Hüdavendigar",
-                            "url": "/bursa/hudavendigar"
-                        },
-                        {
-                            "name": "Hürriyet",
-                            "url": "/bursa/hurriyet"
-                        },
-                        {
-                            "name": "Işıktepe",
-                            "url": "/bursa/isiktepe"
-                        },
-                        {
-                            "name": "İbrahimpaşa",
-                            "url": "/bursa/ibrahimpasa"
-                        },
-                        {
-                            "name": "İhsaniye",
-                            "url": "/bursa/ihsaniye"
-                        },
-                        {
-                            "name": "İncirli Cad.",
-                            "url": "/bursa/incirli-cad"
                         },
                         {
                             "name": "İnegöl (Burhaniye Mah.)",
@@ -5593,100 +5229,16 @@
                             "url": "/bursa/inegol-ucevler-mah"
                         },
                         {
-                            "name": "İnegöl (Yeni Mahalle)",
-                            "url": "/bursa/inegol-yeni-mahalle"
+                            "name": "İnegöl (Yeni Mah.)",
+                            "url": "/bursa/inegol-yeni-mah"
                         },
                         {
                             "name": "İnegöl (Yenice Mah.)",
                             "url": "/bursa/inegol-yenice-mah"
                         },
                         {
-                            "name": "İnegöl (Yunus Emre Mah.)",
-                            "url": "/bursa/inegol-yunus-emre-mah"
-                        },
-                        {
-                            "name": "İnkaya",
-                            "url": "/bursa/inkaya"
-                        },
-                        {
-                            "name": "İnönü Cad.",
-                            "url": "/bursa/inonu-cad"
-                        },
-                        {
-                            "name": "İntizam",
-                            "url": "/bursa/intizam"
-                        },
-                        {
-                            "name": "İsabey",
-                            "url": "/bursa/isabey"
-                        },
-                        {
-                            "name": "İstanbul Yolu",
-                            "url": "/bursa/istanbul-yolu"
-                        },
-                        {
-                            "name": "İstiklal",
-                            "url": "/bursa/istiklal"
-                        },
-                        {
-                            "name": "İvazpaşa",
-                            "url": "/bursa/ivazpasa"
-                        },
-                        {
-                            "name": "İzmir Yolu",
-                            "url": "/bursa/izmir-yolu"
-                        },
-                        {
-                            "name": "Kapalı Çarşı",
-                            "url": "/bursa/kapali-carsi"
-                        },
-                        {
-                            "name": "Kaplıkaya",
-                            "url": "/bursa/kaplikaya"
-                        },
-                        {
-                            "name": "Karaağaç",
-                            "url": "/bursa/karaagac"
-                        },
-                        {
-                            "name": "Karaislah",
-                            "url": "/bursa/karaislah"
-                        },
-                        {
-                            "name": "Karaman",
-                            "url": "/bursa/karaman"
-                        },
-                        {
-                            "name": "Karamazak",
-                            "url": "/bursa/karamazak"
-                        },
-                        {
-                            "name": "Karapınar",
-                            "url": "/bursa/karapinar"
-                        },
-                        {
-                            "name": "Kavaklı ",
-                            "url": "/bursa/kavakli"
-                        },
-                        {
-                            "name": "Kayapa",
-                            "url": "/bursa/kayapa"
-                        },
-                        {
-                            "name": "Kayapa Sanayi",
-                            "url": "/bursa/kayapa-sanayi"
-                        },
-                        {
-                            "name": "Kazım Karabekir",
-                            "url": "/bursa/kazim-karabekir"
-                        },
-                        {
-                            "name": "Kemerçeşme (Y.Yolu)",
-                            "url": "/bursa/kemercesme-y-yolu"
-                        },
-                        {
-                            "name": "Kent Meydanı",
-                            "url": "/bursa/kent-meydani"
+                            "name": "İnegöl (Yunusemre Mah.)",
+                            "url": "/bursa/inegol-yunusemre-mah"
                         },
                         {
                             "name": "Kestel ",
@@ -5697,576 +5249,1120 @@
                             "url": "/bursa/kestel-san-blg"
                         },
                         {
-                            "name": "Kırcaali",
-                            "url": "/bursa/kircaali"
-                        },
-                        {
-                            "name": "Kiremitçi",
-                            "url": "/bursa/kiremitci"
-                        },
-                        {
-                            "name": "Kocanaip",
-                            "url": "/bursa/kocanaip"
-                        },
-                        {
-                            "name": "Koğukçınar",
-                            "url": "/bursa/kogukcinar"
-                        },
-                        {
-                            "name": "Konak",
-                            "url": "/bursa/konak"
-                        },
-                        {
-                            "name": "Korupark",
-                            "url": "/bursa/korupark"
-                        },
-                        {
-                            "name": "Kumyaka",
-                            "url": "/bursa/kumyaka"
-                        },
-                        {
-                            "name": "Kurtoğlu",
-                            "url": "/bursa/kurtoglu"
-                        },
-                        {
-                            "name": "Kurtuluş Cad.",
-                            "url": "/bursa/kurtulus-cad"
-                        },
-                        {
-                            "name": "Kuruçeşme ",
-                            "url": "/bursa/kurucesme"
-                        },
-                        {
-                            "name": "Küçükbalıklı",
-                            "url": "/bursa/kucukbalikli"
-                        },
-                        {
-                            "name": "Kükürtlü",
-                            "url": "/bursa/kukurtlu"
-                        },
-                        {
-                            "name": "Kültür",
-                            "url": "/bursa/kultur"
-                        },
-                        {
-                            "name": "Küplüpınar",
-                            "url": "/bursa/kuplupinar"
-                        },
-                        {
-                            "name": "Maksem",
-                            "url": "/bursa/maksem"
-                        },
-                        {
-                            "name": "Maltepe ",
-                            "url": "/bursa/maltepe"
-                        },
-                        {
-                            "name": "Mehmet Akif ",
-                            "url": "/bursa/mehmet-akif"
-                        },
-                        {
-                            "name": "Merinos",
-                            "url": "/bursa/merinos"
-                        },
-                        {
-                            "name": "Mesken",
-                            "url": "/bursa/mesken"
-                        },
-                        {
-                            "name": "Mevlana Ulus",
-                            "url": "/bursa/mevlana-ulus"
-                        },
-                        {
-                            "name": "Meydancık ",
-                            "url": "/bursa/meydancik"
-                        },
-                        {
-                            "name": "Millet",
-                            "url": "/bursa/millet"
-                        },
-                        {
-                            "name": "Mimar Sinan",
-                            "url": "/bursa/mimar-sinan"
-                        },
-                        {
-                            "name": "Minareliçavuş",
-                            "url": "/bursa/minarelicavus"
-                        },
-                        {
-                            "name": "Mollafenari",
-                            "url": "/bursa/mollafenari"
-                        },
-                        {
-                            "name": "Mollagürani",
-                            "url": "/bursa/mollagurani"
-                        },
-                        {
-                            "name": "Mollarap",
-                            "url": "/bursa/mollarap"
-                        },
-                        {
                             "name": "Mudanya",
                             "url": "/bursa/mudanya"
+                        },
+                        {
+                            "name": "Mudanya (Bademli Mah.)",
+                            "url": "/bursa/mudanya-bademli-mah"
+                        },
+                        {
+                            "name": "Mudanya (Göynüklü Mah.)",
+                            "url": "/bursa/mudanya-goynuklu-mah"
                         },
                         {
                             "name": "Mudanya (Güzelyalı)",
                             "url": "/bursa/mudanya-guzelyali"
                         },
                         {
-                            "name": "Mudanya Yolu",
-                            "url": "/bursa/mudanya-yolu"
+                            "name": "Mudanya (Kumyaka Köyü)",
+                            "url": "/bursa/mudanya-kumyaka-koyu"
                         },
                         {
-                            "name": "Muradiye",
-                            "url": "/bursa/muradiye"
+                            "name": "Mustafakemalpaşa (Adalet Mah.)",
+                            "url": "/bursa/mustafakemalpasa-adalet-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Adalet)",
-                            "url": "/bursa/mustafakemalpasa-adalet"
+                            "name": "Mustafakemalpaşa (Atariye Mah.)",
+                            "url": "/bursa/mustafakemalpasa-atariye-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Atariye)",
-                            "url": "/bursa/mustafakemalpasa-atariye"
+                            "name": "Mustafakemalpaşa (Atatürk Mah.)",
+                            "url": "/bursa/mustafakemalpasa-ataturk-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Atatürk)",
-                            "url": "/bursa/mustafakemalpasa-ataturk"
+                            "name": "Mustafakemalpaşa (Barış Mah.)",
+                            "url": "/bursa/mustafakemalpasa-baris-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Barış)",
-                            "url": "/bursa/mustafakemalpasa-baris"
+                            "name": "Mustafakemalpaşa (Cumhuriyet Mah.)",
+                            "url": "/bursa/mustafakemalpasa-cumhuriyet-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Cumhuriyet)",
-                            "url": "/bursa/mustafakemalpasa-cumhuriyet"
+                            "name": "Mustafakemalpaşa (Çırpan Mah.)",
+                            "url": "/bursa/mustafakemalpasa-cirpan-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Çırpan)",
-                            "url": "/bursa/mustafakemalpasa-cirpan"
+                            "name": "Mustafakemalpaşa (Dere Mah.)",
+                            "url": "/bursa/mustafakemalpasa-dere-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Dere)",
-                            "url": "/bursa/mustafakemalpasa-dere"
+                            "name": "Mustafakemalpaşa (Fevzidede Mah.)",
+                            "url": "/bursa/mustafakemalpasa-fevzidede-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Devlet Hastanesi)",
-                            "url": "/bursa/mustafakemalpasa-devlet-hastanesi"
+                            "name": "Mustafakemalpaşa (Hamidiye Mah.)",
+                            "url": "/bursa/mustafakemalpasa-hamidiye-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Fevzidede)",
-                            "url": "/bursa/mustafakemalpasa-fevzidede"
+                            "name": "Mustafakemalpaşa (Hamzabey Mah.)",
+                            "url": "/bursa/mustafakemalpasa-hamzabey-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Hamidiye)",
-                            "url": "/bursa/mustafakemalpasa-hamidiye"
+                            "name": "Mustafakemalpaşa (Lalaşahin Mah.)",
+                            "url": "/bursa/mustafakemalpasa-lalasahin-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Hamzabey)",
-                            "url": "/bursa/mustafakemalpasa-hamzabey"
+                            "name": "Mustafakemalpaşa (Orta Mah.)",
+                            "url": "/bursa/mustafakemalpasa-orta-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Lalaşahin)",
-                            "url": "/bursa/mustafakemalpasa-lalasahin"
+                            "name": "Mustafakemalpaşa (Selimiye Mah.)",
+                            "url": "/bursa/mustafakemalpasa-selimiye-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Orta)",
-                            "url": "/bursa/mustafakemalpasa-orta"
+                            "name": "Mustafakemalpaşa (Şevketiye Mah.)",
+                            "url": "/bursa/mustafakemalpasa-sevketiye-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Selimiye)",
-                            "url": "/bursa/mustafakemalpasa-selimiye"
+                            "name": "Mustafakemalpaşa (Şeyhmüftü Mah.)",
+                            "url": "/bursa/mustafakemalpasa-seyhmuftu-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Şevketiye)",
-                            "url": "/bursa/mustafakemalpasa-sevketiye"
+                            "name": "Mustafakemalpaşa (Tatkavaklı Mah.)",
+                            "url": "/bursa/mustafakemalpasa-tatkavakli-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Şeyhmüftü)",
-                            "url": "/bursa/mustafakemalpasa-seyhmuftu"
+                            "name": "Mustafakemalpaşa (Vıraca Mah.)",
+                            "url": "/bursa/mustafakemalpasa-viraca-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Tatkavaklı)",
-                            "url": "/bursa/mustafakemalpasa-tatkavakli"
+                            "name": "Mustafakemalpaşa (Yalıntaş Mah.)",
+                            "url": "/bursa/mustafakemalpasa-yalintas-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Vıraca)",
-                            "url": "/bursa/mustafakemalpasa-viraca"
+                            "name": "Mustafakemalpaşa (Yenidere Mah.)",
+                            "url": "/bursa/mustafakemalpasa-yenidere-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Yalıntaş)",
-                            "url": "/bursa/mustafakemalpasa-yalintas"
+                            "name": "Mustafakemalpaşa (Yeşilova Mah.)",
+                            "url": "/bursa/mustafakemalpasa-yesilova-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Yenidere)",
-                            "url": "/bursa/mustafakemalpasa-yenidere"
+                            "name": "Mustafakemalpaşa (Yunusemre Mah.)",
+                            "url": "/bursa/mustafakemalpasa-yunusemre-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Yunusemre)",
-                            "url": "/bursa/mustafakemalpasa-yunusemre"
+                            "name": "Mustafakemalpaşa (Yüzbaşı Sabribey Mah.)",
+                            "url": "/bursa/mustafakemalpasa-yuzbasi-sabribey-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Yüzbaşı Sabribey)",
-                            "url": "/bursa/mustafakemalpasa-yuzbasi-sabribey"
+                            "name": "Mustafakemalpaşa (Züferbey Mah.)",
+                            "url": "/bursa/mustafakemalpasa-zuferbey-mah"
                         },
                         {
-                            "name": "Mustafakemalpaşa (Züferbey)",
-                            "url": "/bursa/mustafakemalpasa-zuferbey"
+                            "name": "Nilüfer (19 Mayıs Mah.)",
+                            "url": "/bursa/nilufer-19-mayis-mah"
                         },
                         {
-                            "name": "Nalbantoğlu",
-                            "url": "/bursa/nalbantoglu"
+                            "name": "Nilüfer (23 Nisan Mah.)",
+                            "url": "/bursa/nilufer-23-nisan-mah"
                         },
                         {
-                            "name": "Namazgah",
-                            "url": "/bursa/namazgah"
+                            "name": "Nilüfer (29 Ekim Mah.)",
+                            "url": "/bursa/nilufer-29-ekim-mah"
                         },
                         {
-                            "name": "Namık Kemal",
-                            "url": "/bursa/namik-kemal"
+                            "name": "Nilüfer (Ahmet Yesevi Mah.)",
+                            "url": "/bursa/nilufer-ahmet-yesevi-mah"
                         },
                         {
-                            "name": "Nilüfer Sanayi",
-                            "url": "/bursa/nilufer-sanayi"
+                            "name": "Nilüfer (Akademi Cad.)",
+                            "url": "/bursa/nilufer-akademi-cad"
                         },
                         {
-                            "name": "Odunluk",
-                            "url": "/bursa/odunluk"
+                            "name": "Nilüfer (Alaadinbey Mah.)",
+                            "url": "/bursa/nilufer-alaadinbey-mah"
                         },
                         {
-                            "name": "Okçular",
-                            "url": "/bursa/okcular"
+                            "name": "Nilüfer (Altınşehir Mah.)",
+                            "url": "/bursa/nilufer-altinsehir-mah"
                         },
                         {
-                            "name": "Organize Sanayi",
-                            "url": "/bursa/organize-sanayi"
+                            "name": "Nilüfer (Ataevler Mah.)",
+                            "url": "/bursa/nilufer-ataevler-mah"
                         },
                         {
-                            "name": "Orhanbey",
-                            "url": "/bursa/orhanbey"
+                            "name": "Nilüfer (Balat Mah.)",
+                            "url": "/bursa/nilufer-balat-mah"
                         },
                         {
-                            "name": "Orhangazi (Arapzade)",
-                            "url": "/bursa/orhangazi-arapzade"
+                            "name": "Nilüfer (Balkan Mah.)",
+                            "url": "/bursa/nilufer-balkan-mah"
                         },
                         {
-                            "name": "Orhangazi (Camikebir)",
-                            "url": "/bursa/orhangazi-camikebir"
+                            "name": "Nilüfer (Barış Mah.)",
+                            "url": "/bursa/nilufer-baris-mah"
                         },
                         {
-                            "name": "Orhangazi (Hürriyet)",
-                            "url": "/bursa/orhangazi-hurriyet"
+                            "name": "Nilüfer (Beşevler Mah.)",
+                            "url": "/bursa/nilufer-besevler-mah"
                         },
                         {
-                            "name": "Orhangazi (Muradiye)",
-                            "url": "/bursa/orhangazi-muradiye"
+                            "name": "Nilüfer (Beşevler Sanayi)",
+                            "url": "/bursa/nilufer-besevler-sanayi"
                         },
                         {
-                            "name": "Orhangazi (Tekke)",
-                            "url": "/bursa/orhangazi-tekke"
+                            "name": "Nilüfer (Bilginler Cad.)",
+                            "url": "/bursa/nilufer-bilginler-cad"
                         },
                         {
-                            "name": "Ortabağlar",
-                            "url": "/bursa/ortabaglar"
+                            "name": "Nilüfer (Cumhuriyet Mah.)",
+                            "url": "/bursa/nilufer-cumhuriyet-mah"
                         },
                         {
-                            "name": "Ortapazar",
-                            "url": "/bursa/ortapazar"
+                            "name": "Nilüfer (Çalı Mah.)",
+                            "url": "/bursa/nilufer-cali-mah"
                         },
                         {
-                            "name": "Osmangazi",
-                            "url": "/bursa/osmangazi"
+                            "name": "Nilüfer (Çamlıca Mah.)",
+                            "url": "/bursa/nilufer-camlica-mah"
                         },
                         {
-                            "name": "OTOKOP",
-                            "url": "/bursa/otokop"
+                            "name": "Nilüfer (Demirci Mah.)",
+                            "url": "/bursa/nilufer-demirci-mah"
                         },
                         {
-                            "name": "Otosansit",
-                            "url": "/bursa/otosansit"
+                            "name": "Nilüfer (Eğitimciler Cad.)",
+                            "url": "/bursa/nilufer-egitimciler-cad"
                         },
                         {
-                            "name": "Ovaakça",
-                            "url": "/bursa/ovaakca"
+                            "name": "Nilüfer (Ergin Sok.)",
+                            "url": "/bursa/nilufer-ergin-sok"
                         },
                         {
-                            "name": "Özlüce",
-                            "url": "/bursa/ozluce"
+                            "name": "Nilüfer (Ertuğrulkent Mah.)",
+                            "url": "/bursa/nilufer-ertugrulkent-mah"
                         },
                         {
-                            "name": "Panayır",
-                            "url": "/bursa/panayir"
+                            "name": "Nilüfer (Esentepe Mah.)",
+                            "url": "/bursa/nilufer-esentepe-mah"
                         },
                         {
-                            "name": "Pınar Mah.",
-                            "url": "/bursa/pinar-mah"
+                            "name": "Nilüfer (Fethiye Mah.)",
+                            "url": "/bursa/nilufer-fethiye-mah"
                         },
                         {
-                            "name": "Pınarbaşı",
-                            "url": "/bursa/pinarbasi"
+                            "name": "Nilüfer (FSM Bulvarı)",
+                            "url": "/bursa/nilufer-fsm-bulvari"
                         },
                         {
-                            "name": "Piremir",
-                            "url": "/bursa/piremir"
+                            "name": "Nilüfer (Gazi Cad.)",
+                            "url": "/bursa/nilufer-gazi-cad"
                         },
                         {
-                            "name": "Reyhan",
-                            "url": "/bursa/reyhan"
+                            "name": "Nilüfer (Görükle Köyü)",
+                            "url": "/bursa/nilufer-gorukle-koyu"
                         },
                         {
-                            "name": "Sakarya",
-                            "url": "/bursa/sakarya"
+                            "name": "Nilüfer (Görükle Mah.)",
+                            "url": "/bursa/nilufer-gorukle-mah"
                         },
                         {
-                            "name": "Samanlı",
-                            "url": "/bursa/samanli"
+                            "name": "Nilüfer (Gümüştepe Mah.)",
+                            "url": "/bursa/nilufer-gumustepe-mah"
                         },
                         {
-                            "name": "Santral Garaj",
-                            "url": "/bursa/santral-garaj"
+                            "name": "Nilüfer (Hasanağa TOKİ)",
+                            "url": "/bursa/nilufer-hasanaga-toki"
                         },
                         {
-                            "name": "Seferiışıklar",
-                            "url": "/bursa/seferiisiklar"
+                            "name": "Nilüfer (Işıktepe Mah.)",
+                            "url": "/bursa/nilufer-isiktepe-mah"
                         },
                         {
-                            "name": "Selamet",
-                            "url": "/bursa/selamet"
+                            "name": "Nilüfer (İhsaniye Mah.)",
+                            "url": "/bursa/nilufer-ihsaniye-mah"
                         },
                         {
-                            "name": "Selçukbey",
-                            "url": "/bursa/selcukbey"
+                            "name": "Nilüfer (Karaman Mah.)",
+                            "url": "/bursa/nilufer-karaman-mah"
                         },
                         {
-                            "name": "Selçukhatun",
-                            "url": "/bursa/selcukhatun"
+                            "name": "Nilüfer (Kayapa Mah.)",
+                            "url": "/bursa/nilufer-kayapa-mah"
                         },
                         {
-                            "name": "Selimiye ",
-                            "url": "/bursa/selimiye"
+                            "name": "Nilüfer (Kayapa Sanayi)",
+                            "url": "/bursa/nilufer-kayapa-sanayi"
                         },
                         {
-                            "name": "Selimzade",
-                            "url": "/bursa/selimzade"
+                            "name": "Nilüfer (Konak Mah.)",
+                            "url": "/bursa/nilufer-konak-mah"
                         },
                         {
-                            "name": "Setbaşı",
-                            "url": "/bursa/setbasi"
+                            "name": "Nilüfer (Kültür Mah.)",
+                            "url": "/bursa/nilufer-kultur-mah"
                         },
                         {
-                            "name": "Sıracevizler",
-                            "url": "/bursa/siracevizler"
+                            "name": "Nilüfer (Minareliçavuş Mah.)",
+                            "url": "/bursa/nilufer-minarelicavus-mah"
                         },
                         {
-                            "name": "Sırameşeler",
-                            "url": "/bursa/sirameseler"
+                            "name": "Nilüfer (Nilüfer Sanayi)",
+                            "url": "/bursa/nilufer-nilufer-sanayi"
                         },
                         {
-                            "name": "Sinandede",
-                            "url": "/bursa/sinandede"
+                            "name": "Nilüfer (Odunluk Mah.)",
+                            "url": "/bursa/nilufer-odunluk-mah"
                         },
                         {
-                            "name": "Siteler",
-                            "url": "/bursa/siteler"
+                            "name": "Nilüfer (Özlüce Mah.)",
+                            "url": "/bursa/nilufer-ozluce-mah"
                         },
                         {
-                            "name": "Soğanlı",
-                            "url": "/bursa/soganli"
+                            "name": "Nilüfer (Uludağ Üniversitesi)",
+                            "url": "/bursa/nilufer-uludag-universitesi"
                         },
                         {
-                            "name": "Soğukkuyu",
-                            "url": "/bursa/sogukkuyu"
+                            "name": "Nilüfer (Üçevler Mah.)",
+                            "url": "/bursa/nilufer-ucevler-mah"
                         },
                         {
-                            "name": "Su Deposu Cad.",
-                            "url": "/bursa/su-deposu-cad"
+                            "name": "Nilüfer (Ürünlü Mah.)",
+                            "url": "/bursa/nilufer-urunlu-mah"
                         },
                         {
-                            "name": "Şehabettinpaşa",
-                            "url": "/bursa/sehabettinpasa"
+                            "name": "Nilüfer (Yüzüncüyıl Mah.)",
+                            "url": "/bursa/nilufer-yuzuncuyil-mah"
                         },
                         {
-                            "name": "Şehreküstü",
-                            "url": "/bursa/sehrekustu"
+                            "name": "Orhangazi (Arapzade Mah.)",
+                            "url": "/bursa/orhangazi-arapzade-mah"
                         },
                         {
-                            "name": "Şirinevler",
-                            "url": "/bursa/sirinevler"
+                            "name": "Orhangazi (Camikebir Mah.)",
+                            "url": "/bursa/orhangazi-camikebir-mah"
                         },
                         {
-                            "name": "Şükraniye",
-                            "url": "/bursa/sukraniye"
+                            "name": "Orhangazi (Hürriyet Mah.)",
+                            "url": "/bursa/orhangazi-hurriyet-mah"
                         },
                         {
-                            "name": "Tahtakale",
-                            "url": "/bursa/tahtakale"
+                            "name": "Orhangazi (Muradiye Mah.)",
+                            "url": "/bursa/orhangazi-muradiye-mah"
                         },
                         {
-                            "name": "Tayakadın",
-                            "url": "/bursa/tayakadin"
+                            "name": "Orhangazi (Tekke Mah.)",
+                            "url": "/bursa/orhangazi-tekke-mah"
                         },
                         {
-                            "name": "Teferrüç",
-                            "url": "/bursa/teferruc"
+                            "name": "Osmanazi (Haşim İşcan Cad.)",
+                            "url": "/bursa/osmanazi-hasim-iscan-cad"
                         },
                         {
-                            "name": "Teleferik",
-                            "url": "/bursa/teleferik"
+                            "name": "Osmangazi (5. Akgün Sok.)",
+                            "url": "/bursa/osmangazi-5-akgun-sok"
                         },
                         {
-                            "name": "Temenyeri",
-                            "url": "/bursa/temenyeri"
+                            "name": "Osmangazi (Acemler Mah.)",
+                            "url": "/bursa/osmangazi-acemler-mah"
                         },
                         {
-                            "name": "Terminal",
-                            "url": "/bursa/terminal"
+                            "name": "Osmangazi (Adalet Mah.)",
+                            "url": "/bursa/osmangazi-adalet-mah"
                         },
                         {
-                            "name": "Tophane",
-                            "url": "/bursa/tophane"
+                            "name": "Osmangazi (Ahmet Hamdi Tanpınar Cad.)",
+                            "url": "/bursa/osmangazi-ahmet-hamdi-tanpinar-cad"
                         },
                         {
-                            "name": "Tuna",
-                            "url": "/bursa/tuna"
+                            "name": "Osmangazi (Ahmetpaşa Mah.)",
+                            "url": "/bursa/osmangazi-ahmetpasa-mah"
                         },
                         {
-                            "name": "Tuzpazarı",
-                            "url": "/bursa/tuzpazari"
+                            "name": "Osmangazi (Akpınar 1050 Knt Mah.)",
+                            "url": "/bursa/osmangazi-akpinar-1050-knt-mah"
                         },
                         {
-                            "name": "TÜYAP",
-                            "url": "/bursa/tuyap"
+                            "name": "Osmangazi (Aktarhüssam Mah.)",
+                            "url": "/bursa/osmangazi-aktarhussam-mah"
                         },
                         {
-                            "name": "Ulu",
-                            "url": "/bursa/ulu"
+                            "name": "Osmangazi (Alacahırka Mah.)",
+                            "url": "/bursa/osmangazi-alacahirka-mah"
                         },
                         {
-                            "name": "Uludağ Üniversitesi",
-                            "url": "/bursa/uludag-universitesi"
+                            "name": "Osmangazi (Alacamescit Mah.)",
+                            "url": "/bursa/osmangazi-alacamescit-mah"
                         },
                         {
-                            "name": "Uludağ Yolu",
-                            "url": "/bursa/uludag-yolu"
+                            "name": "Osmangazi (Alemdar Mah.)",
+                            "url": "/bursa/osmangazi-alemdar-mah"
                         },
                         {
-                            "name": "Ulus Mah.",
-                            "url": "/bursa/ulus-mah"
+                            "name": "Osmangazi (Alipaşa Mah.)",
+                            "url": "/bursa/osmangazi-alipasa-mah"
                         },
                         {
-                            "name": "Uluyol Cad.",
-                            "url": "/bursa/uluyol-cad"
+                            "name": "Osmangazi (Altınova Mah.)",
+                            "url": "/bursa/osmangazi-altinova-mah"
                         },
                         {
-                            "name": "Umurbey",
-                            "url": "/bursa/umurbey"
+                            "name": "Osmangazi (Altıparmak Mah.)",
+                            "url": "/bursa/osmangazi-altiparmak-mah"
                         },
                         {
-                            "name": "Üçevler",
-                            "url": "/bursa/ucevler"
+                            "name": "Osmangazi (Atıcılar Mah.)",
+                            "url": "/bursa/osmangazi-aticilar-mah"
                         },
                         {
-                            "name": "Ünlü Cad.",
-                            "url": "/bursa/unlu-cad"
+                            "name": "Osmangazi (Bağlarbaşı Mah.)",
+                            "url": "/bursa/osmangazi-baglarbasi-mah"
                         },
                         {
-                            "name": "Ürünlü",
-                            "url": "/bursa/urunlu"
+                            "name": "Osmangazi (Bahar Mah.)",
+                            "url": "/bursa/osmangazi-bahar-mah"
                         },
                         {
-                            "name": "Vakıf",
-                            "url": "/bursa/vakif"
+                            "name": "Osmangazi (Başaran Mah.)",
+                            "url": "/bursa/osmangazi-basaran-mah"
                         },
                         {
-                            "name": "Vatan",
-                            "url": "/bursa/vatan"
+                            "name": "Osmangazi (Beşikçiler Cad.)",
+                            "url": "/bursa/osmangazi-besikciler-cad"
                         },
                         {
-                            "name": "Veysel Karani",
-                            "url": "/bursa/veysel-karani"
+                            "name": "Osmangazi (Beşyol Sok.)",
+                            "url": "/bursa/osmangazi-besyol-sok"
                         },
                         {
-                            "name": "Vişne Cad.",
-                            "url": "/bursa/visne-cad"
+                            "name": "Osmangazi (Cemal Nadir Cad.)",
+                            "url": "/bursa/osmangazi-cemal-nadir-cad"
                         },
                         {
-                            "name": "Yahşibey",
-                            "url": "/bursa/yahsibey"
+                            "name": "Osmangazi (Cumhuriyet Mah.)",
+                            "url": "/bursa/osmangazi-cumhuriyet-mah"
                         },
                         {
-                            "name": "Yasemin Park (Yeşilşehir)",
-                            "url": "/bursa/yasemin-park-yesilsehir"
+                            "name": "Osmangazi (Cunhuriyet Cad.)",
+                            "url": "/bursa/osmangazi-cunhuriyet-cad"
                         },
                         {
-                            "name": "Yavuzselim",
-                            "url": "/bursa/yavuzselim"
+                            "name": "Osmangazi (Çarşamba Mah.)",
+                            "url": "/bursa/osmangazi-carsamba-mah"
                         },
                         {
-                            "name": "Yediselviler",
-                            "url": "/bursa/yediselviler"
+                            "name": "Osmangazi (Çaybaşı Mah.)",
+                            "url": "/bursa/osmangazi-caybasi-mah"
                         },
                         {
-                            "name": "Yeni Karaman",
-                            "url": "/bursa/yeni-karaman"
+                            "name": "Osmangazi (Çekirge Cd.)",
+                            "url": "/bursa/osmangazi-cekirge-cd"
                         },
                         {
-                            "name": "Yenibağlar",
-                            "url": "/bursa/yenibaglar"
+                            "name": "Osmangazi (Çekirge Mah.)",
+                            "url": "/bursa/osmangazi-cekirge-mah"
                         },
                         {
-                            "name": "Yeniceabat",
-                            "url": "/bursa/yeniceabat"
+                            "name": "Osmangazi (Çırpan Mah.)",
+                            "url": "/bursa/osmangazi-cirpan-mah"
                         },
                         {
-                            "name": "Yeşil",
-                            "url": "/bursa/yesil"
+                            "name": "Osmangazi (Çiftehavuzlar Mah.)",
+                            "url": "/bursa/osmangazi-ciftehavuzlar-mah"
                         },
                         {
-                            "name": "Yeşilova",
-                            "url": "/bursa/yesilova"
+                            "name": "Osmangazi (Çirişhane Mah.)",
+                            "url": "/bursa/osmangazi-cirishane-mah"
                         },
                         {
-                            "name": "Yeşilyayla",
-                            "url": "/bursa/yesilyayla"
+                            "name": "Osmangazi (Darmstad Cad.)",
+                            "url": "/bursa/osmangazi-darmstad-cad"
                         },
                         {
-                            "name": "Yıldırım",
-                            "url": "/bursa/yildirim"
+                            "name": "Osmangazi (Demirkapı Mah.)",
+                            "url": "/bursa/osmangazi-demirkapi-mah"
                         },
                         {
-                            "name": "Yıldırım Beyazıd Cad.",
-                            "url": "/bursa/yildirim-beyazid-cad"
+                            "name": "Osmangazi (Demirtaş Mah.)",
+                            "url": "/bursa/osmangazi-demirtas-mah"
                         },
                         {
-                            "name": "Yiğitali",
-                            "url": "/bursa/yigitali"
+                            "name": "Osmangazi (Demirtaş Sanayi)",
+                            "url": "/bursa/osmangazi-demirtas-sanayi"
                         },
                         {
-                            "name": "Yiğitler",
-                            "url": "/bursa/yigitler"
+                            "name": "Osmangazi (Demirtaşpaşa Mah.)",
+                            "url": "/bursa/osmangazi-demirtaspasa-mah"
                         },
                         {
-                            "name": "Yunus Emre",
-                            "url": "/bursa/yunus-emre"
+                            "name": "Osmangazi (Demiryolu Cad.)",
+                            "url": "/bursa/osmangazi-demiryolu-cad"
                         },
                         {
-                            "name": "Yunuseli",
-                            "url": "/bursa/yunuseli"
+                            "name": "Osmangazi (Dikkaldırım Mah.)",
+                            "url": "/bursa/osmangazi-dikkaldirim-mah"
                         },
                         {
-                            "name": "Yüzüncüyıl",
-                            "url": "/bursa/yuzuncuyil"
+                            "name": "Osmangazi (Dobruca Mah.)",
+                            "url": "/bursa/osmangazi-dobruca-mah"
                         },
                         {
-                            "name": "Zafer Mah.",
-                            "url": "/bursa/zafer-mah"
+                            "name": "Osmangazi (Doğanbey Mah.)",
+                            "url": "/bursa/osmangazi-doganbey-mah"
                         },
                         {
-                            "name": "Zafer Plaza",
-                            "url": "/bursa/zafer-plaza"
+                            "name": "Osmangazi (Doğanevler Mah.)",
+                            "url": "/bursa/osmangazi-doganevler-mah"
                         },
                         {
-                            "name": "Zümrütevler",
-                            "url": "/bursa/zumrutevler"
+                            "name": "Osmangazi (Elmasbahçeler Mah.)",
+                            "url": "/bursa/osmangazi-elmasbahceler-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Emek Mah.)",
+                            "url": "/bursa/osmangazi-emek-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Eşrefiler Sok.)",
+                            "url": "/bursa/osmangazi-esrefiler-sok"
+                        },
+                        {
+                            "name": "Osmangazi (Fatih Mah.)",
+                            "url": "/bursa/osmangazi-fatih-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Fatih Sultan Mehmet Mah.)",
+                            "url": "/bursa/osmangazi-fatih-sultan-mehmet-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Fomara Mah.)",
+                            "url": "/bursa/osmangazi-fomara-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Fuar Cad.)",
+                            "url": "/bursa/osmangazi-fuar-cad"
+                        },
+                        {
+                            "name": "Osmangazi (Gazcılar Cad.)",
+                            "url": "/bursa/osmangazi-gazcilar-cad"
+                        },
+                        {
+                            "name": "Osmangazi (Gaziakdemir Mah.)",
+                            "url": "/bursa/osmangazi-gaziakdemir-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Geçit Mah.)",
+                            "url": "/bursa/osmangazi-gecit-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Gülbahçe Mah.)",
+                            "url": "/bursa/osmangazi-gulbahce-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Güneştepe Mah.)",
+                            "url": "/bursa/osmangazi-gunestepe-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Hacıilyas Mah.)",
+                            "url": "/bursa/osmangazi-haciilyas-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Hamitler Mah.)",
+                            "url": "/bursa/osmangazi-hamitler-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Hamzabey Mah.)",
+                            "url": "/bursa/osmangazi-hamzabey-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Hat Cad.)",
+                            "url": "/bursa/osmangazi-hat-cad"
+                        },
+                        {
+                            "name": "Osmangazi (Hayran Cad.)",
+                            "url": "/bursa/osmangazi-hayran-cad"
+                        },
+                        {
+                            "name": "Osmangazi (Heykel Mah.)",
+                            "url": "/bursa/osmangazi-heykel-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Hocaalizade Mah.)",
+                            "url": "/bursa/osmangazi-hocaalizade-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Hocahasan Mah.)",
+                            "url": "/bursa/osmangazi-hocahasan-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Hüdavendigar Mah.)",
+                            "url": "/bursa/osmangazi-hudavendigar-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Hürriyet Mah.)",
+                            "url": "/bursa/osmangazi-hurriyet-mah"
+                        },
+                        {
+                            "name": "Osmangazi (İbrahimpaşa Mah.)",
+                            "url": "/bursa/osmangazi-ibrahimpasa-mah"
+                        },
+                        {
+                            "name": "Osmangazi (İnkaya Mah.)",
+                            "url": "/bursa/osmangazi-inkaya-mah"
+                        },
+                        {
+                            "name": "Osmangazi (İnönü Cd.)",
+                            "url": "/bursa/osmangazi-inonu-cd"
+                        },
+                        {
+                            "name": "Osmangazi (İntizam Mah.)",
+                            "url": "/bursa/osmangazi-intizam-mah"
+                        },
+                        {
+                            "name": "Osmangazi (İstiklal Mah.)",
+                            "url": "/bursa/osmangazi-istiklal-mah"
+                        },
+                        {
+                            "name": "Osmangazi (İvazpaşa Mah.)",
+                            "url": "/bursa/osmangazi-ivazpasa-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Kapalı Çarşı)",
+                            "url": "/bursa/osmangazi-kapali-carsi"
+                        },
+                        {
+                            "name": "Osmangazi (Karaislah Mah.)",
+                            "url": "/bursa/osmangazi-karaislah-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Kavaklı Mah.)",
+                            "url": "/bursa/osmangazi-kavakli-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Kemerçeşme Mah.)",
+                            "url": "/bursa/osmangazi-kemercesme-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Kent Meydanı)",
+                            "url": "/bursa/osmangazi-kent-meydani"
+                        },
+                        {
+                            "name": "Osmangazi (Kırcaali Mah.)",
+                            "url": "/bursa/osmangazi-kircaali-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Kiremitçi Mah.)",
+                            "url": "/bursa/osmangazi-kiremitci-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Kocanaip Mah.)",
+                            "url": "/bursa/osmangazi-kocanaip-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Koğukçınar Mah.)",
+                            "url": "/bursa/osmangazi-kogukcinar-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Korupark)",
+                            "url": "/bursa/osmangazi-korupark"
+                        },
+                        {
+                            "name": "Osmangazi (Kuruçeşme Mah.)",
+                            "url": "/bursa/osmangazi-kurucesme-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Küçükbalıklı Mah.)",
+                            "url": "/bursa/osmangazi-kucukbalikli-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Kükürtlü Mah.)",
+                            "url": "/bursa/osmangazi-kukurtlu-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Küplüpınar Mah.)",
+                            "url": "/bursa/osmangazi-kuplupinar-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Maksem Mah.)",
+                            "url": "/bursa/osmangazi-maksem-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Mehmet Akif Mah.)",
+                            "url": "/bursa/osmangazi-mehmet-akif-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Mollafenari Mah.)",
+                            "url": "/bursa/osmangazi-mollafenari-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Mollagüreni Mah.)",
+                            "url": "/bursa/osmangazi-mollagureni-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Muradiye Mah.)",
+                            "url": "/bursa/osmangazi-muradiye-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Mustafa Karaer Cad.)",
+                            "url": "/bursa/osmangazi-mustafa-karaer-cad"
+                        },
+                        {
+                            "name": "Osmangazi (Nalbantoğlu Mah.)",
+                            "url": "/bursa/osmangazi-nalbantoglu-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Namık Kemal Mah.)",
+                            "url": "/bursa/osmangazi-namik-kemal-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Okçular Sok.)",
+                            "url": "/bursa/osmangazi-okcular-sok"
+                        },
+                        {
+                            "name": "Osmangazi (Organize Sanayi)",
+                            "url": "/bursa/osmangazi-organize-sanayi"
+                        },
+                        {
+                            "name": "Osmangazi (Orhanbey Mah.)",
+                            "url": "/bursa/osmangazi-orhanbey-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Ortapazar Cad.)",
+                            "url": "/bursa/osmangazi-ortapazar-cad"
+                        },
+                        {
+                            "name": "Osmangazi (Osmangazi Mah.)",
+                            "url": "/bursa/osmangazi-osmangazi-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Ovaakça Mah.)",
+                            "url": "/bursa/osmangazi-ovaakca-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Panayır Mah.)",
+                            "url": "/bursa/osmangazi-panayir-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Pınarbaşı Cad.)",
+                            "url": "/bursa/osmangazi-pinarbasi-cad"
+                        },
+                        {
+                            "name": "Osmangazi (Pınarbaşı Mah.)",
+                            "url": "/bursa/osmangazi-pinarbasi-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Reyhan Mah.)",
+                            "url": "/bursa/osmangazi-reyhan-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Sakarya Mah.)",
+                            "url": "/bursa/osmangazi-sakarya-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Santral Garaj Mah.)",
+                            "url": "/bursa/osmangazi-santral-garaj-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Seferışıklar Mah.)",
+                            "url": "/bursa/osmangazi-seferisiklar-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Selamet Mah.)",
+                            "url": "/bursa/osmangazi-selamet-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Selimiye Mah.)",
+                            "url": "/bursa/osmangazi-selimiye-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Sevinç Cad.)",
+                            "url": "/bursa/osmangazi-sevinc-cad"
+                        },
+                        {
+                            "name": "Osmangazi (Sırameşeler Mah.)",
+                            "url": "/bursa/osmangazi-sirameseler-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Soğanlı Mah.)",
+                            "url": "/bursa/osmangazi-soganli-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Soğukkuyu Mah.)",
+                            "url": "/bursa/osmangazi-sogukkuyu-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Stadyum Cad.)",
+                            "url": "/bursa/osmangazi-stadyum-cad"
+                        },
+                        {
+                            "name": "Osmangazi (Şehabettinpaşa Mah.)",
+                            "url": "/bursa/osmangazi-sehabettinpasa-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Şehreküstü Mah.)",
+                            "url": "/bursa/osmangazi-sehrekustu-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Tahtakale Mah.)",
+                            "url": "/bursa/osmangazi-tahtakale-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Tayakadın Mah.)",
+                            "url": "/bursa/osmangazi-tayakadin-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Terminal Cad.)",
+                            "url": "/bursa/osmangazi-terminal-cad"
+                        },
+                        {
+                            "name": "Osmangazi (Tophane)",
+                            "url": "/bursa/osmangazi-tophane"
+                        },
+                        {
+                            "name": "Osmangazi (Tuna Mah.)",
+                            "url": "/bursa/osmangazi-tuna-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Tuzpazarı Mah.)",
+                            "url": "/bursa/osmangazi-tuzpazari-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Ulu Mah.)",
+                            "url": "/bursa/osmangazi-ulu-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Uluyol Cad.)",
+                            "url": "/bursa/osmangazi-uluyol-cad"
+                        },
+                        {
+                            "name": "Osmangazi (Ünlü Cad.)",
+                            "url": "/bursa/osmangazi-unlu-cad"
+                        },
+                        {
+                            "name": "Osmangazi (Veysel Karani Mah.)",
+                            "url": "/bursa/osmangazi-veysel-karani-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Yahşibey Mah.)",
+                            "url": "/bursa/osmangazi-yahsibey-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Yeni Karaman Mah.)",
+                            "url": "/bursa/osmangazi-yeni-karaman-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Yenibağlar Mah.)",
+                            "url": "/bursa/osmangazi-yenibaglar-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Yeniceabat Mah.)",
+                            "url": "/bursa/osmangazi-yeniceabat-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Yeşilova Mah.)",
+                            "url": "/bursa/osmangazi-yesilova-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Yiğitali Mah.)",
+                            "url": "/bursa/osmangazi-yigitali-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Yunuseli Mah.)",
+                            "url": "/bursa/osmangazi-yunuseli-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Zafer Mah.)",
+                            "url": "/bursa/osmangazi-zafer-mah"
+                        },
+                        {
+                            "name": "Osmangazi (Zekai Gümüşdiş Mah.)",
+                            "url": "/bursa/osmangazi-zekai-gumusdis-mah"
+                        },
+                        {
+                            "name": "Yıldırım (152 Evler Mah.)",
+                            "url": "/bursa/yildirim-152-evler-mah"
+                        },
+                        {
+                            "name": "Yıldırım (75.Yıl Mah.)",
+                            "url": "/bursa/yildirim-75-yil-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Akçağlayan Mah.)",
+                            "url": "/bursa/yildirim-akcaglayan-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Anadolu Mah.)",
+                            "url": "/bursa/yildirim-anadolu-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Arabayatağı Mah.)",
+                            "url": "/bursa/yildirim-arabayatagi-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Bağlaraltı Mah.)",
+                            "url": "/bursa/yildirim-baglaralti-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Baruthane Mah.)",
+                            "url": "/bursa/yildirim-baruthane-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Beyazıt Mah.)",
+                            "url": "/bursa/yildirim-beyazit-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Çınarönü Mah.)",
+                            "url": "/bursa/yildirim-cinaronu-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Davutdede Mah.)",
+                            "url": "/bursa/yildirim-davutdede-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Davutkadı Mah.)",
+                            "url": "/bursa/yildirim-davutkadi-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Değirmenlikızık Mah.)",
+                            "url": "/bursa/yildirim-degirmenlikizik-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Değirmenönü Mah.)",
+                            "url": "/bursa/yildirim-degirmenonu-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Demetevler Mah.)",
+                            "url": "/bursa/yildirim-demetevler-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Duaçınarı Mah.)",
+                            "url": "/bursa/yildirim-duacinari-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Eğitim Mah.)",
+                            "url": "/bursa/yildirim-egitim-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Emirsultan Mah.)",
+                            "url": "/bursa/yildirim-emirsultan-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Erikli Mah.)",
+                            "url": "/bursa/yildirim-erikli-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Ertuğrulgazi Mah.)",
+                            "url": "/bursa/yildirim-ertugrulgazi-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Esenevler Mah.)",
+                            "url": "/bursa/yildirim-esenevler-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Güllük Mah.)",
+                            "url": "/bursa/yildirim-gulluk-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Hacı Seyfettin Mah.)",
+                            "url": "/bursa/yildirim-haci-seyfettin-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Hacivat Mah.)",
+                            "url": "/bursa/yildirim-hacivat-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Hocataşkın Mah.)",
+                            "url": "/bursa/yildirim-hocataskin-mah"
+                        },
+                        {
+                            "name": "Yıldırım (İncirli Cad.)",
+                            "url": "/bursa/yildirim-incirli-cad"
+                        },
+                        {
+                            "name": "Yıldırım (İsabey Mah.)",
+                            "url": "/bursa/yildirim-isabey-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Kaplıkaya Mah.)",
+                            "url": "/bursa/yildirim-kaplikaya-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Karaağaç Mah.)",
+                            "url": "/bursa/yildirim-karaagac-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Karamazak Mah.)",
+                            "url": "/bursa/yildirim-karamazak-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Karapınar Mah.)",
+                            "url": "/bursa/yildirim-karapinar-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Kazım Karabekir Mah.)",
+                            "url": "/bursa/yildirim-kazim-karabekir-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Kurtuluş Cad.)",
+                            "url": "/bursa/yildirim-kurtulus-cad"
+                        },
+                        {
+                            "name": "Yıldırım (Maltepe Mah.)",
+                            "url": "/bursa/yildirim-maltepe-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Mesken Mah.)",
+                            "url": "/bursa/yildirim-mesken-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Mevlana Mah.)",
+                            "url": "/bursa/yildirim-mevlana-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Meydancık Mah.)",
+                            "url": "/bursa/yildirim-meydancik-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Millet Mah.)",
+                            "url": "/bursa/yildirim-millet-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Mimar Sinan Mah.)",
+                            "url": "/bursa/yildirim-mimar-sinan-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Mollarap Mah.)",
+                            "url": "/bursa/yildirim-mollarap-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Namazgah Mah.)",
+                            "url": "/bursa/yildirim-namazgah-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Ortabağlar Mah.)",
+                            "url": "/bursa/yildirim-ortabaglar-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Piremir Mah.)",
+                            "url": "/bursa/yildirim-piremir-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Prof. Tezok Cad.)",
+                            "url": "/bursa/yildirim-prof-tezok-cad"
+                        },
+                        {
+                            "name": "Yıldırım (Samanlı Mah.)",
+                            "url": "/bursa/yildirim-samanli-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Selçukbey Mah.)",
+                            "url": "/bursa/yildirim-selcukbey-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Selimzade Mah.)",
+                            "url": "/bursa/yildirim-selimzade-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Setbaşı)",
+                            "url": "/bursa/yildirim-setbasi"
+                        },
+                        {
+                            "name": "Yıldırım (Sıracevizler Mah.)",
+                            "url": "/bursa/yildirim-siracevizler-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Sinandede Mah.)",
+                            "url": "/bursa/yildirim-sinandede-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Siteler Mah.)",
+                            "url": "/bursa/yildirim-siteler-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Su Deposu Cd.)",
+                            "url": "/bursa/yildirim-su-deposu-cd"
+                        },
+                        {
+                            "name": "Yıldırım (Şirinevler Mah.)",
+                            "url": "/bursa/yildirim-sirinevler-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Şükraniye Mah.)",
+                            "url": "/bursa/yildirim-sukraniye-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Teferrüç Mah.)",
+                            "url": "/bursa/yildirim-teferruc-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Teleferik)",
+                            "url": "/bursa/yildirim-teleferik"
+                        },
+                        {
+                            "name": "Yıldırım (Türkmenbaşı Cad.)",
+                            "url": "/bursa/yildirim-turkmenbasi-cad"
+                        },
+                        {
+                            "name": "Yıldırım (Ulus Mah.)",
+                            "url": "/bursa/yildirim-ulus-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Umurbey Mah.)",
+                            "url": "/bursa/yildirim-umurbey-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Vakıf Mah.)",
+                            "url": "/bursa/yildirim-vakif-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Vatan Mah.)",
+                            "url": "/bursa/yildirim-vatan-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Vişne Cad.)",
+                            "url": "/bursa/yildirim-visne-cad"
+                        },
+                        {
+                            "name": "Yıldırım (Yavuzselim Mah.)",
+                            "url": "/bursa/yildirim-yavuzselim-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Yediselviler Mah.)",
+                            "url": "/bursa/yildirim-yediselviler-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Yeşil Mah.)",
+                            "url": "/bursa/yildirim-yesil-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Yeşilyayla Mah.)",
+                            "url": "/bursa/yildirim-yesilyayla-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Yıldırım Beyazıt Cad.)",
+                            "url": "/bursa/yildirim-yildirim-beyazit-cad"
+                        },
+                        {
+                            "name": "Yıldırım (Yıldırım Mah.)",
+                            "url": "/bursa/yildirim-yildirim-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Yiğitler Mah.)",
+                            "url": "/bursa/yildirim-yigitler-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Yunus Emre Mah.)",
+                            "url": "/bursa/yildirim-yunus-emre-mah"
+                        },
+                        {
+                            "name": "Yıldırım (Zümrütevler Mah.)",
+                            "url": "/bursa/yildirim-zumrutevler-mah"
+                        },
+                        {
+                            "name": "Yıldırm (Kurtoğlu Mah.)",
+                            "url": "/bursa/yildirm-kurtoglu-mah"
                         }
                     ]
                 },
@@ -9169,7 +9265,7 @@
                             "url": "/hatay/iskenderun-suleymaniye"
                         },
                         {
-                            "name": "İskenderun (Yenisehir)",
+                            "name": "İskenderun (Yenişehir)",
                             "url": "/hatay/iskenderun-yenisehir"
                         },
                         {
@@ -9283,6 +9379,10 @@
                         {
                             "name": "Ayazmana",
                             "url": "/isparta/ayazmana"
+                        },
+                        {
+                            "name": "Bağlar Mah.",
+                            "url": "/isparta/baglar-mah"
                         },
                         {
                             "name": "Bahçelievler",
@@ -9917,6 +10017,10 @@
                             "url": "/mersin/mezitli-cumhuriyet"
                         },
                         {
+                            "name": "Mezitli (Fındıkpınarı)",
+                            "url": "/mersin/mezitli-findikpinari"
+                        },
+                        {
                             "name": "Mezitli (Merkez)",
                             "url": "/mersin/mezitli-merkez"
                         },
@@ -10345,10 +10449,6 @@
                             "url": "/istanbul/akatlar"
                         },
                         {
-                            "name": "Aksaray",
-                            "url": "/istanbul/aksaray"
-                        },
-                        {
                             "name": "Alibeyköy",
                             "url": "/istanbul/alibeykoy"
                         },
@@ -10363,10 +10463,6 @@
                         {
                             "name": "Anadoluhisarı",
                             "url": "/istanbul/anadoluhisari"
-                        },
-                        {
-                            "name": "Arnavutköy",
-                            "url": "/istanbul/arnavutkoy"
                         },
                         {
                             "name": "Arnavutköy İlçesi (Adnan Menderes Mah.)",
@@ -10641,16 +10737,28 @@
                             "url": "/istanbul/avcilar-gumuspala-mah"
                         },
                         {
-                            "name": "Avcılar (Merkez)",
-                            "url": "/istanbul/avcilar-merkez"
+                            "name": "Avcılar (Merkez Mah.)",
+                            "url": "/istanbul/avcilar-merkez-mah"
                         },
                         {
-                            "name": "Avcılar (Parseller)",
-                            "url": "/istanbul/avcilar-parseller"
+                            "name": "Avcılar (Mustafa Kemal Paşa Mah.)",
+                            "url": "/istanbul/avcilar-mustafa-kemal-pasa-mah"
+                        },
+                        {
+                            "name": "Avcılar (Tahtakale Mah. - Ispartakule Evleri)",
+                            "url": "/istanbul/avcilar-tahtakale-mah-ispartakule-evleri"
+                        },
+                        {
+                            "name": "Avcılar (Tahtakale Mah.)",
+                            "url": "/istanbul/avcilar-tahtakale-mah"
                         },
                         {
                             "name": "Avcılar (Üniversite Mah.)",
                             "url": "/istanbul/avcilar-universite-mah"
+                        },
+                        {
+                            "name": "Avcılar (Yeşilkent Mah.)",
+                            "url": "/istanbul/avcilar-yesilkent-mah"
                         },
                         {
                             "name": "Avrupa Konutları (TEM)",
@@ -10721,10 +10829,6 @@
                             "url": "/istanbul/bagcilar-yenimahalle-mah"
                         },
                         {
-                            "name": "Bahçekapı",
-                            "url": "/istanbul/bahcekapi"
-                        },
-                        {
                             "name": "Bahçelievler (Merkez)",
                             "url": "/istanbul/bahcelievler-merkez"
                         },
@@ -10769,10 +10873,6 @@
                             "url": "/istanbul/bakirkoy-zuhuratbaba-mah"
                         },
                         {
-                            "name": "Balat",
-                            "url": "/istanbul/balat"
-                        },
-                        {
                             "name": "Balmumcu",
                             "url": "/istanbul/balmumcu"
                         },
@@ -10787,10 +10887,6 @@
                         {
                             "name": "Başakşehir (Bahçeşehir 1. Kısım Mah. - Estonşehir)",
                             "url": "/istanbul/basaksehir-bahcesehir-1-kisim-mah-estonsehir"
-                        },
-                        {
-                            "name": "Başakşehir (Bahçeşehir 1. Kısım Mah. - Ispartakule Evleri)",
-                            "url": "/istanbul/basaksehir-bahcesehir-1-kisim-mah-ispartakule-evleri"
                         },
                         {
                             "name": "Başakşehir (Bahçeşehir 1. Kısım Mah.)",
@@ -10933,6 +11029,10 @@
                             "url": "/istanbul/besiktas-akaretler"
                         },
                         {
+                            "name": "Beşiktaş (Arnavutköy Mah.)",
+                            "url": "/istanbul/besiktas-arnavutkoy-mah"
+                        },
+                        {
                             "name": "Beşiktaş (Barbaros)",
                             "url": "/istanbul/besiktas-barbaros"
                         },
@@ -10959,10 +11059,6 @@
                         {
                             "name": "Beşiktaş (Yıldız)",
                             "url": "/istanbul/besiktas-yildiz"
-                        },
-                        {
-                            "name": "Beyazıt",
-                            "url": "/istanbul/beyazit"
                         },
                         {
                             "name": "Beykent",
@@ -11173,10 +11269,6 @@
                             "url": "/istanbul/caddebostan-doyma-noktasi"
                         },
                         {
-                            "name": "Cağaloğlu",
-                            "url": "/istanbul/cagaloglu"
-                        },
-                        {
                             "name": "Cihangir",
                             "url": "/istanbul/cihangir"
                         },
@@ -11189,16 +11281,8 @@
                             "url": "/istanbul/camlica-kucuk"
                         },
                         {
-                            "name": "Çapa",
-                            "url": "/istanbul/capa"
-                        },
-                        {
                             "name": "Çatalca",
                             "url": "/istanbul/catalca"
-                        },
-                        {
-                            "name": "Çekmeköy",
-                            "url": "/istanbul/cekmekoy"
                         },
                         {
                             "name": "Çekmeköy (Alemdağ Mah.)",
@@ -11229,23 +11313,27 @@
                             "url": "/istanbul/cekmekoy-eksioglu-mah"
                         },
                         {
-                            "name": "Çekmeköy (Güngören Mah. )",
+                            "name": "Çekmeköy (Güngören Mah.)",
                             "url": "/istanbul/cekmekoy-gungoren-mah"
                         },
                         {
-                            "name": "Çekmeköy (Hamidiye Mah. )",
+                            "name": "Çekmeköy (Hamidiye Mah.)",
                             "url": "/istanbul/cekmekoy-hamidiye-mah"
                         },
                         {
-                            "name": "Çekmeköy (Kirazlıdere Mah. )",
+                            "name": "Çekmeköy (Kirazlıdere Mah.)",
                             "url": "/istanbul/cekmekoy-kirazlidere-mah"
                         },
                         {
-                            "name": "Çekmeköy (Mehmet Akif Mah. )",
+                            "name": "Çekmeköy (Mehmet Akif Mah.)",
                             "url": "/istanbul/cekmekoy-mehmet-akif-mah"
                         },
                         {
-                            "name": "Çekmeköy (Mimar Sinan Mah. )",
+                            "name": "Çekmeköy (Merkez Mah.)",
+                            "url": "/istanbul/cekmekoy-merkez-mah"
+                        },
+                        {
+                            "name": "Çekmeköy (Mimar Sinan Mah.)",
                             "url": "/istanbul/cekmekoy-mimar-sinan-mah"
                         },
                         {
@@ -11261,20 +11349,16 @@
                             "url": "/istanbul/cekmekoy-resadiye-mah"
                         },
                         {
-                            "name": "Çekmeköy (Soğukpınar Mah. )",
+                            "name": "Çekmeköy (Soğukpınar Mah.)",
                             "url": "/istanbul/cekmekoy-sogukpinar-mah"
                         },
                         {
-                            "name": "Çekmeköy (Sultançiftliği Mah. )",
+                            "name": "Çekmeköy (Sultançiftliği Mah.)",
                             "url": "/istanbul/cekmekoy-sultanciftligi-mah"
                         },
                         {
                             "name": "Çekmeköy (Taşdelen Mah.)",
                             "url": "/istanbul/cekmekoy-tasdelen-mah"
-                        },
-                        {
-                            "name": "Çemberlitaş",
-                            "url": "/istanbul/cemberlitas"
                         },
                         {
                             "name": "Çemenzar",
@@ -11311,18 +11395,6 @@
                         {
                             "name": "Dragos",
                             "url": "/istanbul/dragos"
-                        },
-                        {
-                            "name": "Edirnekapı",
-                            "url": "/istanbul/edirnekapi"
-                        },
-                        {
-                            "name": "Elmadağ",
-                            "url": "/istanbul/elmadag"
-                        },
-                        {
-                            "name": "Eminönü (Merkez)",
-                            "url": "/istanbul/eminonu-merkez"
                         },
                         {
                             "name": "Emirgan",
@@ -11377,7 +11449,7 @@
                             "url": "/istanbul/esenler-nine-hatun-mah"
                         },
                         {
-                            "name": "Esenler (Oruçreis Mah. )",
+                            "name": "Esenler (Oruçreis Mah.)",
                             "url": "/istanbul/esenler-orucreis-mah"
                         },
                         {
@@ -11395,10 +11467,6 @@
                         {
                             "name": "Esenler (Üçyüzlü)",
                             "url": "/istanbul/esenler-ucyuzlu"
-                        },
-                        {
-                            "name": "Esentepe",
-                            "url": "/istanbul/esentepe"
                         },
                         {
                             "name": "Esenyurt (Ardıçlı Mah.)",
@@ -11525,6 +11593,46 @@
                             "url": "/istanbul/eyup-yesilpinar"
                         },
                         {
+                            "name": "Fatih (Aksaray Mah.)",
+                            "url": "/istanbul/fatih-aksaray-mah"
+                        },
+                        {
+                            "name": "Fatih (Akşemsettin Mah.)",
+                            "url": "/istanbul/fatih-aksemsettin-mah"
+                        },
+                        {
+                            "name": "Fatih (Alemdar Mah.)",
+                            "url": "/istanbul/fatih-alemdar-mah"
+                        },
+                        {
+                            "name": "Fatih (Ali Kuşçu Mah.)",
+                            "url": "/istanbul/fatih-ali-kuscu-mah"
+                        },
+                        {
+                            "name": "Fatih (Atikali Mah.)",
+                            "url": "/istanbul/fatih-atikali-mah"
+                        },
+                        {
+                            "name": "Fatih (Ayvansaray Mah.)",
+                            "url": "/istanbul/fatih-ayvansaray-mah"
+                        },
+                        {
+                            "name": "Fatih (Balabanağa Mah.)",
+                            "url": "/istanbul/fatih-balabanaga-mah"
+                        },
+                        {
+                            "name": "Fatih (Balat Mah.)",
+                            "url": "/istanbul/fatih-balat-mah"
+                        },
+                        {
+                            "name": "Fatih (Beyazıt Mah.)",
+                            "url": "/istanbul/fatih-beyazit-mah"
+                        },
+                        {
+                            "name": "Fatih (Binbirdirek Mah.)",
+                            "url": "/istanbul/fatih-binbirdirek-mah"
+                        },
+                        {
                             "name": "Fatih (Cankurtaran Mah.)",
                             "url": "/istanbul/fatih-cankurtaran-mah"
                         },
@@ -11533,24 +11641,192 @@
                             "url": "/istanbul/fatih-cerrahpasa-mah"
                         },
                         {
+                            "name": "Fatih (Cibali Mah. - Unkapanı)",
+                            "url": "/istanbul/fatih-cibali-mah-unkapani"
+                        },
+                        {
+                            "name": "Fatih (Demirtaş Mah.)",
+                            "url": "/istanbul/fatih-demirtas-mah"
+                        },
+                        {
+                            "name": "Fatih (Dervişali Mah.)",
+                            "url": "/istanbul/fatih-dervisali-mah"
+                        },
+                        {
+                            "name": "Fatih (Emin Sinan Mah.)",
+                            "url": "/istanbul/fatih-emin-sinan-mah"
+                        },
+                        {
+                            "name": "Fatih (Hacıkadın Mah.)",
+                            "url": "/istanbul/fatih-hacikadin-mah"
+                        },
+                        {
+                            "name": "Fatih (Haseki Sultan Mah. - Fındıkzade)",
+                            "url": "/istanbul/fatih-haseki-sultan-mah-findikzade"
+                        },
+                        {
+                            "name": "Fatih (Hırka-i Şerif Mah.)",
+                            "url": "/istanbul/fatih-hirka-i-serif-mah"
+                        },
+                        {
+                            "name": "Fatih (Hobyar Mah. - Bahçekapı)",
+                            "url": "/istanbul/fatih-hobyar-mah-bahcekapi"
+                        },
+                        {
+                            "name": "Fatih (Hobyar Mah. - Cağaloğlu)",
+                            "url": "/istanbul/fatih-hobyar-mah-cagaloglu"
+                        },
+                        {
+                            "name": "Fatih (Hoca Gıyasettin Mah.)",
+                            "url": "/istanbul/fatih-hoca-giyasettin-mah"
+                        },
+                        {
+                            "name": "Fatih (Hoca Paşa Mah. - Sirkeci)",
+                            "url": "/istanbul/fatih-hoca-pasa-mah-sirkeci"
+                        },
+                        {
+                            "name": "Fatih (İskenderpaşa Mah.)",
+                            "url": "/istanbul/fatih-iskenderpasa-mah"
+                        },
+                        {
+                            "name": "Fatih (Kalenderhane Mah. - Şehzadebaşı)",
+                            "url": "/istanbul/fatih-kalenderhane-mah-sehzadebasi"
+                        },
+                        {
                             "name": "Fatih (Karagümrük Mah.)",
                             "url": "/istanbul/fatih-karagumruk-mah"
                         },
                         {
-                            "name": "Fatih (Mercan)",
-                            "url": "/istanbul/fatih-mercan"
+                            "name": "Fatih (Katip Kasım Mah. - Yenikapı)",
+                            "url": "/istanbul/fatih-katip-kasim-mah-yenikapi"
                         },
                         {
-                            "name": "Fatih (Merkez)",
-                            "url": "/istanbul/fatih-merkez"
+                            "name": "Fatih (Kemal Paşa Mah.)",
+                            "url": "/istanbul/fatih-kemal-pasa-mah"
+                        },
+                        {
+                            "name": "Fatih (Kocamustafapaşa Mah.)",
+                            "url": "/istanbul/fatih-kocamustafapasa-mah"
+                        },
+                        {
+                            "name": "Fatih (Küçük Ayasofya Mah.)",
+                            "url": "/istanbul/fatih-kucuk-ayasofya-mah"
+                        },
+                        {
+                            "name": "Fatih (Mercan Mah.)",
+                            "url": "/istanbul/fatih-mercan-mah"
+                        },
+                        {
+                            "name": "Fatih (Mesih Paşa Mah. - Laleli)",
+                            "url": "/istanbul/fatih-mesih-pasa-mah-laleli"
+                        },
+                        {
+                            "name": "Fatih (Mevlanakapı Mah.)",
+                            "url": "/istanbul/fatih-mevlanakapi-mah"
+                        },
+                        {
+                            "name": "Fatih (Mimar Hayrettin Mah.)",
+                            "url": "/istanbul/fatih-mimar-hayrettin-mah"
+                        },
+                        {
+                            "name": "Fatih (Mimar Kemalettin Mah.)",
+                            "url": "/istanbul/fatih-mimar-kemalettin-mah"
+                        },
+                        {
+                            "name": "Fatih (Molla Gürani Mah. - Fındıkzade)",
+                            "url": "/istanbul/fatih-molla-gurani-mah-findikzade"
+                        },
+                        {
+                            "name": "Fatih (Mollafeneri Mah. - Çemberlitaş)",
+                            "url": "/istanbul/fatih-mollafeneri-mah-cemberlitas"
+                        },
+                        {
+                            "name": "Fatih (Mollahüsrev Mah.)",
+                            "url": "/istanbul/fatih-mollahusrev-mah"
+                        },
+                        {
+                            "name": "Fatih (Muhsine Hatun Mah. - Kumkapı)",
+                            "url": "/istanbul/fatih-muhsine-hatun-mah-kumkapi"
+                        },
+                        {
+                            "name": "Fatih (Nişanca Mah.)",
+                            "url": "/istanbul/fatih-nisanca-mah"
+                        },
+                        {
+                            "name": "Fatih (Rüstem Paşa Mah.)",
+                            "url": "/istanbul/fatih-rustem-pasa-mah"
+                        },
+                        {
+                            "name": "Fatih (Saraç İshak Mah.)",
+                            "url": "/istanbul/fatih-sarac-ishak-mah"
+                        },
+                        {
+                            "name": "Fatih (Sarıdemir Mah.)",
+                            "url": "/istanbul/fatih-saridemir-mah"
+                        },
+                        {
+                            "name": "Fatih (Seyyid Ömer Mah. - Fındıkzade)",
+                            "url": "/istanbul/fatih-seyyid-omer-mah-findikzade"
                         },
                         {
                             "name": "Fatih (Silivri Kapı Mah.)",
                             "url": "/istanbul/fatih-silivri-kapi-mah"
                         },
                         {
-                            "name": "Fatih (Şehzadebaşı)",
-                            "url": "/istanbul/fatih-sehzadebasi"
+                            "name": "Fatih (Sultan Ahmet Mah.)",
+                            "url": "/istanbul/fatih-sultan-ahmet-mah"
+                        },
+                        {
+                            "name": "Fatih (Sururi Mah.)",
+                            "url": "/istanbul/fatih-sururi-mah"
+                        },
+                        {
+                            "name": "Fatih (Süleymaniye Mah.)",
+                            "url": "/istanbul/fatih-suleymaniye-mah"
+                        },
+                        {
+                            "name": "Fatih (Sümbül Efendi Mah.)",
+                            "url": "/istanbul/fatih-sumbul-efendi-mah"
+                        },
+                        {
+                            "name": "Fatih (Şehremini Mah. - Çapa)",
+                            "url": "/istanbul/fatih-sehremini-mah-capa"
+                        },
+                        {
+                            "name": "Fatih (Şehremini Mah. - Fındıkzade)",
+                            "url": "/istanbul/fatih-sehremini-mah-findikzade"
+                        },
+                        {
+                            "name": "Fatih (Şehsuvarbey Mah.)",
+                            "url": "/istanbul/fatih-sehsuvarbey-mah"
+                        },
+                        {
+                            "name": "Fatih (Tahtakale Mah.)",
+                            "url": "/istanbul/fatih-tahtakale-mah"
+                        },
+                        {
+                            "name": "Fatih (Taya Hatun Mah.)",
+                            "url": "/istanbul/fatih-taya-hatun-mah"
+                        },
+                        {
+                            "name": "Fatih (Topkapı Mah.)",
+                            "url": "/istanbul/fatih-topkapi-mah"
+                        },
+                        {
+                            "name": "Fatih (Yavuz Sinan Mah.)",
+                            "url": "/istanbul/fatih-yavuz-sinan-mah"
+                        },
+                        {
+                            "name": "Fatih (Yavuz Sultan Selim Mah.)",
+                            "url": "/istanbul/fatih-yavuz-sultan-selim-mah"
+                        },
+                        {
+                            "name": "Fatih (Yedikule Mah.)",
+                            "url": "/istanbul/fatih-yedikule-mah"
+                        },
+                        {
+                            "name": "Fatih (Zeyrek Mah. - Vefa)",
+                            "url": "/istanbul/fatih-zeyrek-mah-vefa"
                         },
                         {
                             "name": "Fenerbahçe",
@@ -11565,10 +11841,6 @@
                             "url": "/istanbul/ferahevler"
                         },
                         {
-                            "name": "Fındıkzade",
-                            "url": "/istanbul/findikzade"
-                        },
-                        {
                             "name": "Fikirtepe",
                             "url": "/istanbul/fikirtepe"
                         },
@@ -11579,10 +11851,6 @@
                         {
                             "name": "Florya (Basınköy)",
                             "url": "/istanbul/florya-basinkoy"
-                        },
-                        {
-                            "name": "Fulya",
-                            "url": "/istanbul/fulya"
                         },
                         {
                             "name": "Gayrettepe",
@@ -11749,10 +12017,6 @@
                             "url": "/istanbul/halkali-yarimburgaz-mah"
                         },
                         {
-                            "name": "Harbiye",
-                            "url": "/istanbul/harbiye"
-                        },
-                        {
                             "name": "Harem",
                             "url": "/istanbul/harem"
                         },
@@ -11771,10 +12035,6 @@
                         {
                             "name": "Hisarüstü",
                             "url": "/istanbul/hisarustu"
-                        },
-                        {
-                            "name": "Hocapaşa",
-                            "url": "/istanbul/hocapasa"
                         },
                         {
                             "name": "İçerenköy",
@@ -11863,10 +12123,6 @@
                         {
                             "name": "Kağıthane (Mehmet Akif Ersoy Mah.)",
                             "url": "/istanbul/kagithane-mehmet-akif-ersoy-mah"
-                        },
-                        {
-                            "name": "Kağıthane (Merkez Mah. - Çobançeşme)",
-                            "url": "/istanbul/kagithane-merkez-mah-cobancesme"
                         },
                         {
                             "name": "Kağıthane (Merkez Mah.)",
@@ -12061,10 +12317,6 @@
                             "url": "/istanbul/kirecburnu"
                         },
                         {
-                            "name": "Kocamustafapaşa",
-                            "url": "/istanbul/kocamustafapasa"
-                        },
-                        {
                             "name": "Kocasinan",
                             "url": "/istanbul/kocasinan"
                         },
@@ -12075,10 +12327,6 @@
                         {
                             "name": "Kozyatağı",
                             "url": "/istanbul/kozyatagi"
-                        },
-                        {
-                            "name": "Kumkapı",
-                            "url": "/istanbul/kumkapi"
                         },
                         {
                             "name": "Kurtköy (Harmandere Mah.)",
@@ -12097,16 +12345,8 @@
                             "url": "/istanbul/kurtkoy-yenisehir-mah"
                         },
                         {
-                            "name": "Kurtuluş",
-                            "url": "/istanbul/kurtulus"
-                        },
-                        {
                             "name": "Kuruçeşme",
                             "url": "/istanbul/kurucesme"
-                        },
-                        {
-                            "name": "Kuştepe",
-                            "url": "/istanbul/kustepe"
                         },
                         {
                             "name": "Kuyubaşı",
@@ -12189,14 +12429,6 @@
                             "url": "/istanbul/kucukcekmece-yesilova-mah"
                         },
                         {
-                            "name": "Laleli",
-                            "url": "/istanbul/laleli"
-                        },
-                        {
-                            "name": "Langa",
-                            "url": "/istanbul/langa"
-                        },
-                        {
                             "name": "Levent",
                             "url": "/istanbul/levent"
                         },
@@ -12205,20 +12437,12 @@
                             "url": "/istanbul/levent-levazim"
                         },
                         {
-                            "name": "Levent (Plazalar)",
-                            "url": "/istanbul/levent-plazalar"
-                        },
-                        {
                             "name": "Levent (Yeni)",
                             "url": "/istanbul/levent-yeni"
                         },
                         {
                             "name": "Levent 4.",
                             "url": "/istanbul/levent-4"
-                        },
-                        {
-                            "name": "Maçka",
-                            "url": "/istanbul/macka"
                         },
                         {
                             "name": "Mahmutbey (Basın Ekspres Yolu)",
@@ -12301,22 +12525,6 @@
                             "url": "/istanbul/maslak-itu-kampusu"
                         },
                         {
-                            "name": "Mecidiyeköy",
-                            "url": "/istanbul/mecidiyekoy"
-                        },
-                        {
-                            "name": "Mecidiyeköy (Dereboyu)",
-                            "url": "/istanbul/mecidiyekoy-dereboyu"
-                        },
-                        {
-                            "name": "Mecidiyeköy (Gülbağ)",
-                            "url": "/istanbul/mecidiyekoy-gulbag"
-                        },
-                        {
-                            "name": "Mecidiyeköy (Ortaklar)",
-                            "url": "/istanbul/mecidiyekoy-ortaklar"
-                        },
-                        {
                             "name": "Merter",
                             "url": "/istanbul/merter"
                         },
@@ -12333,28 +12541,8 @@
                             "url": "/istanbul/nakkastepe"
                         },
                         {
-                            "name": "Nişantaşı",
-                            "url": "/istanbul/nisantasi"
-                        },
-                        {
-                            "name": "Okmeydanı",
-                            "url": "/istanbul/okmeydani"
-                        },
-                        {
-                            "name": "Okmeydanı (Perpa)",
-                            "url": "/istanbul/okmeydani-perpa"
-                        },
-                        {
                             "name": "Ortaköy",
                             "url": "/istanbul/ortakoy"
-                        },
-                        {
-                            "name": "Osmanbey",
-                            "url": "/istanbul/osmanbey"
-                        },
-                        {
-                            "name": "Pangaltı",
-                            "url": "/istanbul/pangalti"
                         },
                         {
                             "name": "Pendik (Alt Kaynarca)",
@@ -12441,10 +12629,6 @@
                             "url": "/istanbul/salipazari"
                         },
                         {
-                            "name": "Samatya",
-                            "url": "/istanbul/samatya"
-                        },
-                        {
                             "name": "Sancaktepe (Abdurrahmangazi Mah.)",
                             "url": "/istanbul/sancaktepe-abdurrahmangazi-mah"
                         },
@@ -12485,10 +12669,6 @@
                             "url": "/istanbul/sancaktepe-meclis-mah"
                         },
                         {
-                            "name": "Sancaktepe (Merkez)",
-                            "url": "/istanbul/sancaktepe-merkez"
-                        },
-                        {
                             "name": "Sancaktepe (Merve Mah.)",
                             "url": "/istanbul/sancaktepe-merve-mah"
                         },
@@ -12509,12 +12689,8 @@
                             "url": "/istanbul/sancaktepe-safa-mah"
                         },
                         {
-                            "name": "Sancaktepe (Samandıra)",
-                            "url": "/istanbul/sancaktepe-samandira"
-                        },
-                        {
-                            "name": "Sancaktepe (Sarıgazi Mah.)",
-                            "url": "/istanbul/sancaktepe-sarigazi-mah"
+                            "name": "Sancaktepe (Sarıgazi Mah. - Samandıra)",
+                            "url": "/istanbul/sancaktepe-sarigazi-mah-samandira"
                         },
                         {
                             "name": "Sancaktepe (Veysel Karani Mah.)",
@@ -12625,16 +12801,8 @@
                             "url": "/istanbul/silivri-yeni-mah"
                         },
                         {
-                            "name": "Sirkeci",
-                            "url": "/istanbul/sirkeci"
-                        },
-                        {
                             "name": "Suadiye",
                             "url": "/istanbul/suadiye"
-                        },
-                        {
-                            "name": "Sultanahmet",
-                            "url": "/istanbul/sultanahmet"
                         },
                         {
                             "name": "Sultanbeyli (Abdurrahman Gazi Mah.)",
@@ -12675,10 +12843,6 @@
                         {
                             "name": "Sultanbeyli (Mehmet Akif Mah.)",
                             "url": "/istanbul/sultanbeyli-mehmet-akif-mah"
-                        },
-                        {
-                            "name": "Sultanbeyli (Merkez)",
-                            "url": "/istanbul/sultanbeyli-merkez"
                         },
                         {
                             "name": "Sultanbeyli (Mimar Sinan Mah.)",
@@ -12769,20 +12933,12 @@
                             "url": "/istanbul/sultangazi-zubeyde-hanim-mah"
                         },
                         {
-                            "name": "Sultanhamam",
-                            "url": "/istanbul/sultanhamam"
-                        },
-                        {
                             "name": "Sütlüce",
                             "url": "/istanbul/sutluce"
                         },
                         {
                             "name": "Şaşkınbakkal",
                             "url": "/istanbul/saskinbakkal"
-                        },
-                        {
-                            "name": "Şehremini",
-                            "url": "/istanbul/sehremini"
                         },
                         {
                             "name": "Şenesenevler",
@@ -12793,6 +12949,10 @@
                             "url": "/istanbul/sile"
                         },
                         {
+                            "name": "Şile (Kumbaba)",
+                            "url": "/istanbul/sile-kumbaba"
+                        },
+                        {
                             "name": "Şirinevler",
                             "url": "/istanbul/sirinevler"
                         },
@@ -12801,24 +12961,120 @@
                             "url": "/istanbul/sishane"
                         },
                         {
-                            "name": "Şişli (Bomonti)",
-                            "url": "/istanbul/sisli-bomonti"
+                            "name": "Şişli (19 Mayıs Mah.)",
+                            "url": "/istanbul/sisli-19-mayis-mah"
                         },
                         {
-                            "name": "Şişli (Feriköy)",
-                            "url": "/istanbul/sisli-ferikoy"
+                            "name": "Şişli (Bozkurt Mah. - Kurtuluş)",
+                            "url": "/istanbul/sisli-bozkurt-mah-kurtulus"
+                        },
+                        {
+                            "name": "Şişli (Cumhuriyet Mah. - Bomonti)",
+                            "url": "/istanbul/sisli-cumhuriyet-mah-bomonti"
+                        },
+                        {
+                            "name": "Şişli (Duatepe Mah.)",
+                            "url": "/istanbul/sisli-duatepe-mah"
+                        },
+                        {
+                            "name": "Şişli (Ergenekon Mah. - Pangaltı)",
+                            "url": "/istanbul/sisli-ergenekon-mah-pangalti"
+                        },
+                        {
+                            "name": "Şişli (Esentepe Mah. - Plazalar)",
+                            "url": "/istanbul/sisli-esentepe-mah-plazalar"
+                        },
+                        {
+                            "name": "Şişli (Esentepe Mah.)",
+                            "url": "/istanbul/sisli-esentepe-mah"
+                        },
+                        {
+                            "name": "Şişli (Eskişehir Mah.)",
+                            "url": "/istanbul/sisli-eskisehir-mah"
+                        },
+                        {
+                            "name": "Şişli (Feriköy Mah.)",
+                            "url": "/istanbul/sisli-ferikoy-mah"
+                        },
+                        {
+                            "name": "Şişli (Fulya Mah. - Ortaklar)",
+                            "url": "/istanbul/sisli-fulya-mah-ortaklar"
+                        },
+                        {
+                            "name": "Şişli (Fulya Mah.)",
+                            "url": "/istanbul/sisli-fulya-mah"
+                        },
+                        {
+                            "name": "Şişli (Gülbahar Mah. - Gülbağ)",
+                            "url": "/istanbul/sisli-gulbahar-mah-gulbag"
+                        },
+                        {
+                            "name": "Şişli (Halaskargazi Mah. - Osmanbey)",
+                            "url": "/istanbul/sisli-halaskargazi-mah-osmanbey"
                         },
                         {
                             "name": "Şişli (Halide Edip Adıvar Mah.)",
                             "url": "/istanbul/sisli-halide-edip-adivar-mah"
                         },
                         {
-                            "name": "Şişli (Merkez)",
-                            "url": "/istanbul/sisli-merkez"
+                            "name": "Şişli (Halil Rıfat Paşa Mah. - Perpa)",
+                            "url": "/istanbul/sisli-halil-rifat-pasa-mah-perpa"
                         },
                         {
-                            "name": "Tahtakale",
-                            "url": "/istanbul/tahtakale"
+                            "name": "Şişli (Harbiye Mah. - Maçka)",
+                            "url": "/istanbul/sisli-harbiye-mah-macka"
+                        },
+                        {
+                            "name": "Şişli (Harbiye Mah.)",
+                            "url": "/istanbul/sisli-harbiye-mah"
+                        },
+                        {
+                            "name": "Şişli (İnönü Mah. - Elmadağ)",
+                            "url": "/istanbul/sisli-inonu-mah-elmadag"
+                        },
+                        {
+                            "name": "Şişli (İzzet Paşa Mah.)",
+                            "url": "/istanbul/sisli-izzet-pasa-mah"
+                        },
+                        {
+                            "name": "Şişli (Kaptanpaşa Mah. - Okmeydanı)",
+                            "url": "/istanbul/sisli-kaptanpasa-mah-okmeydani"
+                        },
+                        {
+                            "name": "Şişli (Kuştepe Mah.)",
+                            "url": "/istanbul/sisli-kustepe-mah"
+                        },
+                        {
+                            "name": "Şişli (Mahmut Şevket Paşa Mah.)",
+                            "url": "/istanbul/sisli-mahmut-sevket-pasa-mah"
+                        },
+                        {
+                            "name": "Şişli (Mecidiyeköy Mah. - Dereboyu)",
+                            "url": "/istanbul/sisli-mecidiyekoy-mah-dereboyu"
+                        },
+                        {
+                            "name": "Şişli (Mecidiyeköy Mah.)",
+                            "url": "/istanbul/sisli-mecidiyekoy-mah"
+                        },
+                        {
+                            "name": "Şişli (Merkez Mah.)",
+                            "url": "/istanbul/sisli-merkez-mah"
+                        },
+                        {
+                            "name": "Şişli (Meşrutiyet Mah. - Nişantaşı)",
+                            "url": "/istanbul/sisli-mesrutiyet-mah-nisantasi"
+                        },
+                        {
+                            "name": "Şişli (Paşa Mah.)",
+                            "url": "/istanbul/sisli-pasa-mah"
+                        },
+                        {
+                            "name": "Şişli (Teşvikiye Mah.)",
+                            "url": "/istanbul/sisli-tesvikiye-mah"
+                        },
+                        {
+                            "name": "Şişli (Yayla Mah.)",
+                            "url": "/istanbul/sisli-yayla-mah"
                         },
                         {
                             "name": "Taksim",
@@ -12841,16 +13097,8 @@
                             "url": "/istanbul/tepekoy"
                         },
                         {
-                            "name": "Teşvikiye",
-                            "url": "/istanbul/tesvikiye"
-                        },
-                        {
                             "name": "Tophane",
                             "url": "/istanbul/tophane"
-                        },
-                        {
-                            "name": "Topkapı",
-                            "url": "/istanbul/topkapi"
                         },
                         {
                             "name": "Tuzla (Akfırat Mah.)",
@@ -12925,10 +13173,6 @@
                             "url": "/istanbul/tuzla-mimar-sinan-mah"
                         },
                         {
-                            "name": "Tuzla (Okan Üniv.)",
-                            "url": "/istanbul/tuzla-okan-univ"
-                        },
-                        {
                             "name": "Tuzla (Orhanlı Mah.)",
                             "url": "/istanbul/tuzla-orhanli-mah"
                         },
@@ -12939,10 +13183,6 @@
                         {
                             "name": "Tuzla (Postane Mah.)",
                             "url": "/istanbul/tuzla-postane-mah"
-                        },
-                        {
-                            "name": "Tuzla (Sabancı Üniv.)",
-                            "url": "/istanbul/tuzla-sabanci-univ"
                         },
                         {
                             "name": "Tuzla (Şifa Mah.)",
@@ -12967,10 +13207,6 @@
                         {
                             "name": "Ulus",
                             "url": "/istanbul/ulus"
-                        },
-                        {
-                            "name": "Unkapanı",
-                            "url": "/istanbul/unkapani"
                         },
                         {
                             "name": "Ümraniye (Armağanevler Mah.)",
@@ -13165,16 +13401,8 @@
                             "url": "/istanbul/uskudar-valide-i-atik-mah"
                         },
                         {
-                            "name": "Vefa",
-                            "url": "/istanbul/vefa"
-                        },
-                        {
                             "name": "Yamaçlı",
                             "url": "/istanbul/yamacli"
-                        },
-                        {
-                            "name": "Yedikule",
-                            "url": "/istanbul/yedikule"
                         },
                         {
                             "name": "Yenibosna",
@@ -13187,10 +13415,6 @@
                         {
                             "name": "Yenibosna (Çobançeşme)",
                             "url": "/istanbul/yenibosna-cobancesme"
-                        },
-                        {
-                            "name": "Yenikapı",
-                            "url": "/istanbul/yenikapi"
                         },
                         {
                             "name": "Yeniköy",
@@ -13275,10 +13499,6 @@
                         {
                             "name": "Zeytinburnu (Yeşiltepe Mah.)",
                             "url": "/istanbul/zeytinburnu-yesiltepe-mah"
-                        },
-                        {
-                            "name": "Zincirlikuyu",
-                            "url": "/istanbul/zincirlikuyu"
                         },
                         {
                             "name": "Ziverbey",
@@ -15781,6 +16001,10 @@
                             "url": "/kirsehir/kervansaray-mah"
                         },
                         {
+                            "name": "Kındam Mah.",
+                            "url": "/kirsehir/kindam-mah"
+                        },
+                        {
                             "name": "Kırşehir (Merkez)",
                             "url": "/kirsehir/kirsehir-merkez"
                         },
@@ -16449,10 +16673,6 @@
                             "url": "/kocaeli/kou-umuttepe-kampusu"
                         },
                         {
-                            "name": "Körfez",
-                            "url": "/kocaeli/korfez"
-                        },
-                        {
                             "name": "Körfez (Atalar)",
                             "url": "/kocaeli/korfez-atalar"
                         },
@@ -16483,6 +16703,10 @@
                         {
                             "name": "Körfez (İlimtepe)",
                             "url": "/kocaeli/korfez-ilimtepe"
+                        },
+                        {
+                            "name": "Körfez (Kirazlıyalı)",
+                            "url": "/kocaeli/korfez-kirazliyali"
                         },
                         {
                             "name": "Körfez (Kuzey)",
@@ -18209,6 +18433,10 @@
                             "url": "/mugla/milas-becin"
                         },
                         {
+                            "name": "Milas (Boğaziçi Köyü)",
+                            "url": "/mugla/milas-bogazici-koyu"
+                        },
+                        {
                             "name": "Milas (Cumhuriyet)",
                             "url": "/mugla/milas-cumhuriyet"
                         },
@@ -18485,8 +18713,8 @@
                 {
                     "Tüm Kampüsler": [
                         {
-                            "name": "Niğde Üniversitesi - Merkez Kampüs",
-                            "url": "/nigde/nigde-universitesi-merkez-kampus"
+                            "name": "Ömer Halisdemir Üniversitesi - Merkez Kampüs",
+                            "url": "/nigde/omer-halisdemir-universitesi-merkez-kampus"
                         }
                     ]
                 }
@@ -18825,8 +19053,8 @@
                 {
                     "Tüm Kampüsler": [
                         {
-                            "name": "T.C. Recep Tayyip Erdoğan Üniversitesi - Milli Piyango Eğitim Kampüsü",
-                            "url": "/rize/t-c-recep-tayyip-erdogan-universitesi-milli-piyango-egitim-kampusu"
+                            "name": "Recep Tayyip Erdoğan Üniversitesi - Milli Piyango Eğitim Kampüsü",
+                            "url": "/rize/recep-tayyip-erdogan-universitesi-milli-piyango-egitim-kampusu"
                         }
                     ]
                 }
@@ -18895,6 +19123,10 @@
                         {
                             "name": "Adapazarı (Yenigün)",
                             "url": "/sakarya/adapazari-yenigun"
+                        },
+                        {
+                            "name": "Akyazı",
+                            "url": "/sakarya/akyazi"
                         },
                         {
                             "name": "Erenler (Bekirpaşa)",
@@ -19889,6 +20121,50 @@
                             "url": "/tekirdag/kyk-tekirdag-ogrenci-yurdu"
                         },
                         {
+                            "name": "Marmara Ereğlisi (Bahçelievler Mah.)",
+                            "url": "/tekirdag/marmara-ereglisi-bahcelievler-mah"
+                        },
+                        {
+                            "name": "Marmara Ereğlisi (Cedit Ali Paşa Mah.)",
+                            "url": "/tekirdag/marmara-ereglisi-cedit-ali-pasa-mah"
+                        },
+                        {
+                            "name": "Marmara Ereğlisi (Dereağzı Mah.)",
+                            "url": "/tekirdag/marmara-ereglisi-dereagzi-mah"
+                        },
+                        {
+                            "name": "Marmara Ereğlisi (Mustafa Kemal Paşa Mah.)",
+                            "url": "/tekirdag/marmara-ereglisi-mustafa-kemal-pasa-mah"
+                        },
+                        {
+                            "name": "Marmara Ereğlisi (Sahil - Merkez)",
+                            "url": "/tekirdag/marmara-ereglisi-sahil-merkez"
+                        },
+                        {
+                            "name": "Marmara Ereğlisi (Sultanköy Mah.)",
+                            "url": "/tekirdag/marmara-ereglisi-sultankoy-mah"
+                        },
+                        {
+                            "name": "Marmara Ereğlisi (Yeni Çiftlik Mah.)",
+                            "url": "/tekirdag/marmara-ereglisi-yeni-ciftlik-mah"
+                        },
+                        {
+                            "name": "Şarköy (Camikebir Mah.)",
+                            "url": "/tekirdag/sarkoy-camikebir-mah"
+                        },
+                        {
+                            "name": "Şarköy (Cumhuriyet Mah.)",
+                            "url": "/tekirdag/sarkoy-cumhuriyet-mah"
+                        },
+                        {
+                            "name": "Şarköy (Çarşı-Sahil)",
+                            "url": "/tekirdag/sarkoy-carsi-sahil"
+                        },
+                        {
+                            "name": "Şarköy (İstiklal Mah.)",
+                            "url": "/tekirdag/sarkoy-istiklal-mah"
+                        },
+                        {
                             "name": "Tekirdağ (Merkez)",
                             "url": "/tekirdag/tekirdag-merkez"
                         },
@@ -19915,6 +20191,10 @@
                         {
                             "name": "Namık Kemal Üniversitesi - Değirmenaltı Yerleşkesi",
                             "url": "/tekirdag/namik-kemal-universitesi-degirmenalti-yerleskesi"
+                        },
+                        {
+                            "name": "Namık Kemal Üniversitesi - Marmara Ereğlisi Meslek Yüksekokulu",
+                            "url": "/tekirdag/namik-kemal-universitesi-marmara-ereglisi-meslek-yuksekokulu"
                         }
                     ]
                 }
@@ -21181,6 +21461,10 @@
                             "url": "/zonguldak/kozlu-fatih"
                         },
                         {
+                            "name": "Kozlu (Topbaşı Mah.)",
+                            "url": "/zonguldak/kozlu-topbasi-mah"
+                        },
+                        {
                             "name": "On Temmuz",
                             "url": "/zonguldak/on-temmuz"
                         },
@@ -21703,6 +21987,90 @@
                         {
                             "name": "Batman Üniversitesi - Merkez Kampüs",
                             "url": "/batman/batman-universitesi-merkez-kampus"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Bartın": [
+                {
+                    "Diğer Semtler": [
+                        {
+                            "name": "Amasra (Kum Mah.)",
+                            "url": "/bartin/amasra-kum-mah"
+                        },
+                        {
+                            "name": "Kozcağız (Merkez Mah.)",
+                            "url": "/bartin/kozcagiz-merkez-mah"
+                        },
+                        {
+                            "name": "Merkez (Ağdacı Mah.)",
+                            "url": "/bartin/merkez-agdaci-mah"
+                        },
+                        {
+                            "name": "Merkez (Aladağ Mah.)",
+                            "url": "/bartin/merkez-aladag-mah"
+                        },
+                        {
+                            "name": "Merkez (Cumhuriyet Mah.)",
+                            "url": "/bartin/merkez-cumhuriyet-mah"
+                        },
+                        {
+                            "name": "Merkez (Çaydüzü Mah.)",
+                            "url": "/bartin/merkez-cayduzu-mah"
+                        },
+                        {
+                            "name": "Merkez (Demirciler Mah.)",
+                            "url": "/bartin/merkez-demirciler-mah"
+                        },
+                        {
+                            "name": "Merkez (Esentepe Mah.)",
+                            "url": "/bartin/merkez-esentepe-mah"
+                        },
+                        {
+                            "name": "Merkez (Gölbucağı Mah.)",
+                            "url": "/bartin/merkez-golbucagi-mah"
+                        },
+                        {
+                            "name": "Merkez (Karaköy Mah.)",
+                            "url": "/bartin/merkez-karakoy-mah"
+                        },
+                        {
+                            "name": "Merkez (Kemerköprü Mah.)",
+                            "url": "/bartin/merkez-kemerkopru-mah"
+                        },
+                        {
+                            "name": "Merkez (Kırtepe Mah.)",
+                            "url": "/bartin/merkez-kirtepe-mah"
+                        },
+                        {
+                            "name": "Merkez (Köyortası Mah.)",
+                            "url": "/bartin/merkez-koyortasi-mah"
+                        },
+                        {
+                            "name": "Merkez (Okulak Mah.)",
+                            "url": "/bartin/merkez-okulak-mah"
+                        },
+                        {
+                            "name": "Merkez (Orduyeri Mah.)",
+                            "url": "/bartin/merkez-orduyeri-mah"
+                        },
+                        {
+                            "name": "Merkez (Orta Mah.)",
+                            "url": "/bartin/merkez-orta-mah"
+                        },
+                        {
+                            "name": "Merkez (Tuna Mah.)",
+                            "url": "/bartin/merkez-tuna-mah"
+                        }
+                    ]
+                },
+                {
+                    "Tüm Kampüsler": [
+                        {
+                            "name": "Bartın Üniversitesi - Merkez Kampüs",
+                            "url": "/bartin/bartin-universitesi-merkez-kampus"
                         }
                     ]
                 }
@@ -22755,6 +23123,10 @@
                         {
                             "name": "Mağusa (Tuzla)",
                             "url": "/kktc/magusa-tuzla"
+                        },
+                        {
+                            "name": "Mağusa (Yeniboğaziçi)",
+                            "url": "/kktc/magusa-yenibogazici"
                         },
                         {
                             "name": "Mağusa (Zafer Mah.)",

@@ -1,0 +1,754 @@
+{
+    "comment": [
+        {
+            "Comment": "Guzeldi.",
+            "Date": "2018-07-22",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Herşey çok lezzetli ve gayet hızlı servis ediliyor.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok hızlı geldi ve çok sıcaktı. Mükemmel.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İlk ve son siparişim oldu ancak bu kadar geç getirebilirdiniz pideler buz gibiydi.",
+            "Date": "2018-07-16",
+            "Flavour": "3",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Tşkler.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pidelerin içinde çok az kıyma vardı.",
+            "Date": "2018-07-11",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Geç geldi, siparişler karıştı.",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "6",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Gayet iyi.",
+            "Date": "2018-07-06",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hgüzeldi.",
+            "Date": "2018-07-06",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Efsaneydi.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pidelerin içi az ve tadı söylediğimi şeye benzemiyordu.",
+            "Date": "2018-06-27",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Pideleri gayet lezzetli.",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Ortalama teslimat süresinin aşılmasından dolayı, sipariş kullanıcı isteğiyle iptal edilmiştir. (Bu yorum Yemeksepeti tarafından otomatik yapılmıştır.)",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Kıymalı istdiğim halde peynirli geldi.",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "4",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mükemmel hız süper...",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet iyi.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Mükemmel.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Fena değil ama biraz yenilik lazım menüde.",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": ":).",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Sucuklar umarım bir memelinin etindendir. Ama hız iyiydi.",
+            "Date": "2018-06-23",
+            "Flavour": "5",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Teşekkür ederim lezzetli.",
+            "Date": "2018-05-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Teşekkür ederim cabuk geldi.",
+            "Date": "2018-05-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yuvarlak soyledik duz pide geldi...",
+            "Date": "2018-05-24",
+            "Flavour": "7",
+            "Serving": "4",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Haksız halde müşteriye bağırmak nedir ya allahın kroları.",
+            "Date": "2018-05-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-05-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Zafer mahallesine çok hızlı getiriyorlar 15 dakika içerinde geldi yanlız tek bir sıkıntı var menüye pidelerin görsellerini koyabilirseniz çok iyi olur.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Adamın dibiler.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Olması gerektiği gibi.",
+            "Date": "2018-05-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İdare eder.",
+            "Date": "2018-05-24",
+            "Flavour": "5",
+            "Serving": "2",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Saatler önce pişmiş olanı yollamasaydınız iyiydi be patron :)).",
+            "Date": "2018-05-24",
+            "Flavour": "5",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-05-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Fena sayılmaz.",
+            "Date": "2018-05-24",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "2 patatesli 2 peynirli söyledim. Peynirlilerde çok ağır kötü bir koku ve tat vardı. Olduğu gibi atmak zorunda kaldım 5 liram boşa gitti. Patatesli fena değildi yiyebildim. Ama bir daha söylemem.",
+            "Date": "2018-05-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "İyi güzel ama doyurucu değil hamur biraz daha kalın olabilir.",
+            "Date": "2018-05-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Sıcaklığa biraz daha önem verilebilir :).",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yemege daha 2 saat varsa soylenebilir. Cok yavaslar ve soylediginiz birebir gelmeyebiliyor. Kusbasili pidede baya kus basini aradim.",
+            "Date": "2018-04-24",
+            "Flavour": "2",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-04-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "1 saatte gelen sipariş... Evime 4 dakikalık bir mesafeden... Tek kelimeyle vasat!",
+            "Date": "2018-04-24",
+            "Flavour": "5",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Hızı gayet iyi lezzeti mükemmel güler yüzlü servis beğendim.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Sevdiğimiz bir mekn ama bazı günler lezzeti bozuyorlar, son siparişte onlardan birisiydi. Pidenin içinde kullandıkları malzemeyle alakalı olabilir. (kıymalı olan).",
+            "Date": "2018-04-24",
+            "Flavour": "2",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Fena değil.",
+            "Date": "2018-04-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Geç gelmesi dışında problem yok.",
+            "Date": "2018-04-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hız berbat. Sağolsun(! ) kurye siparişleri karıştırmış. Neymiş yoğunmuş. Ben 4 patatesli kır pidesi siparişi vermiştim ve ayran. Ama o 3 patatesli ve 2 kıymalı paketi bana verdi. Bende uğraştırmamak için kabul ettim mecburen. Zaten çok geç getirdi. Bir daha sipariş vermeyi düşünmüyorum.",
+            "Date": "2018-04-24",
+            "Flavour": "5",
+            "Serving": "3",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Artık yiyesim gelmiyor tatlar.",
+            "Date": "2018-04-24",
+            "Flavour": "4",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "2 kır pidesinin 5 dakikalık yürüme mesafesindeki evime 45-50 dakikada gelmesi dışında iyiydi.",
+            "Date": "2018-04-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Kiymalida. Patateslide hic eskisi gibi degil.",
+            "Date": "2018-04-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Trileçe süper.",
+            "Date": "2018-04-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hızlı.",
+            "Date": "2018-04-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yes.",
+            "Date": "2018-04-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-04-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İyiydi.",
+            "Date": "2018-04-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Devamlı iyi olarak gelen nadir yerlerden değeri bilinmeli, son zamanlarda hızda bir yavaşlama var ama yine de çoğu yerden daha iyi.",
+            "Date": "2018-04-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Fena değil.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Aşırı soğan üzüyor.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Kıymalı diye aldık soğanlı kır pidesi çıktı.",
+            "Date": "2018-03-25",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Her zamanki soğanlı lezzet.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Normalde pidelerinize bayılırım ama bugunu gelenler çok kötüydü. Bayat ve sertti hepsi. Bir kaç tanesi ısırlmıyordu nerdeyse zorla yedim :/.",
+            "Date": "2018-03-25",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Verdiğim sipariş henüz fırındaymış cok gecmeden aradılar bekletmek istemiyoruz baska bişey gönderelim mi diye, bende beklerim dedim. Büyük incelik. Üstelik yinede çok beklemedim ve yemek için beklemem gerekecek kadar sıcak geldi.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Oldukça hızlı ve iyi.",
+            "Date": "2018-03-25",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli hızlı.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Sipariş vermek için bir kere daha düşünün, servis, hız çok kötü.",
+            "Date": "2018-03-25",
+            "Flavour": "2",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Çok iyi.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Super.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fiyatı artmasına rağmen kalitesi aynı kaldı, hatta eskiden daha iyiydi.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Çooookkkk lezzetli ve doyurucu iyi ki varsın karadeniz pide bank.",
+            "Date": "2018-02-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Usta değişti sanirim. Tadinda bir farklilik sezdim.",
+            "Date": "2018-02-23",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Pide boyutu küçülmüş içinde peynir yok tamamen hamur geliyor bari patatesli iyi olsun patatesin fiyatı ne ki bu kadar az koyuyorsunuz? Birde fiyat 2. 5 lira olmuş kalitesizleşme yolunda uygun adımlarla gidiyorsunuz, tebrik ederim. Almayın kardeşim bimde var pide onu al fırına at en azından kaliteli.",
+            "Date": "2018-02-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "İçine atılan kekik yada nane herneyse isteğe bağlı olsa ve üstüne sürülen yağ in oranı dusurulsedaha daha iyi olacak.",
+            "Date": "2018-02-23",
+            "Flavour": "4",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "10 numaraydı.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız dışında hiçbir artınız yok. Kır pidelerinin hiçbirini yiyemedim hepsinin altı vıcık vıcık, erimiş kokmuş. Kuşbaşı kaşarlı olan tahta gibi şey hakkinda yorum bile yapamiycam. Aldığım tatlının ne tadı ne de kokusu hiç hoş değildi. 2. Kez böyle bir siparişle karşılaşıyorum.",
+            "Date": "2018-02-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Kır Pidesi",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patatesli Kır Pidesi",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaşılı & Kaşarlı Pide",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Peynirli Kır Pidesi",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı & Sucuklu Pide (Yuvarlak)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı & Kaşarlı Pide (Yuvarlak)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı & Kaşarlı Pide (Yuvarlak)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaşılı Karadeniz Pidesi",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuklu Kaşarlı Pide",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı & Sucuklu Pide (Yuvarlak)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı & Sucuklu & Yumurtalı Pide (Yuvarlak)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kaşar peyniri, domates, biber",
+            "ItemName": "Kıymalı & Kaşarlı & Sebzeli Pide (Yuvarlak)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaşılı & Kaşarlı Pide",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Karadeniz Pidesi",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Karadeniz Pidesi",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Karadeniz Pidesi",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Kavurma, sucuk, kaşar peyniri",
+            "ItemName": "Karışık Karadeniz Pidesi",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Karadeniz Pidesi",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Trabzon Yağlı Pidesi",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Kır Pidesi",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Peynirli Kır Pidesi",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patatesli Kır Pidesi",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ispanaklı Kır Pidesi",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fırın Sütlaç",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Karamelli Trileçe",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Supangle",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Light (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Max (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fruko (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tropicana (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonata",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (1 L.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Light (1 L.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Max (1 L.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (1 L.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fruko (1 L.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (1 L.)",
+            "ItemPrice": "4,50 TL"
+        }
+    ]
+}
