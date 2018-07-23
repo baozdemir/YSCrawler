@@ -30,6 +30,7 @@ def getAllCompaniesFromZone(href):
 	page = requests.get('https://www.yemeksepeti.com{}'.format(href))
 	soup = BeautifulSoup(page.content, 'html.parser')
 	#####Menu listing#####
+	itemName = ""
 	itemNameL, itemInfoL, itemPriceL = [],[],[]
 	restDetailBox = soup.find_all('div', class_='listBody')
 	for category in restDetailBox:
@@ -42,10 +43,11 @@ def getAllCompaniesFromZone(href):
 			itemInfo  = item.find('p').get_text()
 			itemPriceSpan = item.find('span', class_='newPrice')
 			itemPrice = itemPriceSpan.get_text()
-			itemNameL.append(itemName)
-			#categoryNameL.append(categoryName)
-			itemInfoL.append(itemInfo)
-			itemPriceL.append(itemPrice)
+			if(bool(itemName)):
+				itemNameL.append(itemName)
+				#categoryNameL.append(categoryName)
+				itemInfoL.append(itemInfo)
+				itemPriceL.append(itemPrice)
 			#print("{} {} {}".format(itemName,itemInfo,itemPrice))
 	#####comment listing####
 	flavourL,speedL,servingL,noteL,dateL = [],[],[],[],[]
@@ -62,6 +64,9 @@ def getAllCompaniesFromZone(href):
 			commentBodies = commentSoup.find_all('div', class_='comments-body')
 			for comment in commentBodies:
 				flavour = ""
+				speed = ""
+				serving = ""
+				note = ""
 				speedStringD = comment.find_all('div', class_='speed')
 				for stre in speedStringD:
 					speedString = stre.get_text()
