@@ -29,5 +29,5 @@ for file in glob.glob("*ankara.json"):
         print("yemek bazlı yapılan ortalama yorum sayıları :")
         print(commentCounts)
     with open(directory + "/analysis/" + file, 'w') as write:
-        obj = { "commentCount": sorted(commentCounts), "averageScore": sorted(averagePoints)}
+        obj = { "commentCount": commentCounts, "averageScore": averagePoints}
         json.dump(obj, write, ensure_ascii=False, indent=4, sort_keys=True)
