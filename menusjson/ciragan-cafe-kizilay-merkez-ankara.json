@@ -1,0 +1,968 @@
+{
+    "comment": [
+        {
+            "Comment": "Yediğim şeyi hatırladıkça hala midem bulanıyor.",
+            "Date": "2018-06-23",
+            "Flavour": "5",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Gelen filtre kahve tortu doluydu. Besbelli french presste basmışlar. Yiyecekler ise lezzetliydi.",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Noodle makarna çıktı ama çok sıcak geldi.",
+            "Date": "2018-06-23",
+            "Flavour": "5",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Çok memnun kaldım tavsiye ederim.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Paketlemei bilmiyorsunuz.",
+            "Date": "2018-04-24",
+            "Flavour": "5",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "",
+            "Speed": ""
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Çilli Kız + Baharatlı Patates Kızartması + Dip Sos + Kutu İçecek",
+            "ItemName": "Çilli Kız Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Köri Soslu Tavuk + Baharatlı Patates Kızartması + Pilav + Dip Sos + Seçeceğiniz Tatlı + Kutu İçecek",
+            "ItemName": "Çilli Kız Menü",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara Köfte + Baharatlı Patates Kızartması + Pilav + Dip Sos + Seçeceğiniz Tatlı + Kutu İçecek",
+            "ItemName": "Çilli Kız Menü",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, beyaz peynir, kaşar peyniri, siyah zeytin, yeşil zeytin, salam, sosis, bal, tereyağı, reçel, çikolata kreması, sebzeli börek, sigara böreği, patates kızartması, yumurta, çay",
+            "ItemName": "Çilli Kız Menü",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, beyaz peynir, kaşar peyniri, siyah zeytin, salam, sosis, bal, tereyağı, patates kızartması, çay",
+            "ItemName": "Çilli Kız Menü",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet yumurta. Domates, salatalık ile",
+            "ItemName": "Çilli Kız Menü",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet yumurta, beyaz peynir. Domates, salatalık ile",
+            "ItemName": "Çilli Kız Menü",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet yumurta, kaşar peyniri. Domates, salatalık ile",
+            "ItemName": "Çilli Kız Menü",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "2 adet yumurta, sucuk. Domates, salatalık ile",
+            "ItemName": "Çilli Kız Menü",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet yumurta, rende domates. Domates, salatalık ile",
+            "ItemName": "Çilli Kız Menü",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "2 adet yumurta, salam, sucuk, kaşar peyniri, mantar, mix biber. Domates, salatalık ile",
+            "ItemName": "Çilli Kız Menü",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "250 gr. domates, 50 gr. köy biberi",
+            "ItemName": "Çilli Kız Menü",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "250 gr. domates, 50 gr. köy biberi",
+            "ItemName": "Çilli Kız Menü",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "250 gr. domates, 50 gr. köy biberi",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "250 gr. domates, 50 gr. köy biberi, 50 gr. salam, 50 gr. sucuk, 50 gr. rende kaşar peyniri",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Yarım ekmek, beyaz peynir veya kaşar peynir, domates, yeşilbiber. Baharatlı patates kızartması, salata, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Jumbo boy tost ekmeği, 150 gr. kaşar peyniri. Baharatlı patates kızartması, salata, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Jumbo boy tost ekmeği, 100 gr. kaşar peyniri, 30 gr. sucuk, 30 gr. salam. Baharatlı patates kızartması, salata, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Bazlama ekmeği, 150 gr. kaşar peyniri, 50 gr. salam, 50 gr. sucuk, turşu, ketçap, mayonez. Baharatlı patates kızartması, salata, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Barbekü sos, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, soya sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, soya sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Panelenmiş tavuk parçaları. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Özel hamur ile kızartılmış tavuk parçaları, chili sos. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Özel susamlı sos ile kızartılmış tavuk parçaları. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet sosis, 2 adet kaşar pane, 2 adet sigara böreği, 2 adet soğan halkası, 2 adet nugget, 2 adet panko chicken, baharatlı patates, barbekü sos, dip sos",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Özel açma yufka, 100 gr. beyaz peynir. Salata ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Özel açma yufka, 100 gr. rende kaşar peyniri. Salata ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Özel açma yufka, 100 gr. rende kaşar peyniri, 50 gr. salam, 50 gr. sucuk, 50 gr. sosis. Salata ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Özel açma yufka, 200 gr. haşlanmış baharatlarla kavrulmuş patlıcan. Salata ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Özel açma yufka, 200 gr. haşlanmış baharatlı patates. Salata ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Özel açma yufka, 100 gr. haşlanmış baharatlı patates, 100 gr. rende kaşar peyniri. Salata ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Özel açma yufka, 80 gr. kavrulmuş kıyma, rende kaşar peyniri. Salata ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Yarım ekmek, 100 gr. dana sucuk, domates, yeşilbiber. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sandviç ekmeği, cin biber, kekik ve pul biber ile soslanmış ızgara tavuk. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen doğranmış biftek parçaları, renkli biberler, soya sos, rende kaşar peyniri. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Duble sandviç ekmeği, tavuk parçaları, kaşar peyniri, iceberg marul, turşu, domates. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış salam, sucuk, sosis, kaşar peyniri, louisiana sos. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sandviç ekmeği, özel sosla kızartılmış sosis, iceberg marul, turşu, domates. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sandviç ekmeği, kızartılmış tavuk parçaları, iceberg marul, turşu, karamelize edilmiş mantar ve domates. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sandviç ekmeği, ızgara köfteler, turşu, domates, iceberg marul. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sandviç ekmeği, 150 gr. beyaz peynir, domates, iceberg marul, yeşilbiber, salatalık. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sandviç ekmeği, 150 gr. kaşar peyniri, domates, iceberg marul, turşu. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Özel sandviç ekmeği, 150 gr. salam, domates, iceberg marul, turşu. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sandviç ekmeği, 100 gr. ton balığı, domates, iceberg marul, turşu. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sandviç ekmeği, salam, kaşar peyniri, Rus salatası, turşu, iceberg marul. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "90 gr. hamburger köftesi, salam, sucuk, domates, iceberg marul, turşu, karamelize soğan, Rus salatası, kaşar peyniri. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. panelenmiş tavuk göğüs, krema ile karamelize edilmiş soğan ve mantar, turşu, iceberg marul, domates. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "90 gr. hamburger köftesi, domates, turşu, iceberg marul. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "90 gr. hamburger köftesi, cheddar peyniri, iceberg marul, domates, turşu. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "90 gr. hamburger köftesi, domates, turşu, iceberg marul, jalapeno biberi, cheddar peyniri, louisianas sos. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "90 gr. hamburger köftesi, iceberg marul, jalapeno biberi, turşu, domates, cheddar peyniri, tortilla ekmeği. Baharatlı patates, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Yufkaya sarılmıi ızgara köfte, sarımsaklı yoğurt, özel sos. Patates kızartması, sebze garnitür ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Ev yapımı köfte. Pilav, patates kızartması, salata ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen doğranmış bonfile, mantar, özel karışımlı domates sos, louisiana sos. Pilav, salata ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Ev yapımı köfte, domates, mix biber, mantar, kaşar peyniri. Güveçte servis edilir.",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "4 adet tavuk kanat, 2 adet köfte, dana bonfile, tavuk bonfile. Pilav, salata, ızgara domates, biber ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Tereyağlı bazlama ekmeği, kibrit patates, yoğurt üzerine marine edilmiş jülyen bonfile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş patlıcan, sotelenmiş et. Rus salatası, baharatlı patates ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen doğranmış biftek parçaları, domates, köy biberi, soğan, kaşar peyniri",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Özel soslar ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen doğranmış tavuk, mix biber, mantar, turşu, mısır, krema, köri sos. Pilav, salata ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk bonfile. Pilav, salata, patates kızartması ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Panelenmiş tavuk bonfile. Baharatlı patates, salata ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk içerisine sarılmış özel soslu kaşar peyniri. Pilav, salata ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Özel soslar ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "100 gr. jülyen doğranmış tavuk bonfile, renkli biberler, mantar, jalapeno biberi, acı sos, kaşar peyniri. Baharatlı patates, salata, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "100 gr. jülyen doğranmış biftek, renkli biberler, mantar, jalapeno biberi, acı sos, kaşar peyniri. Baharatlı patates, salata, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen doğranmış biftek, mantar, renkli biberler, soya sos, kaşar peyniri. Baharatlı patates, salata, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen doğranmış tavuk, mantar, renkli biberler, soya sos, kaşar peyniri. Baharatlı patates, salata, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. köfte, mantar, renkli biberler, soya sos, kaşar peyniri. Baharatlı patates, salata, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "100 gr. jülyen doğranmış tavuk, krema, mantar, mix biber, üzerine eritilmiş kaşar peyniri. Baharatlı patates, salata, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "100 gr. jülyen doğranmış biftek, krema, mantar, mix biber, üzerine eritilmiş kaşar peyniri. Baharatlı patates, salata, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "100 gr. ev yapımı köfte, krema, mantar, mix biber, üzerine eritilmiş kaşar peyniri. Baharatlı patates, salata, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Kabak, havuç, patlıcan, karamelize soğan, cherry domates, özel sos. Patates püresi, yoğurt ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Mix baharatlı mevsim sebzeleri, biberler, mısır, mantar, krema, kaşar peyniri. Baharatlı patates, salata, dip sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Mix biber, haşlanmış sebzeler, mantar, soya sosu, parmesan peyniri",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Patates, mantar, mısır, baharatlandırılmış patates. Salata, dip sos, barbekü sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Mix biber, mevsim sebzeleri, mantar, kaşar peyniri, krema. Baharatlandırılmış patates, salata, dip sos, barbekü sos ile",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Napolitan sos, kaşar peyniri, cherry domates",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Pesto sos, krema, cherry domates, parmesan peyniri",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen doğranmış tavuk, mantar, krema, parmesan peyniri, cherry domates",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Antrikot parçaları, parmesan peyniri, acı sos, cherry domates",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen doğranmış et parçaları, renkli biberler, mantar, soya sosu, garnitür sebzeler, kaşar peyniri, cherry domates",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "200 gr. ev yapımı mantı, tereyağında sotelenmiş özel sos",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kıvırcık marul, havuç, kırmızılahana, salatalık, mısır, domates, özel soslanmış beyaz peynir",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, ton balığı, dilimlenmiş siyah zeytin, domates, turşu, mısır, halka soğan",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Sotelenmiş tavuk, Akdeniz yeşillikleri, domates, salatalık, kavrulmuş badem",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, maydanoz, biber, kuru soğan, ceviz",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, maydanoz, biber, kuru soğan",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, mısır, beyaz peynir, rende kaşar peyniri, parmesan peyniri, hellim peyniri, cherry domates, salatalık",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşilliklleri, havuç, salatalık, cherry domates, mısır, zeytin",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşilliklleri, havuç, salatalık, cherry domates, parmesan peyniri",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kıvırcık marul, havuç, kırmızılahana, salatalık, mısır, domates, özel sos, ızgarada kızartılmış kırmızı et",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kıvırcık marul, havuç, kırmızılahana, salatalık, mısır, domates, özel sos, ızgarada kızartılmış tavuk bonfile",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Sütlü Türk kahvesi",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Arabica coffee",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Espresso, süt köpüğü",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "Espresso, sıcak su",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Double espresso, krem şanti",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Espresso, sıcak su",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Espresso, süt, süt kreması",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Espresso, süt, süt köpüğü",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Espresso, süt, süt köpüğü",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Espresso, süt, süt köpüğü",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Espresso, süt, süt köpüğü",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Espresso, yoğun süt, süt köpüğü",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Espresso, yoğun süt, süt köpüğü",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Espresso, yoğun süt, süt köpüğü",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Espresso, yoğun süt, süt köpüğü",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Espresso, yoğun süt, süt köpüğü",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Espresso, süt krema, yoğun karamel",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Espresso, süt, süt krema, çikolata",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Vanilya aromalı kahve",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Fındık aromalı kahve",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata ve böğürtlen aromalı kahve",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Yoğun çikolata aromalı kahve",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fesleğen Soslu Tortellini",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Soğuk süt, espresso, buz",
+            "ItemName": "Ice Coffee",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Soğuk süt, buz, çikolata, krem şanti",
+            "ItemName": "Ice Chocolate",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Soğuk süt, espresso, buz",
+            "ItemName": "Ice Coffee Latte",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Soğuk süt, buz, beyaz çikolata, krem şanti",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Sıcak süt, çikolata, krem şanti, isteğe göre seçeceğiniz aroma",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Sıcak süt, beyaz çikolata, krem şanti, isteğe göre seçeceğiniz aroma",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ice White Chocolate",
+            "ItemPrice": "7,00 TL"
+        }
+    ]
+}

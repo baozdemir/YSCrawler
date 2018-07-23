@@ -1,0 +1,607 @@
+{
+    "comment": [
+        {
+            "Comment": "Hot dog çok iyiydi.",
+            "Date": "2018-07-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Taco favorimsin. Net.",
+            "Date": "2018-07-17",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Puanın bu kadar yuksek olduguna bakmayın kendileri yapmışlar belli geçen gün yemek söyledim 1 saat 45 dakikada söyledim sandviçin içinde malzemeden çok patates kızartması vardı ilk defa gördüm sandviçin içinde patates kızartması tek kelimeyle berbattı.",
+            "Date": "2018-07-17",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Kral geri döndü.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "10 üzerinden 10 teşekkürler :).",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ozlettiniz kendinizi.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tacoda 1 saat servis süresi verilmesine rağmen 20 dk da geldi. Daha önce taco yemediğim için değerlendirme yapmıyorum. Damak zevkime pek uygun değil. Teşekkürler.",
+            "Date": "2018-07-16",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-07-16",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Ton balıklı sandviç kötüydü.",
+            "Date": "2018-07-16",
+            "Flavour": "3",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Bu akşamki siparişimden sonra, yemeksepeti bana samuray ünvanı verdi. Herşey için ama özellikle paketten çıkan küçük süpriz için çok teşekkür ediyorum, kahkaha attırdınız:) devamını temenni ediyorum. Saygılar.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Taco çok iyi.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Super.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tek kelime ile mükemmel bir yemek deneyimiydi. Güler yüzü ile paket servis yapan arkadaş bandırmadaki suratsız paket elemanlarını utandırır. Siparişe ek olarak tatlı hediye etmişler bir de, teşekkürler ba ne di bundan sonraki tercihim sizsiniz.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzeti, hızı ve güleryüzü geçtim her siparişte eti puf yolluyorlar daha şeker bir işletmecilik anlayışı olabilir mi.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bandırmanın en iyisi.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gerçekten sosisli güzeldi fakat ekmeği tatsız tutsuzdu ekmeği değiştirirseniz daha iyi olabilir.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tost ve kızartmalar yalıtımlı köpük kutu içerisinde teslim edilmesine rağmen soğuktu. Teslimatlar daha sıcak bir şekilde sağlanmalı. Onun dışında lezzet ve memnuniyet gayet iyi.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Her seferinde aynı kalite.. Teşekkür ederiz..",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet guzeldi patates soguk geldi ama olsun uzak mesafeden dolayi.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Gelen tatli eksi bozulmustu.",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Tost ve karamellitr ileçe mükemmeldi.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hayatımda yediğim en garip ve en kötü kokulu şeydi galiba istiridye sos ) tacolar çok muhteşemdi, sandiviç ekmeğini nereden alıyorsunuz.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ayvalık tostu üzerinde çalışılmalı.",
+            "Date": "2018-02-23",
+            "Flavour": "5",
+            "Serving": "8",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Kasap sucuk, kaşar peyniri, domates, ketçap, Rus salatası",
+            "ItemName": "Ayvalık Tostu",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk veya salam, kaşar peyniri, domates salçası, kekik",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Büyük sandviç ekmeği, 80 gr. ev yapımı dana köfte, patates kızartması, közlenmiş biber, ev yapımı domates sos",
+            "ItemName": "Köfte Sandviç (16 cm.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sosta haşlanmış dana sosis, Rus salatası, patates kızartması, hardal, ketçap, mayonez",
+            "ItemName": "Hot Dog (27 cm.)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, bal, reçel, salam, siyah zeytin, yeşil zeytin, domates, salatalık, kaşar peyniri, kelle peyniri, lifli peynir, haşlanmış yumurta, baharatlı zeytinyağı, 2 adet sigara böreği, kahvaltı sosu, kızarmış dana sosis, patates kroket, 2 adet soğan halkası, ekmek",
+            "ItemName": "Kahvaltı Tabağı",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Büyük sandviç ekmeği, 100 gr. ev yapımı dana köfte, patates kızartması, közlenmiş biber, ev yapımı domates sos",
+            "ItemName": "Köfte Sandviç (27 cm.)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "(Ürün teslim süresi 60 dakikadır.) Baharatlı Elma Dilim Patates + Kutu İçecek",
+            "ItemName": "Sebzeli Noodle Menü",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "(Ürün teslim süresi 60 dakikadır.) Baharatlı Elma Dilim Patates + Kutu İçecek",
+            "ItemName": "Tavuklu Noodle Menü",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "(Ürün teslim süresi 60 dakikadır.) Baharatlı Elma Dilim Patates + Kutu İçecek",
+            "ItemName": "Etli Noodle Menü",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, bal, reçel, salam, siyah zeytin, yeşil zeytin, domates, salatalık, kaşar peyniri, kelle peyniri, lifli peynir, haşlanmış yumurta, baharatlı zeytinyağı, 2 adet sigara böreği, kahvaltı sosu, kızarmış dana sosis, patates kroket, 2 adet soğan halkası, ekmek",
+            "ItemName": "Kahvaltı Tabağı",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kasap sucuk, kaşar peyniri, domates, ketçap, Rus salatası",
+            "ItemName": "Ayvalık Tostu",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış yumurta, kaşar peyniri",
+            "ItemName": "Yumurtalı Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Domates salçası, kekik",
+            "ItemName": "Sucuklu Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Domates salçası, kekik",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Domates salçası, kekik",
+            "ItemName": "Salamlı Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk veya salam, kaşar peyniri, domates salçası, kekik",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Havuç, kabak, yeşil soğan, yeşilbiber, kırmızıbiber, soya filizi, soya sosu",
+            "ItemName": "Sebzeli Noodle",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk, havuç, kabak, yeşil soğan, yeşilbiber, kırmızıbiber, soya filizi, soya sosu",
+            "ItemName": "Tavuklu Noodle",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Biftek, havuç, kabak, yeşil soğan, yeşilbiber, kırmızıbiber, soya filizi, soya sosu",
+            "ItemName": "Etli Noodle",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Cheddar peyniri, krem peynir, beyaz peynir, domates, çarliston biber",
+            "ItemName": "3 Peynirli Sandviç (16 cm.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Cheddar peyniri, krem peynir, beyaz peynir, domates, çarliston biber",
+            "ItemName": "3 Peynirli Sandviç (27 cm.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, domates, salatalık",
+            "ItemName": "Beyaz Peynirli Sandviç (16 cm.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, domates, salatalık",
+            "ItemName": "Beyaz Peynirli Sandviç (27 cm.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Salam, zeytin ezmesi, domates, kaşar peyniri, biber",
+            "ItemName": "Salamlı Sandviç (16 cm.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Salam, zeytin ezmesi, domates, kaşar peyniri, biber",
+            "ItemName": "Salamlı Sandviç (27 cm.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "80 gr. ton balığı, domates, salatalık, marul",
+            "ItemName": "Ton Balıklı Sandviç (16 cm.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, domates, salatalık, marul",
+            "ItemName": "Ton Balıklı Sandviç (27 cm.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Haşlanmış yumurta, beyaz peynir, domates, marul",
+            "ItemName": "Yumurtalı Sandviç (16 cm.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Haşlanmış yumurta, beyaz peynir, domates, marul",
+            "ItemName": "Yumurtalı Sandviç (27 cm.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış büyük tost ekmeği arasına tatlı yer fıstığı ezmesi, muz, isteğe göre bal veya kakaolu fındık kreması",
+            "ItemName": "Fıstık Ezmeli Sandviç",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sosta haşlanmış dana sosis, Rus salatası, patates kızartması, hardal, ketçap, mayonez",
+            "ItemName": "Hot Dog (16 cm.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sosta haşlanmış dana sosis, Rus salatası, patates kızartması, hardal, ketçap, mayonez",
+            "ItemName": "Hot Dog (27 cm.)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "50 gr. dana kavurma, domates, marul",
+            "ItemName": "Kavurmalı Sandviç (16 cm.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "75 gr. dana kavurma, domates, marul",
+            "ItemName": "Kavurmalı Sandviç (27 cm.)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Büyük sandviç ekmeği, 80 gr. ev yapımı dana köfte, patates kızartması, közlenmiş biber, ev yapımı domates sos",
+            "ItemName": "Köfte Sandviç (16 cm.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Büyük sandviç ekmeği, 100 gr. ev yapımı dana köfte, patates kızartması, közlenmiş biber, ev yapımı domates sos",
+            "ItemName": "Köfte Sandviç (27 cm.)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Nugget, patates kızartması, domates, ketçap, mayonez",
+            "ItemName": "Nugget Sandviç (16 cm.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Nugget, patates kızartması, domates, ketçap, mayonez",
+            "ItemName": "Nugget Sandviç (27 cm.)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış dana sosis, patates kızartması, Rus salatası, ketçap",
+            "ItemName": "Sosisli Sandviç (16 cm.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış dana sosis, patates kızartması, Rus salatası, ketçap",
+            "ItemName": "Sosisli Sandviç (27 cm.)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Büyük sandviç ekmeği, kasap sucuk, domates",
+            "ItemName": "Sucuk Sandviç (16 cm.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Büyük sandviç ekmeği, kasap sucuk, domates",
+            "ItemName": "Sucuk Sandviç (27 cm.)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Büyük hamburger ekmeği, 80 gr. ev yapımı dana hamburger köftesi, domates, kornişon, marul, ketçap, mayonez",
+            "ItemName": "Hamburger",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Büyük hamburger ekmeği, 80 gr. ev yapımı dana hamburger köftesi, cheddar peyniri, domates, kornişon, marul, ketçap, mayonez",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet cordon bleu, patates kızartması, Rus salatası",
+            "ItemName": "Cordon Bleu",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Çıtır kanat, kızarmış patates, ketçap, mayonez, acı sos",
+            "ItemName": "Piliç Çıtır Kanat (5'li)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Çıtır kanat, kızarmış patates, ketçap, mayonez, acı sos",
+            "ItemName": "Piliç Çıtır Kanat (8'li)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "100 gr. ev yapımı dana köfte, patates kızartması, közlenmiş biber, ev yapımı domates sos",
+            "ItemName": "Köfte Tabağı",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "(Ürün teslim süresi 60 dakikadır.) Soft taco kabuğu, dana kıyma, taco baharatı, Meksika fasulyesi, cheddar peyniri, kıvırcık marul, domates, mısır, acı sos ",
+            "ItemName": "Mexican Taco (3 Adet)",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "(Ürün teslim süresi 60 dakikadır.) Soft taco kabuğu, dana kıyma, taco baharatı, Meksika fasulyesi, cheddar peyniri, kıvırcık marul, domates, mısır, acı sos",
+            "ItemName": "Mexican Taco (5 Adet)",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "1 porsiyon patates kızartması, 2 adet dana sosis, 2 adet nugget, 2 adet sigara böreği, 4 adet soğan halkası, 2 adet patates kroket, 2 paket ketçap ve mayonez",
+            "ItemName": "Sıcak Combo Tabağı (1-2 Kişilik)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "1,5 porsiyon patates kızartması, 4 adet dana sosis, 4 adet nugget, 4 adet sigara böreği, 8 adet soğan halkası, 4 adet patates kroket, 3 adet mozarella sticks, 3 paket ketçap ve mayonez",
+            "ItemName": "Sıcak Combo Tabağı (3-4 Kişilik)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sigara Böreği (5 Adet)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soğan Halkası (6 Adet)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soğan Halkası (8 Adet)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çin Böreği (2 Adet)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "250 gr.",
+            "ItemName": "Rus Salatası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tiramisu",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mozaik Pasta",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tropicana (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Uludağ Gazoz (25 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (20 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (20 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Uludağ Meyveli Soda (20 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Acı Sos",
+            "ItemPrice": "0,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ketçap",
+            "ItemPrice": "0,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mayonez",
+            "ItemPrice": "0,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tatlı Ekşi Sos",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Portakal Suyu (25 cl.)",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Havuç Suyu (25 cl.)",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Elma Suyu (25 cl.)",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "Portakal, havuç, elma",
+            "ItemName": "Taze Sıkma Karışık Meyve Suyu (25 cl.)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çay (20 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sade Kahve (20 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütlü Kahve (20 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappuccino (20 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mocha (20 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sade Latte (20 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Karamelli Latte (20 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sahlep (20 cl.)",
+            "ItemPrice": "4,50 TL"
+        }
+    ]
+}

@@ -1,0 +1,780 @@
+{
+    "comment": [
+        {
+            "Comment": "Siparişim hızlı bir şekilde, istediğim gibi geldi. Oldukça da lezizdi. Uzakdoğu mutfağını seviyorsanız kesinlikle deneyin derim.",
+            "Date": "2018-07-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pahalı be...",
+            "Date": "2018-07-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Gayet ıyidi ellerinize saglik.",
+            "Date": "2018-07-22",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Guzeldi.",
+            "Date": "2018-07-22",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Paketleme ve lezzet iyi daha soğumadan geldi.",
+            "Date": "2018-07-22",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Soya sosu göndermeyen, gördüğümüz ilk çin lokantası. Ayrıca yemek çok yağlıydı ve siparişimiz çok geç geldi. Umarım düzeltirsiniz.",
+            "Date": "2018-07-19",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Hızlı ve sıcak beklentilerimin üstünde. Yeni şubeniz için keşke bilgi veya reklam yapsaydınız başarılar.",
+            "Date": "2018-07-13",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Chicken Noodles",
+            "ItemName": "81. Tavuklu Noodles",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Shrimp Noodles",
+            "ItemName": "83. Karidesli Noodles",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "Avokado & Yengeç & Tobiko",
+            "ItemName": "110. California Maki Roll",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Sweet and Sour Chicken",
+            "ItemName": "26. Tatlı ve Ekşi Soslu Tavuk",
+            "ItemPrice": "28,50 TL"
+        },
+        {
+            "ItemInfo": "Hot & Sour Soup",
+            "ItemName": "3. Acılı & Ekşili Çorba",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Somon",
+            "ItemName": "105. Sake Roll",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Sebzeli Noodles + Çin Böreği (1 Adet) + California Roll (3 Adet)",
+            "ItemName": "Bento 1",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Sebzeli Noodle + Çin Böreği (1 Adet) + Kani Maki (3 Adet)",
+            "ItemName": "Bento 2",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Çin Böreği (1 Adet) + Karides Kese (2 Adet) + Tavuklu Noodles",
+            "ItemName": "Bento 3",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Yumurtalı Pilav + Kung Pao Usulü Tavuk (Yarım) + Çin Salatası",
+            "ItemName": "Bento 5",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Karides Kese (2 Adet) + Çin Salatası (Yarım) + Mançuryan Usulü Tavuk (Acılı) (Tam)",
+            "ItemName": "Bento 6",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Yumurtalı Pilav + Mançuryan Usulü Tavuk (Yarım) + Çin Salatası",
+            "ItemName": "Bento 7",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Sebzeli Noodle + Tatlı Ekşi Soslu Tavuk (Yarım) + Acılı Lahana Salatası",
+            "ItemName": "Bento 8",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Ebi (3 Adet) + Saake (3 Adet) + Kaani (6 Adet)",
+            "ItemName": "California Set Menü",
+            "ItemPrice": "34,50 TL"
+        },
+        {
+            "ItemInfo": "2 Çorba + Çin Salatası + 2 Çin Böreği + Tavuk Eti + Dana Eti + Pilav veya Noodles + 1 L. İçecek",
+            "ItemName": "2 Kişilik Set Menü",
+            "ItemPrice": "115,00 TL"
+        },
+        {
+            "ItemInfo": "Başlangıç + Dana Eti + Pilav veya Noodles + Kutu İçecek",
+            "ItemName": "Beef Chinese Menü",
+            "ItemPrice": "55,50 TL"
+        },
+        {
+            "ItemInfo": "Başlangıç + Tavuk Eti + Pilav veya Noodles + Kutu İçecek",
+            "ItemName": "Chicken Chinese Menü",
+            "ItemPrice": "52,50 TL"
+        },
+        {
+            "ItemInfo": "Başlangıç + Pekin Ördeği (Çeyrek) + Pilav veya Noodles + Kutu İçecek",
+            "ItemName": "Duck Chinese Menü",
+            "ItemPrice": "80,00 TL"
+        },
+        {
+            "ItemInfo": "Kani Maki (8 Pcs) + Sake Maki (8 Pcs) + California Roll (8 Pcs) + Spider Roll (8 Pcs) + Philadelphia Roll (8 Pcs)",
+            "ItemName": "Special Sushi Set Menü (40 Pcs)",
+            "ItemPrice": "78,50 TL"
+        },
+        {
+            "ItemInfo": "Kani Maki (8 Pcs) + Sake Maki (8 Pcs) + California Roll (8 Pcs)",
+            "ItemName": "Stranger Sushi Set Menü (24 Pcs)",
+            "ItemPrice": "44,50 TL"
+        },
+        {
+            "ItemInfo": "California Roll (3 Pcs) + Sake Maki (3 Pcs) + Avocado Maki (3 Pcs) + Ebi Nigiri (2 Pc) + Sake Nigiri (2 Pc)",
+            "ItemName": "Standart Sushi Set Menü (13 Pcs)",
+            "ItemPrice": "47,50 TL"
+        },
+        {
+            "ItemInfo": "Philadelphia Roll (3 Pcs) + Scandinavian Roll (3 Pcs) + Spider Roll (3 Pcs) + Paris Roll (3 Pcs) + Ebi Nigiri (1 Pc) + Sake Nigiri (1 Pc) + Maguro Nigiri (1 Pc)",
+            "ItemName": "Deluxe Sushi Set Menü (15 Pcs)",
+            "ItemPrice": "64,50 TL"
+        },
+        {
+            "ItemInfo": "Sake Tempura Roll (8 Pcs) + Kani Tempura Roll (8 Pcs) + Chicken Tempura Roll (8 Pcs)",
+            "ItemName": "Tempura Sushi Set Menü (24 Pcs)",
+            "ItemPrice": "55,50 TL"
+        },
+        {
+            "ItemInfo": "Vegetable Soup",
+            "ItemName": "1. Sebze Çorbası",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Chicken Soup with Sweet Corn",
+            "ItemName": "2. Mısırlı Tavuk Çorbası",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Hot & Sour Soup",
+            "ItemName": "3. Acılı & Ekşili Çorba",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Chicken Soup with Mushroom",
+            "ItemName": "4. Mantarlı Tavuk Çorba",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mixed Noodles Soup",
+            "ItemName": "5. Noodles Çorba",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Wanton Soup",
+            "ItemName": "6. Wonton Çorba",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Sea Food Soup",
+            "ItemName": "7A. Deniz Mahsüllü Çorba",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Misso Soup",
+            "ItemName": "7B. Miso Çorbası (Soya Fasulyesi Çorbası)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Beijing Soup",
+            "ItemName": "7C. Pekin Çorbası (Ördek)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Chinese Salad",
+            "ItemName": "8. Çin Salatası",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Spicy Cabbage Salad",
+            "ItemName": "12. Acılı Lahana Salata",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Spring Rolls",
+            "ItemName": "14. Çin Böreği",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Steamed Dumplings",
+            "ItemName": "21. Buharda Çin Mantısı",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "18. Edamame",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Fried Dumplings",
+            "ItemName": "20. Kızarmış Çin Mantısı",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "Prawn Crackers",
+            "ItemName": "13. Karides Cips",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Fried Squids",
+            "ItemName": "16. Kızarmış Kalamar",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Sesame Chicken",
+            "ItemName": "17. Susamlı Tavuk",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Fried Prawns with Sesame",
+            "ItemName": "15. Susamlı Karides",
+            "ItemPrice": "31,50 TL"
+        },
+        {
+            "ItemInfo": "Chicken with Almonds",
+            "ItemName": "22. Bademli Tavuk",
+            "ItemPrice": "29,50 TL"
+        },
+        {
+            "ItemInfo": "Gongbao Style Chicken (Spicy)",
+            "ItemName": "23. Gongbao Usulü Tavuk (Acılı)",
+            "ItemPrice": "28,50 TL"
+        },
+        {
+            "ItemInfo": "Manchurian Style Chicken (Spicy)",
+            "ItemName": "24. Mançuryan Usulü Tavuk (Acılı)",
+            "ItemPrice": "28,50 TL"
+        },
+        {
+            "ItemInfo": "Chicken with Curry",
+            "ItemName": "25. Körili Tavuk",
+            "ItemPrice": "28,50 TL"
+        },
+        {
+            "ItemInfo": "Sweet and Sour Chicken",
+            "ItemName": "26. Tatlı ve Ekşi Soslu Tavuk",
+            "ItemPrice": "28,50 TL"
+        },
+        {
+            "ItemInfo": "Chicken with Mushroom",
+            "ItemName": "27. Mantarlı Tavuk",
+            "ItemPrice": "28,50 TL"
+        },
+        {
+            "ItemInfo": "Crispy Chicken with Ginger Sauce (Spicy)",
+            "ItemName": "28. Zencefil Soslu Çıtır Tavuk (Acılı)",
+            "ItemPrice": "29,50 TL"
+        },
+        {
+            "ItemInfo": "Chicken with Chinese Mushroom",
+            "ItemName": "29. Çin Mantarlı Tavuk",
+            "ItemPrice": "30,50 TL"
+        },
+        {
+            "ItemInfo": "Chicken with Lemon Sauce",
+            "ItemName": "30. Limonlu Tavuk",
+            "ItemPrice": "30,50 TL"
+        },
+        {
+            "ItemInfo": "Chicken with Black Bean Sauce",
+            "ItemName": "31A. Siyah Fasulye Soslu Tavuk",
+            "ItemPrice": "29,50 TL"
+        },
+        {
+            "ItemInfo": "Mu Shu Chicken (Pancake) (Spicy)",
+            "ItemName": "31C. Mu Shu Tavuk (Acılı)",
+            "ItemPrice": "29,50 TL"
+        },
+        {
+            "ItemInfo": "Beef with Mushrooms",
+            "ItemName": "32. Mantarlı Dana Eti",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Shredded Beef with Green Pepper",
+            "ItemName": "33. Yeşil Biberli Dana Eti",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Beef with Curry",
+            "ItemName": "34. Körili Dana Eti",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Beef with Spring Onion",
+            "ItemName": "35. Taze Soğanlı Acılı Dana Eti",
+            "ItemPrice": "35,50 TL"
+        },
+        {
+            "ItemInfo": "Gongbao Style Beef (Spicy)",
+            "ItemName": "36. Gongbao Usulü Dana Eti (Acılı)",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Beef with Asparagus",
+            "ItemName": "37. Kuşkonmazlı Dana Eti",
+            "ItemPrice": "34,50 TL"
+        },
+        {
+            "ItemInfo": "Szechuan Style Beef ",
+            "ItemName": "38. Szechuan Usulü Dana Eti (Acılı)",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Beef with Mixed Vegetable",
+            "ItemName": "39. Karışık Sebzeli Dana Eti",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Beef with Oyster Sauce",
+            "ItemName": "40. İstiridye Soslu Dana Eti",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Beef with Broccoli (with Garlic)",
+            "ItemName": "41. Sarımsak Brokolili Dana Eti",
+            "ItemPrice": "34,50 TL"
+        },
+        {
+            "ItemInfo": "Beef with Chinese Mushrooms",
+            "ItemName": "42. Çin Mantarlı Dana Eti",
+            "ItemPrice": "35,50 TL"
+        },
+        {
+            "ItemInfo": "Crispy Duck (half)",
+            "ItemName": "52 A. Kızarmış Pekin Ördeği (Yarım)",
+            "ItemPrice": "82,50 TL"
+        },
+        {
+            "ItemInfo": "Crispy Duck (quarter)",
+            "ItemName": "52 B. Kızarmış Pekin Ördeği (Çeyrek)",
+            "ItemPrice": "53,50 TL"
+        },
+        {
+            "ItemInfo": "Sweet & Sour Duck",
+            "ItemName": "53. Tatlı & Ekşi Soslu Ördek",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Duck with Orange",
+            "ItemName": "54. Portakallı Ördek",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Sweet and Sour Prawns",
+            "ItemName": "55. Tatlı ve Ekşi Soslu Karides",
+            "ItemPrice": "36,50 TL"
+        },
+        {
+            "ItemInfo": "Manchurian Style Prawns (Spicy)",
+            "ItemName": "56. Mançuryan Usulü Karides (Acılı)",
+            "ItemPrice": "36,50 TL"
+        },
+        {
+            "ItemInfo": "Kung Pao Style Squids (Spicy)",
+            "ItemName": "57. Kung Pao Usulü Karides (Acılı)",
+            "ItemPrice": "36,50 TL"
+        },
+        {
+            "ItemInfo": "Shrimp with Spring Onion",
+            "ItemName": "58. Taze Soğanlı Karides",
+            "ItemPrice": "38,50 TL"
+        },
+        {
+            "ItemInfo": "Shrimp with Curry",
+            "ItemName": "59. Körili Karides",
+            "ItemPrice": "36,50 TL"
+        },
+        {
+            "ItemInfo": "Sweet and Sour Prawns",
+            "ItemName": "60. Tatlı ve Ekşi Soslu Levrek",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Steamed Whole Fish",
+            "ItemName": "61. Buharda Levrek",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Manchurian Style Seabass (Spicy)",
+            "ItemName": "62. Mançuryan Usulü Levrek (Acılı)",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Squids with Mixed Vegetables",
+            "ItemName": "63. Karışık Sebzeli Kalamar",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Kung Pao Style Squids (Spicy)",
+            "ItemName": "64. Kung Pao Usulu Kalamar (Acılı)",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Sweet and Sour Squids",
+            "ItemName": "65. Tatlı ve Ekşi Soslu Kalamar",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Mixed Vegetables",
+            "ItemName": "66. Karışık Mevsim Sebze",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Chinese Mushrooms",
+            "ItemName": "67. Çin Mantarlı Sebze",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Broccoli with Garlic",
+            "ItemName": "68. Sarmısak Soslu Brokoli",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Kuşkonmaz, sarımsak",
+            "ItemName": "69. Sarımsaklı Kuşkonmaz Sote",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Plain Rice",
+            "ItemName": "71. Sade Pilav",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Egg Fried Rice",
+            "ItemName": "72. Yumurtalı Pilav",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Chicken Fried Rice",
+            "ItemName": "73. Tavuk Etli Pilav",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Beef Fried Rice",
+            "ItemName": "74. Dana Etli Pilav",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "Shrimp Fried Rice",
+            "ItemName": "75. Karidesli Pilav",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Mixed Fried Rice",
+            "ItemName": "76. Karışık Pilav",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Fried Rice with Almonds",
+            "ItemName": "77. Bademli Pilav",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Fried Rice with Vegetables",
+            "ItemName": "78. Sebzeli Pilav",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Curry Rice",
+            "ItemName": "79. Körili Pilav",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Vegetable Noodles",
+            "ItemName": "80. Sebzeli Noodles",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Chicken Noodles",
+            "ItemName": "81. Tavuklu Noodles",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Beef Noodles",
+            "ItemName": "82. Dana Etli Noodles",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Shrimp Noodles",
+            "ItemName": "83. Karidesli Noodles",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "Special Noodles",
+            "ItemName": "84A. Karışık Noodles",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Singapore Noodles",
+            "ItemName": "84B. Singapur Noodles",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Szechuan Noodles",
+            "ItemName": "84C. Szechuan Noodles",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Salatalık",
+            "ItemName": "102. Kappa Roll",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç",
+            "ItemName": "104. Kani Roll",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Somon",
+            "ItemName": "105. Sake Roll",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Karides",
+            "ItemName": "106. avokado Ebi Roll",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Avokado & Japon turpu",
+            "ItemName": "108. Avokado Takuan Roll",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Avokado & Yılan Balığı",
+            "ItemName": "109. Avokado Unagi Roll",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Avokado & Yengeç & Tobiko",
+            "ItemName": "110. California Maki Roll",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Uçan Balık Yumurtası",
+            "ItemName": "111. Tobiko Nigiri",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Somon",
+            "ItemName": "113. Sake Nigiri",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Yılan Balığı",
+            "ItemName": "116. Unagi Nigiri",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Karides",
+            "ItemName": "112. Ebi Nigiri",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç",
+            "ItemName": "135. Kani Tempura Roll",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Somon",
+            "ItemName": "132. Sake Tempura Roll",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Karides",
+            "ItemName": "131. Ebi Tempura Roll",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "İçinde: Yengeç, Avokado, Salatalık. Dışında: Uçan Balık Yumurtası",
+            "ItemName": "141. California Roll (6 Pcs)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "İçinde: Yengeç, Karides, Salatalık. Dışında: Susam",
+            "ItemName": "143. Spider Roll (6 Pcs)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "İçinde: avokado, Yengeç. Dışında: Somon",
+            "ItemName": "144. Tokyo Roll (6 Pcs)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "İçinde: Salatalık, Krem Peynir, Somon. Dışında: Uçan Balık Yumurtası",
+            "ItemName": "145. Scandinavia Roll (6 Pcs)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "İçinde: Salatalık, Yengeç, Krem Peynir, Levrek. Dışında: Somon",
+            "ItemName": "146. Philadelphia Roll (6 Pcs)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "İçinde: Somon, Salatalık, Krem Peynir. Dışında: Uçan Balık Yumurtası, Spicy Sos",
+            "ItemName": "147. Spicy Philadelphia Roll (6 Pcs)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "İçinde: Somon, Salatalık, Krem Peynir Dışında: Susam",
+            "ItemName": "148. Boston Roll (6 Pcs)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "İçinde: Eel, Salatalık. Dışında: Susam",
+            "ItemName": "149. Hong Kong Roll (6 Pcs)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "İçinde: Tavuk Tempura, Icberg Marul, Chease Cream. Dışında: Panco, Mayonez, Bıldırcın Yumurtası",
+            "ItemName": "166. Chicken Tempura Roll",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "İçinde: Yılan Balığı, Somon. Dışında: Tobiko",
+            "ItemName": "161. Yin-Yang Roll",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "İçinde: Karides, Salatalık. Dışında: Tobiko",
+            "ItemName": "163. California Ebi Roll",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "İçinde: Avokado, Iceberg Marul, Chease. Dışında:Yılan Balığı",
+            "ItemName": "162. Dragon Roll",
+            "ItemPrice": "28,50 TL"
+        },
+        {
+            "ItemInfo": "İçinde: Somon Tempura, Iceberg Marul, Tobiko",
+            "ItemName": "165. Honsyu Roll",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "İçinde: Somon, Salatalık. Dışında: Tobiko",
+            "ItemName": "164. California Sake Roll",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "İçinde: Somon, Salatalık, Tobiko. Dışında:Kaşar Peyniri",
+            "ItemName": "167. Paris Roll",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Fried Banana with Honey",
+            "ItemName": "85. Kızarmış Ballı Muz",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Fried Pineapple with Honey",
+            "ItemName": "86. Kızarmış Ballı Ananas",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Fried Ice Cream with Honey",
+            "ItemName": "88. Kızarmış Ballı Dondurma",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Zencefil Turşusu",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Nestea (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Portakal Suyu",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soya Sos",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Wasabi",
+            "ItemPrice": "1,50 TL"
+        }
+    ]
+}

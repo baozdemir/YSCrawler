@@ -1,0 +1,593 @@
+{
+    "comment": [
+        {
+            "Comment": "Çok temiz çok lezzetli çok özenliydi.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey gayet iyidi.",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Salata kokuyordu eski sanırım.",
+            "Date": "2018-07-17",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Pideler ne yazık ki günü gününü tutmuyor bazen yanık bazen bayat.",
+            "Date": "2018-07-16",
+            "Flavour": "5",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Oldukça başarılı.",
+            "Date": "2018-07-15",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lahmacun yanında salata gönderiyorsunuz çatal kaşık göndermiyorsunuz bu konuda daha dikkatli ve değerlendirse seviniriz.",
+            "Date": "2018-07-13",
+            "Flavour": "10",
+            "Serving": "1",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sipariş çok gecikti, pide birbirine yapışmış karman çorman geldi. Bir daha sipariş vermem kesinlkle.",
+            "Date": "2018-07-12",
+            "Flavour": "2",
+            "Serving": "5",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Müşteriye karşı çok saygısızlar. Lezzet ve ürünler malesef çok kötü. Umarım düzeltirler. İncek bulvarı üzerindeki bilgin pidenin ürünleriyle kalitesiyle müşteriye yaklaşımlarıyla alakası yok. Hem ağzınızın hem de keyfinizin tadı kaçmasın. Uzak durun...",
+            "Date": "2018-07-08",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Porsiyon büyüklüğü fena değil ancak kıymada sanırım koyun eti var bu yüzden kokusu rahatsız etti. Hızı ortalama.",
+            "Date": "2018-07-08",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hız çok iyi, lezzette fiyata göre iyi.",
+            "Date": "2018-07-04",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişi getiren arkadaşa bravo.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lahmacun.",
+            "Date": "2018-07-02",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gayet hizli geldi. Hala da citir citirdi istedigimiz her sey. Memnun kaldik.",
+            "Date": "2018-07-01",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İncekte yer alan bilgin pide ile alakaları olmadığını şimdi öğrendim. Bir daha sipariş vermeyeceğim!",
+            "Date": "2018-07-01",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Kalite çok iyi. Teşekkürler.",
+            "Date": "2018-06-30",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Tatlıyı koymadığınızda üzülüyoruz.",
+            "Date": "2018-06-30",
+            "Flavour": "8",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Beytiniz şahaneydi, yan ürünler yoğurt pilav azdı ama olsun elinize sağlık teşekkürler.",
+            "Date": "2018-06-30",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Biraz daha ucuz olsa her gün buradan sipariş veririm (.",
+            "Date": "2018-06-29",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ne yazık ki porsiyonlar çok küçük.",
+            "Date": "2018-06-28",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Sipariş notuna dikkat etmiyorlar.",
+            "Date": "2018-06-23",
+            "Flavour": "2",
+            "Serving": "2",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Herşey gayet güzeldi.",
+            "Date": "2018-06-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Porsiyonlar umarım büyür.",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Pidelerin kenarları çok sert ve yanmış oluyor.",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Porsiyonlar çok küçük.",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Pideler çok tuzluydu, porsiyonları küçük. Ayrıca pidenin konduğu kartonlar çok kalitesiz olduğu için pideye kokusu ve tadı geçmişti. Pidelerin kenar kısımları çok sertti.",
+            "Date": "2018-06-23",
+            "Flavour": "6",
+            "Serving": "5",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Porsiyonları çok küçüktü onun dışında iyi bir restoran. Beyti güzel ama tavuk şiş doyurmadı ve tavuk şişin pilavı kuruydu.",
+            "Date": "2018-05-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pidesi ve lahmacunu güzel.",
+            "Date": "2018-05-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Tatlı yoktu.",
+            "Date": "2018-05-24",
+            "Flavour": "8",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Teşekkür ederim.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pideler güzeldi.",
+            "Date": "2018-05-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Kıymalı kaşarlı pidede yumurta çok güzel olmuştu.",
+            "Date": "2018-05-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "15 dakikada geldi,. Sıcak ve lezzetliydi. Umarım böyle devam ederler.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişimin içersinde bulunan ayran gelmedi...",
+            "Date": "2018-05-24",
+            "Flavour": "9",
+            "Serving": "1",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kesinlikle siparis notlarina dikkat edilmiyor.",
+            "Date": "2018-05-24",
+            "Flavour": "6",
+            "Serving": "1",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Köftede değişik bir koku vardı, rahatsız ediciydi.",
+            "Date": "2018-05-24",
+            "Flavour": "6",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lahmacunlarını begenmedim özellikle kenarlarını kurutmayın az pişirin diye not düşmeme rağmen kenarlarını kırıp yemek zorunda kaldım..",
+            "Date": "2018-05-24",
+            "Flavour": "2",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lahmacunlar çok tuzlu oluyor olmadığı zaman ise çok lezzetli.",
+            "Date": "2018-05-24",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Başarılı.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Not kısmına yazdıklarım dikkate alınmamış...",
+            "Date": "2018-04-24",
+            "Flavour": "5",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Güzeldi ama ben salatalık olmasın dediğim halde salatalık vardı.",
+            "Date": "2018-04-24",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Oldukça lezzetli.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Teşekkür ederim.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tşkler.",
+            "Date": "2018-04-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Daha önceki siparişlerimde memnun kalmıştım ancak bu sefer gelen yiyecek kartona yapışmıştı çıkarması zor oldu ayrıca görüntü itibariylede mahvolmuştu.",
+            "Date": "2018-04-24",
+            "Flavour": "5",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Hız için yapılacak yorum yok, 20-25 dakika gibi bir sürede geldi, gayet memnun kaldık. Lahmacunların lezzeti de iyi idi. Fakat şu yeşillik konusunda bir orta yolu bulamayacağız herhalde. Salatanın paketlenmesine biraz daha özen gösterilirse 10 numara olacak herşey.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kebaplar lezzetli ve sıcak geldi fakat menü dahilinde olan tatlımız gelmedi. Servis setindeki çatal kalitesiz olduğundan yemeğin yarısında çatalın tek dişi kaldı. Onun haricinde hız konusu benim için problem degildi. 35-40dk gibi bi sürede elime ulaştı. Emekleriniz için teşekkürler. :).",
+            "Date": "2018-04-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Pideler güzel.",
+            "Date": "2018-04-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-04-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Porsiyonlar azalmış kalite düşmüş maalesef.",
+            "Date": "2018-03-25",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Lahmacun yediğim en iyi lahmacun net.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Porsiyonlar fiyatına göre çok az.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "4",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Önceki siparişlerime nazaran iyiydi.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Biraz pahalı ama gayet başarılı.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Başarılı.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Nice hocam.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hani ekstra ya az koyun ya da çok koyun dememek lazım çünkü söylendikçe gelmiyor dikkat ederseniz sevinirim.",
+            "Date": "2018-03-25",
+            "Flavour": "6",
+            "Serving": "3",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Künefe buz gibi geldi. Lezzet cok kötü.",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Notu okumanız için yazıyoruz. Amacına uygun davranırsanız iyi olacak.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "6",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Buz gibi yemek yemekten sıkıldım.",
+            "Date": "2018-03-25",
+            "Flavour": "3",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Tatli gelmedi 2 seferdir bunu belirtsem de ilgi gormedi.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "2",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Minumum siparis tutarinin 15tl olması yakismadi bilgin pideye.",
+            "Date": "2018-03-25",
+            "Flavour": "9",
+            "Serving": "3",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Karışık ızgara fiyatına göre biraz vasat maalesef.",
+            "Date": "2018-02-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Pide kokuyordu. Tavuk şişin yanında pilav gelmedi porsiyon fiyatı hak etmiyor.",
+            "Date": "2018-02-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Patlıcan kebabında patlıcanlar çürük çorba lezzetsizdi.",
+            "Date": "2018-02-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Başarılı.",
+            "Date": "2018-02-23",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İçeceğimi unutmuşlar ama bu seferlik sorun etmedim patlıcanlı kebap güzeldi.",
+            "Date": "2018-02-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Pişmanlıktır.",
+            "Date": "2018-02-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "3"
+        },
+        {
+            "Comment": "First time ordering from bilgin pide kebab. Great service, delicious tasty food. Highly recommended.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Notları okuyalım lütfen.",
+            "Date": "2018-02-23",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kebabın tüm etleri dağılmıştı birde ekmek fazla kebap az geldi bu sipariş bana.",
+            "Date": "2018-02-23",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Siparişin değişik gelmesini haber vermeniz dileğiyle.",
+            "Date": "2018-02-23",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Başarılı.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Servis hızlı sıcak geliyor fiyatlar icek cevresinde en makul.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tatlı gelmedi, köfte soğuktu, ama lahmacunları güzel.",
+            "Date": "2018-02-23",
+            "Flavour": "5",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pidesi yerinde yediğimle alakası yoktu, adana asla söylenmez lastik gibiydi eti... Yıllarca köyiçindeki bilgin pidede yemek yedim ama sipariş hangi şubeden geldiyse eğer berbattı!",
+            "Date": "2018-02-23",
+            "Flavour": "1",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gönderilen tulumba harika.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet iyi.",
+            "Date": "2018-02-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "45 dk da gelecek siparis 75 dakikada geldi. Tek paketci 3 siparisi ayni anda dagitiyor en son siparis bana geliyor. Yemekler lezzetsiz ve buz gibiydi. Pidesiyle meshur oldugunu soyleyen bir restoranin bu kadar kotu pide yapmasida ayri bir muamma. Asla tavsiye etmiyorum uzak durun!",
+            "Date": "2018-02-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Benm için incekte tek.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Okuduğum yorumlara rağmen beklediğimden çok daha iyiydi.",
+            "Date": "2018-02-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bilgin pideyi çocukluğumdan bu yana bilirim dedem hep bize pide yaptırırdı. Yemek sepetinde görünce çok sevindimm yolları açık olsun güzel yer.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Döner çok tuzluydu.",
+            "Date": "2018-02-23",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kıymalı kaşarlı pide de kaşar yoktu.",
+            "Date": "2018-02-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "10"
+        }
+    ],
+    "menu": []
+}

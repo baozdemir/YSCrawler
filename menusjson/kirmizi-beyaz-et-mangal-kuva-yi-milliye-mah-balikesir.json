@@ -1,0 +1,413 @@
+{
+    "comment": [
+        {
+            "Comment": "Ellerinize sağlık herşey güzeldi teşekkürler kolay gelsin iyi çalışmalar.",
+            "Date": "2018-07-02",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Harika...",
+            "Date": "2018-06-28",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey güzel. Elinize sağlık. Yalnız domates koymaya mi korkuyorsunuz, 1/4 közlenmiş domates koymuşsunuz yine..",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Külbastıyı ortadan ikiye ayırabilene yemeği benden. Bu kadar kötü et yememişsinizdir. Yiyinde yemedim demeyin anlatırsınız anınız olur.",
+            "Date": "2018-06-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Lahmacun ve kıymalı pide kaşarlı ve karışık söyledik ama lezzet ve kalite açısından hiç tat alamadık marketteki dondurulmuş malzemeler den yapılmış gibiydi..",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Kıymalı pidenin yanında sadece salata vardı pidelerin de hiç tadı yoktu. Daha önce kuşbaşılı pide söylemiştim onların da pek tadı yoktu sadece servis hızı iyi.. Her seferinde haydari ve acılı ezme yok sadece salata var..",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Haydari ve acılı ezme gelmedi onun yanında başka bir sorun yok hız ve lezzet güzeldi gelen abimiz güleryüzlüydü teşekkürler.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gerçekten hızlı, servisi iyi, lezzeti de güzel, tercih edilebilir...",
+            "Date": "2018-03-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kuşbaşılı pide söyledim hemen geldi. Fakat pidelerden pek tat alamadım. Ayrıca haydari ve acılı ezme yoktu. Sadece salata vardı..",
+            "Date": "2018-02-23",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Joker indirimi vermemek için yoğunluk bahane ediyolar. Firma olamamış boş bir dükkan.",
+            "Date": "2018-02-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Sipariş hızı normal düzeyde ancak serviste eksiklik vardı söylediğimiz menüde haydari ve acılı ezme olmasına rağmen pakette çıkmadı bu eksiklik giderilirse vazgeçilmez bir restoran olabilir.",
+            "Date": "2018-02-23",
+            "Flavour": "9",
+            "Serving": "5",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Etli Çorba",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Haydari, salata, acılı ezme",
+            "ItemName": "Kıymalı Kaşarlı Pide",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Kasap köfte, Balıkesir köfte, tavuk şiş, kuzu pirzola, kuzu şiş, et döner, közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Karışık Izgara",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Haydari, salata, acılı ezme",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Haydari, salata, acılı ezme",
+            "ItemName": "Kuşbaşılı Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Lahmacun + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (2 Lahmacun)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Etli Çorba",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimek Çorbası",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Izgara Köfte",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Kasap Köfte",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Sucuk Köfte",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Pideli Köfte",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Kasap köfte, Balıkesir köfte, tavuk şiş, kuzu pirzola, kuzu şiş, et döner, közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Karışık Izgara",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Tavuk Kanat",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Tavuk Pirzola",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Tavuk Kelebek",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Kuzu Şiş",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Kuzu Pirzola",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Kuzu Külbastı",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Kuzu Ciğer Şiş",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Dana Bonfile",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Dana Antrikot",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, salata, ezme, haydari, tırnak pide, lavaş",
+            "ItemName": "Dana Şiş",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Haydari, salata, acılı ezme",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Haydari, salata, acılı ezme",
+            "ItemName": "Kuşbaşılı Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Haydari, salata, acılı ezme",
+            "ItemName": "Kaşarlı Pide",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Haydari, salata, acılı ezme",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Haydari, salata, acılı ezme",
+            "ItemName": "Kıymalı Kaşarlı Pide",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Kuşbaşı, kaşar peyniri, kıyma, haydari, salata, acılı ezme",
+            "ItemName": "Karışık Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Haydari, salata, acılı ezme",
+            "ItemName": "Sucuklu Kaşarlı Pide",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuzu Sac Kavurma",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dana Sac Kavurma",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Sac Kavurma",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ciğer Sac Kavurma",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salata",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ekmek Kadayıfı",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kemalpaşa Tatlısı",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Höşmerim",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaymak",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (18 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuzu Pirzola (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "47,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuzu Külbastı (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "47,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuzu Şiş (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "47,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dana Bonfile (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dana Antrikot (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dana Şiş (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Kasap köfte, Balıkesir köfte, tavuk şiş, kuzu pirzola",
+            "ItemName": "Soslu Spesiyal Izgara (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "60,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Kanat (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Şiş (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Pirzola (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Kelebek (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Izgara Köfte (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuzu Ciğer Şiş (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Izgara Sucuk (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "30,00 TL"
+        }
+    ]
+}

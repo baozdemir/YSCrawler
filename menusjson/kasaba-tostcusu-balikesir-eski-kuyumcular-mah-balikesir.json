@@ -1,0 +1,934 @@
+{
+    "comment": [
+        {
+            "Comment": "Mayonez az, kaşar ince olsa inanılmaz olurdu. Güzel lezzet.",
+            "Date": "2018-07-23",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı ve lezzetli.",
+            "Date": "2018-07-22",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Umarım daha iyi olurlar.",
+            "Date": "2018-07-20",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Genel anlamda yediğim tostların hepsi kendi katagorilerinde iyiler bence düşük puanlamayı hak etmeyen bir yer.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızı dışında gayet iyi fevkaladenin fevkinde.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Bol bol malzemeli muhteşemtost sadece hızında biraz sıkıntı var.",
+            "Date": "2018-07-15",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Belki hepsi 10u da haketmiyor ama 6 gibi puanları asla haketmiyor.",
+            "Date": "2018-07-13",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tek kelime ile mükemmel... Elinize sağlık.",
+            "Date": "2018-07-13",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Bir buçuk saatte tost geldi. Buz gibiydi içerisinde ki kaşarlar donmuştu. Yemek sepeti dıışında söylenenler hızlı oluyormuş bide böyle bir cevap aldık.",
+            "Date": "2018-07-12",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "2saate yakın zamanda geldi yemek...",
+            "Date": "2018-07-12",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Karışık ayvalık söyledik 4 dilim sucuk ketcap mayonezli geldi kavurma kaşarlı söyledik tam ekmeğe kaşar yoktu ortalarına serpiştirilmiş kavurma. Ek tursu istedk yok. 1 saat 10 dkda geldi rezillik başka bişey değil! 5. Siparişimdi belki düzelmiştir dedim bu sondu rezalet!",
+            "Date": "2018-07-11",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Fena değildi tesekurler.",
+            "Date": "2018-07-10",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Ayran yollamadılar...",
+            "Date": "2018-07-09",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Muhteşem hızlı doyurucu kaliteli ve güler yüzlü hizmet.",
+            "Date": "2018-07-06",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Rezalet!",
+            "Date": "2018-07-05",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Tostun içine turşu koyulmamıştı içinde bulunması gerekirken ama hız ve lezzet güzeldi patates kötünün iyisi bu arada.",
+            "Date": "2018-07-01",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Gayet hızlı ve sıcak geldi. Lezzetliydide tek sorun patates kızartmasının yanında ketçap ve mayonez olmaması.",
+            "Date": "2018-06-29",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hayatimin hatasi oldu.",
+            "Date": "2018-06-26",
+            "Flavour": "3",
+            "Serving": "4",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Fena değildi.",
+            "Date": "2018-06-25",
+            "Flavour": "5",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Böylesine güzel bir lezzet gölgede kalmamalı muhteşem.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey güzeldi tavsiye ederim..",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Karışık tost geldi lakin içinde sadece sucuk vardı 3 4 parça.",
+            "Date": "2018-06-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Bir tost en fazla me kadar kotu olabilir diyerek verdim siparisi. Gercekten ozel caba harcamislar yedigim en kotu tosttu.",
+            "Date": "2018-06-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Tostlar ramazan olmasına rağmen 1 saat 19 dk sonra ulaştı. Şimdiye kadar ki verdiğim siparişler içerisinde en geç getiren restoran oldu. Bu kadar sürede 35km mesafedeki bigadiçe gider, yemeği yer dönerdim. Patatesi 600gr sade söyledik ama hepsi baharatlı ve paketten dağılmıştı. Lezzet fena değildi.",
+            "Date": "2018-06-23",
+            "Flavour": "6",
+            "Serving": "3",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Memnunum fakat sipariş notlarına dikkat etmiyorsunuz. Bu konuda daha özenli olmanızı rica ediyorum.",
+            "Date": "2018-05-24",
+            "Flavour": "7",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Süperhızlı çok doyurucu ve kullanılan ürünlere göre fiyatı uygun.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "1 tost 1 patates kızartması ve 1 adet cola nasıl 1 saat 25 dakikada geliyor? Bu nasıl bir hız yiğidim. Arkadaşlar bir menemende domates nasıl bir rol oynuyorsa patates kızartmasının yanında mayonez ve ketçap da aynı işlevi görür. Ama yoktu. Tost ve patates kızartması da kolayla aynı sıcaklıktaydı.",
+            "Date": "2018-05-24",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Asla 6 puan ortalama alacak bir restoran değil.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Guzel.",
+            "Date": "2018-05-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet başarılı.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bence hersey gayet güzel.",
+            "Date": "2018-05-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Muhteşem.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişim 1 buçuk saat sonra geldi müşteri notlarıma hiç dikkat edilmemiş.",
+            "Date": "2018-05-24",
+            "Flavour": "6",
+            "Serving": "3",
+            "Speed": "1"
+        },
+        {
+            "Comment": "10 numaralı şehrin 10 numaralı tostçusu.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Memnun kalmadım.",
+            "Date": "2018-05-24",
+            "Flavour": "2",
+            "Serving": "3",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Muhteşem lezzet ve çok hızlı.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı, çok lezzetli ve doyurucuydu.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Beğenerek sipariş veriyorum tebrik ederim iyi çalışmalar.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kavurmalı tost çok iyi.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzet ve özen bakımından hiç sıkıntısı yok ama biraz geç geliyor.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Bazlama tost mükemmel eline sağlık ustam.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Susurluk tostu tam anlamıyla buranın 1 numarası.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Baharatlı patates 10 numara...",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tost ok, patates berbat, cok gec kaldi.",
+            "Date": "2018-04-24",
+            "Flavour": "5",
+            "Serving": "3",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Tostun efsanesi...",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-03-25",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Eyvallah kardeşim elinize sağlık güzeldi.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hem hızlı hem de lezzetli...",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Midenizi seviyorsaniz yanindan bile gecmeyin derim. Hayatimda yedigim en kotu sosisti bu...",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Susurluk tostu tam anlamıyla mükemmel.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tosta domates koyma fikrinden artık vazgeçin tüm tadını mahvediyorsunuz.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Not bölümüne yazdığıma hiç dikkat edilmemiş, istediğim gibi gelmedi ve 1 saatte geldi.",
+            "Date": "2018-03-25",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Bazlama tostu harikaydı.",
+            "Date": "2018-03-25",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Mükemmel servis ve harika tost ellerinize sağlık.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tost 1 saatte geldi üstelik buz gibiydi. Baharatlı patateste acayip kuruydu. Yiyemedim.",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Mükemmel servis fevkalade tost elinize sağlık.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bazen geç gelsede lezzet mükemmel.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Guzel tost yapamıyorlar. Soguk geliyor.",
+            "Date": "2018-03-25",
+            "Flavour": "3",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Etkileyici...",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Oldukça hızlı gayet doyurucu ve lezzetli teşekkürler...",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlıydı, sıcaktı ve gayet lezzetliydi.",
+            "Date": "2018-03-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok açsanız söylemeyin. Kebapla aynı zamanda geliyor.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Sipariş 1 saat 40 dk ya geldi. Çok hızlı maşallah. Teşekkürler.",
+            "Date": "2018-03-25",
+            "Flavour": "2",
+            "Serving": "3",
+            "Speed": "1"
+        },
+        {
+            "Comment": "En sevdigim ).",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "10 numara 5 yıldız teşekkürler.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sipariş geç gelmiş ve yazılan notlara önem vermemiş olsalar da lezzeti yerindeydi.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "3",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Çok lezzetli bir tosttu ve sıcacık geldi teşekkürler.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Porsiyonlar gayet doyurucu lezzetli.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fena değil.",
+            "Date": "2018-02-23",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Fiyatına göre doyurucu değildi.",
+            "Date": "2018-02-23",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Efsane.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Başarılı..",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İlk defa yedim efsane olmuş teşekkürler..",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mükemmel tostlar. Ayvalık tostu bi harika.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fena değildi.",
+            "Date": "2018-02-23",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Tost ve içecekler ayrı poşetle gelsin diye özel not düşmemize rağmen beraber geldi. Buz gibi tost.. Yemek epey zor oldu..",
+            "Date": "2018-02-23",
+            "Flavour": "7",
+            "Serving": "2",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok güzel elinize sağlık...",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Efso ogrenci tostu kocaman acayip doyurdu.",
+            "Date": "2018-02-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, ketçap, mayonez, turşu",
+            "ItemName": "Bazlama Ekmeğine Karışık Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Tost + Ayran (18 cl.)",
+            "ItemName": "Öğrenci Karışık Tost Menü",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Baharatlı Patates Kızartması",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "70 gr. sosis, 70 gr. sucuk, 70 gr. kaşar peyniri, ketçap, mayonez, turşu",
+            "ItemName": "Full Kasaba Ayvalık Tostu",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "Et döner, tavuk döner, sucuk, kaşar peyniri, yumurta, ketçap, mayonez, turşu",
+            "ItemName": "Kasaba Usulü Bomba Tost",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Kavurmalı Kaşarlı Tost + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Kavurmalı Kaşarlı Tost)",
+            "ItemPrice": "10,80 TL"
+        },
+        {
+            "ItemInfo": "Karışık Susurluk Tostu + Ayran (18 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Susurluk Tostu)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Karışık Tost + Ayran (18 cl.)",
+            "ItemName": "Öğrenci Karışık Tost Menü",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Susurluk Tostu + Ayran (18 cl.)",
+            "ItemName": "Karışık Susurluk Tostu Menü 1",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Susurluk Tostu + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Karışık Susurluk Tostu Menü 2",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Bazlama Ekmeğine Kaşarlı Tost + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Bazlama Ekmeğine Kaşarlı Tost Menü",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Peynirli Susurluk Tostu + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Peynirli Susurluk Tost Menü",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşarlı Ayvalık Tostu + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Kaşarlı Ayvalık Tost Menü",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Izgara Sosisli Tost + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Izgara Sosisli Tost Menü",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşarlı Tost + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Kaşarlı Tost Menü",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Karışık Tost + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Karışık Tost Menü",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Bazlama Ekmeğine Karışık Tost + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Bazlama Ekmeğine Karışık Tost Menü",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Sucuklu Susurluk Tostu + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Sucuklu Susurluk Tostu Menü",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Dönerli Kaşarlı Tost + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Tavuk Dönerli Kaşarlı Tost Menü",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Bazlama Ekmeğine Sucuklu Tost + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Bazlama Ekmeğine Sucuklu Tost Menü",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Kepek Ekmeğine Mihaliç Peynirli Tost + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Kepek Ekmeğine Milahiç Peynirli Tost Menü",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Sucuklu Ayvalık Tostu + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Sucuklu Ayvalık Tost Menü",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Karışık Ayvalık Tostu + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Karışık Ayvalık Tost Menü",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Sosisli Kaşarlı Ayvalık Tostu + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Sosisli Kaşarlı Ayvalık Tost Menü",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Izgara Sosisli Kaşarlı Tost + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Izgara Sosisli Kaşarlı Tost Menü",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Sucuklu Tost + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Sucuklu Tost Menü",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Izgara Sucuklu Kaşarlı Tost + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Izgara Sucuklu Kaşarlı Tost Menü",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "Et Dönerli Kaşarlı Tost + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Et Dönerli Kaşarlı Tost Menü",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "Pastırmalı Kaşarlı Tost + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Pastırmalı Kaşarlı Tost Menü",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Izgara Sucuklu Tost + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Izgara Sucuklu Tost Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Full Karışık Ayvalık Tostu + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Full Karışık Ayvalık Tost Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kavurmalı Kaşarlı Tost + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Kavurmalı Kaşarlı Tost Menü",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Full Kasaba Ayvalık Tostu + Patates Kızartması + Ayran (18 cl.)",
+            "ItemName": "Full Kasaba Ayvalık Tost Menü",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Sucuklu Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, ketçap, mayonez, turşu",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Izgara Sosisli Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Tavuk Dönerli Kaşarlı Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Et Dönerli Kaşarlı Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Izgara Sucuklu Tost",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Izgara Sosisli Kaşarlı Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Izgara Sucuklu Kaşarlı Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Pastırmalı Kaşarlı Tost",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Kavurmalı Kaşarlı Tost",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Kepek Ekmeğine Mihaliç Peynirli Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, yumurta, ketçap, mayonez, turşu",
+            "ItemName": "Standart Bomba Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Et döner, tavuk döner, sucuk, kaşar peyniri, yumurta, ketçap, mayonez, turşu",
+            "ItemName": "Kasaba Usulü Bomba Tost",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Kaşarlı Ayvalık Tostu",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Sucuklu Ayvalık Tostu",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, ketçap, mayonez, turşu",
+            "ItemName": "Karışık Ayvalık Tostu",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Sosisli Kaşarlı Ayvalık Tostu",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "70 gr. sosis, 40 gr. sucuk, 80 gr. kaşar peyniri, ketçap, mayonez, turşu",
+            "ItemName": "Full Karışık Ayvalık Tostu",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "70 gr. sosis, 70 gr. sucuk, 70 gr. kaşar peyniri, ketçap, mayonez, turşu",
+            "ItemName": "Full Kasaba Ayvalık Tostu",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Mihaliç Peynirli Susurluk Tostu",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Sucuklu Susurluk Tostu",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, mihaliç peyniri, ketçap, mayonez, turşu",
+            "ItemName": "Karışık Susurluk Tostu",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Bazlama Ekmeğine Kaşarlı Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Bazlama Ekmeğine Sucuklu Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, ketçap, mayonez, turşu",
+            "ItemName": "Bazlama Ekmeğine Karışık Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Baharatlı Patates Kızartması",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (20 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (20 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (20 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (18 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        }
+    ]
+}

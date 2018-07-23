@@ -1,0 +1,806 @@
+{
+    "comment": [
+        {
+            "Comment": "Çok geldi bayıldık açlıktan.",
+            "Date": "2018-07-22",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "No 10.",
+            "Date": "2018-07-15",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-07-15",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Fena değil.",
+            "Date": "2018-07-14",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İçine çiğköfteden başka hiçbirşey koyulmaz mı bir peçete ıslak mendil vs?",
+            "Date": "2018-07-14",
+            "Flavour": "7",
+            "Serving": "2",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Hiç değişmedi, hep şahane.",
+            "Date": "2018-07-14",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "1 yıldır sizden sipariş veriyorum, hız-servis- lezzet 10 numara. Siparişleri çoğunlukla dükkan sahibi beyfendi getiriyor saolsun, kimi zaman mecburiyetten kurye bir arkadaş getirmek zorunda kalıyor. İşte ne zaman o siparişi kurye getiriyor, genellikle de geç getiriyor. Buna bir çözüm. Teşekkürler.",
+            "Date": "2018-07-13",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Servisi kötüydü. Bütün dürümler nar ekşisinden dolayı birbirine yapışmış bir çözüm bulunmalı.",
+            "Date": "2018-07-13",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Lezzetli ve hizli.",
+            "Date": "2018-07-12",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Harikaaaa.",
+            "Date": "2018-07-12",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Biraz geç geldi ve kurye abi fazla nezaketsizdi. Onun dışında soslar turşular bol bol konmuştu.",
+            "Date": "2018-07-10",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Guzeldi.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her şeyiyle çok iyi. Turşu da gönderseler harika olacak da göndermiyorlar. Lezzeti tam sevdiğim gibi.",
+            "Date": "2018-07-10",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzet on numara hız on numara sadece 1kg cig koftenin yaninda acı sos ve nar eksisi gonderilse servisde 10 numara.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İi.",
+            "Date": "2018-07-04",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "6"
+        },
+        {
+            "Comment": "10/10.",
+            "Date": "2018-07-04",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "10/10.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her şey güzeldi.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hizli ve güzeldi ama ayrani unutmuslar.",
+            "Date": "2018-06-30",
+            "Flavour": "8",
+            "Serving": "4",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Jokerden söyledik oldukça başarılıydı.",
+            "Date": "2018-06-30",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-27",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gelistirilmeli.",
+            "Date": "2018-06-27",
+            "Flavour": "7",
+            "Serving": "5",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Güzeldi ama sütlaçlarını iyileştirmeleri gerekli.",
+            "Date": "2018-06-26",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süperdi çok çabuk geldi.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok lezzetliydi, nar ekşisi bol olsun diye not eklemiştim bolca koymuşlar sağolsunlar. Yalnız biraz geç geldi.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Yeruum.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Baska yerden farklılık olsun diye siparis veriyoruz dürümün sosları akmıs parcalanmıs rezil bi halde geliyor sonra gene buraya dönüyoruz en ufak sorun cıkmıyor farklılık aramayın.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bol yeşillik için teşekkürler.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Muthis lezzet.",
+            "Date": "2018-06-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ayran gelmemisti.",
+            "Date": "2018-06-23",
+            "Flavour": "9",
+            "Serving": "4",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Guzel.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Profiterolun son kullanma tarihinin yakınlığından olsa gerek içindeki krema bozuktu sadece dışındaki çikolatayı pudingmiş gibi yiyebildim birde daha iyi bir kapak yapılmalı tatlıya çünkü kutunun içinde de olsa dağılıyor.",
+            "Date": "2018-06-23",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "On numara.",
+            "Date": "2018-06-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Diger cigkoftecilerin hepsinden siparis vermisligim vardır en iyi servis paketleme ve hız burası bu isi daha düzgün yapan yok.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "10 numara!",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yarım kilo cifköfte icin sadece 1 minik nar eksisi ve ceyrek limon geldi. Lezzeti eskisi gibi degildi. Kuru ve eski bir ürün gibi duruyordu.",
+            "Date": "2018-06-23",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İşine saygı gösteren, aldığı parayı sonuna kadar hak eden bir şubedir burası.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Size kotu yorum yapanlari hayretle okudum gercekten. 2 senedir ofisce duzenli olarak siparis veriyoruz ve yedigimiz en guzel cigkofte sizinki! Emeginize saglik, eksik olmayin :).",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hizli teslimat, lezzetli.",
+            "Date": "2018-06-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Sadece durumum nar eksisi cok akmisti onun haricinde mukemmel.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli ama geç geldi. Arkadaşlar jokerden aynı paraya kokoreç yedi üzüldüm :(.",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Her zaman aynı sayılır ama bu sefer acısı fazlaydı.",
+            "Date": "2018-05-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika :).",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yeşillik biraz daha bol olabilir.",
+            "Date": "2018-05-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Marulları daha iyi seçerseniz memnun olurum.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yarım kilo çiğköfteye yarım limon ve 2 kutu nar ekşisini reva görmeniz bizi üzdü.",
+            "Date": "2018-05-24",
+            "Flavour": "8",
+            "Serving": "1",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sürekli aldığımız yer. 95 dakikada gönderdi doğal olarak teslim almadım. Her zamanki siparişti üstelik. Hayır gönderemiyoruz diye arasalar sorun yok, yada bizim ve yemek sepetinin teline cevap verseler. Onuda yapmadılar. Ama akşam yemeğinden sonra geldi ne yapayım doyduktan sonra. Teslim almadım.",
+            "Date": "2018-05-24",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Cok kuruydu marul azdi.",
+            "Date": "2018-05-24",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yaptıkları işe saygıları var 10 tl lik siparişi bile hemen getiriyorlar.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Vakitli geldi ve lezzetliydi.",
+            "Date": "2018-05-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Elinize sağlık teşekkür ederiz.",
+            "Date": "2018-05-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çayyolunun en iyi çiğköftecisi.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Eh.",
+            "Date": "2018-05-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Mukkemmel.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hızlı ve lezzetli daha ne olabilir.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her sey mukemmeldi tesekkurler.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ortalama.",
+            "Date": "2018-05-24",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Genelde memnun olmakla birlikte son 2 seferdir dürümlerdeki nar ekşisi akmış ve ıslak şekilde geliyor.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok güzeldi ama lavaş unutulmuşdu sorun değil o da.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yıllardır aynı lezzet aynı kalite. Gerçekten çok seviyoruz. Herkese tavsiye ederim. İyi çalışmalar.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mükemmel...",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey çok çok güzeldi.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok hızlı, servisi güzel...",
+            "Date": "2018-04-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok güzel çok beğendim.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hem hızlı hem lezzetli. Teşekkürler.",
+            "Date": "2018-04-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzelll.",
+            "Date": "2018-04-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Mükemmel.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zaman lezzetli eksiksiz ve hızlı ama keşke minimum tutarı bu kadar yukseltmeseydiniz.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkürler her zamanki lezzeti ile.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Çiğ Köfte Dürüm + Sütaş Ayran (20 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz malzemeler ile",
+            "ItemName": "Çiğ Köfte Dürüm",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Duble Çiğ Köfte Dürüm + Sütaş Ayran (30 cl.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "400 gr. çiğ köfte, 4 adet lavaş ekmeği, iceberg, nar ekşisi, limon",
+            "ItemName": "Çiğ Köfte (Tam)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz malzemeler ile",
+            "ItemName": "Duble Çiğ Köfte Dürüm",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "600 gr. çiğ köfte, 6 adet lavaş ekmeği, iceberg, nar ekşisi, limon",
+            "ItemName": "Çiğ Köfte (Duble)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çiğ Köfte Dürüm + Sütaş Ayran (20 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Duble Çiğ Köfte Dürüm + Sütaş Ayran (30 cl.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çiğ Köfte Dürüm + Kutu İçecek",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (1 kg.) + 4 Adet Tatlı + İçecek (1 L.)",
+            "ItemName": "Aile Menü 1",
+            "ItemPrice": "63,00 TL"
+        },
+        {
+            "ItemInfo": "4 Adet Çiğ Köfte Dürüm + 4 Adet Tatlı + 4 Adet Ayran (20 cl.)",
+            "ItemName": "Aile Menü 2",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "4 Adet Çiğ Köfte Dürüm + İçecek (1 L.)",
+            "ItemName": "Aile Menü 3",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (600 gr.) + İçecek (1 L.)",
+            "ItemName": "Misafir Menü 1",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (600 gr.) + 3 Adet Tatlı + İçecek (1 L.)",
+            "ItemName": "Misafir Menü 2",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "3 Adet Çiğ Köfte Dürüm + 3 Adet Tatlı + İçecek (1 L.)",
+            "ItemName": "Misafir Menü 3",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Çiğ Köfte Dürüm + 2 Adet Tatlı + 2 Adet Ayran (20 cl.)",
+            "ItemName": "Kanka Menü 1",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (400 gr.) + 2 Adet Tatlı + 2 Adet Ayran (20 cl.)",
+            "ItemName": "Kanka Menü 2",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "3 Adet Çiğ Köfte Dürüm + İçecek (1 L.)",
+            "ItemName": "Kanka Menü 3",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (1 kg.) + Zeytinyağlı Yaprak Sarma (500 gr.) + İçli Köfte (4 Adet) + 4 Adet Tatlı + İçecek (1 L.)",
+            "ItemName": "Duble Menü 1",
+            "ItemPrice": "95,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (1 kg.) + Zeytinyağlı Yaprak Sarma (250 gr.) + İçli Köfte (2 Adet) + 2 Adet Tatlı + İçecek (1 L.)",
+            "ItemName": "Duble Menü 2",
+            "ItemPrice": "70,00 TL"
+        },
+        {
+            "ItemInfo": "7 Adet Çiğ Köfte Dürüm + 3 Adet Tatlı + İçecek (1 L.)",
+            "ItemName": "Duble Menü 3",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz malzemeler ile",
+            "ItemName": "Çiğ Köfte Dürüm",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz malzemeler ile",
+            "ItemName": "Duble Çiğ Köfte Dürüm",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "200 gr. çiğ köfte, 2 adet lavaş ekmeği, iceberg, nar ekşisi, limon",
+            "ItemName": "Çiğ Köfte (Yarım)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "400 gr. çiğ köfte, 4 adet lavaş ekmeği, iceberg, nar ekşisi, limon",
+            "ItemName": "Çiğ Köfte (Tam)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "5 adet lavaş ekmeği, iceberg, nar ekşisi, limon",
+            "ItemName": "Çiğ Köfte (500 gr.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "600 gr. çiğ köfte, 6 adet lavaş ekmeği, iceberg, nar ekşisi, limon",
+            "ItemName": "Çiğ Köfte (Duble)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "10 adet lavaş, iceberg, 2 adet nar ekşisi, 2 yarım limon",
+            "ItemName": "Çiğ Köfte (1 kg.)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yeşillik",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lavaş (2 Adet)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Salatalık Turşusu",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Acı Sos",
+            "ItemPrice": "0,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Nar Ekşisi",
+            "ItemPrice": "0,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cin Biber",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Profiterol",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fırın Sütlaç",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kazandibi",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Karamelli Trileçe",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Frambuazlı Trileçe",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütaş Ayran (30 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütaş Ayran (20 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Doğanay Şalgam Suyu (1 L.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şıra (1 L.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Nar Ekşisi (1 L.)",
+            "ItemPrice": "10,00 TL"
+        }
+    ]
+}

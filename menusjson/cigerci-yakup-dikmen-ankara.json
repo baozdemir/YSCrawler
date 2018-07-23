@@ -1,0 +1,707 @@
+{
+    "comment": [
+        {
+            "Comment": "Porsiyonlar normalden fazla küçüktü. Mersinli ciğercilerde verilen ortalama porsiyonların çok altında. Kebap çok lezzetliydi fakat et şiş çok kuruydu. Mezeler çok başarılı.",
+            "Date": "2018-07-18",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mukemmel otesi.",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "10 10 10.",
+            "Date": "2018-07-18",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Adana kebap on numara.",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Beğendik.",
+            "Date": "2018-07-18",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok güzel, ellerinize sağlık...",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her zamanki gibi güzeldi.",
+            "Date": "2018-07-17",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yine efsane... Elinize saglik.",
+            "Date": "2018-07-17",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fiyatı çok fazla joker indirimi olursa tercih edilebilir.",
+            "Date": "2018-07-16",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Müthiş.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ciğeriniz çok değerli galiba azıcık koymuşsunuz!",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Adana çok yağlı ve tuzlu.",
+            "Date": "2018-07-16",
+            "Flavour": "1",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Son siparişlerimde porsiyonlar biraz küçüldü sanki. Ama servis lezzet ve hız çok iyi. Teşekkürler.",
+            "Date": "2018-07-13",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli ve yaninda gelen mezeler dolu dolu gayet yeterli. Paketleme ve hız cok iyi.",
+            "Date": "2018-07-10",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Böyle hiz boyle lezzet bir daha gelmez.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harikasınız herşey gerçekten çok güzel.",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gerçekten herşey mükemmeldi. Elinize sağlık.",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşeyiyle muhteşem.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Jokerden denk geldi, mezeler ve ciğeri efffsaneydi, ellerinize kollarınıza sağlık harika bir kahvaltı oldu, lütfen daha çok joker yapın öğrencileri sevindirin :))).",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tek kalıtesını bozmayan mekan ins boyle devam eder.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yan ürünler çok iyi. Ana yemek ise fena değil.",
+            "Date": "2018-07-02",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gayet güzel.",
+            "Date": "2018-06-30",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Et şişi çok beğendik çok lezzetliydi. Ayrıca çok hızlı teslim edildi, servis elemanı gayet nazikti. Teşekkür ederiz.",
+            "Date": "2018-06-30",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Efso sadece et porsiyon kucuk ama mezeler cok iyi.",
+            "Date": "2018-06-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Adana güzel tabii ki, ama en güzeli ikramlar.",
+            "Date": "2018-06-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet hızlı ve servis sıcaktı. Elinize sağlık.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mezeler cok fazla ziyan oluyor tek kişi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkürler. Her zamanki gibi.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bolca meze ve lavaş yollanmıştı.. Cigerler de gayet güzeldi.. Teşekkür ederiz...",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezizz.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Elinize sağlık çok başarılı.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İkram olarak gelenler çok lezzetli teşekkürler.",
+            "Date": "2018-06-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzet hız herşeyiyle güzeldi.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İşini iyi yapan bir işletme. Lezzet bakımından oldukça başarılı.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mezeler süper.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ustan işi biliyor.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok lezzetli yan mezeler müthiş.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cok guzel.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi sipariş teşekkürler.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli, hızlı ama bizim 27 milyon bir ciğere vermemizin sebebi mezesi iki kişiye bir kişilik meze göndererek kalbimizi kırdınız. O kadar meze tek kişiye de geliyor. Servisten puanı kırdım :).",
+            "Date": "2018-06-23",
+            "Flavour": "9",
+            "Serving": "4",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tavuk sisi ankaranin en iyisi, cigeri de guzel.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sipariş geldiğinde sımsıcaktı. Temiz, lezzetli ve uyumlu mezeler birbirine çok yakışmış. Adana kebap ve ciğer çok lezzetli pişirilmiş. Tebrik ederiz.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız, lezzet çok iyi. Yanında gelen mezeler süper. Ancak 1 porsiyon siparişe de, 2 porsiyon siparişe de aynı miktarda meze gönderilmesi tüm bu güzelliklere yakışmadı. Umarım bir dahakine dikkate alırsınız.",
+            "Date": "2018-06-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzetli.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ellerinize sağlık herşey çok güzeldi.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tadı yerindeydi ama porsiyon çok küçüktü joker olduğu içinmi acaba.",
+            "Date": "2018-06-23",
+            "Flavour": "3",
+            "Serving": "3",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Teşekkürler. Yine çok güzel. Ancak mezeleri ilk defa yemiş olsam mükemmel derdim. Ama sanki mezeler daha öncekilere göre olumsuz anlamda biraz farklıydı. Daha önce daha iyiydi gibi geldi bana.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Üstüne tanımıyoruz artık dikmen ve cevresinde herseyi mukemmel.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zamanki gibi çok güzel. Teşekkürler.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cevrenin en iyisi. Neredeyse haftada iki uc gun siparis veriyorum.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Seviyoruz sizi.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Joker olmasına rağmen herşey mükemmel ve olması gerektiği gibiydi ellerinize sağlık..",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mezelerin çeşitli ve çok olması dikkat çekiyor. Başka birisi için sipariş vermiştim, mezeleri beğendi.",
+            "Date": "2018-05-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Karişik ızgara istedim sadece şiş geldi. Yemek sepetini aradık cevap yok. Yedik biz de ne yapalım. Puanı şişirilmiş bir dükkan yeşillik zerzevat başka bi şey yok.",
+            "Date": "2018-05-24",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Fazla söze gerek yok. Mükemmel. Teşekkürler.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezletli ama notu dikkate almıyorsunuz.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harikuladesiniz!",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yanına mezeleri ve salataları doldurup, porsiyonları kuş kadar tutuyorlar.. Göz doldurmayla, yanıltma yapmaya çalışmakta başka birşey değil.. Aşırı pahalı bu yüzden.",
+            "Date": "2018-05-24",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Böyle lezletli bir yer daha görmedim ben.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her şey çok güzel. İnce düşünceniz için de ayrıca teşekkürler. Et ve ciğer de çok nefis. Ama mezeler efsane. Teşekkürler.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok çok pahalı ufacık bir şalgam suyu 4 lira! Bir daha söylemem bu dükkandan!",
+            "Date": "2018-05-24",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her yedigimde yorum yapıyorum sıkıldınz benden ama servis mükemmel ikramlar mükemmel gelen arkds güleryüzlü. Tebrik ederim sizi. Cankaya da restoran işletmecisiyim bekarım ve aksamları eve geldigimde yemek söyledigim tek yersiniz. Başarılarınızın devamını diliyprum.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yağların içinde et bulamadık. Adana kebabı sırf yağdan yapmışsınız. Midemiz bozuldu bitirmedik resmen. Mezeler fena değildi. Fakat midemiz hala çok kötü. Üzgünüm tekrar tercih etmeyeceğim.",
+            "Date": "2018-05-24",
+            "Flavour": "1",
+            "Serving": "3",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lezzet ve porsiyonlar çok iyi.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kuzu biraz tatsız ve yağsız, kuru. Porsiyon da daha büyük olabilir. Mezeler ise her zamanki gibi kusursuz. Mezeden kısıp lezzeti arttırsak bu şehirde marka olabilir.",
+            "Date": "2018-04-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper idi 3 tane on puanlı...",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fiyat yüksek, lezzet standart. Sunumu ve servis şeklide vasat.",
+            "Date": "2018-04-24",
+            "Flavour": "6",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Dikmende böyle güzel bir yer varmıydı diye soruyorum kendime.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok iyi mezesi var hakkaten.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her şey çok güzeldi ama şalgam suyumu göndermeyi unutmuşsunuz bana bi şalgam suyu borcunuz var:).",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet güzel ve hizli.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hersey cok güzeldi yine :) mezeyi azaltıp şiş leri çoğaltırsanız seviniriz :).",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ellerinize sağlık. Herşey mükemmeldi. Ezme, patlıcan vs. Efsane. Umarım zamanla minimum tutarı diğer firmalar gibi yükseltmezsiniz. Teşekkürler.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hem hızlı hem lezzetlitr afiğin en yoğun olduğu zamanda bile 15 dakikadan geç geldiğini görmedim.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bence cok iyiler hemde cok basarılarınızın devamını diliyorum. 26 tl ye karısık şiş ve 7 adet meze yufka ekmek fazla ve tazeydi hızları güzel paket servisinde artık dikmen de kaliteli bi restoran var. Böyle devam edin lütfen siparişlerimizin devamı gelecektir.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gerçekten mükemmel hız ve lezzet tek merak ettiğimiz ayrancı dan paket vardigimizde de 10 dakikada geliyor dikmenden verdiğimiz zamanda 10 dakikada geliyor bunu nasıl başarıyorsanız mükemmelsiniz. Adananıza bayılıyorum.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Et şiş harika artık başka yerden yemen lezzet süper.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İlk defa sipariş verdim. Mükemmel lezzet, servis ve hız. Teşekkürler. Yalnız karışık da 1, 5 porsiyon göremedim. Niye bilmiyorum ama olursa iyi olur diye düşünüyorum.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey güzelde 3 porsiyon yemeğe 1 değilde 3 meze yollasaydınız keşke yetmedi.",
+            "Date": "2018-03-25",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok iyi, notları da dikkate alsalar keşke.",
+            "Date": "2018-03-25",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok iyisiniz!",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Adana çok tuzlu et istedik ciger geldi cigerde güzeldi.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "7 dakika da gelen inanılmaz paket. Mezeler oldukça lezletli porsiyonlarda doyurucu kalitenizi bozmazsınız inşallah.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Alinazik, patlıcan ezme, çiğ ezme, közlenmiş soğan, soğan piyazı, yeşil salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+            "ItemName": "Et Şiş",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Alinazik, patlıcan ezme, çiğ ezme, közlenmiş soğan, soğan piyazı, yeşil salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+            "ItemName": "Ciğer Şiş",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Ciğer şiş, et şiş. Alinazik, patlıcan ezme, çiğ ezme, közlenmiş soğan, soğan piyazı, yeşil salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+            "ItemName": "Karışık Izgara",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Alinazik, patlıcan ezme, çiğ ezme, közlenmiş soğan, soğan piyazı, yeşil salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Alinazik, patlıcan ezme, çiğ ezme, közlenmiş soğan, soğan piyazı, yeşil salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Ciğer şiş, et şiş. Alinazik, patlıcan ezme, çiğ ezme, közlenmiş soğan, soğan piyazı, yeşil salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+            "ItemName": "Karışık Izgara (2 Kişilik)",
+            "ItemPrice": "54,00 TL"
+        },
+        {
+            "ItemInfo": "Alinazik, patlıcan ezme, çiğ ezme, közlenmiş soğan, soğan piyazı, yeşil salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Alinazik, patlıcan ezme, çiğ ezme, közlenmiş soğan, soğan piyazı, yeşil salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Alinazik, patlıcan ezme, çiğ ezme, közlenmiş soğan, soğan piyazı, yeşil salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+            "ItemName": "Et Şiş",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Alinazik, patlıcan ezme, çiğ ezme, közlenmiş soğan, soğan piyazı, yeşil salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+            "ItemName": "Ciğer Şiş",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Ciğer şiş, et şiş. Alinazik, patlıcan ezme, çiğ ezme, közlenmiş soğan, soğan piyazı, yeşil salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+            "ItemName": "Karışık Izgara",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Ciğer şiş, et şiş. Alinazik, patlıcan ezme, çiğ ezme, közlenmiş soğan, soğan piyazı, yeşil salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+            "ItemName": "Karışık Izgara (2 Kişilik)",
+            "ItemPrice": "54,00 TL"
+        },
+        {
+            "ItemInfo": "Alinazik, patlıcan ezme, çiğ ezme, közlenmiş soğan, soğan piyazı, yeşil salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+            "ItemName": "Tavuk Adana Kebap",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        }
+    ]
+}

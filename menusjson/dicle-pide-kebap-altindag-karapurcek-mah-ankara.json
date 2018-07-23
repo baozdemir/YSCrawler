@@ -1,0 +1,298 @@
+{
+    "comment": [
+        {
+            "Comment": "Eviniz restorantmis gibi hizmet.",
+            "Date": "2018-07-22",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pideler ve servis guzeldi tesekkur ederim.",
+            "Date": "2018-07-18",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İki kez sipariş verdim ve ikisinde de lezzet harikaydı. Servis de yeterince hızlı. Teşekkürler.",
+            "Date": "2018-07-18",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Yemek hızlı geldi ve sıcaktı.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika bir mekan.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Kıyma, domates, soğan, maydanoz. Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, domates, soğan, maydanoz. Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Beyti Kebap",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Köfte, domates, biber. Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Kiremitte Köfte",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk, domates, biber, salça sosu. Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Kiremitte Tavuk",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kıymalı Pide + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Kıymalı Pide)",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Şiş + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Tavuk Şiş)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimek Çorbası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ezogelin Çorbası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Urfa Kebap",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Beyti Kebap",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Yoğurtlu Adana Kebap",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Tavuk Kanat",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Adana kebap, tavuk şiş, tavuk kanat. Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Karışık Izgara",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, domates, soğan, maydanoz. Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, domates, soğan, maydanoz. Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Kaşarlı Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Kuşbaşı, domates, yeşilbiber. Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Kuşbaşılı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, yumurta. Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Sucuklu Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk, domates, biber. Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Tavuklu Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, soğan, biber. Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Karadeniz Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kuşbaşı, kaşar peyniri, mantar, sucuk, yumurta. Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Karışık Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Kuşbaşı, domates, biber, salça sosu. Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Kiremitte Kuşbaşı",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Köfte, domates, biber. Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Kiremitte Köfte",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk, domates, biber, salça sosu. Acılı ezme, salata, tel kadayıf ile",
+            "ItemName": "Kiremitte Tavuk",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Sac Kavurma",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tel Kadayıf",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (30 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (1 L.)",
+            "ItemPrice": "4,00 TL"
+        }
+    ]
+}
