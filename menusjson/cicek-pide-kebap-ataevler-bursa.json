@@ -1,0 +1,403 @@
+{
+    "comment": [
+        {
+            "Comment": "Kuryenizin saygisi ve kibarligi icin tesekkurler. Adana durum soyledik, servis ve paketleme guzeldi. Lakin durumun icinde et parcalarini aramak zorunda kaldik, bombos bir durum yedik.",
+            "Date": "2018-07-23",
+            "Flavour": "5",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Her şey çok güzel lezzet hız ancak not lar okunmuyur.",
+            "Date": "2018-07-17",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı.",
+            "Date": "2018-07-09",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çatal bıçak servisi peçete tuz koymamışlar dükkana söylediğimiz için zar zor yedik ama lezzeti iyiydi.",
+            "Date": "2018-07-05",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı servis.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hızlı servis.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "9"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Antep Lahmacun",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Cantık Pide",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, maydanoz, domates, isteğe göre soğan",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, maydanoz, domates, isteğe göre soğan",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Kebap + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Karışık Kebap)",
+            "ItemPrice": "29,50 TL"
+        },
+        {
+            "ItemInfo": "10 Adet Lahmacun + Haydari + 5 Sıkım Çiğ Köfte + Coca-Cola (1 L.) veya 3 Adet Ayran (20 cl.)",
+            "ItemName": "10'lu Lahmacun Menü",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "10 Adet Kıymalı Cantık + Haydari + 5 Sıkım Çiğ Köfte + Coca-Cola (1 L.) veya 3 Adet Ayran (20 cl.)",
+            "ItemName": "10'lu Kıymalı Cantık Menü",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "10 Adet Kaşarlı Cantık + Haydari + 5 Sıkım Çiğ Köfte + Coca-Cola (1 L.) veya 3 Adet Ayran (20 cl.)",
+            "ItemName": "10'lu Kaşarlı Cantık Menü",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "10 Adet Kuşbaşılı Cantık + Haydari + 5 Sıkım Çiğ Köfte + Coca-Cola (1 L.) veya 3 Adet Ayran (20 cl.)",
+            "ItemName": "10'lu Kuşbaşılı Cantık Menü",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ezogelin Çorbası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Urfa Kebap",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Paşa Sarma Kebap",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Domatesli Kebap",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Sarma Beyti Kebap",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Patlıcanlı Kebap",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Alinazik Kebap (Kıymadan)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Altı Ezmeli Kebap (Kıymadan)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Beyti Kebap",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Yoğurtlu Kebap",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Patlıcanlı kebap, domatesli kebap, Adana kebap, tavuk şiş, fındık lahmacun, pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Karışık Kebap",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Tavuk Kanat",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Kasap Köfte",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber, göbek marul, maydanoz, soğan ile",
+            "ItemName": "Pideli Köfte",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Antep Lahmacun",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, maydanoz, limon, domates, kırmızılahana",
+            "ItemName": "Kuşbaşılı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, maydanoz, limon, domates, kırmızılahana",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, maydanoz, limon, domates, kırmızılahana",
+            "ItemName": "Kaşarlı Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, maydanoz, limon, domates, kırmızılahana",
+            "ItemName": "Sucuklu Kaşarlı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, maydanoz, limon, domates, kırmızılahana",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, maydanoz, limon, domates, kırmızılahana",
+            "ItemName": "Kıymalı Kaşarlı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kuşbaşı, sucuk, yumurta, göbek marul, maydanoz, limon, domates, kırmızılahana",
+            "ItemName": "Karışık Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Kuşbaşı, kıyma, sucuk, kaşar peyniri, göbek marul, maydanoz, limon, domates, kırmızılahana",
+            "ItemName": "Çiçek Karışık Pide",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Güveç",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Güveç",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Sote",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Tavuk Sote",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Sote",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Et Sote",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Cantık Pide",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaşılı Cantık Pide",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Cantık Pide",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kuşbaşı, sucuk, yumurta",
+            "ItemName": "Karışık Cantık Pide",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, maydanoz, domates, isteğe göre soğan",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, maydanoz, domates, isteğe göre soğan",
+            "ItemName": "Urfa Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, maydanoz, domates, isteğe göre soğan",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Lavaş ekmeği, göbek marul, limon ile",
+            "ItemName": "Çiğ Köfte (10 Sıkım)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kızartma İçli Köfte (Adet)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salata",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Uludağ Gazoz (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şıra",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (1 L.)",
+            "ItemPrice": "4,00 TL"
+        }
+    ]
+}

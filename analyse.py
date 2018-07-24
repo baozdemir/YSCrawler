@@ -12,7 +12,7 @@ def isfloat(value):
 
 directory = os.path.dirname(os.path.realpath(__file__))
 os.chdir("menusjson")
-for file in glob.glob("*ankara.json"):
+for file in glob.glob("*.json"):
     commentCounts = {}
     averagePoints = {}
     with open(file, 'r') as f:

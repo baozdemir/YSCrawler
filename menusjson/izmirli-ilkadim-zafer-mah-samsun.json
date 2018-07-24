@@ -1,0 +1,923 @@
+{
+    "comment": [
+        {
+            "Comment": "Çok güzel.",
+            "Date": "2018-07-22",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ürün lezzetli fakat hız sorunu cozulse guzel olacak.",
+            "Date": "2018-07-21",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Guzeldi teşekkürler.",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harikaydınız yine.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişi sicak ve zamanında getirseler tek geçerim kumruda.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "6",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Özellikle belirttiğimiz halde herseyi. Hiçbirşeyi onemsemeyip yerse yesinler yemezse yemesinler hizmeti vermeyin insana.",
+            "Date": "2018-07-15",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Bosa söylemeyin çöp.",
+            "Date": "2018-07-14",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Yine ekmek bayatti.",
+            "Date": "2018-07-12",
+            "Flavour": "2",
+            "Serving": "7",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Super.",
+            "Date": "2018-07-11",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Sicak ve hızlı hizmet.",
+            "Date": "2018-07-11",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Super.",
+            "Date": "2018-07-11",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Gayet iyi.",
+            "Date": "2018-07-11",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Harikasınız.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Uzun süre bekletmeden ve sıcak olarak siparişler geldi. Hamburger ekmeği büyük ve doyurucuydu. Yalnız rus salatası ile hamburgerin içine ketcap ve mayonezde başka markayı tercih ederlerse sanıyorum lezzette çok daha başarılı olacaktır.",
+            "Date": "2018-07-10",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hiz disinda gayet iyi.",
+            "Date": "2018-07-08",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Super.",
+            "Date": "2018-07-07",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Lezzet harika fakat siparişin gelmesi hayattan sogutur insanı.",
+            "Date": "2018-07-07",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Hız dışında hersey gayet guzeldi.",
+            "Date": "2018-07-06",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Hayatımda yediğim en kötü pizzaydı almayın.",
+            "Date": "2018-07-05",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Eh işte.",
+            "Date": "2018-07-05",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Servis çok geç.",
+            "Date": "2018-07-04",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Çok geç geldi ve buz gibiydi.",
+            "Date": "2018-07-04",
+            "Flavour": "1",
+            "Serving": "2",
+            "Speed": "1"
+        },
+        {
+            "Comment": "İki malzemeli kumpir yemek zorunda kaldım. Seçtiğim hiçbir şey yoktu. Keşke biraz özenli davransaydınız.",
+            "Date": "2018-07-04",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Kumru sevenlere şiddetle tavsiye ediyorum.",
+            "Date": "2018-07-04",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harikaydi yine.",
+            "Date": "2018-07-02",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Siparişin bize geliş sürecini azaltabilseler harika olacak.",
+            "Date": "2018-07-01",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Harikaydi.",
+            "Date": "2018-06-30",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "1. 5 saat bekledim ortalamanın iki katı.",
+            "Date": "2018-06-29",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Lezzet tazeliği çok güzel ellerinize sağlık.",
+            "Date": "2018-06-27",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sade satilan hamburgerinin icinde et yok ben yemedim tadida kotu.",
+            "Date": "2018-06-26",
+            "Flavour": "2",
+            "Serving": "3",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Sipariş gelene kadar bafraya gidip geldim :).",
+            "Date": "2018-06-25",
+            "Flavour": "5",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "45 dakika deyip 1. 3p saatte gelmesi.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Buz gibi 2 saat de geldi tadı kötüydi.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Kumpir yokmuş, o zaman bildirecekler menüde olmayacak. Ne yollayabilirsiniz dedim, 2-3 liranın hesabını yaparak bir şey yolladılar, kurumuş, soğuk, tatsız, çöpe attım. Patates kızartması da söylemiştim mutlaka yollayın dedim yollamamışlar. İki kişiydik. Kafalarına göre kola getirmişler ice tea yerine.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Nimet falan ama hamburgerler çok kötüydü market köftesini alıp ekmeğin içine koymuşsunuz resmen verdiğim paraya acıdım yazık yani.",
+            "Date": "2018-06-24",
+            "Flavour": "2",
+            "Serving": "1",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Getiren abi çok gülümserdi ama kumpir beklentimi karşılamadı.",
+            "Date": "2018-06-24",
+            "Flavour": "5",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kumpir söyledim malzemeler yanlış ve yaptığı kumpirin sadece en üst kısmında çok az olacak şekilde malzeme var dı altı ise full haşlanmış patates yani 10 lira veriyosunuz 3 kuruşluk sosis, rus salatası vs. Gibi malzemerden 1 er gram yiyorsunuz ve 10 kilo da püre... Diyecek birşey yok almayın.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "6",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Kumpir ehh iste.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Kumru 10 numara 5 yıldız.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Hamburger istedim ekmek arası cisim geldi.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Kuryeci abimiz sagolsun jet gibi getirdi lezzet deseniz fiyatina uygun daha ne istenir ki.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İstediğimiz malzemelerden eser yok siz kafaniza göre eklemişsiniz yazık kumpir olmamış.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Hiç memnun kalmadım. Büyük boy pizza söyledim ama kesinlikle büyük boy gelmedi. Ve soğuktu, lezzetsizdi. Çok pişman oldum.",
+            "Date": "2018-06-24",
+            "Flavour": "2",
+            "Serving": "2",
+            "Speed": "6"
+        },
+        {
+            "Comment": "1saat değil 2saat seğil 2 saat 15 dakika sonra geldi...",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Ne umutlarla kumpir siparisi verdim hiç beklediğim gibi cıkmadı.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "3",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Bir restoran ın kuryesi yok isr sipariş butonunu açmaz, açıyor ise de gecikme nedeni ile arar durumu anlatır biz de bu şekilde siparişimizi beklemeyiz boş yere.",
+            "Date": "2018-06-24",
+            "Flavour": "2",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Künefe ve kumru birbirine girmemiş olsa 1 saatlik beklemem değerdi belki...",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Kumpiri beğenmedik tereyağı bi tarafta kaşar bi tarafta falan.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Kumru sandviç söyledim hayatımda yediğim en küçük sandviçti. Şöyle anlatayım normal dandviç tam ekmek olsa bunların gönderdiği sandviç çeyrek ekmek anca olur. Kaşar salam da beklediğim gibi çıkmadı zaten. Bir daha fotoğrafı olmayan yerden sipariş vermeyeceğim.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Yavaş ama nice.",
+            "Date": "2018-06-24",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "4"
+        },
+        {
+            "Comment": "On numara hediyeli.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İzmirli urfalı olmuş.",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "4",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Rezalet kumru soğuktu ve yaklaşık 2 saate geldi sakın sipariş vermeyin.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Eh işte idare eder.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Kumru harika abartmıyorum samsunda kumruyu daha iyi yapan bi yer yok ben her yeri denedim özellikle ekmeği susamlı ve çok lezzetli düşünmeden sipariş verilir.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yemek sepeti gibi kurumsal bir firmaya asla böyle amatör bir yemek şirketi yakışmadı verilen hizmet sunum servis hepsi rezalet.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "İyi deildi.",
+            "Date": "2018-05-25",
+            "Flavour": "2",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tam bir rezalettt hatta rezalet bile az kalır.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Kumpir sipariş vermistim 40 dakikada geldi. Patates soğuktu ve kumpir patatesin icine tereyag ve kasar peyniri eritilir ama getirdiklerinde patatesin ortasina malzemeyi koymus oldugu gibi getirdiler. Berbat otesi.",
+            "Date": "2018-05-25",
+            "Flavour": "2",
+            "Serving": "6",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Görsellerde yazılan içerikte gelmedi ve çok uzun sürdü.",
+            "Date": "2018-05-25",
+            "Flavour": "3",
+            "Serving": "4",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Rezalet.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Garden ve mantar salata söyledim. Çok güzeldi. Ellerinize sağlık ama ben tuz kullanmadığım için yerken zorlandım. Çok rica ediyorum lütfen tuz atmayın yiyeceklere.",
+            "Date": "2018-04-25",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İdara eder.",
+            "Date": "2018-04-25",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "5"
+        },
+        {
+            "Comment": "İader eder birspariş oldu bu bir sonrakine ya nasip.",
+            "Date": "2018-04-25",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sipariş soğuk geldi.",
+            "Date": "2018-03-26",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Künefe fena değil.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Her yere servislerinin olmaması kötü lezzetleri şahane ancak hızları çok kötü siparişiniz 1 saat üzerinde geliyor.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Servis tam 1. 5 saat sürdü aradık yolda dediler. Gelen ürün zaten yazdıklarından farklıydı...",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Yıllardır değişmeyen lezzet seni seviyorum izmirli.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kumrusu gayet iyi, fiyat performans oranı çok iyi.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "7"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Izgara sosis, salam, sucuk, kaşar peyniri, turşu, ketçap, mayonez",
+            "ItemName": "Kumru Sandviç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz malzemeler ile",
+            "ItemName": "Karışık Kumpir",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Kumru + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Kumru Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Rus salatası, göbek marul, patates kızartması, turşu, ketçap, mayonez",
+            "ItemName": "Hamburger",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Hamburger Menü",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Kumru + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Kumru Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Hamburger Menü",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Kroket + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Tavuk Kroket Menü",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim Salata + Kumru + Kutu İçecek",
+            "ItemName": "Mevsim Salata Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Süper Pizza (Orta) + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Süper Pizza (Orta) Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Spesiyal Pizza (Orta) + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Spesiyal Pizza (Orta) Menü",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Karışık Kumpir + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Karışık Kumpir Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "İzmir De Lux + Patates Kızartması + Kutu İçecek",
+            "ItemName": "İzmir De Lux Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, beyaz peynir, yeşil zeytin, siyah zeytin, patates kızartması, tereyağı, reçel, bal, domates, salata, salam, sucuk",
+            "ItemName": "Kahvaltı Tabağı",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Yumurta",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sahanda Yumurta",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Yumurta",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sosisli Yumurta",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Salamlı Yumurta",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Omlet",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Omlet",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Salamlı Omlet",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sosisli Omlet",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet tavuk şnitzel, patates kızartması, Rus salatası, göbek marul, havuç, kırmızılahana, turşu",
+            "ItemName": "Tavuk Şnitzel",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk şnitzel, tavuk kroket, sebzeli nugget, sosis, patates kızartması, Rus salatası, göbek marul, havuç, kırmızılahana, turşu",
+            "ItemName": "İzmirli Spesiyal",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "2 adet cordon bleu, patates kızartması, göbek marul, havuç, kırmızılahana, turşu, Rus salatası",
+            "ItemName": "Cordon Bleu",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Sosis, cordon bleu, patates kızartması, göbek marul, havuç, kırmızılahana, turşu, Rus salatası",
+            "ItemName": "Sosis Spesiyal",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk şnitzel, tavuk kroket, spesiyal köfte, sosis, patates kızartması, Rus salatası, göbek marul, havuç, kırmızılahana, turşu",
+            "ItemName": "İzmirli De Lux",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk şnitzel, cordon bleu, tavuk kroket, göbek marul, havuç, kırmızılahana, turşu, Rus salatası",
+            "ItemName": "İzmirli Delight",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk şnitzel, cordon bleu, tavuk kroket, sosis, göbek marul, havuç, kırmızılahana, turşu, Rus salatası",
+            "ItemName": "Mega Plate",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber",
+            "ItemName": "Akçaabat Köfte",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "İskender (Et Dönerden)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, domates",
+            "ItemName": "Margherita Pizza (Orta)",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, sucuk",
+            "ItemName": "Scorpion Pizza (Orta)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, salam, sucuk",
+            "ItemName": "Marion Pizza (Orta)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, salam, sucuk, yeşil biber, közlenmiş biber, mantar",
+            "ItemName": "Süper Pizza (Orta)",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, domates, yeşil biber, közlenmiş biber, siyah zeytin, mısır, mantar",
+            "ItemName": "Veggie Pizza (Orta)",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, salam, sosis, mantar, çift kat peynir",
+            "ItemName": "Kordon Pizza (Orta)",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Acılı pizza sosu, pizza peyniri, salam, sucuk, yeşil biber, közlenmiş biber, domates",
+            "ItemName": "Arrabbiata Pizza (Orta)",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, salam, sucuk, sosis, yeşil biber, közlenmiş biber, mantar",
+            "ItemName": "Lux Pizza (Orta)",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, salam, sucuk, sosis, yeşil biber, közlenmiş biber, domates, siyah zeytin, mısır, mantar",
+            "ItemName": "Special Pizza (Orta)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, domates",
+            "ItemName": "Margherita Pizza (Büyük)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, sucuk",
+            "ItemName": "Scorpion Pizza (Büyük)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, salam, sucuk",
+            "ItemName": "Marion Pizza (Büyük)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, salam, sucuk, yeşil biber, közlenmiş biber, mantar",
+            "ItemName": "Süper Pizza (Büyük)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, domates, yeşil biber, közlenmiş biber, siyah zeytin, mısır, mantar",
+            "ItemName": "Veggie Pizza (Büyük)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, salam, sosis, mantar, çift kat peynir",
+            "ItemName": "Kordon Pizza (Büyük)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı pizza sosu, pizza peyniri, salam, sucuk, yeşil biber, közlenmiş biber, domates",
+            "ItemName": "Arrabbiata Pizza (Büyük)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, salam, sucuk, sosis, yeşil biber, közlenmiş biber, mantar",
+            "ItemName": "Lux Pizza (Büyük)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, pizza peyniri, salam, sucuk, sosis, yeşil biber, közlenmiş biber, domates, siyah zeytin, mısır, mantar",
+            "ItemName": "Special Pizza (Büyük)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, tereyağı",
+            "ItemName": "Sade Kumpir",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz malzemeler ile",
+            "ItemName": "Karışık Kumpir",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Rus salatası, göbek marul, patates kızartması, turşu, ketçap, mayonez",
+            "ItemName": "Hamburger",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Çıtır tavuk köftesi, Rus salatası, göbek marul, patates kızartması, turşu, mayonez",
+            "ItemName": "Çıtır Burger",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara sosis, salam, sucuk, kaşar peyniri, turşu, ketçap, mayonez",
+            "ItemName": "Kumru Sandviç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk kroket, sosis, Rus salatası, patates kızartması, turşu, ketçap, mayonez",
+            "ItemName": "Tavuk Kroket Sandviç",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Sosis, Rus salatası, patates kızartması, turşu, ketçap",
+            "ItemName": "Goralı Sandviç",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "Salam, kaşar peyniri, Rus salatası, göbek marul, turşu, mayonez",
+            "ItemName": "Salamlı Sandviç",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, göbek marul, turşu, mısır, mayonez",
+            "ItemName": "Ton Balıklı Sandviç",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, salatalık, beyaz peynir, mısır, özel sos",
+            "ItemName": "Akdeniz Salata",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, havuç, kırmızılahana, mısır, özel sos",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Salam, mayonez, kaşar, havuç, bezelye",
+            "ItemName": "İtalyan Salata",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Iceberg marul, mısır, havuç, közlenmiş kırmızı biber, siyah zeytin",
+            "ItemName": "Garden Salata",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, salatalık, kaşar peyniri, salam, tavuk, mısır, yeşil zeytin, özel sos",
+            "ItemName": "Şef Salata",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, tavuk, kruton ekmek, kaşar peyniri, Sezar sos",
+            "ItemName": "Sezar Salata",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, kırmızılahana, domates, mantar, mısır, yeşil zeytin, özel sos",
+            "ItemName": "Mantar Salata",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, havuç, kırmızılahana, tavuk, mısır, özel sos",
+            "ItemName": "Thai Chicken Salata",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, havuç, ton balığı, mısır, özel sos",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Patates, havuç, bezelye, turşu, mayonez",
+            "ItemName": "Rus Salatası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Waffle",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dimes (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        }
+    ]
+}

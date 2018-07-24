@@ -1,0 +1,458 @@
+{
+    "comment": [
+        {
+            "Comment": "Very good.",
+            "Date": "2018-07-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tadıyla agız da lezzet bırakan tek midyeci teşekkürler.",
+            "Date": "2018-07-22",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yorumların aksine gece 1 de sipariş verdigim halde taze lezzetli midye gönderdiginiz için cok teşekkürler.",
+            "Date": "2018-07-21",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Very good..",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Midyeler harikaydı tekrar tekrar sipariş veresim var.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kokoreçin içinde kokoreç yoktu, midyeler bayattı.",
+            "Date": "2018-07-16",
+            "Flavour": "4",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Elinize sağlık.",
+            "Date": "2018-07-16",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Midyelerin tadı bir garipti ve kola siparişim ücreti ödenmesine rağmen gelmedi.",
+            "Date": "2018-07-16",
+            "Flavour": "2",
+            "Serving": "4",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Midyeler harika küçük boy istedim orta boy grldi. Bence işinin hakkını fazlasıyla veriyorlar.",
+            "Date": "2018-07-13",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kesinlikle cok pahalı ve büyük boy deyıp kücüçük midye yollamışlar hiç memnun kalmadım.",
+            "Date": "2018-07-11",
+            "Flavour": "1",
+            "Serving": "2",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Büyük boy söledim lezzet olarak iyi ancak beklediğim kadar büyük değildi midyeler. Servis iyiydi akşam saati 50 dk gibi bir sürede geldi normal kabul edilebilir.",
+            "Date": "2018-07-05",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "7"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Midye Dolma (Küçük) (Adet)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Midye Dolma (Orta) (Adet)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Midye Dolma (Büyük) (Adet)",
+            "ItemPrice": "1,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kazandibi Midye (Orta) (Adet)",
+            "ItemPrice": "2,90 TL"
+        },
+        {
+            "ItemInfo": "Kekik, kimyon, pul biber, domates ve yeşilbiber",
+            "ItemName": "Yarım Ekmek Kokoreç",
+            "ItemPrice": "14,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kazandibi Midye (Büyük) (Adet)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "85 Adet Karışık Boy Midye Dolma + Coca-Cola (1 L.)",
+            "ItemName": "Seçilmiş Menü (Midye Dolma)",
+            "ItemPrice": "82,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Boy Midye Dolma (60 Adet) + 2 Adet Ayran (20 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Karışık Midye Dolma)",
+            "ItemPrice": "65,90 TL"
+        },
+        {
+            "ItemInfo": "Karışık Boy Midye Dolma (20 Adet) + Kazandibi Midye Dolma (5 Adet) + Limon (Adet) + Sütaş Ayran (20 cl.)",
+            "ItemName": "1 Kişilik Özel Menü",
+            "ItemPrice": "39,90 TL"
+        },
+        {
+            "ItemInfo": "Karışık Boy Midye Dolma (40 Adet) + Kazandibi Midye Dolma (10 Adet) + Limon (2 Adet) + 2 Adet Sütaş Ayran (20 cl.)",
+            "ItemName": "2 Kişilik Özel Menü",
+            "ItemPrice": "76,75 TL"
+        },
+        {
+            "ItemInfo": "Karışık Boy Midye Dolma (60 Adet) + Kazandibi Midye Dolma (15 Adet) + Limon (3 Adet) + 3 Adet Sütaş Ayran (20 cl.)",
+            "ItemName": "3 Kişilik Özel Menü",
+            "ItemPrice": "99,50 TL"
+        },
+        {
+            "ItemInfo": "Karışık Boy Midye Dolma (80 Adet) + Kazandibi Midye Dolma (20 Adet) + Limon (4 Adet) + 4 Adet Sütaş Ayran (20 cl.)",
+            "ItemName": "4 Kişilik Özel Menü",
+            "ItemPrice": "128,75 TL"
+        },
+        {
+            "ItemInfo": "Karışık Boy Midye Dolma (120 Adet) + Kazandibi Midye Dolma (30 Adet) + Limon (6 Adet) + 6 Adet Sütaş Ayran (20 cl.)",
+            "ItemName": "6 Kişilik Küçük Aile Menüsü",
+            "ItemPrice": "199,50 TL"
+        },
+        {
+            "ItemInfo": "Karışık Boy Midye Dolma (150 Adet) + Kazandibi Midye Dolma (50 Adet) + Limon (8 Adet) + 10 Adet Sütaş Ayran (20 cl.)",
+            "ItemName": "10 Kişilik Büyük Aile Menüsü",
+            "ItemPrice": "275,75 TL"
+        },
+        {
+            "ItemInfo": "Midye Dolma (Küçük) (80 Adet) + Kazandibi Midye Dolma (2 Adet) (Orta) + Limon (2 Adet)",
+            "ItemName": "Menü 1",
+            "ItemPrice": "59,50 TL"
+        },
+        {
+            "ItemInfo": "Midye Dolma (Küçük) (60 Adet) + Kazandibi Midye Dolma (2 Adet) (Orta) + Limon (2 Adet)",
+            "ItemName": "Menü 2",
+            "ItemPrice": "49,50 TL"
+        },
+        {
+            "ItemInfo": "Midye Dolma (Küçük) (150 Adet) + Kazandibi Midye Dolma (4 Adet) (Küçük) + Limon (4 Adet)",
+            "ItemName": "Menü 3",
+            "ItemPrice": "99,50 TL"
+        },
+        {
+            "ItemInfo": "Midye Dolma (Küçük) (100 Adet) + Kazandibi Midye Dolma (3 Adet) (Küçük) + Limon (2 Adet)",
+            "ItemName": "Menü 4",
+            "ItemPrice": "79,50 TL"
+        },
+        {
+            "ItemInfo": "Midye Dolma (Orta) (80 Adet) + Kazandibi Midye Dolma (3 Adet) (Orta) + Limon (2 Adet)",
+            "ItemName": "Menü 5",
+            "ItemPrice": "89,50 TL"
+        },
+        {
+            "ItemInfo": "Midye Dolma (Orta) (60 Adet) + Kazandibi Midye Dolma (2 Adet) (Küçük) + Limon (2 Adet)",
+            "ItemName": "Menü 6",
+            "ItemPrice": "69,50 TL"
+        },
+        {
+            "ItemInfo": "Midye Dolma (Orta) (100 Adet) + Kazandibi Midye Dolma (4 Adet) + Limon (3 Adet)",
+            "ItemName": "Menü 7",
+            "ItemPrice": "110,00 TL"
+        },
+        {
+            "ItemInfo": "Midye Dolma (Orta) (150 Adet) + Kazandibi Midye Dolma (5 Adet) + Limon (4 Adet)",
+            "ItemName": "Menü 8",
+            "ItemPrice": "159,50 TL"
+        },
+        {
+            "ItemInfo": "Midye Dolma (Büyük) (60 Adet) + Kazandibi Midye Dolma (2 Adet) + Limon (2 Adet)",
+            "ItemName": "Menü 9",
+            "ItemPrice": "89,50 TL"
+        },
+        {
+            "ItemInfo": "Midye Dolma (Büyük) (80 Adet) + Kazandibi Midye Dolma (3 Adet) + Limon (2 Adet)",
+            "ItemName": "Menü 10",
+            "ItemPrice": "119,50 TL"
+        },
+        {
+            "ItemInfo": "Midye Dolma (Büyük) (100 Adet) + Kazandibi Midye Dolma (4 Adet) + Limon (3 Adet)",
+            "ItemName": "Menü 11",
+            "ItemPrice": "149,50 TL"
+        },
+        {
+            "ItemInfo": "Midye Dolma (Küçük) (300 Adet) + Limon (5 Adet)",
+            "ItemName": "Menü 12",
+            "ItemPrice": "219,50 TL"
+        },
+        {
+            "ItemInfo": "Midye Dolma (Büyük) (23 Adet) + Midye Dolma (Orta) (23 Adet) + Midye Dolma (Küçük) (23 Adet) + Limon (3 Adet)",
+            "ItemName": "Menü 15",
+            "ItemPrice": "79,50 TL"
+        },
+        {
+            "ItemInfo": "Midye Dolma (Büyük) (42 Adet) + Midye Dolma (Orta) (35 Adet) + Midye Dolma (Küçük) (50 Adet) + Limon (2 Adet)",
+            "ItemName": "Menü 16",
+            "ItemPrice": "139,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Midye Dolma (Küçük) (Adet)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Midye Dolma (Orta) (Adet)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Midye Dolma (Büyük) (Adet)",
+            "ItemPrice": "1,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kazandibi Midye (Küçük) (Adet)",
+            "ItemPrice": "1,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kazandibi Midye (Orta) (Adet)",
+            "ItemPrice": "2,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kazandibi Midye (Büyük) (Adet)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "Kekik, kimyon, pul biber, domates ve yeşilbiber",
+            "ItemName": "Kokoreç",
+            "ItemPrice": "29,95 TL"
+        },
+        {
+            "ItemInfo": "Kekik, kimyon, pul biber, domates ve yeşilbiber",
+            "ItemName": "Yarım Ekmek Kokoreç",
+            "ItemPrice": "14,95 TL"
+        },
+        {
+            "ItemInfo": "Kekik, kimyon, pul biber, domates ve yeşilbiber",
+            "ItemName": "Çeyrek Ekmek Kokoreç",
+            "ItemPrice": "9,95 TL"
+        },
+        {
+            "ItemInfo": "Kekik, kimyon, pul biber, domates ve yeşilbiber",
+            "ItemName": "3/4 Ekmek Arası Kokoreç",
+            "ItemPrice": "24,95 TL"
+        },
+        {
+            "ItemInfo": "Kekik, kimyon, pul biber, domates ve yeşilbiber",
+            "ItemName": "Tam Ekmek Arası Kokoreç",
+            "ItemPrice": "29,95 TL"
+        },
+        {
+            "ItemInfo": "Kekik, kimyon, pul biber, domates ve yeşilbiber",
+            "ItemName": "Kaşarlı Tereyağlı Çeyrek Ekmek Kokoreç",
+            "ItemPrice": "11,95 TL"
+        },
+        {
+            "ItemInfo": "Kekik, kimyon, pul biber, domates ve yeşilbiber",
+            "ItemName": "Kaşarlı Tereyağlı Yarım Ekmek Kokoreç",
+            "ItemPrice": "17,95 TL"
+        },
+        {
+            "ItemInfo": "Kekik, kimyon, pul biber, domates ve yeşilbiber",
+            "ItemName": "Sandviç Kokoreç",
+            "ItemPrice": "9,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limon (Küçük)",
+            "ItemPrice": "2,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limon (Orta)",
+            "ItemPrice": "1,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limon (Büyük)",
+            "ItemPrice": "3,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütlaç",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Profiterol",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kazandibi",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Peynirli Künefe",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Peynirli Künefe",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Klasik Künefe",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "5,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "5,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "5,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "5,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "5,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "7UP (33 cl.)",
+            "ItemPrice": "5,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "5,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "5,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "5,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütaş Ayran (30 cl.)",
+            "ItemPrice": "4,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütaş Ayran (20 cl.)",
+            "ItemPrice": "3,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "7,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (1 L.)",
+            "ItemPrice": "7,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (1 L.)",
+            "ItemPrice": "7,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (1 L.)",
+            "ItemPrice": "7,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "7,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (1 L.)",
+            "ItemPrice": "7,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (1 L.)",
+            "ItemPrice": "7,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütaş Ayran (1 L.)",
+            "ItemPrice": "8,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Su (1,5 L.)",
+            "ItemPrice": "4,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (2,5 L.)",
+            "ItemPrice": "9,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (2,5 L.)",
+            "ItemPrice": "9,95 TL"
+        }
+    ]
+}

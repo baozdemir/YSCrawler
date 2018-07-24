@@ -1,0 +1,562 @@
+{
+    "comment": [
+        {
+            "Comment": "Hayır tavuk isteniyor neden ekmek yok anlaşılır değil zaten evde yemek yapılmadığından isteniyor dışardan yemek bir dilim ekmek koymak zor olmamalı ve patatesler yenilmiyor içi boş tatsız tuzsuz umarım dikkat edersiniz.",
+            "Date": "2018-07-20",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Çatal peçete bişey gelmedi 2 tane küçük porsiyonlu salataya fiyatıda fazla.",
+            "Date": "2018-07-18",
+            "Flavour": "3",
+            "Serving": "1",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Ücretini ödediğimiz içecek unutulmuş, üzücü.",
+            "Date": "2018-07-17",
+            "Flavour": "8",
+            "Serving": "1",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizzada tamamen malzemeden kısmışlar. 20 küsür lira edecek bir pizza kesinlikle değil.",
+            "Date": "2018-07-16",
+            "Flavour": "8",
+            "Serving": "3",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Izgara antrikot ve ayvalık tostu 30 dkda geldi (hız 10). Sıcak ve lezzetliydi, antrikot biraz daha ısıtılabilinirdi (lezzet 9). Fakat çatal, ketçap, ve kolonyalı mendil yoktu. (servis 7 ).",
+            "Date": "2018-07-14",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Servisten bir puan kıracağım, en kısa zamanda poşet olayını halletmeniz lazım. Bunun dışında gayet iyi.",
+            "Date": "2018-07-14",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sac kavurma yedim, gerçekten çok güzeldi çok lezzetliydi. Teşekkürler.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "21. 25te verdiğim dana burger ve ayvalık tostu, çok hızlı bir şekilde 22. 55te geldi. Sıcak, ve lezzetliydi. Emeği olan herkese teşekkür ediyorum.",
+            "Date": "2018-07-06",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Kayseri Mantısı",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, yeşillik ile",
+            "ItemName": "Tavuk Schnitzel",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Mantar, biber, kaşar peyniri, kibrit patates ile",
+            "ItemName": "Paciano Burger",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Ev Yapımı Dana Burger + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Ev Yapımı Dana Burger)",
+            "ItemPrice": "21,60 TL"
+        },
+        {
+            "ItemInfo": "Yeşillik ile",
+            "ItemName": "Patatesli Gözleme",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, yeşillik ile",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Ev Yapımı Dana Burger + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Ev Yapımı Dana Burger)",
+            "ItemPrice": "21,60 TL"
+        },
+        {
+            "ItemInfo": "Pacciano Pizza + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Pacciano Pizza)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tereyağlı Menemen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sade Omlet",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Omlet",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Omlet",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Omlet",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mantarlı Omlet",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sebzeli Omlet",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pastırmalı Omlet",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sahanda Yumurta",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Haşlanmış Yumurta (Adet)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması ile",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması ile",
+            "ItemName": "Sucuklu Kaşarlı Tost",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması ile",
+            "ItemName": "Kavurmalı Kaşarlı Tost",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, sebze",
+            "ItemName": "Sebzeli Tost",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması ile",
+            "ItemName": "Ayvalık Tostu",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, domates, yeşillik, salatalık, patates kızartması",
+            "ItemName": "Beyaz Peynirli Sandviç",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, domates, yeşillik, salatalık, patates kızartması",
+            "ItemName": "Kaşar Peynirli Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, salam, domates, yeşillik, salatalık, patates kızartması",
+            "ItemName": "Karışık Sandviç",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, salam, domates, yeşillik, salatalık, patates kızartması",
+            "ItemName": "Ton Balıklı Sandviç",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, yeşillik, turşu, patates kızartması",
+            "ItemName": "Biftekli Sandviç",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, yeşillik, turşu, patates kızartması",
+            "ItemName": "Tavuklu Sandviç",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillik ile",
+            "ItemName": "Patatesli Gözleme",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillik ile",
+            "ItemName": "Peynirli Gözleme",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillik ile",
+            "ItemName": "Kaşarlı Gözleme",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimek Çorbası",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ezogelin Çorbası",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Domates Çorbası",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yayla Çorbası",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Mantar, soğan, kapya biberi, Pilav, patates kızartması ile",
+            "ItemName": "Sebzeli Et",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Limonlu tereyağı,elma dilim patates kızartması, yeşillik ile",
+            "ItemName": "Izgara Antrikot",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, yeşillik ile",
+            "ItemName": "Akçaabat Köfte",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, lavaş ile",
+            "ItemName": "Sac Kavurma",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, pilav, patates kızartması ile",
+            "ItemName": "Kuzu Pirzola",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması ile",
+            "ItemName": "Köri Soslu Tavuk",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Rendelenmiş peynir, patates püresi ile",
+            "ItemName": "Kremalı Pesto Soslu Tavuk",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Cheddar peyniri, papates püresi, kaşar peyniri ile",
+            "ItemName": "Kavrulmuş Tavuk Kalça",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması ile",
+            "ItemName": "Soya Soslu Mantarlı Tavuk",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, yeşillik ile",
+            "ItemName": "Tavuk Schnitzel",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Mantar, kapya biberi, soğan. Pilav, patates kızartması ile",
+            "ItemName": "Sebzeli Tavuk",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, lavaş ile",
+            "ItemName": "Izgara Tavuk Kanatları",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, ızgara sebze ile",
+            "ItemName": "Tavuk Pirzola",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, yeşillik ile",
+            "ItemName": "Ev Yapımı Dana Burger",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, yeşillik ile",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, yeşillik ile",
+            "ItemName": "Tavuklu Burger",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mantar, biber, kaşar peyniri, kibrit patates ile",
+            "ItemName": "Paciano Burger",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Mantar, soğan, kapya biberi. Patates kızartması ile",
+            "ItemName": "Etli Wrap",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Mantar, soğan, kapya biberi. Patates kızartması ile",
+            "ItemName": "Tavuklu Wrap",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Mantar, soğan, kapya biberi. Patates kızartması ile",
+            "ItemName": "Köfteli Wrap",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk, ızgara et, mantar, soğan, kapya biberi. Patates kızartması ile",
+            "ItemName": "Karışık Wrap",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, ev yapımı domates sosu",
+            "ItemName": "Margherita Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, parmesan peyniri, rokfor peyniri",
+            "ItemName": "3 Peynirli Pizza",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, kültür mantarı, domates sos",
+            "ItemName": "Mantarlı Pizza",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, renkli biber, yeşil zeytin, siyah zeytin, dana jambon, salam",
+            "ItemName": "4 Mevsim Pizza",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzerella peyniri, parmesan peyniri, kabak, roka",
+            "ItemName": "Milano Pizza",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, parmesan peyniri, jambon, yumurta, siyah zeytin",
+            "ItemName": "Sicilya Pizza",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, ızgara dana bonfile, karışık sebzeler",
+            "ItemName": "Pacciano Pizza",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, kavurma, cheddar peyniri",
+            "ItemName": "Kavurmalı Pizza",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, pastırma, köy peyniri",
+            "ItemName": "Spesiyal Pizza",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, sucuk",
+            "ItemName": "Sucuklu Pizza",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı domates sos, pesto sos, sarımsak",
+            "ItemName": "Penne All Arrabbiata",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Bolonez kıyma, pesto sos, sarımsak",
+            "ItemName": "Spagetti Bolognese",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Krema, pesto sos, sarımsak",
+            "ItemName": "Kremalı Mantarlı Penne",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Kremalı mantarlı tavuk, pesto sos, sarımsak",
+            "ItemName": "Tagliatelle",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Etli Noodle",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuklu Noodle",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sebzeli Noodle",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates Kızartması",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soğan Halkası",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk parçaları, patates kızartması",
+            "ItemName": "Çıtır Tavuk",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Çıtır tavuk, paçanga böreği, sigara böreği, sosis, soğan halkası, patates kızartması",
+            "ItemName": "Combo Tabağı",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sigara Böreği",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Paçanga Böreği",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kayseri Mantısı",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soğuk Mantı",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kırmızılahana, havuç, mısır, Akdeniz yeşillikleri, domates, salatalık",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk parçaları, Akdeniz yeşillikleri, mısır, parmesan peyniri",
+            "ItemName": "Tavuklu Sezar Salata",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk parçaları, Akdeniz yeşillikleri, mantar, salatalık, domates",
+            "ItemName": "Tavuklu Mantarlı Salata",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Jülyen et parçaları, renkli biberler, mısır",
+            "ItemName": "Etli Sebzeli Salata",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, turşu, mısır",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Schweppes Mandarin (33 cl.)",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Cam şişe",
+            "ItemName": "Ayran (25 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "3,00 TL"
+        }
+    ]
+}

@@ -1,0 +1,318 @@
+{
+    "comment": [
+        {
+            "Comment": "Guzel.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Lavaş, çiğ köfte, marul, turşu, limon, nar ekşisi, roka, maydanoz, mor lahana",
+            "ItemName": "Çiğ Köfte Dürüm",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "Kumru Sandviç + Patates Kızartması + İçecek",
+            "ItemName": "Kumru Menü",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Çift lavaş, ekstra çiğ köfte, marul, turşu, limon, nar ekşisi, roka, maydanoz, mor lahana",
+            "ItemName": "Maxi Çiğ Köfte Dürüm",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Döner Dürüm",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "500 gr. çiğ köfte, yeşillik, nar ekşisi, lavaş",
+            "ItemName": "Çiğ Köfte (Tam)",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "250 gr. çiğ köfte, yeşillik, nar ekşisi, lavaş",
+            "ItemName": "Çiğ Köfte (Yarım)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Maxi Çiğ Köfte Dürüm + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (2 Maxi Çiğ Köfte Dürüm)",
+            "ItemPrice": "13,95 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (250 gr.) + Ayran (20 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Çiğ Köfte Yarım)",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "Et Döner Dürüm + Patates Kızartması + İçecek",
+            "ItemName": "Et Döner Menü",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner + Patates Kızartması + İçecek",
+            "ItemName": "Tavuk Döner Menü",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Tost + Patates Kızartması + İçecek",
+            "ItemName": "Karışık Tost Menü",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kumru Sandviç + Patates Kızartması + İçecek",
+            "ItemName": "Kumru Menü",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "4 Adet Çiğ Köfte Dürüm + Ayran (1 L.)",
+            "ItemName": "4'lü Çiğ Köfte Dürüm Menü",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (Tam) + Ayran (1 L.)",
+            "ItemName": "Çiğ Köfte (Tam) Menü",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "6 Adet Çiğ Köfte Dürüm + Ayran (1 L.)",
+            "ItemName": "6'lı Çiğ Köfte Dürüm Menü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "4 Adet Kumru Sandviç + 2 Adet Patates Kızartması + İçecek (1 L.)",
+            "ItemName": "4'lü Kumru Sandviç Menü",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Tost",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kumru Sandviç",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Lavaş, çiğ köfte, marul, turşu, limon, nar ekşisi, roka, maydanoz, mor lahana",
+            "ItemName": "Çiğ Köfte Dürüm",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "Çift lavaş, ekstra çiğ köfte, marul, turşu, limon, nar ekşisi, roka, maydanoz, mor lahana",
+            "ItemName": "Maxi Çiğ Köfte Dürüm",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "250 gr. çiğ köfte, yeşillik, nar ekşisi, lavaş",
+            "ItemName": "Çiğ Köfte (Yarım)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "500 gr. çiğ köfte, yeşillik, nar ekşisi, lavaş",
+            "ItemName": "Çiğ Köfte (Tam)",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "700 gr. çiğ köfte, yeşillik, nar ekşisi, lavaş",
+            "ItemName": "Aile Boyu Çiğ Köfte",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "1 kg. çiğ köfte, yeşillik, nar ekşisi, lavaş",
+            "ItemName": "Çiğ Köfte (1 kg.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Döner Dürüm",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ekmek Arası Tavuk Köfte",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ekmek Arası Kasap Köfte",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cevizli Kadayıf Tatlısı (Adet)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bardakta Süt Mısır",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Aile Boyu Kakaolu Dondurma (600 gr.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kakaolu Dondurma (1 kg.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Vanilyalı Dondurma (600 gr.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Vanilyalı Dondurma (1 kg.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Aile Boyu Çilekli Dondurma (600 gr.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çilekli Dondurma (1 kg.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Aile Boyu Limonlu Dondurma (600 gr.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Dondurma (1 kg.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Aile Boyu Karamelli Dondurma (600 gr.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Karamelli Dondurma (1 kg.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Aile Boyu Kara Orman Meyveli Dondurma (600 gr.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kara Orman Meyveli Dondurma (1 kg.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Aile Boyu Böğürtlenli Dondurma (600 gr.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Böğürtlenli Dondurma (1 kg.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Aroma Şeftali Suyu (20 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (30 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Balbadem Tatlısı (1 kg.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bağdat Hurma Tatlısı (1 kg.)",
+            "ItemPrice": "30,00 TL"
+        }
+    ]
+}

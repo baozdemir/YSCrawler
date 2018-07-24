@@ -1,0 +1,891 @@
+{
+    "comment": [
+        {
+            "Comment": "Izgara tavuk nedense ızgara olmuyor.",
+            "Date": "2018-07-22",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Değeri ederini karşılamayan restaurant.",
+            "Date": "2018-07-21",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Pizza yedim ve malesef çok başarısız..",
+            "Date": "2018-07-20",
+            "Flavour": "3",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hayatımda yediğim en iyi hamburger. Hızlı ve sıcacık geliyor.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Margherita pizzasını beğenmedim, kaşarlı pidenin ince hamurlu hali, pizza sosunun tadı alınmıyor.",
+            "Date": "2018-07-12",
+            "Flavour": "2",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hayran kaldim.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yediğim en güzel hamburgerdi.",
+            "Date": "2018-07-06",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok lezzetliydi. Doğru zamanda yemeksepetine girmişsiniz. Lütfen bozmayın lezzeti ve sıcak servisi.",
+            "Date": "2018-07-05",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Mükemmel lezzet.",
+            "Date": "2018-07-02",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ekmek iyi ama hamburgerin içi boş kalıyor, ekmekle doyduk, mantarlı hamburgeri aldık içinde 5 dilim mantar yoktu. Bu paraya değmez.",
+            "Date": "2018-06-30",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Yeni salata!... Hafif, sağlıklı, doyurucu ve çook lezzetli!... Mutlaka denenmeli!..",
+            "Date": "2018-06-29",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Belki uzun süredir almadığım lezzeti aldım... Nefisti, lezzetliydi ve sıcacıktı. Mmmm, diye sesler çıkararak yedim. Klasik burger söylemiştim. Teşekkürlerservisi getiren arkadaş, çok hızlı ve naziktin. Çok teşekkür ederim.",
+            "Date": "2018-06-29",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Muazzam bi seydi parmaklarimi yaladim.",
+            "Date": "2018-06-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Dil peynirli cevizli diye sipariş ettiğim salatada ceviz olmadığı gibi yeşillikler o kadar beklemiş görünüyordu ki yiyemedik.",
+            "Date": "2018-06-24",
+            "Flavour": "3",
+            "Serving": "5",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Hıza ve lezzete 15 verdim.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Burger çok lezzetli denenmelidir.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kokoreç severler kaçırmayın!... Çoook lezzetli ve herzamanki gibi incecikk!.. Ellerinize sağlık!...",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cheeseburger çok iyi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok başarılı. Hiç tereddüt etmeyin.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Makarna porsiyonu küçüktü fakat lezzetliydi.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzetli.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tiramusu ekşimiş bozuk geldi.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Her zaman olduğu gibi çok hızlı ve çok lezzetli.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İtalyan lezzeti beykozda. Pizzalarını afiyetle yedik.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İftara yakın istememe rağmen hamburger mükemmeldi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tiftik burgerin eti bol, tadı muhteşemdi sadece bol karabiberli (acı yiyemeyenler için fazla gelebilir) karabiber miktarını biraz azaltsalar daha da güzel olur. Tüm sipariş sıcacık geldi. 10 10 10.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hayatimda ben boyle bi sey yemedim baba burger cok guzel muazzam bi tat herkese oneriyorum 15 dk da geldi canimin cekmesiyle yemem bir oldu tesekkur ederim pregioo.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hayatımda yenidiğim en iyi cheeseburger. Gerçekten. Abartmıyorum. Site sakini olduğum için servis inanılmaz hızlı. Servis mükemmel. Özellikle ıslak kolonya seçimleri çok zevkli. Harikasınız. Normalde yorum yazmaya yeltenmem.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Et istediğimden az pişmiş. Dolayısıyla çok lezzet alamadım.",
+            "Date": "2018-05-25",
+            "Flavour": "7",
+            "Serving": "6",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-05-25",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Pide gibi pizza geldi. Bir daha buradan sipariş vereceğimi düşünmuyorum.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Mukemmel bir burger yedik ekibi tebrik ediyorum, dikkat bagimlilik yapar.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Biftekli harika tavsiye ederim mutlaka deneyin:).",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her zaman lezzetli.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yeni pizza!... Köfte pizzaa!... Harikaaaa! Mutlaka deneyin!...",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Porsiyonlarınız çok küçük.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Son derece başarılı.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizzanin uzeri icin kac seferdir not yaziyorum parmesan rica ediyorum diye. Gelmiyor. Not kirmak durumunda kaldim bu sefer.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Son zamanlarda yedigim en guzel hamburgeri yedim.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fiyatları biraz yüksek ama makarna ve salatası lezzetli.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Camur soslu fume etli makarna burada yedigim en kotu yemekti. Buyuk hayal kirikligi...",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Her zaman hızlı her zaman çok lezzetli.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Internette yorumlara filan baktim, benim sipariste bi sikinti oldugunu dusunuyorum, o yorumlar benim yedigimki gibi pizzalara gelmis olamaz heralde.",
+            "Date": "2018-04-25",
+            "Flavour": "5",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Mükemmel lezzet hızlı servis.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tandır pizza harika. Tandır burger ile yarışır farklı lezzetler çok iyi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sadece sanırım soğuktan dolayı pizza fazla soğumuş ve kıtırıklaşmıştı yoksa çok güzel.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zaman söylediğim ton balıklı salata bu defa üzdü. Salata porsiyon olarak az ve sönüktü, sos da yok gibiydi.",
+            "Date": "2018-03-26",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Servis kötüydü ama lezzet güzel.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız ve lezzet muazzam. Hepsine 10 verecektim ama salatanın içinden plastik poşet kulakçığı çıktı. Lütfen dikkat edelim hocam. Kaliteyi sekteye uğratmayalım.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sürekli zam yapıp durmasaniz ve bi salataya/makarnaya 20 liradan fazla vermek zorunda kalmasak çok daha hoş olurdu :).",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Makarna ve salatası lezzetli, teşekkürler.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Eskisine oranda ciddi kalite düşmüş.",
+            "Date": "2018-03-26",
+            "Flavour": "3",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzetli.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Pizza her zamanki gibi cok lezzetliydi ama tatliya yarim porsiyon demek bile zor, mini minnacik bir kap icinde geldi.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Her seferinde uzak mesafeye sipariş gönderipte tekrar tekrar bizi sevinçle şaşırtan pregio çalışanlarına teşekkürlerimi sunarım çok lezzetliydi ve yeteri kadar sıcak geldi ellerinize sağlık harikasınız!",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zamanki gibi süperdi. Ağızı olan yesin.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Burgerleri efsane ama makarnaları vasat.",
+            "Date": "2018-02-24",
+            "Flavour": "6",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Porsiyonu çok küçük.",
+            "Date": "2018-02-24",
+            "Flavour": "4",
+            "Serving": "3",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Sufleyi beğenemedim. Pek akışkan değildi.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hamurun kivami, inceligi ve sertligi tam kivaminda. Fakat cikartilmasini rica ettigimiz malzeme malesef dahil edilmisti ve pizza yeterli sicaklikta degildi. 8/10.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzetine bayıldığımız dilimin yemek sepetine katılmasına çok sevindik. Biz sizin mudaviminiziz :))).",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fiyat performans 0 hiç bir artısı yok gereksiz pahalı almayın aldırmayın.",
+            "Date": "2018-02-24",
+            "Flavour": "2",
+            "Serving": "2",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Burgerler gerçekten lezzetli :).",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sipraiş verdigim fethucini makarnası krema cok agır be içindeki baharatı guzel degildi karabiber mi pek anlayamadım ama aşırı acıydı.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Çok soğuk geldi, normal hava vetr afikten ama ısıtıncada yiyemedik, bidahakine sadece yerinde yiyebilirim.",
+            "Date": "2018-02-24",
+            "Flavour": "3",
+            "Serving": "5",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Diet yerine normal kola geldi.",
+            "Date": "2018-02-24",
+            "Flavour": "6",
+            "Serving": "1",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok güzel başladılar sonra kaliteleri tepetaklak oldu. Soğuk, kötü ve eksik malzeme ile gönderildi siparişimiz. Kullanılan peynir, sucuk ve jambon kalitesi çok kötü. Mozarella ve fesleğen var diye belirttikleri pizzada her ikiside yok!",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Servis daha iyi olabilir.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sipariş geldiği zaman biraz soğumuştu ama çok lezzetliydi.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ellerinize sağlık özellikle karışık pizza çok lezzetliydi :).",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, dana jambon, sucuk, mantar, siyah zeytin, biber, kapya biber",
+            "ItemName": "Karışık Pizza",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "160 gr. burger köftesi, kıvırcık marul, domates, cheddar peyniri, karamelize soğan, Pregio sos. Patates kızartması ile",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Sufle",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, fesleğen",
+            "ItemName": "Margherita Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, parmesan peyniri, labne peyniri, rokfor peyniri",
+            "ItemName": "Dört Peynirli Pizza",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "160 gr. burger köftesi, kıvırcık marul, domates, karamelize soğan, dana bacon, Pregio sos. Patates kızartması ile",
+            "ItemName": "Dana Bacon Cheeseburger",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Margherita Pizza + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Margherita Pizza)",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "Klasik Burger + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Klasik Burger)",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, közlenmiş kapya biberi, zeytin, fesleğen sos, sarımsak, parmesan peyniri",
+            "ItemName": "Bruschetta",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Özel Pregio ekmeğine domates, Akdeniz yeşillikleri, labne peyniri, jambon",
+            "ItemName": "Pregio Sandviç",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "200 gr. çeşnilenmiş mantar, mozzarella peyniri, domates sos",
+            "ItemName": "Köz Mantar",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, fesleğen",
+            "ItemName": "Margherita Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, parmesan peyniri, labne peyniri, rokfor peyniri",
+            "ItemName": "Dört Peynirli Pizza",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kabak, patlıcan, mantar, biber, kapya biberi, siyah zeytin",
+            "ItemName": "Sebzeli Pizza",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Labne peyniri, dana jambon, kekik",
+            "ItemName": "Bianco Pizza",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sucuk",
+            "ItemName": "Sucuklu Pizza",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, ançuez, kapari, siyah zeytin, soğan",
+            "ItemName": "Ançuezli Pizza",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, pastırma, cherry domates, biber, kapya biber",
+            "ItemName": "Pastırmalı Pizza",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, dana jambon, sucuk, mantar, siyah zeytin, biber, kapya biber",
+            "ItemName": "Karışık Pizza",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, ton balığı, zeytin, cherry domates",
+            "ItemName": "Ton Balıklı Pizza",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, kavurma, siyah zeytin, soğan",
+            "ItemName": "Kavurmalı Pizza",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, sucuk, zeytin, jalapeno biber, cherry domates",
+            "ItemName": "Meksika Pizza",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, suda mozzarella peyniri, domates, fesleğen",
+            "ItemName": "İtalya Pizza",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, mantar, siyah zeytin",
+            "ItemName": "Mantarlı Pizza",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Barbekü domates sos, mozarella peyniri, mantar, dana füme eti",
+            "ItemName": "Füme Dana Etli Pizza",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, soğan, cheddar peyniri, 100 gr. dana bonfile, demi glace sos",
+            "ItemName": "Dana Bonfile Pizza",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, közlenmiş patlıcan, cherry domates, siyah zeytin, bolonez sos, suda mozzarella",
+            "ItemName": "Pregio Pizza",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, jambon, mantar",
+            "ItemName": "Jambonlu Mantarlı Pizza",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, kokoreç, yeşilbiber, baharat",
+            "ItemName": "Kokoreçli Pizza",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "160 gr. burger köftesi, kıvırcık marul, domates, karamelize soğan, Pregio sos. Patates kızartması ile",
+            "ItemName": "Klasik Burger",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "160 gr. burger köftesi, kıvırcık marul, domates, cheddar peyniri, karamelize soğan, Pregio sos. Patates kızartması ile",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "160 gr. hamburger köftesi, kıvırcık marul, domates, rokfor peynirli mushroom sos. Patates kızartması ile",
+            "ItemName": "Magic Mushroom Burger",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "160 gr. burger köftesi, kıvırcık marul, domates, karamelize soğan, özel acı sos. Patates kızartması ile",
+            "ItemName": "Diablo Burger",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "160 gr. burger köftesi, kıvırcık marul, domates, karamelize soğan, dana bacon, Pregio sos. Patates kızartması ile",
+            "ItemName": "Dana Bacon Cheeseburger",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "160 gr. burger köftesi, kıvırcık marul, domates, suda mozzarella peyniri, fesleğen sos. Patates kızartması ile",
+            "ItemName": "İtalyan Burger",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "320 gr. burger köftesi, kıvırcık marul, domates, cheddar peyniri, karamelize soğan, Pregio sos. Patates kızartması ile",
+            "ItemName": "Baba Burger",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, pesto sos, sarımsak, parmesan peyniri",
+            "ItemName": "Spaghetti Napolitan",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, acı sos, siyah zeytin, sarımsak, parmesan peyniri",
+            "ItemName": "Penne Arrabiatta",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Krema, sarımsak, parmesan peyniri, parmesan peyniri, karabiber, muskat",
+            "ItemName": "Fettuccine Alfredo",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Dana jambon, mantar, krema, parmesan peyniri",
+            "ItemName": "Jambonlu Mantarlı Penne",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Krema, ton balığı, parmesan peyniri",
+            "ItemName": "Ton Balıklı Penne",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, patlıcan, siyah zeytin, parmesan peyniri",
+            "ItemName": "Aborjin Penne",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Krema, kabak, patlıcan, renkli biberler, parmesan peyniri",
+            "ItemName": "Sebzeli Penne",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Bolognese sos",
+            "ItemName": "Spaghetti Bolognese",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, somon füme dilimleri, krema, dereotu",
+            "ItemName": "Somon Tagliatelle",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk, krema, parmesan peyniri, karabiber",
+            "ItemName": "Tavuklu Fettuccine",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, sarımsak, fesleğen, karides",
+            "ItemName": "Karides Spaghetti",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Özel baharatlı sos, parmesan peyniri, füme dana eti",
+            "ItemName": "Füme Dana Etli Çamur Soslu Penne",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, domates, renkli biberler",
+            "ItemName": "Akdeniz Salata",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşil salata, dana bonfile, galeta, parmesan peyniri",
+            "ItemName": "Bonfileli Salata",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, buğday, maş fasulyesi, közlenmiş kapya biber, siyah zeytin",
+            "ItemName": "Buğday Salatası",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Suda mozzarella peyniri, domates, siyah zeytin, fesleğen",
+            "ItemName": "Caprese Salata",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Dil peyniri, yeşil salata, ceviz, zeytin",
+            "ItemName": "Dil Peynirli & Cevizli Salata",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşil salata, ızgara hellim peyniri, renkli biberler",
+            "ItemName": "Hellimli Salata",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk, yeşil salata, renkli biberler",
+            "ItemName": "Izgara Tavuklu Salata",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşil salata, zeytinyağı, limon, sote karides",
+            "ItemName": "Karidesli Salata",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşil salata, közlenmiş mevsim sebzeleri, keçi peyniri",
+            "ItemName": "Keçi Peynirli Salata",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşil salata, kinoa, taze soğan, nane, beyaz peynir",
+            "ItemName": "Kinoa Salatası",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşil salata, köri soslu tavuk dilimleri",
+            "ItemName": "Köri Soslu Izgara Tavuklu",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşil salata, dana jambon, közlenmiş mantar, cherry domates, kapari, parmesan peyniri",
+            "ItemName": "Pregio Salata",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşil salata, füme somon, kapari, cherry domates",
+            "ItemName": "Somon Balıklı Salata",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşil salata, ton balığı, kapari",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Sufle",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Nutellalı Dondurma Cheesecake",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Schweppes Mandalina (25 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Cam şişe",
+            "ItemName": "Soda",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonata",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (1 L.)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (1 L.)",
+            "ItemPrice": "7,00 TL"
+        }
+    ]
+}

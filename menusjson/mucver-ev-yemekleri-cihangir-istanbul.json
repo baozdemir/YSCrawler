@@ -1,0 +1,945 @@
+{
+    "comment": [
+        {
+            "Comment": "Hızlı lezzetli.",
+            "Date": "2018-07-22",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ellerinize sağlık cok guzel.",
+            "Date": "2018-07-22",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İzmir kofte ve terbiyeli eksi kofte soyledim, yine cok basariliydi.",
+            "Date": "2018-07-21",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Peçete unutmayın.",
+            "Date": "2018-07-20",
+            "Flavour": "5",
+            "Serving": "1",
+            "Speed": "10"
+        },
+        {
+            "Comment": "4 farkli yemek/meze soyledim, hepsini begendim. Fiyatlar uygun, lezzet yerinde. Kesinlikle oneriyorum.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Brokoli graten bir harika.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kaşarlı tavuk köfte de kaşar nerde? İlk kez böyle bi memnunsuzluk yaşadım umarım tekrarlanmaz. Tuz hiç bir zaman gönderilmiyor ayrıca.",
+            "Date": "2018-07-18",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Oldukça lezzetli yemekler başarılı.",
+            "Date": "2018-07-17",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mücveri yanında yoğurtla tavsiye edebilirim daha hafif oluyor. Mercimek köftesini de iyiydi.",
+            "Date": "2018-07-12",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Taksım cıhangır arası yurume mesafesı 15 dakıka 1 saatten gec gelıyor yemek eger yogunsanız para kazanmak ıcın ınsanları magdur etmeyın sıparıs almayın.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "5",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Barbunya herzamanki gibi mukemmel. Pilav ortalamanin altindaydi. Patlicanda ise kiyma tadi alinamayacak kadar az malzeme vardi. Biraz toparlamakta fayda var.",
+            "Date": "2018-07-07",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her şeyleri anne eli değmiş gibi ama mercimek köfteleri gerçekten çok iyi, böyle devam, severek takip ediyoruz:).",
+            "Date": "2018-07-05",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızı gerçekten muhteşem çok sıcak geldi diye de şikayet edilmez.",
+            "Date": "2018-07-05",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlıydı lezzetsizdi.",
+            "Date": "2018-07-04",
+            "Flavour": "3",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İzmir köfte çorba kutusunda geldi. İşyerinde dökmeden yemek için karnım çatladı. Pilav zaten tuzsuz bir de tuz yollamamışsınız. Puanım 5.",
+            "Date": "2018-06-28",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok yağlı yemekler.",
+            "Date": "2018-06-28",
+            "Flavour": "7",
+            "Serving": "4",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Genelde siparişlerden memnun kaldığımız bir yer ama bugünkü sipariş gerçekten üzücüydü. İzmir köftenin köftesini ısırınca sanki bir süngeri ısırmak gibiydi. Domates soslu patlıcanda domates sosu yoktu. Bütün yemekler tatsız tuzsuzdu. O kadar malzemeye yazık günah gerçekten.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Porsiyonlar biraz küçük ama lezzet mükemmel özellikle de ayran çorbası enfes.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Kısır o kadar kucuk geldı kı...",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yemekler aşırı sarımsaklı ve lezzetsiz. Özellikle fellah köftesi neredeyse sarımsaktan yapılmış. Öğle yemeği için ve sağlık açısından da sarımsak tercihtir ve bunu belirtip seçeneklere eklemeleri gerekir ki insanlar ona göre sipariş versin. Yemekleri yiyemedik ve bir daha da sipariş vermeyeceğiz.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Aşırı sarımsaklı her şey.. Zeytinyağlı enginar hariç o harika!",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Eskisi gibi degil.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Severek sipariş veriyorum.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok başarılı.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lütfen servislerde alüminyum kap kullanmayın artık. Her yerde yazılıyor sağlığa zararlı olduğu. Bir de üç çeşitli menü (ortalama fiyat) yapmayı deneseniz? İnsanlar daha çok sipariş vereceklerdir. Şimdiki haliyle üç çeşit yemek söylense piyasadan 30 daha pahallı fiyat biçmiş oluyorsunuz.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "2",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çorbalar çok unlu oluyor sadece onun harici herşey çok güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Porsiyonları cidden çok küçük.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "1",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Guzel.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Sarma söylendiğinde bir parça yoğurt gönderseniz çok makbule geçer :).",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Müthiş bir enginar ve brokoli graten idi. Sadece gratenin üzerindeki kaşar fazla yanmıştı ama olsundu.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok yağlı, lezzet çok kötü, tekrar yemem.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "5",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Dolmalar yanik gibiydi..",
+            "Date": "2018-05-25",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok bozdunuz öyle böyle değil daha bozmaz dedik yine bozdunuz.",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Dalyan kofte ve bulgur pilavi begendim.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Brokoli corbasi cok lezzetsizdi asiri siviydi.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Teşekkür ederim.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mücveri dışında çoğu iyi yemeklerin.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Peynirli eriştenin peyniri azdı, kadın budu köfte biraz soğuktu. Ama tadı güzeldi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Severek sipariş verebilirsiniz..",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mercimek köftesi çok iyi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zaman şahane.. Servis hızlı. Kesinlikle tavsiye ederim.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Enginar da limon yok! Tavuk zaten ne olduğu belli değil! Peçete da koymamışsınız. Elinizde bir motorcunuz iyi onun için dükkanı açık tutun. Daha da sipariş vermem, verdirtmem.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Severek sıparıs verıyorum.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zaman güzel.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzetli.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Mücver içerisinde patates püresi vardı, lezzeti ise vasat. Erişte de paketin dibinde kalmış kırıntılardan yapılmış gibiydi. Üzerine de bir çay kaşığı kadar peynir tozu serpilmiş, 1 gr. Bile yoktu. Buradan ilk ve son siparişim oldu.",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "4",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Brokoli gratenin üstündeki kaşar kalıp gibi olmuştu kaç saattir beklemişti bilemiyorum.",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Tuz ve ıslak mendil göndermeleri lazım.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "4",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yemekleriniz iyi güzel ama şu yağ olayınız çok raahtsız edici dostum buna çözüm bulun.",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mantartavuğun mantarı çok kötyüdü.",
+            "Date": "2018-05-25",
+            "Flavour": "4",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hayatımda yediğim en kötü fava.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İnanılmaz yağlı yemekleri var. Mücver özellikle inanılmaz yağlıydı.",
+            "Date": "2018-04-25",
+            "Flavour": "5",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Eriştesi çok iyi.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper hızlı ve lezzetli ama servisi geliştirmeleri lazım. Gönderilen paketler tel zımba ile kapatılsa daha güvenli olacak bence. Son günlerde artan kurye skandallarından sonra her restoranın yapması lazım kapalı paketi.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ben genelde yoruma vakit ayırmam sadece puanlarım ama o kadar hızlı, lezzetli ve kaliteli bir servisti ki bu yorumu buraya bırakıyorum.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harikasiniz, ellerinize saglik.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok lezzetli ve uygun fiyatlı.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok güzel.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Zeytinyağlı enginar pek lezzetli değildi ve çok şekerliydi maalesef.",
+            "Date": "2018-04-25",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ispanak graten yememenizi öneririm... Pek başarılı değil.",
+            "Date": "2018-04-25",
+            "Flavour": "6",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Domates yerine mercimek çorbası gönderimi dışında herşey güzel...",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yemekler aşırı yağlı..",
+            "Date": "2018-04-25",
+            "Flavour": "3",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Abi bütün sipariş yanlış ve hallen geri dönülecek 2 gün olduu halen aç bekliyoz 3 güne girecerk açızzz.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Başarılı.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Fellah köftesi bulamaç gibi domates sosla degıl salçayla yapılmış gibiydi ve bazı kısımları siyah ve kıtırlaşmış yanmıştı, gerçek fellah köftesinin fırınla ilgisinin oldugunu düşünmüyorum. Alüminyum kaplarda servis çok basit ve yemeğin tadını bozuyor. Daha profesyonel ve şık sunum olmalı.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Apartman kapısına inerek aldığım sipariş için kurye gelmiş bana kapıda lakayıt bir üslupla cihangirde asansör yok, evin asansörlü değil diyor. Sanane kardeşim benim evimden? Madem asansörlü evin var otur evinde asansörlü asansörlü. Ben farkındayım zaten asansörümün olmadığının.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Harikasınız yemekler aşırı lezzetli servis süper!",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Başarılı.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Sağlıklı yemek, anne lezzeti, tertemiz bir yer. Öğle yemeklerimizin vazgeçilmezi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harikasınız. Çok seviyorum sizi :).",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sebze corbasını begenmedim parca domates icinde cok kotu olmus.",
+            "Date": "2018-03-26",
+            "Flavour": "4",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Yemeğim geç geldi. Çorbam soğumuştu. Beşamel soslu tavuğum ise daha soğuktu ve ben soğuk tavuktan hoş koku almadığım için ilk kez yemeğimi çöpe attım..",
+            "Date": "2018-03-26",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Ekmekler nedense hep az geliyor.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Başarılı.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Domates çorbanız çok güzeldi fakat musakkanın sunumu ve lezzeti pek iyi değildi. Ana yemeğin derin kapta gelmesi yeme kısmını biraz zorlaştırıyor ve kıymaları kum gibi ince olduğundan lezzet vermemişti.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fellah köfte mükemmeldi ama mücveri tavsiye etmem.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ev yemeğinin bölge kralı!",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Başarılı.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Çok tatlısınız, çok teşekkürler.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Üzücü hiç iy değil.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Herşey harikaydı.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Başarılı.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kadınbudu köfteye ne oldu :(.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kullandığığınız plastik kapları ve streç film kullanmayı bırakın bence. Yemeklerde plastik komusu oluyor.",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "6",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Harikaydı ellerinize sağlık.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Şaka gibi bi serviz ve yemek.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Mucverlerin bayat olmasini yakistiramadim ya, mevcut diil deyin olmaz mi?",
+            "Date": "2018-03-26",
+            "Flavour": "4",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Karalaha ve mücver siparişinde yoğurt konulmaması tuhaf geldi.",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "4",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gercekten basarılı ev yemekleri fırında ıspanak iyi gidiyo.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Annemin yemekleri gibi ellerinize saglik.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tavuk orman kebabı ekşiydi.",
+            "Date": "2018-03-26",
+            "Flavour": "2",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her zaman lezzetli ve hızlı.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mucver devamli sekil degistiriyor, firinda olan cok guzel ve saglikliydi, dun istedigim siparis kizartmaydi isirinca yag geliyordu, yiyemedim. Pirinc pilavi guzel.",
+            "Date": "2018-03-26",
+            "Flavour": "6",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Yemekler birkaç günlüktü büyük ihtimalle ve bayat olduğu tadından belliydi. Yiyemedim ve atmak zorunda kaldım.",
+            "Date": "2018-03-26",
+            "Flavour": "3",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "O nasıl bir fellah? Harika! Favori restoranım artık, sipariş ettiğim her şey enfes!",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ezogelin çorbası anne eli değmiş gibiydi, tavsiye edilir :).",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Üzülerek belirtmek isterim ki hayatımda yediğim en kötü orman kebabıydı. Bide servis olarak çorba kasesi içinde gelmeside ayrı bir komedi.",
+            "Date": "2018-02-24",
+            "Flavour": "2",
+            "Serving": "3",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Ev yemeği.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Başarılı.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Senelerdir hem mekana gidip yiyorum hem eve sipariş. Tertemiz çok lezzetli eksiksizsiniz.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İçli köfteyi ilk defa denedim ve ba-yıl-dım! Elinize sağlık, severek takip ediyoruz :).",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli bir yemekti.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzet olarak biraz geliştirilmeli servis kalitesi ve iletişim gayet iyi.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gayet iyi.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gayet güzel..",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Misafirlerim geldi, hızlı gönderir misiniz diye rica ettim, 10 dk içinde siparişim geldi ve her şey çok lezzetliydi. Teşekkürler.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lütfen artık servis kaplarınızı değiştirin ne sipariş etsek çorba kasesinde geliyor komik oluyorsunuz.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "4",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Çok hızlı.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzet hic yok. Siparis verdigime pisman oldum. Burdan yemek soyleyenlere ve olumlu not verenlere hayret ediyorum.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Yediğim en kötü yemekti..",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Kara rağmen 13 dkde geldi, sebze çorba, mücver, mercimek köfte söyledik. Hız, paket, güleryüz şahane ama ilk kez buradan bu kadar kötü bir yemek yedik. Çorba yağda yüzüyordu, 1 parmak yağ vardı üstünde. En sevdiğim mezeleri mercimek köftedir normalde bu tuzsuz, soğansız hiç bir tadı olmayan bir şeydi.",
+            "Date": "2018-01-25",
+            "Flavour": "4",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mukemmel.",
+            "Date": "2018-01-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Tereyağlı Pilav",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurt",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kısır",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuklu Pilav",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Terbiyeli Ekşili Köfte",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Börülce Salatası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kısır",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimek Köftesi",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet",
+            "ItemName": "Mücver",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuklu Pilav",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Terbiyeli Ekşili Köfte",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tereyağlı Pilav",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Börülce Salatası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurt",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cacık",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütaş Ayran (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        }
+    ]
+}

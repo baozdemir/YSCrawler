@@ -1,0 +1,407 @@
+{
+    "comment": [
+        {
+            "Comment": "Pesto soslu tost lezzetliydi. Omlet ve menemen istedik, lezzetleri yerindeydi fakat 2 bölmeli bir kabın içinde birlikte gönderdiler. Servis gereçleri de gönderilmemişti.",
+            "Date": "2018-07-23",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hız servis çok güzel. Menemen kötü, sucuk ve hellim kupkuru, peynirler lezzetliydi.",
+            "Date": "2018-07-22",
+            "Flavour": "5",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mikemmell :)).",
+            "Date": "2018-07-17",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Sarı buğday unundan yapılmış ekşi mayalı tost ekmeği, kaşar peyniri, kasap sucuk. Domates, salatalık ile",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Menemen, ızgara hellim, sucuk, söğül domates & salatalık, simit",
+            "ItemName": "Sıcak Kahvaltı",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Sarı buğday unundan yapılmış ekşi mayalı tost ekmeği, özel pesto sos, kuru et. Roka, zeytin ile",
+            "ItemName": "Özel Pesto Soslu Kuru Etli Tost",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Semizotu, cherry domates, salatalık, ceviz, yoğurt, limon, tuz, karabiber, zeytinyağı, isteğe göre kırmızı soğan",
+            "ItemName": "Semizotlu Yaz Salatası",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Simit arasına klasik beyaz peynir, domates & salatalık söğüş, zeytin",
+            "ItemName": "Hızlı ve Tuzlu Kahvaltı",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "Sarı buğday unundan yapılmış ekşi mayalı tost ekmeği, kaşar peyniri",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Simit arasına klasik beyaz peynir, domates & salatalık söğüş, zeytin",
+            "ItemName": "Hızlı ve Tuzlu Kahvaltı",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "Menemen, ızgara hellim, sucuk, söğül domates & salatalık, simit",
+            "ItemName": "Sıcak Kahvaltı",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Yumurtalı ekmek, Mihaliç lor peyniri, reçel, ızgara sucuk",
+            "ItemName": "Anneanne Kahvaltısı",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Klasik beyaz peynir, Trakya eski kaşar peyniri, dil peyniri, Gemlik siyah zeytin, Edremit yeşil zeytin, çingene salatası, tereyağı, reçel, sucuklu yumurta",
+            "ItemName": "Ev Kahvaltısı",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "Karışık özel beyaz peynir, Trakya eski kaşar peyniri, cevizli tulum peyniri, dil peyniri, İzmir tulum peyniri, Mihaliç peyniri, biberli lor peyniri, kekikli sucuk, Gemlik siyah zeytin, Edremit & Hatay yeşil zeytin, sahanda tereyağlı yumurta, domates soslu kekikli bağırsak sosis, çingene salatası, kaymak & bal, lor peyniri, reçel",
+            "ItemName": "Gönenli Peynircim Kahvaltı",
+            "ItemPrice": "78,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sahanda Tereyağlı Yumurta",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Beyaz Peynirli Maydanozlu Yumurta",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Biberli Lor Peynirli Yumurta",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Menemen",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Yumurta",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pastırmalı Yumurta",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Yumurta",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Beyaz Peynir",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Trakya Eski Kaşar Peyniri",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dil Peyniri",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Biberli Lor Peyniri",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cevizli Kaşkaval Peyniri",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Erzincan Tulum Peyniri",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cevizli Tulum Peyniri",
+            "ItemPrice": "8,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yeşil Zeytin",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Siyah Zeytin",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Antakya Kırma Zeytin",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Füme Dil",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Roast Beef",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuru Et",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pastırma",
+            "ItemPrice": "11,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kekikli Sucuk",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Macar Salamı",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı İspanyol Salamı",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dana Jambon",
+            "ItemPrice": "10,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tereyağı",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Reçel",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bal",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Süt Kaymak",
+            "ItemPrice": "6,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Manda Kaymak",
+            "ItemPrice": "7,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Haşlanmış Yumurta (1 Adet)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Sarı buğday unundan yapılmış ekşi mayalı tost ekmeği, kaşar peyniri",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Sarı buğday unundan yapılmış ekşi mayalı tost ekmeği, kasap sucuk",
+            "ItemName": "Sucuklu Tost",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "Sarı buğday unundan yapılmış ekşi mayalı tost ekmeği, kaşar peyniri, kasap sucuk. Domates, salatalık ile",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Sarı buğday unundan yapılmış ekşi mayalı tost ekmeği, özel pesto sos, kuru et. Roka, zeytin ile",
+            "ItemName": "Özel Pesto Soslu Kuru Etli Tost",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Sarı buğday unundan yapılmış ekşi mayalı tost ekmeği, kavurma, kaşar peyniri, Domates, salatalık ile",
+            "ItemName": "Kavurmalı Kaşarlı Tost",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Roka, avokado, kırmızıbiber, dil peyniri, yer fıstığı",
+            "ItemName": "Fıstıklı Tost",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Sarı buğday unundan yapılmış ekşi mayalı tost ekmeği, fıstıklı İspanyol dana salamı, cheddar peyniri. Zeytin ile",
+            "ItemName": "Dana Salamlı Cheddarlı Tost",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Klasik beyaz peynir, kaşar peyniri, Erzincan tulum peyniri, dil peyniri, çeçil peyniri",
+            "ItemName": "Peynir Tabağı",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Karışık özel beyaz peynir, Trakya eski kaşar peyniri, cevizli tulum peyniri, biberli lor peyniri, isli Çerkez peyniri",
+            "ItemName": "Gurman Peynir Tabağı",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "Füme dil, kuru et, bonfile pastırma, kekikli sucuk, fıstıklı İspanyol dana salamı",
+            "ItemName": "Gurman Et Tabağı",
+            "ItemPrice": "43,50 TL"
+        },
+        {
+            "ItemInfo": "Karışık özel beyaz peynir, Trakya eski kaşar peyniri, cevizli tulum peyniri, kuru et, bonfile pastırma, kekikli sucuk",
+            "ItemName": "Gurman Şarküteri Tabağı",
+            "ItemPrice": "47,50 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, kiraz domates, hellim peyniri, zeytinyağı, limon ile",
+            "ItemName": "Hellim Peynirli Salata",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, roka, avokado, maydanoz, nane, beyaz peynir, zeytinyağı, limon, tuz, karabiber",
+            "ItemName": "Avokadolu Yeşil Salata",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, nane, cherry domates, salatalık, lor peyniri, siyah zeytin, zeytinyağı, balsamik sirke, limon",
+            "ItemName": "Lor Peynirli Biberli Salata",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, cherry domates, cevizli tulum peyniri, zeytinyağı, balsamik sirke, tuz, karabiber",
+            "ItemName": "İtalyan Salata",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Semizotu, cherry domates, salatalık, ceviz, yoğurt, limon, tuz, karabiber, zeytinyağı, isteğe göre kırmızı soğan",
+            "ItemName": "Semizotlu Yaz Salatası",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Domates & Salatalık Söğüş",
+            "ItemPrice": "7,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çingene Salatası",
+            "ItemPrice": "9,75 TL"
+        },
+        {
+            "ItemInfo": "Cevizli mozaik pasta, manda sütlü dondurma",
+            "ItemName": "Ev Yapımı Mozaik Pasta",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "Manda sütlü dondurma, nane, gofret",
+            "ItemName": "Cup Sundae",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mahmut Şevket Paşa Ayran (20 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Rıfat Minareci Şıra",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonata",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pfanner (1 L.)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pfanner (2 L.)",
+            "ItemPrice": "20,00 TL"
+        }
+    ]
+}

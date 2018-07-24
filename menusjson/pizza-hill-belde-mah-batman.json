@@ -1,0 +1,556 @@
+{
+    "comment": [
+        {
+            "Comment": "Çok küçük pizzalar ama lezzetli.",
+            "Date": "2018-07-17",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Yediğim en lezzetli pizzaydı. Patatesler pek iyi değil, yağlı gibiydi düzeltirseniz süper olur. Ama pizzanın hatrına puan kırmıyorum.",
+            "Date": "2018-07-13",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Dominosa 1000 bin çeker. Pizza yedigimizi anladık.",
+            "Date": "2018-06-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Izgara köfte söylemeyin berbattı. Bildiğiniz hazır köfte ızgara köfte sallamıslar tadı da kötüydü.",
+            "Date": "2018-06-23",
+            "Flavour": "1",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hızı normaldi et güzeldi domatesler biraz tatsızdı onun dışında iyi bir sipariş.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzete diyecegim yok ama notlari okumuyolar ince hamur istemistim kalin geldi ayrica light cola istemistim normal gelmis ve bu ilk degil.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gerçekten künefe çok kötüydü tadı yoktu pizza isterim güzel beğeniyorum ama ilk defa künefe istedim hiç beğenmedim parama yazık oldu.",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hazir kunefe getirmsler guzel degildi.",
+            "Date": "2018-02-23",
+            "Flavour": "1",
+            "Serving": "3",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizza mı pide mi belli değil.",
+            "Date": "2018-02-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Elinize sağlık çok güzel olmuş iyi çalışmalar.",
+            "Date": "2018-02-23",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, salam, sosis, mantar, siyah zeytin, yeşilbiber, mısır",
+            "ItemName": "Karışık Pizza (24 cm.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Orta Boy Pizza + Patates Kızartması + Coca-Cola (1 L.)",
+            "ItemName": "2'li Pizza Menü",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Orta Boy Pizza + Patates Kızartması + Coca-Cola (33 cl.)",
+            "ItemName": "Herkes Yesin Menü",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Hamburger Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, salam, sosis, mantar, siyah zeytin, yeşilbiber, mısır",
+            "ItemName": "Karışık Pizza (20 cm.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "En Büyük Boy Pizza + Duble Patates Kızartması + Tavuk Nugget + Coca-Cola (1 L.)",
+            "ItemName": "Kampanya Menü 1 (3 Kişilik)",
+            "ItemPrice": "49,90 TL"
+        },
+        {
+            "ItemInfo": "En Büyük Boy Pizza + Orta Boy Pizza + Duble Patates Kızartması + Tavuk Nugget + Rus Salatası + Coca-Cola (1 L.)",
+            "ItemName": "Kampanya Menü 2",
+            "ItemPrice": "69,90 TL"
+        },
+        {
+            "ItemInfo": "En Büyük Boy Pizza + Büyük Boy Pizza + Orta Boy Pizza + 4 Adet Patates Kızartması + Tavuk Nugget + 2 Adet Rus Salatası + Su (1,5 L.) + Coca-Cola (2,5 L.)",
+            "ItemName": "Kampanya Menü 3",
+            "ItemPrice": "99,90 TL"
+        },
+        {
+            "ItemInfo": "Parça Pizza + Nugget + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Parça Pizza & Nugget Menü",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara Köfte + Ayran (30 cl.)",
+            "ItemName": "Izgara Köfte Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Hamburger Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Parça Pizza + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Parça Pizza Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Çift Katlı Hamburger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Çift Katlı Hamburger Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Orta Boy Pizza + Patates Kızartması + Coca-Cola (33 cl.)",
+            "ItemName": "Herkes Yesin Menü",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Orta Boy Pizza + Patates Kızartması + Coca-Cola (1 L.)",
+            "ItemName": "2'li Pizza Menü",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, siyah zeytin, yeşilbiber, domates, mısır",
+            "ItemName": "Vejetaryen Pizza (20 cm.)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, domates",
+            "ItemName": "Margherita Pizza (20 cm.)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, salam, sosis, mantar, siyah zeytin, yeşilbiber, mısır",
+            "ItemName": "Karışık Pizza (20 cm.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk",
+            "ItemName": "Gino Pizza (20 cm.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, pepperoni, yeşilbiber, mısır",
+            "ItemName": "İtalyan Pizza (20 cm.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sosis, mısır",
+            "ItemName": "Extra Pizza (20 cm.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, siyah zeytin, sucuk, domates",
+            "ItemName": "Favori Pizza (20 cm.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, siyah zeytin, sucuk, salam, kekik",
+            "ItemName": "Süper Hill Pizza (20 cm.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, sosis, yeşilbiber, domates, mısır",
+            "ItemName": "Pizza Rio (20 cm.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, kavurma, sucuk, ekstra mozzarella peyniri, msır",
+            "ItemName": "Delüx Pizza (20 cm.)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, kavurma, yeşilbiber, domates, mısır",
+            "ItemName": "Yörem Pizza (20 cm.)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, ton balığı, mısır",
+            "ItemName": "Tuna Pizza (20 cm.)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, dana jambon, kuru soğan, domates",
+            "ItemName": "Pizza Di Manzo (20 cm.)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, pastırma, sucuk, yeşilbiber, domates, mısır",
+            "ItemName": "Pastırmalım Pizza (20 cm.)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, siyah zeytin, yeşilbiber, dana jambon, sosis",
+            "ItemName": "Fiesta Pizza (20 cm.)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, siyah zeytin, yeşilbiber, domates, mısır",
+            "ItemName": "Vejetaryen Pizza (24 cm.)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, domates",
+            "ItemName": "Margherita Pizza (24 cm.)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, salam, sosis, mantar, siyah zeytin, yeşilbiber, mısır",
+            "ItemName": "Karışık Pizza (24 cm.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk",
+            "ItemName": "Gino Pizza (24 cm.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, pepperoni, yeşilbiber, mısır",
+            "ItemName": "İtalyan Pizza (24 cm.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sosis, mısır",
+            "ItemName": "Extra Pizza (24 cm.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, siyah zeytin, sucuk, domates",
+            "ItemName": "Favori Pizza (24 cm.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, siyah zeytin, sucuk, salam, kekik",
+            "ItemName": "Süper Hill Pizza (24 cm.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, sosis, yeşilbiber, domates, mısır",
+            "ItemName": "Pizza Rio (24 cm.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, kavurma, sucuk, ekstra mozzarella peyniri, msır",
+            "ItemName": "Delüx Pizza (24 cm.)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, kavurma, yeşilbiber, domates, mısır",
+            "ItemName": "Yörem Pizza (24 cm.)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, ton balığı, mısır",
+            "ItemName": "Tuna Pizza (24 cm.)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, dana jambon, kuru soğan, domates",
+            "ItemName": "Pizza Di Manzo (24 cm.)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, pastırma, sucuk, yeşilbiber, domates, mısır",
+            "ItemName": "Pastırmalım Pizza (24 cm.)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, siyah zeytin, yeşilbiber, dana jambon, sosis",
+            "ItemName": "Fiesta Pizza (24 cm.)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, siyah zeytin, yeşilbiber, domates, mısır",
+            "ItemName": "Vejetaryen Pizza (28 cm.)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, domates",
+            "ItemName": "Margherita Pizza (28 cm.)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, salam, sosis, mantar, siyah zeytin, yeşilbiber, mısır",
+            "ItemName": "Karışık Pizza (28 cm.)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk",
+            "ItemName": "Gino Pizza (28 cm.)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, pepperoni, yeşilbiber, mısır",
+            "ItemName": "İtalyan Pizza (28 cm.)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sosis, mısır",
+            "ItemName": "Extra Pizza (28 cm.)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, siyah zeytin, sucuk, domates",
+            "ItemName": "Favori Pizza (28 cm.)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, siyah zeytin, sucuk, salam, kekik",
+            "ItemName": "Süper Hill Pizza (28 cm.)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, sosis, yeşilbiber, domates, mısır",
+            "ItemName": "Pizza Rio (28 cm.)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, kavurma, sucuk, ekstra mozzarella peyniri, msır",
+            "ItemName": "Delüx Pizza (28 cm.)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, kavurma, yeşilbiber, domates, mısır",
+            "ItemName": "Yörem Pizza (28 cm.)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, ton balığı, mısır",
+            "ItemName": "Tuna Pizza (28 cm.)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, dana jambon, kuru soğan, domates",
+            "ItemName": "Pizza Di Manzo (28 cm.)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, pastırma, sucuk, yeşilbiber, domates, mısır",
+            "ItemName": "Pastırmalım Pizza (28 cm.)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, siyah zeytin, yeşilbiber, dana jambon, sosis",
+            "ItemName": "Fiesta Pizza (28 cm.)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, siyah zeytin, yeşilbiber, domates, mısır",
+            "ItemName": "Vejetaryen Pizza (32 cm.)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, domates",
+            "ItemName": "Margherita Pizza (32 cm.)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, salam, sosis, mantar, siyah zeytin, yeşilbiber, mısır",
+            "ItemName": "Karışık Pizza (32 cm.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, siyah zeytin, yeşilbiber, dana jambon, sosis",
+            "ItemName": "Fiesta Pizza (32 cm.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk",
+            "ItemName": "Gino Pizza (32 cm.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, pepperoni, yeşilbiber, mısır",
+            "ItemName": "İtalyan Pizza (32 cm.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sosis, mısır",
+            "ItemName": "Extra Pizza (32 cm.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, siyah zeytin, sucuk, domates",
+            "ItemName": "Favori Pizza (32 cm.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, siyah zeytin, sucuk, salam, kekik",
+            "ItemName": "Süper Hill Pizza (32 cm.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, sosis, yeşilbiber, domates, mısır",
+            "ItemName": "Pizza Rio (32 cm.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, kavurma, sucuk, ekstra mozzarella peyniri, msır",
+            "ItemName": "Delüx Pizza (32 cm.)",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, kavurma, yeşilbiber, domates, mısır",
+            "ItemName": "Yörem Pizza (32 cm.)",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, ton balığı, mısır",
+            "ItemName": "Tuna Pizza (32 cm.)",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, dana jambon, kuru soğan, domates",
+            "ItemName": "Pizza Di Manzo (32 cm.)",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, pastırma, sucuk, yeşilbiber, domates, mısır",
+            "ItemName": "Pastırmalım Pizza (32 cm.)",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hamburger",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çift Katlı Hamburger",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soğan Halkası (8 Adet)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Nugget (6 Adet)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Rus Salatası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Su (1,5 L.)",
+            "ItemPrice": "2,50 TL"
+        }
+    ]
+}

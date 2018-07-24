@@ -1,0 +1,583 @@
+{
+    "comment": [
+        {
+            "Comment": "Tavuklu pilav ve tavuklu noodlelarini denedim. Harikaydi. Gercek çin tadini tutturmuslar. Ama ana yemek olarak bir tavuklu pilav az geldi acikcasi. Buna ragmen diger çin lokantalarina 1000 ceker. Herkese tavsiye ederim.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuklu Noodle",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Kırmızıbiber, yeşilbiber, soya filizi, taze soğan, brokoli, noodle sos, beyazlahana",
+            "ItemName": "Sebzeli Noodle",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Somon, krem peynir, avokado, salatalık",
+            "ItemName": "Philedelphia Roll (6 Pcs.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç, avokado, salatalık, uçan balık yumurtası",
+            "ItemName": "California Roll (6 Pcs.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Etli Noodle",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Salatalık rulosu",
+            "ItemName": "Kappa Maki (6 Pcs.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kappa Maki (6 Adet) + Kani Maki (6 Adet) + California Roll (3 Adet) + Edamame",
+            "ItemName": "ABC Sushi Moriawase (15 Pcs.)",
+            "ItemPrice": "60,00 TL"
+        },
+        {
+            "ItemInfo": "Sake (Adet) + Magura (Adet) + Suzuki (Adet) + Saba (Adet) + California Roll (3 Adet) + Kappa Maki (6 Adet)",
+            "ItemName": "Sushiking (13 Pcs.)",
+            "ItemPrice": "90,00 TL"
+        },
+        {
+            "ItemInfo": "Special Roll A (3 Adet) + Special Roll C (3 Adet) + California Roll (3 Adet) + Canadian Roll (3 Adet) + Crazy Roll (3 Adet) + Philedelphia Roll (3 Adet)",
+            "ItemName": "Mix Special Set (18 Pcs.)",
+            "ItemPrice": "110,00 TL"
+        },
+        {
+            "ItemInfo": "Miso, yosun, mantar, taze soğan",
+            "ItemName": "Miso Soup",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk, havuç, lahana, yumurta, soya filizi, susam yağı, acı biber",
+            "ItemName": "Acılı Ekşili Çorba",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Thai usulü acılı karides çorbası",
+            "ItemName": "Tom Yum Kung",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Thai usulü acılı karides çorbası, levrek, kalamar, fesleğen",
+            "ItemName": "Deniz Ürünleri Çorbası",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç, somon, salatalık, avokado",
+            "ItemName": "Canadian Roll (6 Pcs.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Somon, avokado, somon havyar, uçan balık yumurtası",
+            "ItemName": "Salmon Fancy Roll (4 Pcs.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç, karides, avokado, salatalık, uçan balık yumurtası",
+            "ItemName": "Ebi Ura Roll (4 Pcs.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Karides tempura, salatalık, avokado, uçan balık yumurtası",
+            "ItemName": "Ebi Ten Roll (6 Pcs.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Karides, avokado, salatalık, mayonez",
+            "ItemName": "Sesame Roll (6 Pcs.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç, avokado, salatalık, uçan balık yumurtası, Japon baharatı",
+            "ItemName": "Spicy California Roll (6 Pcs.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç, avokado, salatalık, uçan balık yumurtası",
+            "ItemName": "California Roll (6 Pcs.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Somon, krem peynir, avokado, salatalık",
+            "ItemName": "Philedelphia Roll (6 Pcs.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç, krem peynir, salatalık, avokado",
+            "ItemName": "Sushi Bodrum Special Roll C (6 Pcs.)",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, somon, levrek, salatalık, avokado, uçan balık yumurtası",
+            "ItemName": "Manhattan Roll (4 Pcs.)",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Somon, yengeç, mısır, soğan, salatalık, avokado",
+            "ItemName": "Sushi Bodrum Special Roll B (6 Pcs.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, somon, levrek, yengeç, salatalık, avokado",
+            "ItemName": "Kamikaze Roll (6 Pcs.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Karides tempura, avokado, Japon turpu turşusu",
+            "ItemName": "Samurai Roll (6 Pcs.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Yılan balığı, avokado, salatalık",
+            "ItemName": "Dragon Roll (6 Pcs.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Yılan balığı, krem peynir, avokado",
+            "ItemName": "Caterpillar Roll (6 Pcs.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Levrek, salatalık, avokado, somon tartar",
+            "ItemName": "Suzuki Tempura Roll A (6 Pcs.)",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Karides, salatalık, avokado, acılı ton balığı, teriyaki sos, acı sos, Japon baharatı",
+            "ItemName": "Ninja Roll (6 Pcs.)",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Somon, yengeç, krem peynir, uçan balık yumurtası, salatalık, avokado",
+            "ItemName": "Sushi Bodrum Special Roll (6 Pcs.)",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Somon, avokado, soğan, tempura, acı mayonez sosu",
+            "ItemName": "Ultra Salmon Roll (6 Pcs.)",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç, somon, salatalık, avokado, krem peynir",
+            "ItemName": "Crazy Roll (6 Pcs.)",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Taze ton balığı, avokado, soğan, acı mayonez sosu",
+            "ItemName": "Ultra Tuna Roll (6 Pcs.)",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, somon, levrek, yengeç, salatalık, uçan balık yumurtası, avokado",
+            "ItemName": "Spicy Sea Food Roll (6 Pcs.)",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Karides, salatalık, avokado, somon, uçan balık yumurtası, teriyaki sos",
+            "ItemName": "Sunshine Roll (6 Pcs.)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Yılan balığı, tempura karides, salatalık, avokado",
+            "ItemName": "Golden Dragon Roll (6 Pcs.)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Somon balığı",
+            "ItemName": "Sake Nigiri (1 Pcs.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Uskumru",
+            "ItemName": "Saba Nigiri (1 Pcs.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç",
+            "ItemName": "Kani Nigiri (1 Pcs.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Levrek",
+            "ItemName": "Suzuki Nigiri (1 Pcs.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Yağlı ton balığı",
+            "ItemName": "Chu Toro Nigiri (1 Pcs.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı",
+            "ItemName": "Maguro Nigiri (1 Pcs.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Yağlı somon",
+            "ItemName": "Sake Toro Nigiri (1 Pcs.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Ahtapot",
+            "ItemName": "Tako Nigiri (1 Pcs.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kalamar",
+            "ItemName": "Ika Nigiri (1 Pcs.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Karides",
+            "ItemName": "Ebi Nigiri (1 Pcs.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Yılan balığı",
+            "ItemName": "Unagi Nigiri (1 Pcs.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Uçan balık yumurtası",
+            "ItemName": "Tobiko Nigiri (1 Pcs.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Özel yağlı ton balığı",
+            "ItemName": "Toro Nigiri (1 Pcs.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kırmızı havyar",
+            "ItemName": "Ikura Nigiri (1 Pcs.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Salatalık rulosu",
+            "ItemName": "Kappa Maki (6 Pcs.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Avokado rulosu",
+            "ItemName": "Avocado Maki (6 Pcs.)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Japon turp turşusu rulosu",
+            "ItemName": "Oshinko Maki (6 Pcs.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı rulosu",
+            "ItemName": "Tekka Maki (6 Pcs.)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç rulosu",
+            "ItemName": "Kani Maki (6 Pcs.)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Karides rulosu",
+            "ItemName": "Ebi Maki (6 Pcs.)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Somon rulosu",
+            "ItemName": "Sake Maki (6 Pcs.)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Özel yağlı ton balığı rulosu",
+            "ItemName": "Toro Maki (6 Pcs.)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Yıılan balığı rulosu",
+            "ItemName": "Unagi Maki (6 Pcs.)",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Uçan balık yumurtası rulosu",
+            "ItemName": "Tobiko Maki (6 Pcs.)",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Somon ve avokado rulosu",
+            "ItemName": "Sake Avocado Maki (6 Pcs.)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Yılan balığı ve avokado rulosu",
+            "ItemName": "Unagi Avocado Maki (6 Pcs.)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Karides ve avokado rulosu",
+            "ItemName": "Ebi Avocado Maki (6 Pcs.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Kırmızı havyar rulosu",
+            "ItemName": "Ikura Maki (6 Pcs.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "California et rulosu",
+            "ItemName": "California Temaki (1 Pcs.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı ton balığı rulosu",
+            "ItemName": "Spicy Tuna Temaki (1 Pcs.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Tempura karides et rulosu",
+            "ItemName": "Ebi Ten Temaki (1 Pcs.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık balık et rulosu",
+            "ItemName": "Sashimi Temaki (1 Pcs.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Levrek",
+            "ItemName": "Suzuki Sashimi (3 Pcs.)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Uskumru",
+            "ItemName": "Saba Sashimi (3 Pcs.)",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Ahtapot",
+            "ItemName": "Tako Sashimi (3 Pcs.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Kalamar",
+            "ItemName": "Ika Sashimi (3 Pcs.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Somon",
+            "ItemName": "Sake Sashimi (3 Pcs.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı",
+            "ItemName": "Magura Sashimi (3 Pcs.)",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Yağlı somon",
+            "ItemName": "Sake Toro Sashimi (3 Pcs.)",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Özel yağlı ton balığı",
+            "ItemName": "Toro Sashimi (3 Pcs.)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Somon, ton balığı",
+            "ItemName": "Sashimi Mori (6 Pcs.)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Somon, ton balığı, levrek",
+            "ItemName": "Sashimi Mori (9 Pcs.)",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Somon, ton balığı, levrek, uskumru, ahtapot",
+            "ItemName": "Sashimi Mori (15 Pcs.)",
+            "ItemPrice": "100,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sade Noodle",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Kırmızıbiber, yeşilbiber, soya filizi, taze soğan, brokoli, noodle sos, beyazlahana",
+            "ItemName": "Sebzeli Noodle",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuklu Noodle",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Etli Noodle",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Karidesli Noodle",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yasmin Pilavı",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Havuç, yeşil soğan, biber, yumurta, soya sosu",
+            "ItemName": "Sebzeli Yasmin Pilavı",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk, havuç, yeşil soğan, biber, yumurta, soya sosu",
+            "ItemName": "Tavuklu Yasmi Pilavı",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Bonfile, havuç, yeşil soğan, biber, yumurta, soya sosu",
+            "ItemName": "Etli Yasmin Pilavı",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Buharda pişirilmiş soya fasulyesi",
+            "ItemName": "Edamame",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Ypsun, soya sosu, susam yağı, tobiko",
+            "ItemName": "Wakame",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Taze kişniş, soğan, susam, susam yağı, trüf yağı",
+            "ItemName": "Yuzu Levrek Sashimi",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Levrek, roka, carpaccio sos, turp",
+            "ItemName": "Suzuki Carpaccio",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Hoisin sos, ördek",
+            "ItemName": "Ördek Spring Roll",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Taze kişniş, soğan, susam, susam yağı, trüf yağı",
+            "ItemName": "Yuzu Somon Sashimi",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Thai Usulü Fesleğenli Chili Soslu Tavuk Eti",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Tempura unuyla kızartılmış karides, acılı sarımsaklı sos",
+            "ItemName": "Karides Tempura",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Thai Usulü Fesleğenli Chili Soslu Dana Eti",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, tavuk, acı sos, kişniş",
+            "ItemName": "Tavuk Etli Thai Salata",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, bonfile, acı sos, kişniş",
+            "ItemName": "Dana Etli Thai Salata",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Levrek, somon, ton balığı, avokado, mevsim yeşillikleri, yuzu sos",
+            "ItemName": "Sashimi Salata",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kızarmış Muz",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim meyveleri",
+            "ItemName": "Meyve Tabağı",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kızarmış Dondurma",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Su (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Su (75 cl.)",
+            "ItemPrice": "8,00 TL"
+        }
+    ]
+}

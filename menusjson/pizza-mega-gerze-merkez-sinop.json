@@ -1,0 +1,474 @@
+{
+    "comment": [
+        {
+            "Comment": "Dominos halt etmiş. Ev pizzası tadında harika pizza mega. Teşekkürler.",
+            "Date": "2018-07-01",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız, lezzet, kalite herşey on numara :).",
+            "Date": "2018-07-01",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper ötesi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Emeğinize sağlık. Çok teşekkür ederiz hizmetinizden dolayı.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "2 Adet Mega Burger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Mega Burger Menü 2",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, seçeceğiniz 2 adet sebze ve 1 adet et ile",
+            "ItemName": "Sen Seç Pizza (Küçük)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, seçeceğiniz 2 adet sebze ve 1 adet et ile",
+            "ItemName": "Sen Seç Pizza (Orta)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Mega King Burger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Mega King Burger Menü 1",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, sosis, sucuk, salam, mısır, mantar, domates, yeşil biber, siyah zeytin",
+            "ItemName": "Karışık Pizza (Orta)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mega Spesiyal Pizza (Orta) + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Mega Spesiyal Pizza - Orta)",
+            "ItemPrice": "21,15 TL"
+        },
+        {
+            "ItemInfo": "Mega Spesiyal Pizza (Mega) + İçecek (1 L.) (Kampanya koşulları için restoranın promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Mega Spesiyal Pizza (Mega)",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "Mega Burger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Mega Burger Menü 1",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Mega Burger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Mega Burger Menü 2",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mega King Burger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Mega King Burger Menü 1",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Mega King Burger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Mega King Burger Menü 2",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Pizza (Büyük) + Patates Kızartması + İçecek (1 L.)",
+            "ItemName": "2 Kişilik Pizza Menü",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Pizza (Jumbo) + Patates Kızartması + İçecek (1 L.)",
+            "ItemName": "3 Kişilik Pizza Menü",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Pizza (Mega) + Patates Kızartması + İçecek (2,5 L.)",
+            "ItemName": "4 Kişilik Pizza Menü",
+            "ItemPrice": "48,00 TL"
+        },
+        {
+            "ItemInfo": "2 Karışık Pizza (Büyük) + Patates Kızartması + İçecek (2,5 L.)",
+            "ItemName": "5 Kişilik Pizza Menü",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, domates",
+            "ItemName": "Margherita Pizza (Küçük)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, mantar, yeşil biber, mısır, ton balığı",
+            "ItemName": "Omega Pizza (Küçük)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, domates, yeşil biber, mısır, mantar, siyah zeytin",
+            "ItemName": "Sebzeli Pizza (Küçük)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, zeytin, mantar, yeşil biber, tavuk parçaları",
+            "ItemName": "Tavuklu Pizza (Küçük)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, seçeceğiniz 2 adet sebze ve 1 adet et ile",
+            "ItemName": "Sen Seç Pizza (Küçük)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, pastırma, sucuk, yeşil biber, mantar, domates",
+            "ItemName": "Turka Pizza (Küçük)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sosis, mantar",
+            "ItemName": "Mozzarella Pizza (Küçük)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, sosis, sucuk, salam",
+            "ItemName": "Et Sever Pizza (Küçük)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, sosis, sucuk, salam, mısır, mantar, domates, yeşil biber, siyah zeytin",
+            "ItemName": "Karışık Pizza (Küçük)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, sosis, mantar, yeşil biber, mısır, siyah zeytin, domates",
+            "ItemName": "Mega Spesiyal Pizza (Küçük)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, domates",
+            "ItemName": "Margherita Pizza (Orta)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, mantar, yeşil biber, mısır, ton balığı",
+            "ItemName": "Omega Pizza (Orta)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, domates, yeşil biber, mısır, mantar, siyah zeytin",
+            "ItemName": "Sebzeli Pizza (Orta)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, zeytin, mantar, yeşil biber, tavuk parçaları",
+            "ItemName": "Tavuklu Pizza (Orta)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, seçeceğiniz 2 adet sebze ve 1 adet et ile",
+            "ItemName": "Sen Seç Pizza (Orta)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, pastırma, sucuk, yeşil biber, mantar, domates",
+            "ItemName": "Turka Pizza (Orta)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sosis, mantar",
+            "ItemName": "Mozzarella Pizza (Orta)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, sosis, sucuk, salam",
+            "ItemName": "Et Sever Pizza (Orta)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, sosis, sucuk, salam, mısır, mantar, domates, yeşil biber, siyah zeytin",
+            "ItemName": "Karışık Pizza (Orta)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, sosis, mantar, yeşil biber, mısır, siyah zeytin, domates",
+            "ItemName": "Mega Spesiyal Pizza (Orta)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, domates",
+            "ItemName": "Margherita Pizza (Büyük)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, mantar, yeşil biber, mısır, ton balığı",
+            "ItemName": "Omega Pizza (Büyük)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, domates, yeşil biber, mısır, mantar, siyah zeytin",
+            "ItemName": "Sebzeli Pizza (Büyük)",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, zeytin, mantar, yeşil biber, tavuk parçaları",
+            "ItemName": "Tavuklu Pizza (Büyük)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, seçeceğiniz 2 adet sebze ve 1 adet et ile",
+            "ItemName": "Sen Seç Pizza (Büyük)",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, pastırma, sucuk, yeşil biber, mantar, domates",
+            "ItemName": "Turka Pizza (Büyük)",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sosis, mantar",
+            "ItemName": "Mozzarella Pizza (Büyük)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, sosis, sucuk, salam",
+            "ItemName": "Et Sever Pizza (Büyük)",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, sosis, sucuk, salam, mısır, mantar, domates, yeşil biber, siyah zeytin",
+            "ItemName": "Karışık Pizza (Büyük)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, sosis, mantar, yeşil biber, mısır, siyah zeytin, domates",
+            "ItemName": "Mega Spesiyal Pizza (Büyük)",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, domates",
+            "ItemName": "Margherita Pizza (Jumbo)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, mantar, yeşil biber, mısır, ton balığı",
+            "ItemName": "Omega Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, domates, yeşil biber, mısır, mantar, siyah zeytin",
+            "ItemName": "Sebzeli Pizza (Jumbo)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, zeytin, mantar, yeşil biber, tavuk parçaları",
+            "ItemName": "Tavuklu Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, seçeceğiniz 2 adet sebze ve 1 adet et ile",
+            "ItemName": "Sen Seç Pizza (Jumbo)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, pastırma, sucuk, yeşil biber, mantar, domates",
+            "ItemName": "Turka Pizza (Jumbo)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sosis, mantar",
+            "ItemName": "Mozzarella Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, sosis, sucuk, salam",
+            "ItemName": "Et Sever Pizza (Jumbo)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, sosis, sucuk, salam, mısır, mantar, domates, yeşil biber, siyah zeytin",
+            "ItemName": "Karışık Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, sosis, mantar, yeşil biber, mısır, siyah zeytin, domates",
+            "ItemName": "Mega Spesiyal Pizza (Jumbo)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, domates",
+            "ItemName": "Margherita Pizza (Mega)",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, mantar, yeşil biber, mısır, ton balığı",
+            "ItemName": "Omega Pizza (Mega)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, domates, yeşil biber, mısır, mantar, siyah zeytin",
+            "ItemName": "Sebzeli Pizza (Mega)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, zeytin, mantar, yeşil biber, tavuk parçaları",
+            "ItemName": "Tavuklu Pizza (Mega)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, seçeceğiniz 2 adet sebze ve 1 adet et ile",
+            "ItemName": "Sen Seç Pizza (Mega)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, pastırma, sucuk, yeşil biber, mantar, domates",
+            "ItemName": "Turka Pizza (Mega)",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sosis, mantar",
+            "ItemName": "Mozzarella Pizza (Mega)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, sosis, sucuk, salam",
+            "ItemName": "Et Sever Pizza (Mega)",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, sosis, sucuk, salam, mısır, mantar, domates, yeşil biber, siyah zeytin",
+            "ItemName": "Karışık Pizza (Mega)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, sosis, mantar, yeşil biber, mısır, siyah zeytin, domates",
+            "ItemName": "Mega Spesiyal Pizza (Mega)",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "4 adet nugget, 4 adet soğan halkası, karışık patates kızartması",
+            "ItemName": "Aperetif Tabağı",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates Kızartması",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Peynirli Patates Kızartması",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soğan Halkası (8 Adet)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Nugget (6 Adet)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea Şeftali (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (1 L.)",
+            "ItemPrice": "5,00 TL"
+        }
+    ]
+}

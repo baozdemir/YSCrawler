@@ -1,0 +1,538 @@
+{
+    "comment": [
+        {
+            "Comment": "Super.",
+            "Date": "2018-07-22",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Muhallebinin kakaosu ekşi geldi.",
+            "Date": "2018-07-18",
+            "Flavour": "3",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Genel olarak memnun kaldim ancak 3 simit siparis ettim, hepsi bayatti :(.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Süper.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Vale arkadaşa ayrıca teşekkürler. Hastamız var diye uyardık hem restoran hem vale arkadaş 3 dk da geldiler. Uyarınca da olsa çalışılıyor olması harika değil mi? Türkiyedeyiz. :/.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Akın beye ayrıca teşekkürler. Mükemmel bir servis, sunum, lezzet..",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Beyaz peynir, domates, zeytin ezmesi, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Ezine Beyaz Peynirli Sandviç",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Kepekli sandviç ekmeği, ızgara mevsim sebzeleri, mozzarella peyniri, domates, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Izgara Sebzeli Sandviç",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, domates, mısır, mevsim yeşillikleri, kuru soğan, zeytin, patates kızartması",
+            "ItemName": "Ton Balıklı Sandviç",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk jambon, dana jambon, Macar salamı, kaşar peyniri, domates, turşu, marul, mevsim yeşillikleri",
+            "ItemName": "Şarküteri Sandviç",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hamburger (150 gr.)",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, patates kızartması ile",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, patates kızartması ile",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "38,50 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, roka ile",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, domates, biber ile",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, domates, biber ile",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, domates, biber ile",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "58,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, domates, biber ile",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, domates, biber ile",
+            "ItemName": "Mini Burger (120 gr.)",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mantı",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mantı",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Sarı biber, kırmızıbiber, mantar, domates, kaşar peyniri",
+            "ItemName": "Mantı",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Tulum peyniri, hellim peyniri, kaşar peyniri",
+            "ItemName": "Mantı",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mantı",
+            "ItemPrice": "30,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mantı",
+            "ItemPrice": "30,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "30,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "38,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "38,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri ve seçeceğiniz 2 adet malzeme ile",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "39,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk bonfile, sarı biber, kırmızıbiber, mantar, fajita baharatı, cheddar peyniri, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Dana bonfile, sarı biber, kırmızıbiber, mantar, fajita baharatı, cheddar peyniri, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Etli Dürüm",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Etli Dürüm",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Etli Dürüm",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Etli Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Etli Dürüm",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, cherry domates, havuç, salatalık, kırmızılahana, mısır, zeytinyağı, limon sos",
+            "ItemName": "Etli Dürüm",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, maydanoz, cherry domates, salatalık, zeytin, turp, Ezine beyaz peynir, zeytinyağı, limon sos",
+            "ItemName": "Etli Dürüm",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, tatlı biber, Ezine beyaz peynir, zeytinyağı, limon sos, isteğe göre soğan",
+            "ItemName": "Etli Dürüm",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, suda mozzarella peyniri, cherry domates, salatalık, fesleğen sos",
+            "ItemName": "Etli Dürüm",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, roka, ızgara mevsim sebzeleri, domatesli salsa sos, tahinli yoğurt sos",
+            "ItemName": "Izgara Sebzeli Salata",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Baby ıspanak, ton balığı, haşlanmış fasulye, kırmızı soğan, zeytin, domates, hardal sos",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, tulum peyniri, ceviz, armut, nar, mısır, soya filizi, salatalık, cherry domates, nar ekşili sos",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, hellim peyniri, ceviz, mısır, közlenmiş biber, soya filizi, cherry domates, hardallı portakallı sos",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, kruton ekmek, parmesan peyniri, Sezar sos",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Marul, kruton ekmek, parmesan peyniri, Sezar sos, tavuk",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Roka yaprakları, fırınlanmış bonfile et, kırmızı soğan, turp, cherry domates, pancar sos",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Roka yaprakları, mevsim yeşillikleri, kırmızı soğan, turp, cherry domates, sos",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Roka yaprakları, mevsim yeşillikleri, tavuk, kırmızı soğan, turp, cherry domates, sos",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "Roka yaprakları, mevsim yeşillikleri, kırmızı soğan, turp, cherry domates, sos, avokado, fırınlanmış bonfile et",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata sosu ile",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bonfile Etli Salata",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Havuç Dilim Baklava",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Havuç Dilim Baklava",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Pate a choux, pastacı kreması, çikolatalı sos, muz",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pate a choux, pastacı kreması, çikolatalı sos, çilek",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "8,40 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "8,40 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "8,40 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "8,40 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "8,40 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "8,40 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "8,40 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Dürüm",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Nar Suyu",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Portakal, nar, elma, greyfurt",
+            "ItemName": "Taze Sıkma Nar Suyu",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Portakal, nar, elma, havuç, çilek, muz",
+            "ItemName": "Taze Sıkma Nar Suyu",
+            "ItemPrice": "14,50 TL"
+        }
+    ]
+}

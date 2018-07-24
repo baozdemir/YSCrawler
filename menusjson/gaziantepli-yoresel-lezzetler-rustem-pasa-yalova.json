@@ -1,0 +1,366 @@
+{
+    "comment": [
+        {
+            "Comment": "Lezzetliydi.",
+            "Date": "2018-07-18",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Ayran ısınmıştı.",
+            "Date": "2018-07-07",
+            "Flavour": "8",
+            "Serving": "3",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lahmacunlari biraz daha kuculturseniz daha cok kar edersiniz. Avuc ici buyuklugunde neredeyse.",
+            "Date": "2018-07-03",
+            "Flavour": "3",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "İlk defa sipariş vermeme rağmen tadı enfesti. Çok memnun kaldım. Tadına doyamayıp 15dk sonra tekrar sipariş verdim. Tavsiye ederim herkese. Ellerinize sağlık.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "3 tane lahmacuna koydukları bi avuç yeşilliği koymakta zahmet etmişler. Ayrıca lahmacuna koymayı unuttukları kıyamanın yerine baştıkları soğanlarda ayrıca bi olaydı.",
+            "Date": "2018-06-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Salata zenginleştirilmeli.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "3",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Gerçekten lezzetli tavsiye ederim.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "4",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok beğendim :).",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı geldi teşekkürler.",
+            "Date": "2018-05-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Salatası çok azdı.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Menüler lezzetli ancak hiç bir siparişinizde ne bir peçete, ne bir kolonyalı mendil ne bir tuz ara ki bulasın...",
+            "Date": "2018-04-24",
+            "Flavour": "7",
+            "Serving": "2",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Kötü.",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Paketi getiren biraz daha kibar olsa keşke sma yine de güzeldi.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparis 1 bucuk saatte geldi. Kola unutulmustu. Arayip isteyince menunuzde kola yok diyip azarlar gibi konustular. Sonra yemek sepetine sikayet edince kolamizi getirdiler. Bir daha asla alisveris yapmam.",
+            "Date": "2018-02-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "3 Adet Lahmacun + Ayran (30 cl.)",
+            "ItemName": "3'lü Lahmacun Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Antep Lahmacun",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, soğan ile",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Lahmacun + Coca-Cola (20 cl.)",
+            "ItemName": "Seçilmiş Menü (2 Lahmacun)",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Lahmacun + Coca-Cola (20 cl.)",
+            "ItemName": "Seçilmiş Menü (2 Lahmacun)",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "Kıymalı Kaşarlı Pide + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Kıymalı Kaşarlı Pide)",
+            "ItemPrice": "14,25 TL"
+        },
+        {
+            "ItemInfo": "Kuzu Şiş + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Kuzu Şiş)",
+            "ItemPrice": "20,50 TL"
+        },
+        {
+            "ItemInfo": "Nohut Dürüm + Ayran (30 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Nohut Dürüm)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "3 Adet Lahmacun + Ayran (30 cl.)",
+            "ItemName": "3'lü Lahmacun Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "10 Adet Lahmacun + Coca-Cola (1 L.)",
+            "ItemName": "10'lu Lahmacun Menü",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Adana Kebap + 2 Adet Ayran (30 cl.)",
+            "ItemName": "2'li Adana Kebap Menü",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Tavuk Şiş + 2 Adet Ayran (30 cl.)",
+            "ItemName": "2'li Tavuk Şiş Menü",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "12 Adet Lahmacun (Lütfen acı durumunu kullanıcı notu bölümünde belirtiniz.)",
+            "ItemName": "12'li Lahmacun Menü",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, soğan ile",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, soğan ile",
+            "ItemName": "Urfa Kebap",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, soğan ile",
+            "ItemName": "Patlıcanlı Kebap",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, soğan ile",
+            "ItemName": "Alinazik Kebabı (Et Şişten)",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, soğan ile",
+            "ItemName": "Fıstıklı Adana Kebap",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, soğan ile",
+            "ItemName": "Altı Ezmeli Kebap (Kıymadan)",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, soğan ile",
+            "ItemName": "Beyti Sarma (Kıymadan)",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, soğan ile",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, soğan ile",
+            "ItemName": "Ciğer Şiş",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, soğan ile",
+            "ItemName": "Kuzu Şiş",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Antep Lahmacun",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Pide",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Kaşarlı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Kaşarlı Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaşılı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Kaşarlı Pide",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Soğan, maydanoz, domates, baharat",
+            "ItemName": "Nohut Dürüm",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kilis Tava (Kıymadan)",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (20 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "5,00 TL"
+        }
+    ]
+}

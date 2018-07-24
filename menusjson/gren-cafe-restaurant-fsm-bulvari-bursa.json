@@ -1,0 +1,602 @@
+{
+    "comment": [
+        {
+            "Comment": "Köri soslu tavukları harika ama mantarlar biraz daha küçük ve az olabilirdi.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişimden yarım saat içinde geldi sıcacık o kadar güzel paketlenmiş ki hiç bir şekilde dökülme falan olmamış.. Tadı da bir o kadar güzeldi teşekkürler gren.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Eve siparişleri de cafeye gittiğimizdeki hizmetleri de muhteşem lezzetler harika çok güler yüzlüler herkese tavsiye ediyorum.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi ama pahalı.",
+            "Date": "2018-07-08",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Çok başarılı buluyorum. Siparişler hızlı geliyor. Menüdeki herşey çok lezzetli.",
+            "Date": "2018-07-06",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sipariş için teşekkür ederim. Fakat cajun baharatlı tavuk ta cajundan çok diğer baharatların tadı geliyordu aslında sırf cajun baharatiyla yapılan bir yemek olduğunu biliyorum ama yine de teşekkürler.",
+            "Date": "2018-06-30",
+            "Flavour": "6",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pişmemiş hamur bir gözlemeydi çöpe atıldı yapan kişinin biraz daha dikkat etmesi gereklisaygılarımla!",
+            "Date": "2018-06-25",
+            "Flavour": "1",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mükemmeldi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Keşke viyana tavuğun fiyatını bu kadar arttırmasaydınız :/.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pilav çok başarılıydı.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Yemek 1bucuk saat sonra geldi taseron kurye kullandiklari icinmis.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Herşey iyi ama biraz pahalı.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Makarnası çok lezzetliydi, teşekkürler.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok güzel ama accık tuzlu.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Parasına değer mi tartışılır fakat yemekler güzel. Servis genelde tam geliyor fakat bazen çatal bıçak koymayı unutuyorlar.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pahalı.",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "4",
+            "Speed": "5"
+        },
+        {
+            "Comment": "İnsanın catal ve ekmek koymak aklına gelmez mi.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sosları biraz daha hafif yaparsanız daha iyi olur kendi fikrimce onun dışında herşey mükemmel.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Cajun baharatlı tavuk çok lezzetliydi. Hız ve servis de çok iyiydi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Enfess..",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Makarnaları gerçekten lezzetli tavsiye ederim.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok lezzetli bir makarna yedim.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gayet hızlı ve lezzetli.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı ve sıcak geldi, lezzet de güzeldi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet güzeldi.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kalite ama pahalı.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey iyi lezzet orta iyi.",
+            "Date": "2018-04-25",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Milanese makarnasını tavsiye ederim, teşekkürler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sürekli sipariş verdiğim ve güvendiğim bir adres. Şiddetle tavsiye ediyorum!",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok iyiydi teşekkürler!",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her zaman harika.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çatal kaşık yok salatada sos yok lezzet saman gibi.",
+            "Date": "2018-04-25",
+            "Flavour": "4",
+            "Serving": "1",
+            "Speed": "5"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Küp doğranmış tavuk eti, mantar, krema, köri baharatı, kırmızı yağ biberi, pilav, elma dilim patates kızartması, özel dip sos ile",
+            "ItemName": "Köri Soslu Tavuk",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Jülyen kesilmiş tavuk bonfile, kırmızı yağ biberi, çarliston yeşilbiber, mantar, özel baharatlar. Parmak patates kızartması, özel dip sos, mevsim yeşillikleri ile",
+            "ItemName": "Tavuk Wrap",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Limon suyu & özel baharatlar ile terbiye edilmiş tavuk, pilav, elma dilim patates kızartması, mevsim yeşillikleri, özel dip sos ile",
+            "ItemName": "Viyana Tavuk",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Kıtır baharatlı tavuk fileto, pilav, elma dilim patates kızartması, özel dip sos ile",
+            "ItemName": "Kıtır Tavuk",
+            "ItemPrice": "20,50 TL"
+        },
+        {
+            "ItemInfo": "Özel krema soslu tavuk, mantar, kaşar peyniri",
+            "ItemName": "Milanese Makarna",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Özel baharatlı tavuk parçaları, parmak patates kızartması, ketçap & mayonez ile",
+            "ItemName": "Cajun Baharatlı Tavuk",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "Tereyağında yumurta üzeri kaşar peyniri rendesi. Salatalık, domates ile",
+            "ItemName": "Sade Omlet",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Özel kıtır gözleme hamuru, kaşar peyniri. Domates, salatalık, mevsim yeşillikleri ile",
+            "ItemName": "Kaşarlı Gren Gözleme",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Özel kıtır gözleme hamuru, beyaz peynir. Domates, salatalık, mevsim yeşillikleri ile",
+            "ItemName": "Beyaz Peynirli Gren Gözleme",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Küp doğranmış tavuk eti, mantar, krema, köri baharatı, kırmızı yağ biberi, pilav, elma dilim patates kızartması, özel dip sos ile",
+            "ItemName": "Köri Soslu Tavuk",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Küp doğranmış tavuk eti, mantar, krema, soya sosu, pilav, elma dilim patates kızartması, özel dip sos ile",
+            "ItemName": "Soya Soslu Tavuk",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Kıtır baharatlı tavuk fileto, pilav, elma dilim patates kızartması, özel dip sos ile",
+            "ItemName": "Kıtır Tavuk",
+            "ItemPrice": "20,50 TL"
+        },
+        {
+            "ItemInfo": "Limon suyu & özel baharatlar ile terbiye edilmiş tavuk, pilav, elma dilim patates kızartması, mevsim yeşillikleri, özel dip sos ile",
+            "ItemName": "Viyana Tavuk",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Ev yapımı dana köfte, makarna, özel sosu ile",
+            "ItemName": "Misket Köfte",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Özel krema soslu tavuk, mantar, kaşar peyniri",
+            "ItemName": "Milanese Makarna",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, fesleğen, kaşar peyniri",
+            "ItemName": "Napolitan Makarna",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Kurutulmuş domates, zeytinyağı, soğan, yeşilbiber, sarımsak, domates, acı biber, fesleğen, kaşar peyniri",
+            "ItemName": "Arrabbiata Makarna",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Köz patlıcan, krema, mantar, kaşar peyniri",
+            "ItemName": "Patlıcanlı Penne",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, mısır, biber",
+            "ItemName": "Ton Balıklı Makarna",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Özel domates soslu dana kıyma, kaşar peyniri",
+            "ItemName": "Bolonez Makarna",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "Fesleğen, fıstık, sarımsak, zeytinyağ, süt, ceviz, özel pesto sos, kaşar peyniri",
+            "ItemName": "Pesto Soslu Makarna",
+            "ItemPrice": "20,50 TL"
+        },
+        {
+            "ItemInfo": "Jülyen dana bonfile, kırmızı yağ biberi, çarliston yeşil biber, mantar, soğan, fajita baharat. Parmak patates kızartması, tortilla ekmeği, özel dip sos ile",
+            "ItemName": "Bonfile Fajita",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen tavuk eti, kırmızı yağ biberi, çarliston yeşil biber, mantar, soğan, fajita baharat. Parmak patates kızartması, tortilla ekmeği, özel dip sos ile",
+            "ItemName": "Tavuk Fajita",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen kesilmiş tavuk, kırmızı yağ biberi, yeşilbiber, mantar, mısır, kaşar peyniri, Meksika acı sos, kızarmış tortilla ekmeği. Parmak patates kzıartması, mevsim yeşillikleri, özel dip sos ile",
+            "ItemName": "Tavuk Quesadilla",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Özel soya soslu kremalı tavuk parçaları, mantar, eritilmiş kaşar peyniri. Parmak patates kızartması, özel dip sos, mevsim yeşillikleri ile",
+            "ItemName": "Gren Sandviç",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Jülyen dana bonfile, kırmızı yağ biberi, çarliston yeşilbiber, mantar, iceberg marul. Parmak patates kızartması, özel dip sos, mevsim yeşillikleri ile",
+            "ItemName": "Biftekli Sandviç",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen dana bonfile, köz patlıcan (konserve değildir), kırmızı yağ biberi, çarliston yeşilbiber, mantar, özel baharatlar, ıceberg marul. Parmak patates kızartması, özel dip sos, mevsim yeşillikleri ile",
+            "ItemName": "Köz Patlıcanlı Sandviç",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk fileto, domates, iceberg marul. Parmak patates kızartması, özel dip sos, mevsim yeşillikleri ile",
+            "ItemName": "Tavuklu Sandviç",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara hellim peyniri, domates, iceberg marul. Parmak patates kızartması, özel dip sos, mevsim yeşillikleri ile",
+            "ItemName": "Hellim Peynirli Sandviç",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Dana jambon, kaşar peyniri, iceberg marul, domates, zeytin, mısır, mayonez. Parmak patates kızartması, özel dip sos, mevsim yeşillikleri ile",
+            "ItemName": "Club Sandviç",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, mısır, zeytin, iceberg marul. Parmak patates kızartması, özel dip sos, mevsim yeşillikleri ile",
+            "ItemName": "Ton Balıklı Sandviç",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Dana köfte, turşu, iceberg marul, karamelize soğan, domates, ketçap, mayonez. Parmak patates kızartması ile",
+            "ItemName": "Hamburger",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Dana köfte, cheddar peyniri, turşu, domates, iceberg marul, ketçap, mayonez. Parmak patates kızartması ile",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "2 adet dana köfte arası cheddar peyniri, karamelize soğan, turşu, iceberg marul, ketçap, mayonez. Parmak patates kızartması ile",
+            "ItemName": "Double Burger",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Küp kesilmiş tavuk eti, soya sosu, krema, mantar, kaşar peyniri. Elma dilim patates kızartması, mevsim yeşillikleri, dip sos ile",
+            "ItemName": "Tavuklu Krep",
+            "ItemPrice": "20,50 TL"
+        },
+        {
+            "ItemInfo": "Jülyen kesilmiş kırmızı yağ biberi, çarliston yeşil biber, mantar, soğan, özel baharat karışımı, kaşar peyniri. Elma dilim patates kızartması, mevsim yeşillikleri, dip sos ile",
+            "ItemName": "Sebzeli Krep",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen kesilmiş dana bonfile, kırmızı yağ biberi, çarliston yeşil biber, mantar, soğan, özel baharat karışımı, kaşar peyniri. Elma dilim patates kızartması, mevsim yeşillikleri, dip sos ile",
+            "ItemName": "Bonfileli Krep",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Bolonez soslu krep dana kıyma, domates sosu, kaşar peyniri. Elma dilim patates kızartması, mevsim yeşillikleri, dip sos ile",
+            "ItemName": "Bolonez Krep",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "Jülyen kesilmiş dana bonfile, kırmızı yağ biberi, mantar, özel baharatlar. Parmak patates kızartması, özel dip sos, mevsim yeşillikleri ile",
+            "ItemName": "Bonfile Wrap",
+            "ItemPrice": "20,50 TL"
+        },
+        {
+            "ItemInfo": "Jülyen kesilmiş tavuk bonfile, kırmızı yağ biberi, çarliston yeşilbiber, mantar, özel baharatlar. Parmak patates kızartması, özel dip sos, mevsim yeşillikleri ile",
+            "ItemName": "Tavuk Wrap",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen kesilmiş tavuk parçaları, kırmızı yağ biberi, çarliston yeşilbiber, mantar, mısır, Meksika sosu. Parmak patates kızartması, özel dip sos, mevsim yeşillikleri ile",
+            "ItemName": "Meksika Wrap",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar loru, maydanoz. Domates, salatalık ile",
+            "ItemName": "Sigara Böreği (8 Adet)",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Kıtır tavuk parçaları, Akdeniz yeşillikleri, iceberg marul, domates, salatalık, havuç, zeytin, mısır, maydanoz, özel dip sos ile",
+            "ItemName": "Kıtır Salata",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Özel soya soslu kremalı küp tavuk, Akdeniz yeşillikleri, iceberg marul, domates, salatalık, zeytin, maydanoz, mısır, kaşar peyniri ile",
+            "ItemName": "Tavuklu Salata",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Özel terbiye edilmiş ızgara tavuk, domates, salatalık, zeytin, dereotu, maydanoz, nane, mısır, kruton ekmeği, Sezar sos ile",
+            "ItemName": "Sezar Salata",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Cajun baharatlı tavuk parçaları, Akdeniz yeşillikleri, iceberg marul, domates, salatalık, havuç, zeytin, maydanoz, nane, mısır, özel sos ile",
+            "ItemName": "Cajun Baharatlı Tavuklu Salata",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış hellim peyniri, Akdeniz yeşillikleri, iceberg marul, domates, salatalık, zeytin, mısır, maydanoz",
+            "ItemName": "Hellim Peynirli Salata",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, Akdeniz yeşillikleri, iceberg marul, domates, salatalık, zeytin, dereotu, maydanoz, nane, mısır, kruton ekmeği, dip sos ile",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, iceberg marul, domates, salatalık, zeytin, havuç, dereotu, nane, mısır, çörek otlu küp beyaz peynir ile",
+            "ItemName": "Yunan Salatası",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates Kızartması",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soğan Halkası (10 Adet)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Özel baharatlı tavuk parçaları, parmak patates kızartması, ketçap & mayonez ile",
+            "ItemName": "Cajun Baharatlı Tavuk",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "Çikolatalı fındık ezmesi, mevsim meyveleri, meyve sosu",
+            "ItemName": "Waffle",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tiramisu",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolatalı fındık ezmesi, muz, meyve sosu",
+            "ItemName": "Çikolatalı Krep",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Tatlı krema ile",
+            "ItemName": "Çikolatalı Sufle",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Uludağ Gazoz (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Gagoz (25 cl.)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bırr Tea Şeftali (25 cl.)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ülker Maltana",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Red Bull (25 cl.)",
+            "ItemPrice": "12,00 TL"
+        }
+    ]
+}

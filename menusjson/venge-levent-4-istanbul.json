@@ -1,0 +1,593 @@
+{
+    "comment": [
+        {
+            "Comment": "Fiyat ile lezzet tutarsız daha iyi olabilir.",
+            "Date": "2018-06-29",
+            "Flavour": "6",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok lezzetli ve zamanında teslimat. Güler yüzlü personeliyle.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cool.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Sipari hızlıydı sıcaktı lahmacun pişmemişti kıymalar çiğ gibiydi yiyemedim çiğ köfte tazeydi ama bulguru diriydi.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Klasik lezzetli.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hem hiz bakimindan hem tat bakimindan mukemmel. Birtek lahmacun 2 adet istedik yaninda limon ve yesillik gelmesini isterdim.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Citir lahmacun yaziyor, gelen yumusacik bir hamur ve icinde ozel venge eti dediginiz tamamen artik doner parcaciklari. Buyuk hayal kirikligi!",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "3",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Gördüğüm en suratsız kuryeye sahipler. Ayrıca şaşlık lastik gibiydi.",
+            "Date": "2018-04-25",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "6"
+        },
+        {
+            "Comment": "10 numara.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lahmacunlar çok kalındı ve hamur gibiydi. Urfanın etinin yağı güzel değildi.",
+            "Date": "2018-03-26",
+            "Flavour": "6",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzetli ve hızlı.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lahmacun biraz yagli onun disinda kaliteli bir muessese.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her şeyi ile çok kaliteli, servis malzemesinde alüminyum olmayan benim bildiğim tek kebapçı. Dönerde tuzu biraz sakınarak kullansalar daha da iyi olurdu. Tebrikler.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lahmacunun daha güzel-çıtır olmasını beklerdim, çok yumuşaktı.",
+            "Date": "2018-03-26",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "10 numara et.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bulgur pılavı yerıne beyaz pılav geldı. Adana her zmaan kı gıbı guzel olmasına ragmen şaşlık yedıgım en kotu şaşlıktı kayış gıbıydı.",
+            "Date": "2018-03-26",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lezzet 10 numara, hızın artması lazım.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Et pembeydi pişmemişti, lavaş çok kalındı.",
+            "Date": "2018-02-24",
+            "Flavour": "4",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İçli köfteler bekletilmeye hiç gelmiyor, hemen sıcak sıcak çıtır çıtır yiyin :) biz yumuşattık, siz yanmayın :).",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her daim lezzetli.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzet 10 numara.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Malzemesi eskisi gibi dolgun gelmiyor.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Ahh bu içli köfte.. Mikemmelll :).",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Döner mükemmeldi.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İçli köfte kalp kalp kalp :).",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fındık Lahmacun",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "Çıtır lahmacun içinde özel terbiyeli Venge döneri ile",
+            "ItemName": "Venge Lahmacun",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre ceviz",
+            "ItemName": "Gavurdağı Salata",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Kuzu Çöp Şiş",
+            "ItemPrice": "34,50 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Kuzu Şiş",
+            "ItemPrice": "35,50 TL"
+        },
+        {
+            "ItemInfo": "Et Döner Dürüm + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Et Döner Dürüm)",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Beyaz Peynir",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kızartma İçli Köfte (Adet)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Küçük Pide",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "Yeşillik, lavaş ekmeği, limon ile",
+            "ItemName": "Çiğ Köfte (7 Sıkım)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tereyağı & Tulum Peyniri",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patlıcan Salatası",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Domates soslu patlıcan",
+            "ItemName": "Soslu Patlıcan",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Ceviz, tahin, helva, bulgurlu ezme",
+            "ItemName": "Muammara",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Lahana, biber, pancar, salatalık ",
+            "ItemName": "Karışık Turşu",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Humus",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pastırmalı Humus",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Acılı Ezme",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sumaklı Soğan",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Nane, sarımsak, süzme yoğurt",
+            "ItemName": "Haydari",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Urfa Kebap",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Patlıcan, sarımsaklı yoğurt",
+            "ItemName": "Alinazik Kebap",
+            "ItemPrice": "37,50 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Beyti Kebap",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Altı Ezmeli Kebap (Kuzu Şişten)",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Fıstıklı Kebap",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Patlıcanlı Kebap",
+            "ItemPrice": "38,50 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış lavaşa sarılmış Adana kebap veya Urfa kebap, közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Venge Beyti Sarma",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Yoğurt soslu pide üzerine Adana kebap veya Urfa kebap, közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Yoğurtlu Kebap",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Kuzu Çöp Şiş",
+            "ItemPrice": "34,50 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Kuzu Kaburga (6 Parça)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Kuzu Şiş",
+            "ItemPrice": "35,50 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Kuzu Pirzola (3 Parça)",
+            "ItemPrice": "38,50 TL"
+        },
+        {
+            "ItemInfo": "Krema ve soya sos ile hazırlanmış soğanla terbiye edilmiş dana eti",
+            "ItemName": "Dana Şaşlık",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Tavuk Kanat",
+            "ItemPrice": "32,50 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Tavuk Külbastı",
+            "ItemPrice": "32,50 TL"
+        },
+        {
+            "ItemInfo": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, lavaş",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "32,50 TL"
+        },
+        {
+            "ItemInfo": "Özel terbiyeli Venge döneri",
+            "ItemName": "Et Döner",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, sos",
+            "ItemName": "İskender (Et Dönerden)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Söğüş domates, biber",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Söğüş domates, biber",
+            "ItemName": "Kaşarlı Et Döner Dürüm",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fındık Lahmacun",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Çıtır lahmacun içinde özel terbiyeli Venge döneri ile",
+            "ItemName": "Venge Lahmacun",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Pide",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kaşar peyniri",
+            "ItemName": "Karışık Pide",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre soğan. Gavurdağı salatası ile",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre soğan. Gavurdağı salatası ile",
+            "ItemName": "Urfa Dürüm",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre soğan. Gavurdağı salatası ile",
+            "ItemName": "Beyti Dürüm",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre soğan. Gavurdağı salatası ile",
+            "ItemName": "Çöp Şiş Dürüm",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre soğan. Gavurdağı salatası ile",
+            "ItemName": "Kuzu Şiş Dürüm",
+            "ItemPrice": "34,50 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre soğan. Gavurdağı salatası ile",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pirinç Pilavı",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bulgur Pilavı",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Süzme Yoğurt",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Patlıcan",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Közde Soğan",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Közde Patlıcan",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Söğürme",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Beyaz Peynirli Mevsim Salata",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, göbek marul, domates, Venge terbiyeli tavuk şiş",
+            "ItemName": "Tavuklu Yeşil Salata",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salata",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre ceviz",
+            "ItemName": "Gavurdağı Salata",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Söğüş",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Göbek Salata",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fırın Sütlaç",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Vanilyalı dondurma üzerinde tarçın ile",
+            "ItemName": "Dondurmalı İrmik",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (1 L.)",
+            "ItemPrice": "10,00 TL"
+        }
+    ]
+}

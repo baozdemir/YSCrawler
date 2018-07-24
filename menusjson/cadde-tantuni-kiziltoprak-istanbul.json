@@ -1,0 +1,633 @@
+{
+    "comment": [
+        {
+            "Comment": "Normal.",
+            "Date": "2018-07-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-07-20",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Tanrun durum iyiydi ama ekmek arasi cok fazla domates ve maydanozla doldurulmus birazcik etin gramaji arttirilabilir cunku lezzet bozuluyor, onun disinda hersey olmasi gerektigi gibi baklava lezzetli ayrica siparisin gelmesi 15 dk surmedi! Teşekkürler arkadaşlar.",
+            "Date": "2018-07-15",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Super. 10 puan!",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hep harika. Baska tantunici yok! Uzak ara en en en en iyisi!",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hiç fena değil... Fakat porsiyon, rakiplere göre biraz küçük.",
+            "Date": "2018-07-06",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Servis hızlı, tantuni lezzetliydi.",
+            "Date": "2018-07-05",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Harika, fakat lutfen acisiz yerine acili getirmeyin. Ve gercekten tantunicilerin arasinda en iyisidir. Yani aci olmasina ragmen yediysem :d.",
+            "Date": "2018-07-04",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tantunide tek adres.",
+            "Date": "2018-07-02",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "10/10/10 her şey harikaydı...",
+            "Date": "2018-07-02",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet başarılı çok beğendim gelen kurye arkadaşa ayrı teşekkür ederim aradığı için.",
+            "Date": "2018-06-29",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Porsiyon tantuni bir harika.",
+            "Date": "2018-06-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her şey çok güzel, ama bir de siparişte yazdığım notları okusanız. Acısız bol soğanlı istedim. Acılı soğansız geldi. Ama lezzet mükemmel..",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tşler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyiydi.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Ellerinize sağlık, süperdi!",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok hızlı ve güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hafif tantuni yemek isteyenler için ideal. Porsiyonlara laf edilmiş ama tantuni ufak olur. Bunu bilmeyenler yorum yapmış. Adana dürüm gibi birşey mi bekliyordunuz? Bir mersinli olarak sadece yağını ve baharatlarını biraz az buldum o kadar. Dolayısıyla az yağlı, hafif tantuni isteyenler için güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zamanki gibi süper.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika bir işletme. Tantunisi harika ve çalışanlarıda öyle. Herkese tavsiye ederim..",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hicde lezzetli degildi et.",
+            "Date": "2018-05-25",
+            "Flavour": "3",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Fena değil.",
+            "Date": "2018-05-25",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Bu restorandan ilk defa siparis verdim. Cok begendim. Hizli da geldi. Tsk.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Aylardır sipariş veriyorum. Kaliteyi hiç bozmadınız. Helal olsun. Hem hızlı hemde süper lezzetli. Bozmadığınız sürece siparişe devam.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Midem bozuldu ertesi gün hiç yaşamadığım bir deneyimdi yemeksepetinde gerçekten.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "6",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tantunisi çok iyi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Et tantuni burda yenir :).",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok güzel ama porsiyonları büyük olsa çok daha iyi olur.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Mükemmel.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Not bad.",
+            "Date": "2018-05-25",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gerçekten de nefisti. 8 dk. Da siparişim elimdeydi. Helal olsun. Tşk.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Servis elemanlaninizi saygili olmaya davet ediyorum musteri iliskisi gelistirilmeli.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "1",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Porsiyonlariniz kucucuk bide o kadar para aliyorsunuz yaziklar olsun.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Çok lezzetli..",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet başarılılar, dürümünü henüz sipariş etmedim ama ekmek arası tantuni doyuruyor.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Guzel.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Böyle bir hız olamaz, 10 dakikada geldi. Lezzeti de gayet iyiydi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Biraz fazla aci basmislardi bu sefer.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her zaman ki gibi...",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cok iyi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kesinlikle çok iyiydi...",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hem lezzetli hemde hızlı. Süperrrrr.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sipariş tam ve eksiksizdi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ellerinize sağlık!",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Çok lezzetli ve güzeldi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bir adet tatlı eksikti.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey mükemmel, bir de siparişimdeki notları okusalar.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Dostum buranın tantunisi bir harika. Aylardır sipariş veriyorum kaliteyi hiç düşürmedi. Ekmek arasıııı tantunu muhteşemmm.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Muhteşem. Tebrikler.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Limon, biber turşusu ile",
+            "ItemName": "Et Tantuni Dürüm",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Et Tantuni Dürüm veya Ekmek Arası Et Tantuni + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Et Tantuni)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Limon, biber turşusu ile",
+            "ItemName": "Ekmek Arası Et Tantuni",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Limon, biber turşusu ile",
+            "ItemName": "Etibol Et Tantuni Dürüm",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurtlu Et Tantuni",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Tantuni Dürüm",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Et Tantuni Dürüm veya Ekmek Arası Et Tantuni + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Et Tantuni)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Et Tantuni Dürüm + Hayrabolu Peynir Tatlısı + Kutu İçecek",
+            "ItemName": "2'li Et Tantuni Dürüm Menü",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Et Tantuni Dürüm + Ekmek Arası Et Tantuni + Hayrabolu Peynir Tatlısı + Kutu İçecek",
+            "ItemName": "Dürüm & Ekmek Arası Menü",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Ekmek Arası Et Tantuni + Hayrabolu Peynir Tatlısı + Kutu İçecek",
+            "ItemName": "2'li Ekmek Arası Et Tantuni Menü",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Günün Çorbası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Limon, biber turşusu ile",
+            "ItemName": "Et Tantuni Dürüm",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Limon, biber turşusu ile",
+            "ItemName": "Ekmek Arası Et Tantuni",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurtlu Et Tantuni",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Tantuni",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Limon, biber turşusu ile",
+            "ItemName": "Etibol Et Tantuni Dürüm",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Limon, biber turşusu ile",
+            "ItemName": "Etibol Ekmek Arası Et Tantuni",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Limon, biber turşusu ile",
+            "ItemName": "Duble Et Tantuni Dürüm",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Limon, biber turşusu ile",
+            "ItemName": "Duble Ekmek Arası Et Tantuni",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Tantuni Dürüm",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ekmek Arası Tavuk Tantuni",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ekmek Arası Etibol Tavuk Tantuni",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Etibol Tavuk Tantuni Dürüm",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Duble Tavuk Tantuni Dürüm",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Duble Ekmek Arası Tavuk Tantuni",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurtlu Tavuk Tantuni",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Tantuni",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Antep Usulü Çiğ Köfte (6 Sıkım)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Antep Usulü Çiğ Köfte (12 Sıkım)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillik, nar ekşisi, lavaş ekmeği ile",
+            "ItemName": "Antep Usulü Çiğ Köfte (500 gr.)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillik, nar ekşisi, lavaş ekmeği ile",
+            "ItemName": "Antep Usulü Çiğ Köfte (1 kg.)",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hayrabolu Peynir Tatlısı",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Katmer",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Antep Havuç Dilim Baklava",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Eker Yayık Ayran (30 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Eker Yayık Ayran (20 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (1 L.)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (1 L.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Eker Yayık Ayran (1 L.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (1 L.)",
+            "ItemPrice": "7,00 TL"
+        }
+    ]
+}

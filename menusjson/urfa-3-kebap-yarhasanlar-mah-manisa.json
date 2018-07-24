@@ -1,0 +1,338 @@
+{
+    "comment": [
+        {
+            "Comment": "Fıstıklı baklava sipariş ettim cevizli geldi, 2 adet baklava sipariş ettim 1 adet geldi, 1 adet salata sipariş ettim 2 geldi fakat ücreti siparişime göre alındı. Üzdünüz.",
+            "Date": "2018-07-18",
+            "Flavour": "8",
+            "Serving": "1",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kıymalı pidenin kıyması pişmemişti.",
+            "Date": "2018-07-16",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İskender tek kelimeyle harika siparişim hızlı geldi herşey dört dörtlük ellerinize sağlık.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız güzel ama kurye berbat. Yanında gönderilen salata çok az. Tuz peçete bile yok -.",
+            "Date": "2018-06-23",
+            "Flavour": "7",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Harika lahmacun yapıyorsunuz.",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "1 yuruyerek 10 dakika mesafede yakin olan eve 1. 5 saatte geldi. Yemek sepeti siparisleri degersiz ise listeden kaldirilsin. Bizde yolumuza bakalim.",
+            "Date": "2018-04-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "İskender",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Urfa Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Pide üzerine şiş köfte, domates, biber, bulgur pilavı ile. ",
+            "ItemName": "Spesiyal Manisa Kebabı",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Adana Kebap + Manisa Kebap + 2 Porsiyon Cevizli Baklava + 2 Mevsim Salata + Coca-Cola (1 L.)",
+            "ItemName": "Seçilmiş Menü (2 Kebap)",
+            "ItemPrice": "62,10 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ezogelin Çorbası",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Urfa Kebap",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Beyti Kebap",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Vali Kebabı",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "Pide üzerine şiş köfte, domates, biber, bulgur pilavı ile. ",
+            "ItemName": "Spesiyal Manisa Kebabı",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Urfa kebap, kuzu şiş, tavuk şiş, döner",
+            "ItemName": "Karışık Kebap",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Domatesli Kebap",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patlıcanlı Kebap",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Halep İşi Kebap",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuzu Şiş",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Kuzu şiş, tavuk şiş",
+            "ItemName": "Karışık Şiş",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Urfa Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuzu Şiş Dürüm",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "İskender",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Döner",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soslu Döner",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurtlu Döner",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pilav Üstü Döner",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yarım Ekmek Döner",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dürüm Döner",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Kaşarlı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaşılı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar, kıyma",
+            "ItemName": "Karışık Pide",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salata",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Antep Ezme",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Antep Fıstıklı Baklava",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bülbül Yuvası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Baklava",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Özel Baklava",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cevizli Baklava",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "6,00 TL"
+        }
+    ]
+}

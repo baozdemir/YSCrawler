@@ -1,0 +1,938 @@
+{
+    "comment": [
+        {
+            "Comment": "Adanayı tavsiye etmem.",
+            "Date": "2018-07-22",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Pizzası güzeldi ancak malzemesi biraz azdı. Izgaralar gayet güzel ve yeterliydi.",
+            "Date": "2018-07-20",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ellerinize sağlık. Ravza 8. Blok.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ağa dönerden daha iyi :).",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lavaşlar içine oranla gereksiz büyük aşırı fazla geliyor azaltmaları işletme açısından kr a geçirebilir sonuçta yenmeyecek düzeyde fazla.",
+            "Date": "2018-07-17",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Lavaşda maya kokusu vardı ve çok baskındı.",
+            "Date": "2018-07-16",
+            "Flavour": "6",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Karışık ızgaranın altına bulgur pilavı koymuş anlam veremedim. İkincisi ise salata da karışık izgarayla aynı köpük tabağın içine koyulmuş soğanı bozmuş berbat kokuyordu.",
+            "Date": "2018-07-16",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Lavaşları biraz sertti ama gerisi güzel.",
+            "Date": "2018-07-15",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yemeklerin tadı güzeldi sadece patates kızartması kötüydü, tek problem hızlı servisin olmaması.",
+            "Date": "2018-07-15",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Çok hızlı sayılmaz ama notları dikkate almalarından ve lezzetden dolayı teşekkürler.",
+            "Date": "2018-07-15",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hızlı geldi ama karışık ızgaradaki etler çok kuru geldi tadı güzel değildi.",
+            "Date": "2018-07-14",
+            "Flavour": "5",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lavaşızın tadı güzel değil kalın ve kuru kebaplarinizda çok kuru yağ yok öyle olunca boğazında kalıyor insanın kuru ekmek yer gibi pizzada kaşar varla yok arasında malzemdeden cooook kaçılmış.",
+            "Date": "2018-07-13",
+            "Flavour": "3",
+            "Serving": "6",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Hepsi birbirine karışmış. Yarısı pişmemiş aldığınız parayı haketmiyorsunuz bence.",
+            "Date": "2018-07-13",
+            "Flavour": "3",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Gayet güzel ızgaraları var tavsiye ederim.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Yemeğin gelmesi tam bir buçuk saat sürdü. Pizza o kadar soğumuştu ki adeta dünden kalma pizza yedim. Kim pizzanın yanına ketchup mayonez koymaz ki? Özellikle söylememiz mi lazım?",
+            "Date": "2018-07-06",
+            "Flavour": "2",
+            "Serving": "3",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Herşey harika.",
+            "Date": "2018-07-04",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ağa dönerden sipariş verecektim burdan joker çıkınca burdan verdim siparişim yine ağa dönerden geldi kalbim temiz :).",
+            "Date": "2018-07-02",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Restoran sipariş notuna bakıyor ve ilgileniyor.",
+            "Date": "2018-06-30",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Boyut 1/4 e inmiş fiyati da indirseydiniz bari.",
+            "Date": "2018-06-29",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Köfteler çok kuruydu hiç beklediğim gibi değildi.",
+            "Date": "2018-06-28",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Canınızı yediğim tamam öğrenci doymuyor ekmek büyük bişey demiyorum adana soluyoruz soğan maydanoz seçeneği var yanına ezme biber ikram ediyorsunuz ama o lavasin içine malzeme köyün malzeme koymazsaniz marul domates koyunda 5 lt cola içtik yutmak icin da yapmayın lütfen rica ederizokdar peçete.",
+            "Date": "2018-06-28",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Dürüm söyledim kupkuru idi ve lezzetinden hiç memnun kalamadım.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Köftesi lezzetli tavsiye ediyorum.",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lezzetli köfteyi tavsiye ederim.",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yavaş geldi ama güzeldi.",
+            "Date": "2018-06-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Adana dürüm çok kötü ama tavuk şiş çok güzel.",
+            "Date": "2018-06-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "İyiydi.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Servis eksik ve urunleri cok kuruydu. Muhtemelen onceden hazirlanip sonra isitilip getiriliyor. Sos ve ic malzemeden kacinilmisti.",
+            "Date": "2018-06-23",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-23",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Normaldi.",
+            "Date": "2018-06-23",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Fettucini alfredoda tavuk mantar ve makarna olur bunda maksimum 6-7 parça tavuk vardı mantar görünmeyecek kadar nadirdi yavaş geldi ilginçtir tadı fena değildi.",
+            "Date": "2018-06-23",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Künefe dışında güzel.",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "40 tllik sipariş 2 kişiyi doyurmaz mı aksine makarnaların tadı baraşılı değil dürüm normal bir dürümdü. Paramızla aç kaldık.",
+            "Date": "2018-06-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Ürünler olması gerektiği gibi değil ve malzemeden kaçıyorlar...",
+            "Date": "2018-06-23",
+            "Flavour": "4",
+            "Serving": "1",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Catal bicak koynayi unutmussunuz hatta kasikta yoktu corbada.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizza buz gibi geldi. Adana ve tavuk durumdeki lavas okadar kalin ve serttiki anlatamam. Ayrica okuldaki odama soledim okulun girisinden ariyorlar odaya cikartamam diye saki eve soleyince apartman girisinden aliyoruz siparisi... Tavsiye etmem.",
+            "Date": "2018-06-23",
+            "Flavour": "2",
+            "Serving": "2",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Eh idare eder.",
+            "Date": "2018-05-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Tad olarak berbattı bozuk gibiydi. Mantar bulmak için mikroskopla bakmamız gerekti.",
+            "Date": "2018-05-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Her şey çok güzeldi...",
+            "Date": "2018-05-24",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Siparişim sistem hatasından dolayı geç geldi ama sıcak ve lezzetli bir şekilde gönderdiğiniz için puan kırmıyorum :).",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tavuk şişi güzel yapıyorlar.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İcecek yoktu.",
+            "Date": "2018-05-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Fena değil.",
+            "Date": "2018-05-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Öyle enteresan yorumlar yazılmış ki yok eksik ürün getiriyorlar yok çatal bıçak yok diye.. Madem öyle siparişi aldığınızda kontrol edin eksiği söyleyin eğer durum düzeltilmezse buraya kötü puanlama yapın. Benim siparişim tek kişilik olmasına rağmen 3 4 tane çatal ıslak mendil falan vardı.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tek kelimeyle kusursuz yapıyorlar. Herkese tavsiye ederim.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Joker indirimden söylediğiniz menüyü eksik yolluyorlar benim ayranım gelmedi ayrica catal bile koymamislardi.",
+            "Date": "2018-04-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Çatal bıçak yok. Yemekler buz gibi. Tadı da çok iyi değildi. Rezalet.",
+            "Date": "2018-04-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Güzel hizmet, tavsiye ederim.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet güzeldi. Çok memnun kaldım herkese tavsiye ederim.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tavuk ve mantar biraz daha bol olsa parasının hakkını verir ama lezzeti güzel.",
+            "Date": "2018-04-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Keşke milano pizzanizda menu de yazdığı gibi sucuk olsaydi evet lezzet olarak güzelsiniz fakat pizza da istedigimiz malzemeler gelmeyecekse pizza olmasinin manasi yok.",
+            "Date": "2018-04-24",
+            "Flavour": "7",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Pişmemiş.",
+            "Date": "2018-04-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Restoranınızın adı belli mi? Amore mio diye sipariş veriyoruz ağa dönerden geliyorlar.",
+            "Date": "2018-04-24",
+            "Flavour": "8",
+            "Serving": "3",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Kaplumbağa daha hızlı gelirdi çatal bıçak tuz hiçbirşey yok soğuk ve kuruydu etler ayrıca etin yağı pideyle altlı üstlü olmasına rağmen pideye geçmemişti önceden pişirilmiş ısıtılıp getirilmişti özen 0.",
+            "Date": "2018-04-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Yemekler kupkuruydu ve bir buçuk saatte geldi.",
+            "Date": "2018-04-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Cok iyiydi orkinos 1den selamlar.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkürederim yine cok soguk ve cok bayattı... 1 oldu 2 oldu 3 olmaz..",
+            "Date": "2018-04-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Pizza pide gibi tavsiye etmiyorum.",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "3",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Jokerden söyledik kebabın lezzeti iyi değildi.",
+            "Date": "2018-03-25",
+            "Flavour": "4",
+            "Serving": "9",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Servis kotuydu, sadece ticari bir mekan.",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Servisini beğenmedim.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "3",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Daha iyi olabilir standart seviyede.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Fena değil.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Catal bıle koymuyorlar yemeklerın yanına kofte 19 tl kesınlıkle vermryın hem kup kuru hem tad mad yok tırnak pıde yazıyo menude ama lavas getırıyorlar sıfır bıle verılır.",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Catal-kasık koyulmamıs ve patatesler plastık erımesı gıbı kokuyordu hakkınızı yemeyelım lezzet 9.",
+            "Date": "2018-03-25",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Keske biraz daha pisirseniz cok yumus geliyor hamuru.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Joker soylememize rağmen bazı firmalar gibi malzemeden kısılmamış kaliteli ve başarılı bir yer her zaman söyleye bileceğim bir yer haline geldi.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Siparişim 1 saatte geldi. Makarnanın içinde fındık büyüklüğünde 5 tane tavuk bulabildim artı yağ içinde yüzüyordu. Siz gönderdiğiniz makarnanın o fiyat edeceğine inanıyorsanız problem yok tabi.",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Etde farklılık var bariz makarnada özellikle ama diğer ürünler gayet lezzetliydi.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Salatamız koyulmamış, siparişimiz çok geç geldi.",
+            "Date": "2018-03-25",
+            "Flavour": "6",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Lezzet guzeldi hiz yavas.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Maydonozu işaretlemişken neden domates yoktu da diğer dürümlerde vaedı anlayamadım.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "2",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Cevabını almak istediğim bir konu var. Pizzada kullanılan peynir nedir? Ağır ve itici bir kokusu var. Her siparişte olmuyor ama 2-3 siparişte bir bu peynirle yapılmış şekilde gönderiliyor. Bazı peynirler ağır kokar biliyorum ama bu gerçekten pizzayı yeme isteğimi kırıyor. Peynir hakkında bilgi ltf.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "1 saatte geldi siparisim. F/p 2/10.",
+            "Date": "2018-03-25",
+            "Flavour": "2",
+            "Serving": "8",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Makarnayı sevmedim.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Serviste çatal felan yoktu.",
+            "Date": "2018-03-25",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Nice.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Biraz geç geldi ama yine de güzeldi. Bi de ıslak mendil tuz falan koyulmamış o çatalla da hiç bişey yenmiyor kırılıyor hemen.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Gerek yok.",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Fethucini alfredo da gram tat yoktu o verdıgınız oaraya değmiyor sadece ve aşırı yağlıydı.",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "5",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Et kokuyordu resmen. Yiyemedik.",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Malzemesi çok az.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Peynirli noodle yedim :(.",
+            "Date": "2018-02-23",
+            "Flavour": "6",
+            "Serving": "9",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Super vallah nerdeydiniz yaa siz?",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çatal bıçak ekleseniz iyi olur.",
+            "Date": "2018-02-23",
+            "Flavour": "8",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Guzel.",
+            "Date": "2018-02-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Domates, isteğe göre sumaklı soğan, maydanoz. Ezme, haydari, turşu ile",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, isteğe göre sumaklı soğan, maydanoz. Ezme, haydari, turşu ile",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Adana Kebap, kuzu şiş , ızgara köfte, tavuk şiş, tırnaklı pide, közlenmiş biber, közlenmiş domates, maydanoz, bulgur pilavı, salata, ezme, haydari, turşu, roka, soğan",
+            "ItemName": "Karışık Kebap",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Tırnaklı pide, közlenmiş biber, közlenmiş domates, maydanoz, bulgur pilavı, salata, ezme, haydari, turşu, roka, soğan",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Pollo Grigliata + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Pollo Grigliata)",
+            "ItemPrice": "18,45 TL"
+        },
+        {
+            "ItemInfo": "Penne Al Forno veya Fettuccine Alfredo Con Pollo + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Makarna)",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "Pollo Grigliata + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Pollo Grigliata)",
+            "ItemPrice": "18,45 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz Pizza + Patates Kızartması + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Pizza)",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "2 Adet İskenderun Tavuk Döner + 2 Adet Kutu İçecek",
+            "ItemName": "2'li İskenderun Tavuk Menü",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Tavuk Şiş Dürüm + 2 Adet Kutu İçecek",
+            "ItemName": "2'li Tavuk Şiş Dürüm Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet İskenderun Et Döner + 2 Adet Kutu İçecek",
+            "ItemName": "2'li İskenderun Et Menü",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz 2 Adet Pizza + İçecek (1 L.)",
+            "ItemName": "2'li Pizza Menü",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz 2 Adet Makarna + İçecek (1 L.)",
+            "ItemName": "2'li Makarna Menü",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz Çorba + Adana Kebap veya Izgara Köfte + Kutu İçecek",
+            "ItemName": "Kebap Menü",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Et Döner veya İskender (Et Dönerden) + Künefe + Kutu İçecek",
+            "ItemName": "Döner Menü",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Misto Pizza + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Misto Pizza Menü",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimek Çorbası",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Çorbası",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Tırnaklı pide, közlenmiş biber, közlenmiş domates, maydanoz, bulgur pilavı, salata, ezme, haydari, turşu, roka, soğan",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Tırnaklı pide, közlenmiş biber, közlenmiş domates, maydanoz, bulgur pilavı, salata, ezme, haydari, turşu, roka, soğan",
+            "ItemName": "Ciğer Şiş",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Tırnaklı pide, közlenmiş biber, közlenmiş domates, maydanoz, bulgur pilavı, salata, ezme, haydari, turşu, roka, soğan",
+            "ItemName": "Kuzu Şiş",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Tırnaklı pide, közlenmiş biber, közlenmiş domates, maydanoz, bulgur pilavı, salata, ezme, haydari, turşu, roka, soğan",
+            "ItemName": "Tavuk Kanat",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Tırnaklı pide, közlenmiş biber, közlenmiş domates, maydanoz, bulgur pilavı, salata, ezme, haydari, turşu, roka, soğan",
+            "ItemName": "Izgara Köfte",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Tırnaklı pide, közlenmiş biber, közlenmiş domates, maydanoz, bulgur pilavı, salata, ezme, haydari, turşu, roka, soğan",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Adana Kebap, kuzu şiş , ızgara köfte, tavuk şiş, tırnaklı pide, közlenmiş biber, közlenmiş domates, maydanoz, bulgur pilavı, salata, ezme, haydari, turşu, roka, soğan",
+            "ItemName": "Karışık Kebap",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, isteğe göre sumaklı soğan, maydanoz. Ezme, haydari, turşu ile",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Domates, isteğe göre sumaklı soğan, maydanoz. Ezme, haydari, turşu ile",
+            "ItemName": "Izgara Köfte Dürüm",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Domates, isteğe göre sumaklı soğan, maydanoz. Ezme, haydari, turşu ile",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, isteğe göre sumaklı soğan, maydanoz. Ezme, haydari, turşu ile",
+            "ItemName": "Ciğer Şiş Dürüm",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, isteğe göre sumaklı soğan, maydanoz. Ezme, haydari, turşu ile",
+            "ItemName": "Kuzu Şiş Dürüm",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk göğsü, patates kızartması, salata",
+            "ItemName": "Pollo Grigliata",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk göğsü, kremalı mantarlı sos, patates kızartması, salata",
+            "ItemName": "Pollo Con Funghi",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk göğsü, kremalı biberli sos, patates kızartması, salata",
+            "ItemName": "Pollo Con Peperoncino",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri",
+            "ItemName": "Margherita Pizza",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sucuk, acı biber",
+            "ItemName": "Picante Pizza",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, mantar, soğan",
+            "ItemName": "Funghi Pizza",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri , sucuk, mantar, soğan, mısır, jalapeno",
+            "ItemName": "Tubaso Pizza",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, tavuk, biber, soğan, mısır",
+            "ItemName": "Con Pollo Pizza",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, ton balığı, soğan, siyah zeytin",
+            "ItemName": "Con Tonno Pizza",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sucuk, mantar, biber, mısır",
+            "ItemName": "Milano Pizza",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, yeşil biber, salam, sosis, jambon, mantar, soğan, zeytin",
+            "ItemName": "Misto Pizza",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sucuk, salam, jambon, biber",
+            "ItemName": "Roma Pizza",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, et döner",
+            "ItemName": "Ağa Et Döner Pizza",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, tavuk döner",
+            "ItemName": "Ağa Tavuk Döner Pizza",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Krema, mantar sos",
+            "ItemName": "Fettuccine Al Funghi",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Pesto sos (fesleğen, sarımsak, çam fıstığı, krema) ",
+            "ItemName": "Fettuccine Al Pesto",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk, mantar, soğan, krema sos",
+            "ItemName": "Fettuccine Alfredo Con Pollo",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Fırında, domates sos, krema, kaşar",
+            "ItemName": "Penne Al Forno",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Sarımsak, zeytin, acı biber, rosemary, domates sos",
+            "ItemName": "Penne Arrabbiata",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "İnce doğranmış dana bonfile, mantar, soğan, krema sos",
+            "ItemName": "Penne Toscana",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "4,50 TL"
+        }
+    ]
+}

@@ -1,0 +1,632 @@
+{
+    "comment": [
+        {
+            "Comment": "Muazzam pizzalar için teşekkürler.",
+            "Date": "2018-07-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizza şahaneydi, incecik hamur ve kaliteli malzemesufle standarttı, alternatif tatlılar güzel olabilir.",
+            "Date": "2018-07-22",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Muhteşem lezzetli pizzalar, tebrik ederim.",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok ama çok güzel süper.",
+            "Date": "2018-07-17",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey süper eline sağlık çok güzelllll.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Muhteşem.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gerçekten mükemmel bir lezzet yarım saatte gelen pizza için özür dileyen kıymetli çalışanlar. Hiç şüphesiz sipariş verebilirsiniz.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İlk defa denedik ve muhteşemdi. Umarım rastlantı değil devamlılıktır.",
+            "Date": "2018-06-27",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet iyi.",
+            "Date": "2018-06-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Şekerli kola istediğim halde bilerek şekerli kola göndermişler.",
+            "Date": "2018-06-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Gayet güzeldi ama memleketimizde bazı şeyler gereksiz pahalı olduğu için pizza fiyatlarında saçma sapan rakamlar var jokerden söylemekte bütçe açısından epey bir fayda var.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Servis hızlı pizza güzel.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, jambon, sosis, mantar, siyah zeytin, mısır, yeşilbiber, domates, soğan",
+            "ItemName": "Şef Çıldırdı (Büyük)",
+            "ItemPrice": "36,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, jambon, sosis, mantar, siyah zeytin, mısır, yeşilbiber, domates, soğan",
+            "ItemName": "Şef Çıldırdı (Orta)",
+            "ItemPrice": "26,90 TL"
+        },
+        {
+            "ItemInfo": "Happy's Mix (Orta) + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Orta Happy's Mix)",
+            "ItemPrice": "26,80 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, jambon, sosis, kekik",
+            "ItemName": "Happy Et Obur's (Orta)",
+            "ItemPrice": "25,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sufle",
+            "ItemPrice": "8,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, sosis, mantar, mısır, yeşilbiber",
+            "ItemName": "Happy' Mix (Orta)",
+            "ItemPrice": "25,90 TL"
+        },
+        {
+            "ItemInfo": "Happy's Mix (Orta) + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Orta Happy's Mix)",
+            "ItemPrice": "26,80 TL"
+        },
+        {
+            "ItemInfo": "Kahvaltı King's Bread Pizza (Mini) + Parmak Patates + Kutu İçecek",
+            "ItemName": "Kahvaltı King's Bread Pizza Menü",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Jambonlu King's Bread Pizza (Mini) + Parmak Patates + Kutu İçecek",
+            "ItemName": "Jambonlu King's Bread Pizza Menü",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Salamlı King's Bread Pizza (Mini) + Parmak Patates + Kutu İçecek",
+            "ItemName": "Salamlı King's Bread Pizza Menü",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Sosisli King's Bread Pizza (Mini) + Parmak Patates + Kutu İçecek",
+            "ItemName": "Sosisli King's Bread Pizza Menü",
+            "ItemPrice": "16,90 TL"
+        },
+        {
+            "ItemInfo": "Peynirli Kekikli King's Bread Pizza (Mini) + Parmak Patates + Kutu İçecek",
+            "ItemName": "Peynirli Kekikli King's Bread Menü",
+            "ItemPrice": "16,90 TL"
+        },
+        {
+            "ItemInfo": "Sucuklu King's Bread Pizza (Mini) + Parmak Patates + Kutu İçecek",
+            "ItemName": "Sucuklu King's Bread Menü",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "4 Adet Mozzarella Peynirli Ekmek + 6 Adet Çıtır Tavuk + 6 Adet Sosis + Elma Dilim Patates veya Parmak Patates + Kutu İçecek",
+            "ItemName": "Süper Combo Menü",
+            "ItemPrice": "27,90 TL"
+        },
+        {
+            "ItemInfo": "4 Adet Baharatlı Ekmek + 6 Adet Çıtır Tavuk + Kenar Sos + Elma Dilim Patates veya Parmak Patates + İçecek",
+            "ItemName": "Çıtır Combo Menü",
+            "ItemPrice": "19,90 TL"
+        },
+        {
+            "ItemInfo": "Pizzaviç Karışık + Parmak Patates + Kutu İçecek",
+            "ItemName": "Pizzaviç Karışık Menü",
+            "ItemPrice": "19,90 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella Peynirli Pizzaviç + Parmak Patates + Kutu İçecek",
+            "ItemName": "Mozzarella Peynirli Pizzaviç Menü",
+            "ItemPrice": "18,90 TL"
+        },
+        {
+            "ItemInfo": "Cheese Lover's Dilim Pizza (Mega) + Parmak Patates + Kutu İçecek",
+            "ItemName": "Cheese Lover's Dilim Pizza (Mega) Menü",
+            "ItemPrice": "15,90 TL"
+        },
+        {
+            "ItemInfo": "Sucuk's Dilim Pizza (Mega) + Parmak Patates + Kutu İçecek",
+            "ItemName": "Sucuk's Dilim Pizza (Mega) Menü",
+            "ItemPrice": "15,90 TL"
+        },
+        {
+            "ItemInfo": "Et Obur's Dilim Pizza (Mega) + Parmak Patates + Kutu İçecek",
+            "ItemName": "Et Obur's Dilim Pizza (Mega) Menü",
+            "ItemPrice": "15,90 TL"
+        },
+        {
+            "ItemInfo": "Festival Dilim Pizza (Mega) + Parmak Patates + Kutu İçecek",
+            "ItemName": "Festival Dilim Pizza (Mega) Menü",
+            "ItemPrice": "15,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, jambon, sosis, mantar, siyah zeytin, mısır, yeşilbiber, domates, soğan",
+            "ItemName": "Şef Çıldırdı (Orta)",
+            "ItemPrice": "26,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, sosis, mantar, mısır, yeşilbiber",
+            "ItemName": "Happy' Mix (Orta)",
+            "ItemPrice": "25,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, siyah zeytin, mısır, yeşilbiber, domates, soğan",
+            "ItemName": "Bahçeden (Orta)",
+            "ItemPrice": "23,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, kıyma, mantar, kırmızı köz biber, soğan, kekik",
+            "ItemName": "Big Boss (Orta)",
+            "ItemPrice": "26,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, beyaz peynir, siyah zeytin, yeşilbiber, domates, kekik",
+            "ItemName": "Akdeniz (Orta)",
+            "ItemPrice": "23,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, tavuk, kırmızı köz biber, soğan, special baharat",
+            "ItemName": "Tavuk Special (Orta)",
+            "ItemPrice": "23,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, jambon, sosis, kekik",
+            "ItemName": "Happy Et Obur's (Orta)",
+            "ItemPrice": "25,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, mantar, kırmızı köz biber, siyah zeytin",
+            "ItemName": "Anadolu Lezzeti (Orta)",
+            "ItemPrice": "26,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, mantar, jalapeno biberi, soğan",
+            "ItemName": "Ateş Çemberi (Orta)",
+            "ItemPrice": "25,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, ton balığı, mısır, soğan",
+            "ItemName": "Deniz Keyfi (Orta)",
+            "ItemPrice": "26,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, extra mozzarella peyniri, kekik",
+            "ItemName": "Cheese Lover's (Orta)",
+            "ItemPrice": "25,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk",
+            "ItemName": "Sucuk's (Orta)",
+            "ItemPrice": "26,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, seçeceğiniz ekstra malzemeler",
+            "ItemName": "Kendi Pizzanı Kendin Yap (Orta)",
+            "ItemPrice": "20,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, et döner, mantar, yeşilbiber, soğan",
+            "ItemName": "Dönerlim Pizza (Orta)",
+            "ItemPrice": "26,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sosis, mısır, siyah zeytin, yeşilbiber",
+            "ItemName": "Festival Pizza (Orta)",
+            "ItemPrice": "23,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, jambon, sosis, mantar, siyah zeytin, mısır, yeşilbiber, domates, soğan",
+            "ItemName": "Şef Çıldırdı (Büyük)",
+            "ItemPrice": "36,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, sosis, mantar, mısır, yeşilbiber",
+            "ItemName": "Happy' Mix (Büyük)",
+            "ItemPrice": "35,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, siyah zeytin, mısır, yeşilbiber, domates, soğan",
+            "ItemName": "Bahçeden (Büyük)",
+            "ItemPrice": "33,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, kıyma, mantar, kırmızı köz biber, soğan, kekik",
+            "ItemName": "Big Boss (Büyük)",
+            "ItemPrice": "36,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, beyaz peynir, siyah zeytin, yeşilbiber, domates, kekik",
+            "ItemName": "Akdeniz (Büyük)",
+            "ItemPrice": "33,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, tavuk, kırmızı köz biber, soğan, special baharat",
+            "ItemName": "Tavuk Special (Büyük)",
+            "ItemPrice": "33,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, jambon, sosis, kekik",
+            "ItemName": "Happy Et Obur's (Büyük)",
+            "ItemPrice": "35,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, mantar, kırmızı köz biber, siyah zeytin",
+            "ItemName": "Anadolu Lezzeti (Büyük)",
+            "ItemPrice": "36,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, mantar, jalapeno biberi, soğan",
+            "ItemName": "Ateş Çemberi (Büyük)",
+            "ItemPrice": "35,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, ton balığı, mısır, soğan",
+            "ItemName": "Deniz Keyfi (Büyük)",
+            "ItemPrice": "36,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, extra mozzarella peyniri, kekik",
+            "ItemName": "Cheese Lover's (Büyük)",
+            "ItemPrice": "35,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk",
+            "ItemName": "Sucuk's (Büyük)",
+            "ItemPrice": "36,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, seçeceğiniz ekstra malzemeler",
+            "ItemName": "Kendi Pizzanı Kendin Yap (Büyük)",
+            "ItemPrice": "29,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, et döner, mantar, yeşilbiber, soğan",
+            "ItemName": "Dönerlim Pizza (Büyük)",
+            "ItemPrice": "36,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sosis, mısır, siyah zeytin, yeşilbiber",
+            "ItemName": "Festival Pizza (Büyük)",
+            "ItemPrice": "33,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, jambon, sosis, mantar, siyah zeytin, mısır, yeşilbiber, domates, soğan",
+            "ItemName": "Şef Çıldırdı (Mega)",
+            "ItemPrice": "73,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, sosis, mantar, mısır, yeşilbiber",
+            "ItemName": "Happy' Mix (Mega)",
+            "ItemPrice": "72,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, siyah zeytin, mısır, yeşilbiber, domates, soğan",
+            "ItemName": "Bahçeden (Mega)",
+            "ItemPrice": "68,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, kıyma, mantar, kırmızı köz biber, soğan, kekik",
+            "ItemName": "Big Boss (Mega)",
+            "ItemPrice": "73,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, beyaz peynir, siyah zeytin, yeşilbiber, domates, kekik",
+            "ItemName": "Akdeniz (Mega)",
+            "ItemPrice": "68,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, tavuk, kırmızı köz biber, soğan, special baharat",
+            "ItemName": "Tavuk Special (Mega)",
+            "ItemPrice": "68,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, jambon, sosis, kekik",
+            "ItemName": "Happy Et Obur's (Mega)",
+            "ItemPrice": "72,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, mantar, kırmızı köz biber, siyah zeytin",
+            "ItemName": "Anadolu Lezzeti (Mega)",
+            "ItemPrice": "73,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, mantar, jalapeno biberi, soğan",
+            "ItemName": "Ateş Çemberi (Mega)",
+            "ItemPrice": "72,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, ton balığı, mısır, soğan",
+            "ItemName": "Deniz Keyfi (Mega)",
+            "ItemPrice": "73,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, extra mozzarella peyniri, kekik",
+            "ItemName": "Cheese Lover's (Mega)",
+            "ItemPrice": "72,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk",
+            "ItemName": "Sucuk's (Mega)",
+            "ItemPrice": "73,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, seçeceğiniz ekstra malzemeler",
+            "ItemName": "Kendi Pizzanı Kendin Yap (Mega)",
+            "ItemPrice": "62,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, et döner, mantar, yeşilbiber, soğan",
+            "ItemName": "Dönerlim Pizza (Mega)",
+            "ItemPrice": "73,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sosis, mısır, siyah zeytin, yeşilbiber",
+            "ItemName": "Festival Pizza (Mega)",
+            "ItemPrice": "68,90 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, siyah zeytin, domates, beyaz peynir, kekik, özel baharatlar",
+            "ItemName": "Kahvaltı King's Bread Pizza",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, mantar, jambon, özel baharatlar",
+            "ItemName": "Jambonlu King's Bread Pizza",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, salam, kırmızı köz biber, özel baharatlar",
+            "ItemName": "Salamlı King's Bread Pizza",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, sosis, mısır, özel baharatlar",
+            "ItemName": "Sosisli King's Bread Pizza",
+            "ItemPrice": "8,90 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, sucuk, özel baharatlar",
+            "ItemName": "Sucuklu King's Bread Pizza",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, kekik, özel baharatlar",
+            "ItemName": "Peynirli Kekikli King's Bread Pizza",
+            "ItemPrice": "8,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, extra mozzarella peyniri, kekik",
+            "ItemName": "Cheese Lover's Dilim Pizza (Mega)",
+            "ItemPrice": "7,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, jambon, sosis, kekik",
+            "ItemName": "Happy Et Obur's Dilim Pizza (Mega)",
+            "ItemPrice": "7,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk",
+            "ItemName": "Sucuk's Dilim Pizza (Mega)",
+            "ItemPrice": "7,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sosis, mısır, siyah zeytin, yeşilbiber",
+            "ItemName": "Festival Dilim Pizza (Mega)",
+            "ItemPrice": "7,90 TL"
+        },
+        {
+            "ItemInfo": "Jalapeno biberi, mozzarella peyniri",
+            "ItemName": "Acılı Ekmek",
+            "ItemPrice": "7,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çıtır Tavuk",
+            "ItemPrice": "7,90 TL"
+        },
+        {
+            "ItemInfo": "Özel ekmek sosu, kenar sosu",
+            "ItemName": "Baharatlı Ekmek",
+            "ItemPrice": "6,90 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, sucuk, özel ekmek sosu",
+            "ItemName": "Sucuklu Ekmek",
+            "ItemPrice": "8,90 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, özel ekmek sosu",
+            "ItemName": "Mozzarella Peynirli Ekmek",
+            "ItemPrice": "7,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk",
+            "ItemName": "Karışık Pizzaviç",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, kekik",
+            "ItemName": "Mozzarella Peynirli Pizzaviç",
+            "ItemPrice": "10,90 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, sosis",
+            "ItemName": "Sosis Sepeti",
+            "ItemPrice": "7,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Parmak Patates",
+            "ItemPrice": "6,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates",
+            "ItemPrice": "6,90 TL"
+        },
+        {
+            "ItemInfo": "Özel tarçın dolgulu, cevizli ve beyaz kremalı tatlı",
+            "ItemName": "Tarçınlım",
+            "ItemPrice": "8,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sufle",
+            "ItemPrice": "8,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy Şeftali (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "4,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (1 L.)",
+            "ItemPrice": "4,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (1 L.)",
+            "ItemPrice": "4,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "4,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (1 L.)",
+            "ItemPrice": "4,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea Şeftali (1 L.)",
+            "ItemPrice": "4,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Acı Sos",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kenar Sos",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Jalapeno Sos",
+            "ItemPrice": "1,50 TL"
+        }
+    ]
+}

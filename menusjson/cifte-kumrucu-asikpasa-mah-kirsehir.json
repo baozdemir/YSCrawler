@@ -1,0 +1,744 @@
+{
+    "comment": [
+        {
+            "Comment": "Hızlı, güzel, lezzetli.",
+            "Date": "2018-07-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her geçen zaman ekmeğin boyutu küçülüyor ama lezzet çok güzel.",
+            "Date": "2018-07-22",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey çok lezetli ve güzeldi küçük bir şehirde şiparişin gelmesi için fazla bekledim lakin değdi.",
+            "Date": "2018-07-21",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Süperdi yediğim en güzel kumru diyebilirim almadan önce içimde güvensizlik vardı yedikten sonra bu güvensizliği kırdım bundan sonra burdan alıyorum.",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ayvalık tostu mu kumru mu derseniz kesinlikle kumru derim ayvalık tostunu hiç beğenmedim. Lakin servis çok hızlı geliyor çok başarılı bir mekana gidip yemek söyleyip beklediğiniz sürede geliyor çok başarılı hız ve servise lafım yok.",
+            "Date": "2018-07-15",
+            "Flavour": "4",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Beklediğimden çok daha hızlı sıcak halde getirdiler herşey çok başarılıydı canı gönülden 10 ar puan verdim.",
+            "Date": "2018-07-11",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İşini ciddiyet ile yapan güzel bir esnaf kardeşimiz.",
+            "Date": "2018-07-11",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika bir lezzetti herkese tavsiye ederim. Ben zaten şubesine de gidip yiyorum aynı zamanda eve de sipariş ediyorum gönül rahatlığıyla sipariş verebilirsiniz.",
+            "Date": "2018-07-11",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yok böyle bir lezzet emeği geçenlerin ellerine sağlık mutlaka deneyin.",
+            "Date": "2018-07-07",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Patatesler baharatsizdi baharatsiz tadi olmuyor patatesin tosttunda bu sefer malzemesi azdi ama olsun surekli yedigim mekan arada olur.",
+            "Date": "2018-07-05",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok hızlı geldi ve sıcaktı lezzet yerinde daha ne olsun.",
+            "Date": "2018-07-05",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Patates baharatlı değildi adam değilsiniz.",
+            "Date": "2018-07-04",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İçindeki malzemeler eksikti ve menüde kola olmasına karşın ayran gönderildi.",
+            "Date": "2018-07-04",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Git gide kötü ettiniz kumruyu, ayvalık tostunun ekmeği taş gibi olmaz dişimi kırıyodum neredeyse.. Biraz özen gösterin.. Zaten eve getiren çalışanlarınızda yol bilmiyo birşey bilmiyo, herzaman getirdikleri halde nerede eviniz deniliyo yeri söyleniyo of pof çekiliyo bişey derken yüze kapatılıyo tel.",
+            "Date": "2018-07-03",
+            "Flavour": "3",
+            "Serving": "5",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Şehir merkezine 55dkda geldi.",
+            "Date": "2018-07-03",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Şu patateslere baharat koymayın tadı berbat oluyo.",
+            "Date": "2018-06-29",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Patates kızartması hep baharatsız dediğim halde baharatlı geliyor...",
+            "Date": "2018-06-27",
+            "Flavour": "10",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sevdigim bi lezzet.",
+            "Date": "2018-06-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzet ve hız iyiydi ama patatesler tüm poşete dağılmıştı.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Patates baharatsız dememe rağmen baharatlı geldi tek sıkıntısı o geriye kalan herşey mükemmel.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Efsane ötesiydi şimdi birdaha sölicem bu fiyata böle bir ziyafet zor bulunur yemekler çok güzeldi favorim patso ve senin tostun.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hem çok lezzetli hem de müşteri memnuniyeti olarak her şeyi yapıyorlar. İstediğimi getirdikleri için cok tesekkur ederım.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Fiyatları düşürün az.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Patatesleri kaç gün önceden kızarttınız berbattı..",
+            "Date": "2018-06-24",
+            "Flavour": "4",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Gönül rahatlığıyla açıldığı günden beri sipariş veriyoruz hiç bir zaman yaniltmadilar.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Servis cok kotu.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Tostu koydukları straforun kapağını kapatmamışlardı tost gelene kadar darma duman olmuş.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "1",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Mükemmel ötesi. Bir gün yemesem o gün bana kabus oluyor hiç yüzüm gülmüyor. Siz de yiyin ve mutlu olun...",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Mükemmel.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok iyi.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Harika bir tadı var kumrunun herkese tavsiye ederim.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişim bir buçuk saatte geldi.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "5",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Eskisine göre boyutu küçültülmüş ama tadı gelme hızı gayet güzel.",
+            "Date": "2018-05-25",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Servis lezzet ve hız bakımından gayet başarılı.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kurye çok çok muazzamdı, yemek bilhassa muazzamdı.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Süper.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zamanki gibi muhteşem eline sağlık.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Urunler yagmur suyuyla yikanmis bir sekilde post cihazi getirmeyip nakit odeyin serviscinun uslubu dovecek gibi olup suanki puanlarin sisirme oldugunu dusunuyorum.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Tüm herşeyi ile efsane bi lezzet efsane hem ucuz hemde karın doyurucu.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kumru güzel ama ayvalıl tostunu beğenmedik, sipariş hızı iyiydi. Peçeteyi poşete koyarsanız gelene kadar ıslanmaz bence yiyeceklerin buharıyla.",
+            "Date": "2018-05-25",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kavurmalı tos güzel.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Cok hizli geldi hersey cok guzel tek sııntı ekmek biraz fazla pismis oyuzden sertti.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Abi helal olsun efsanesiniz.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı güler yüzlü servis lezzetli yiyecek daha ne olsun.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok lezzetli ama servisi biraz kötü.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Patates kızartmaları köpük tabağı eritmişti ve soslu yazmasına rağmen normaldi lezzet ve hız iyiydi. Köpük tabakları değiştirirseniz müşterilerinize daha iyi bir yemek deneyimi sunabilirsiniz, teşekkürler.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "3",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Bence siparişlere peçete koyabilirsiniz, veya küçük paket tuz koyabilirsiniz yani bişey koyun en azindan :).",
+            "Date": "2018-05-25",
+            "Flavour": "4",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Berbat.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Ayvalık tostu hiç beğenmedim. İçinde rus salatası bile yoktu. Sadece domates vardı diyebilirim.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her şey olması gerektiği gibi idi yalnız fiyatlarınız biraz pahalı geldi bana.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Mükemmel lezzer mükemmel lezet burayı denemelisiniz daha ne duruyorsunuz :d.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişim sıcak geldi gayet güzel yapılmıştı fakat 30 dakikada geldi.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Yemeğin tadı gayet güzeldi biraz daha hızlı gelebilirdi.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Mert kardeşime hızından ve hizmetinden dolayı teşekkür ediyorum.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Servi elemanı çok güler yüzlüydü. Teşekkür ederiz.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kuryesi çok efendi ve saygılı lezetti olsun çok güzel yemek sepetinde en iyilerden diyebilirim kırşehir açısından.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli ve güzel :) cipsi baharatlamaları ayrıca hoşuma gitti :).",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Basarili..",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hızlı güvenilir ve gayet lezzetli. Mert kardesime teşekkür ediyorum zamanında getirdi siparislerimi..",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gayet iyiydi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kumrunun sosisi aşırı fazlaydı içinde ketçap mayonez yoktu sosis yerine çeşitlendirilebilir. Ama kırşehir standartlarına göre iyi.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gayet ilgili ve güleryüzlü insanlar.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Biraz gecikti sıcakken bekleyince ekmek ıslanmış soğuyunca da bişey anlamadım.",
+            "Date": "2018-03-26",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "En azından sipariş geldi.",
+            "Date": "2018-03-26",
+            "Flavour": "4",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Mükemmel.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gerçekten mükemmel bağımlılık yapıyor ama :)).",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika lezzet dolu doluydu icerik ıyi yoldasiniz bozmayin kendinizi.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Teşekkürler hızlı ve gayette lezzetliydi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok hızlı kaliteli.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika ve lezzetli yemeyenlere tavsiye ederim.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "10 dk da geldi, ekmek içi tıka basa dolu ve sıcacıktı tam bol malzemos olmuş. Teşekkürler.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Atom tost güzel oluyor :).",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ilk siparisimdi ve cok memnun kaldim.. Hiz harika servis harika ve cok guleryuzlu.. Ayrica bu soguk havada o kadar sicak gelmesi sasirtici.. Tebrikler..",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ayvalık tostunu çok beğendim tavsiye ederim. Hızlı da geldi. Muazzam.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "On numara lezzet on numara servis kokay gelsin.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzet mükemmel hersey dört dörtluk.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Sosis, sucuk, kaşar peyniri, turşu, ketçap, mayonez, özel susamlı kumru ekmeği",
+            "ItemName": "Kumru Sandviç",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Kumru Sandviç + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Kumru Sandviç Menü",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, salam, kaşar peyniri, Rus salatası, turşu, domates, ketçap, mayonez",
+            "ItemName": "Ayvalık Tostu",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri",
+            "ItemName": "Karışık Toıst",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Ayvalık Tostu + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Ayvalık Tostu Menü",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Sosis, sucuk, özel karışım baharat, 6 kat kaşar peyniri, turşu, ketçap, mayonez ve özel susamlı sandviç ekmeği",
+            "ItemName": "Çifte Kumru Sandviç",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kumru Sandviç + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Kumru Sandviç Menü",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Ayvalık Tostu + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Ayvalık Tostu Menü",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Kumru Sandviç + Patates Kızartması + Litrelik İçecek",
+            "ItemName": "2'li Kumru Sandviç Menü",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Ayvalık Tostu + Patates Kızartması + Litrelik İçecek",
+            "ItemName": "2'li Ayvalık Tostu Menü",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, salam, kaşar peyniri, Rus salatası, turşu, domates, ketçap, mayonez",
+            "ItemName": "Ayvalık Tostu",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Kavurma, kaşar peyniri",
+            "ItemName": "Kavurmalı Tost",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çift Kaşarlı Tost",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Senin Tostun",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri",
+            "ItemName": "Karışık Toıst",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Sosis, sucuk, kaşar peyniri, turşu, ketçap, mayonez, özel susamlı kumru ekmeği",
+            "ItemName": "Kumru Sandviç",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Sosis, sucuk, özel karışım baharat, 6 kat kaşar peyniri, turşu, ketçap, mayonez ve özel susamlı sandviç ekmeği",
+            "ItemName": "Çifte Kumru Sandviç",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, kaşar peyniri",
+            "ItemName": "Patso Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ekmek Arası Sucuk",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Özel baharatlı, çıtır kaplamalı",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (1 L.)",
+            "ItemPrice": "5,00 TL"
+        }
+    ]
+}

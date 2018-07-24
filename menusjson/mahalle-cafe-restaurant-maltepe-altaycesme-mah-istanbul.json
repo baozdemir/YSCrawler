@@ -1,0 +1,902 @@
+{
+    "comment": [
+        {
+            "Comment": "Servis olarak mükemmel mekandaki sunumlarını paket servise taşımışlar.",
+            "Date": "2018-07-22",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Neden salatada mantar vardı? Sicacikti bütün marullar erimisti 26 tl salataya değmezdi.",
+            "Date": "2018-07-20",
+            "Flavour": "3",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İlk yorum benden sanırım. Muhteşem bi kıymalı menemendi ve porsiyon çok doyurucuydu tesekkurlee.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Hellim Peyniri (2 Dilim)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tahin",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen bonfile, mevsim yeşillikleri, maskolin, roka, kırmızıbiber, domates, salatalık, mısır, zeytinyağı, limon sos",
+            "ItemName": "Biftekli Salata",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, mısır, siyah zeytin, havuç, mevsim yeşillikleri, zeytinyağı, limon sos",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Beyaz Peynir (2 Dilim)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coconut Chocolate Coffee",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz Yemek + Pilav & Mevsim Yeşillikleri & Patates Kızartması + Kutu İçecek",
+            "ItemName": "Ekonomik Menü",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hellim Peyniri (2 Dilim)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tahin",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Eski Kaşar Peyniri (2 Dilim)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, kaşar peyniri, çeçil peyniri, tulum peyniri, örgü peyniri, eski kaşar peyniri, kızarmış biber, sahanda sucuklu yumurta, pankek, tahin, pekmez, dana jambon, sigara böreği, salam, bal, tereyağı, kaymak, reçel, siyah zeytin, yeşil zeytin, çikolata kreması, domates, salatalık, maydanoz, roka, ceviz, kayısı, patates kızartması",
+            "ItemName": "Mahalle Pankek Serpme Kahvaltı",
+            "ItemPrice": "57,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolata Kreması",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dana Salam & Jambon",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, kaşar peyniri, siyah zeytin, yeşil zeytin, bal, tereyağı, reçel, salam, çikolata kreması, haşlanmış yumurta",
+            "ItemName": "Ekspres Kahvaltı Tabağı",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, kaşar peyniri, hellim peyniri, çikolata kreması, bal, reçel, patates kızartması, siyah zeytin, yeşil zeytin, domates, salatalık, sigara böreği, pankek, sahanda sucuk, tereyağı",
+            "ItemName": "Sıcak Kahvaltı Tabağı",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşar Peyniri (4 Dilim)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Haşlanmış Yumurta",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bal & Kaymak",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, beyaz peynir, çeçil peyniri, tulum peyniri",
+            "ItemName": "Peynir Tabağı",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Beyaz Peynir (2 Dilim)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, kaşar peyniri, dil peyniri, salam, bal, tereyağı, reçel, haşlanmış yumurta, çikolata kreması, siyah zeytin, yeşil zeytin, domates, salatalık, patates kızartması, sosis",
+            "ItemName": "Klasik Kahvaltı Tabağı",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Domates & Salatalık",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ev Reçeli",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurma (2 Dilim)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bal & Tereyağı",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yeşil Zeytin & Siyah Zeytin",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay tereyağı, 3 göz yumurta, kaşar peyniri",
+            "ItemName": "Sahanda Kaşarlı Yumurta",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay tereyağı, 3 göz yumurta, dana kıyma",
+            "ItemName": "Sahanda Kıymalı Yumurta",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay tereyağı, 2 adet yumurta, domates, biber, zeytinyağı, dana kıyma",
+            "ItemName": "Kıymalı Menemen",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay tereyağı, köy yumurtası, domates, salatalık",
+            "ItemName": "Sade Omlet",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay tereyağı, köy yumurtası, Rize kavurması, domates, salatalık",
+            "ItemName": "Kavurmalı Omlet",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay tereyağı, 2 adet yumurta, domates, biber, zeytinyağı, dana sucuk",
+            "ItemName": "Sucuklu Menemen",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay tereyağı, köy yumurtası, kaşar peyniri, domates, salatalık",
+            "ItemName": "Kaşarlı Omlet",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay tereyağı, köy yumurtası, dana sucuk, dana salam, kaşar peyniri, domates, salatalık",
+            "ItemName": "Karışık Omlet",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay tereyağı, 2 adet yumurta, domates, biber, zeytinyağı, Rize kavurma",
+            "ItemName": "Kavurmalı Menemen",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay tereyağı, köy yumurtası, dana sucuk, domates, salatalık",
+            "ItemName": "Sucuklu Omlet",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay tereyağı, 3 göz yumurta, dana sucuk",
+            "ItemName": "Sahanda Sucuklu Yumurta",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay tereyağı, 2 adet yumurta, domates, biber, zeytinyağı, kaşar peyniri",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay tereyağı, 2 adet yumurta, domates, biber, zeytinyağı",
+            "ItemName": "Sade Menemen",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Hatay tereyağı, 3 göz yumurta",
+            "ItemName": "Sahanda Sade Yumurta",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay tereyağı, 3 göz yumurta, sucuk, kaşar peyniri",
+            "ItemName": "Sahanda Sucuklu Kaşarlı Yumurta",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, Rize kavurması, Hatay tereyağı. Mevsim yeşillikleri, patates kızartması ile",
+            "ItemName": "Kavurmalı Tost",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, dana sucuk, dana salam. Mevsim yeşillikleri, patates kızartması ile",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, dana sucuk, dana salam, Hatay tereyağı, ketçap. Patates kızartması ile",
+            "ItemName": "Yengen Tost",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, patates kızartması ile",
+            "ItemName": "Kaşarlı Sucuklu Tost",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, patates kızartması ile",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Özel Susurluk sepet peyniri. Mevsim yeşillikleri, patates kızartması ile",
+            "ItemName": "Susurluk Tostu",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, dana sucuk, dana salam, domates, Amerikan salata, kornişon turşu, mayonez. Mevsim yeşillikleri, patates kızartması ile",
+            "ItemName": "Ayvalık Tostu",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık ile",
+            "ItemName": "Kaşarlı Gözleme",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık ile",
+            "ItemName": "Kaşarlı Sucuklu Gözleme",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık ile",
+            "ItemName": "Kaşarlı Kavurmalı Gözleme",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık ile",
+            "ItemName": "Beyaz Peynirli Kaşarlı Gözleme",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella stick, soğan halkası, patates kızartması, sigara böreği, kızarmış sosis",
+            "ItemName": "Dedikodu Sepeti",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "6 adet panelenmiş tavuk kanatları, patates kızartması",
+            "ItemName": "Chicken Wings",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates Kızartması",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, domates, salatalık ile",
+            "ItemName": "Sigara Böreği",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen doğranmış cajun tavuk parçaları, patates kızartması",
+            "ItemName": "Cajun Tavuk",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması ile",
+            "ItemName": "Soğan Halkası (8 Adet)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara köfte, domates, kornişon turşu, mevsim yeşillikleri, patates kızartması, isteğe göre soğan",
+            "ItemName": "Köfte Sandviç",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Dana sosis, kornişon turşu, mevsim yeşillikleri, domates, salatalık, patates kızartması",
+            "ItemName": "Sosisli Sandviç",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen tavuk parçaları, kaşar peyniri, renkli biberler, mevsim yeşillikleri, patates kızartması, isteğe göre soğan",
+            "ItemName": "Chicken Sandviç",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, kornişon turşu, mevsim yeşillikleri, mısır, domates, salatalık, patates kızartması",
+            "ItemName": "Ton Balıklı Sandviç",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk, dana jambon, kaşar peyniri, kornişon turşu, domates, patates kızartması",
+            "ItemName": "Club Sandviç",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, beyaz peynir, domates, salatalık, dana jambon, haşlanmış yumurta, patates kızartması",
+            "ItemName": "Soğuk Sandviç",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk burger eti, domates, göbek marul, kornişon turşu, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Chicken Burger",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Dana burger köftesi, domates, göbek marul, kornişon turşu, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Hamburger",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Double dana burger köftesi, cheddar peyniri, domates, göbek marul, kornişon turşu, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Double Mahalle Burger",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Dana burger köftesi, domates, özel kremalı mantar sos, domates, göbek marul, kornişon turşu, patates kızartması",
+            "ItemName": "Mushroom Burger",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Dana burger köftesi, cheddar peyniri, domates, göbek marul, kornişon turşu, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "4 adet mini burger, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Mahalle Mini Burger",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Dana antrikot, soğan, biber, domates sos, kaşar peyniri, tortilla ekmeği, pilav",
+            "ItemName": "Çoban Kavurma",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim sebzeleri, patates kızartması, pilav ile",
+            "ItemName": "Café de Paris Soslu Bonfile",
+            "ItemPrice": "41,00 TL"
+        },
+        {
+            "ItemInfo": "Dana köfte, közlenmiş biber, közlenmiş domates, patates kızartması, pilav",
+            "ItemName": "Izgara Köfte",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "Sotelenmiş mantar, demi glace sos, mevsim sebzeleri, patates kızartması, pilav",
+            "ItemName": "Mantar Soslu Bonfile",
+            "ItemPrice": "39,50 TL"
+        },
+        {
+            "ItemInfo": "Güveçte fırınlanmış yufkaya sarılı köfte, domates sos, yoğurt",
+            "ItemName": "Yufka Yürekli Mahalle Köfte",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Dana antrikot, soğan, biber, domates, pilav",
+            "ItemName": "Sac Kavurma",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Dana antrikot, ızgara köfte, tavuk pirzola, kaşarlı köfte, kuzu pirzola. Patates kızartması, pilav ile",
+            "ItemName": "Karışık Izgara",
+            "ItemPrice": "49,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim sebzeleri, patates kızartması, pilav ile",
+            "ItemName": "Beğendili Bonfile",
+            "ItemPrice": "41,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim sebzeleri, patates kızartması, pilav ile",
+            "ItemName": "Kuzu Pirzola",
+            "ItemPrice": "49,00 TL"
+        },
+        {
+            "ItemInfo": "Patlıcan beğendi üzerine ızgara dana köfte, mevsim yeşillikleri, patates kızartması, pilav",
+            "ItemName": "Beğendili Köfte",
+            "ItemPrice": "26,50 TL"
+        },
+        {
+            "ItemInfo": "Lokum bonfile, haşlanmış mevsim sebzeleri, patates kızartması, pilav",
+            "ItemName": "Lokum Bonfile",
+            "ItemPrice": "39,50 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, haşlanmış mevsim sebzeleri, pilav ile",
+            "ItemName": "Izgara Dana Antrikot",
+            "ItemPrice": "37,50 TL"
+        },
+        {
+            "ItemInfo": "Dana köfte, kaşar peyniri, közlenmiş biber, közlenmiş domates, patates kızartması, pilav",
+            "ItemName": "Kaşarlı Köfte",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Jülyen bonfile parçaları, kibrit patates kızartması, domates, biber, yoğurt",
+            "ItemName": "Çökertme Kebabı",
+            "ItemPrice": "41,00 TL"
+        },
+        {
+            "ItemInfo": "Chili soslu ızgara tavuk, mevsim yeşillikleri, patates kızartması, pilav",
+            "ItemName": "Arizona Chicken",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Jülyen tavuk parçaları, renkli biberler, mantar, krema, köri sos, mevsim yeşillikleri, patates kızartması, pilav",
+            "ItemName": "Köri Soslu Tavuk",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, patates kızartması, pilav ile",
+            "ItemName": "Tavuk Pirzola",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, patates kızartması, pilav ile",
+            "ItemName": "Beğendili Tavuk",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk but, krema, mantar, mevsim yeşillikleri, patates kızartması, pilav",
+            "ItemName": "Kremalı Mantarlı Tavuk",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Jülyen tavuk parçaları, renkli biberler, mantar, barbekü sos, mevsim yeşillikleri, patates kızartması, pilav",
+            "ItemName": "Barbekü Soslu Tavuk",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "6 adet kızarmış kanat, mevsim yeşillikleri, patates kızartması, pilav",
+            "ItemName": "Acılı Tavuk Kanatları",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Panelenmiş tavuk, eritilmiş kaşar peyniri, mantar sos, mevsim yeşillikleri, pilav, patates kızartması",
+            "ItemName": "Matrak Tavuk",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Panelenmiş tavuk, mushroom sos, mantar, eritilmiş kaşar peyniri, mevsim yeşillikleri, pilav, patates kızartması",
+            "ItemName": "Mushroom Chicken",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Jülyen tavuk parçaları, renkli biberler, mantar, soya sos, mevsim yeşillikleri, patates kızartması, pilav",
+            "ItemName": "Soya Soslu Tavuk",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Özel panelenmiş tavuk, mevsim yeşillikleri, patates kızartması, pilav",
+            "ItemName": "Tavuk Schnitzel",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk pirzola, acı sos, Louisana sos, mevsim yeşillikleri, patates kızartması, pilav",
+            "ItemName": "Louisana Chicken",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Tortille ekmeği, bonfile parçaları, mantar, kaşar peyniri, Meksika fasulyesi, mısır, jalapeno biberi, renkli biberler, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Etli Quesadilla",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "Tortille ekmeği, tavuk parçaları, mantar, kaşar peyniri, Meksika fasulyesi, mısır, jalapeno biberi, renkli biberler, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Tavuklu Quesadilla",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara dana bonfile, renkli biberler, soğan, avokado sos, süzme yoğurt, tortilla ekmeği",
+            "ItemName": "Etli Fajita",
+            "ItemPrice": "34,50 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk bonfile, ızgara dana bonfile, renkli biberler, soğan, avokado sos, süzme yoğurt, tortilla ekmeği",
+            "ItemName": "Combo Fajita",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk bonfile, renkli biberler, soğan, avokado sos, süzme yoğurt, tortilla ekmeği",
+            "ItemName": "Tavuklu Fajita",
+            "ItemPrice": "29,50 TL"
+        },
+        {
+            "ItemInfo": "Siyah zeytin, domatesli acı sos, parmesan peyniri",
+            "ItemName": "Penne All Arrabbiata",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mantı",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Parmesan peyniri, domates sos ile",
+            "ItemName": "Spaghetti Napolitan",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çıtır Mantı",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Dana kıyma, parmesan peyniri, domates sos, sarımsak, fesleğen",
+            "ItemName": "Spaghetti Bolognese",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk parçaları, mantar, krema sos, parmesan peyniri, badem, sarımsak, fesleğen sos",
+            "ItemName": "Kremalı Tavuklu Penne",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Sotelenmiş mantar, tavuk, krema sos, parmesan peyniri, renkli biberler, fesleğen sos",
+            "ItemName": "Fettuccine Alfredo",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Durum buğdayından hazırlanmış taze tortellini, özel sos, parmesan peyniri",
+            "ItemName": "Tortellini",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Tereyağında sotelenmiş ıspanak ve mantar, renkli biberler, cheddar peyniri, kaşar peyniri, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Ispanaklı Krep",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim sebzeleri, cheddar peyniri, kaşar peyniri, patates kızartması",
+            "ItemName": "Sebzeli Krep",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyem bonfile parçaları, sotelenmiş mantar, renkli biberler, cheddar peyniri, kaşar peyniri, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Etli Krep",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Sotelenmiş kremalı mantar, cheddar peyniri, kaşar peyniri, patates kızartması",
+            "ItemName": "Mantarlı Krep",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen tavuk parçaları, sotelenmiş mantar, renkli biberler, cheddar peyniri, kaşar peyniri, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Tavuklu Krep",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Tortille ekmeği, ızgara köfte, mantar, kaşar peyniri, renkli biberler, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Köfte Dürüm",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Tortille ekmeği, jülyen et parçaları, mantar, kaşar peyniri, renkli biberler, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Etli Dürüm",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "Tortille ekmeği, jülyen tavuk parçaları, mantar, kaşar peyniri, renkli biberler, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Tavuklu Dürüm",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, kaşar peyniri, ketçap, mayonez",
+            "ItemName": "Sade Kumpir",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, kaşar peyniri, bezelye, mısır, sosis, turşu, siyah zeytin, yeşil zeytin, Amerikan salatası, acılı ezme",
+            "ItemName": "Karışık Kumpir",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen bonfile, mevsim yeşillikleri, maskolin, roka, kırmızıbiber, domates, salatalık, mısır, zeytinyağı, limon sos",
+            "ItemName": "Biftekli Salata",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, maskolin, beyaz peynir, mısır, siyah zeytin, roka, domates, salatalık, zeytinyağı, limon sos",
+            "ItemName": "Akdeniz Salata",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, mevsim yeşillikleri, maskolin, kırmızıbiber, domates, salatalık, mısır, zeytinyağı",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Hellim peyniri, mevsim yeşillikleri, maskolin, roka, mısır, siyah zeytin, domates, salatalık, zeytinyağı, pesto sos",
+            "ItemName": "Hellim Salata",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Kurutulmuş domates, kinoa, mevsim yeşillikleri, domates, salatalık, kayısı, zeytinyağı, limon sos",
+            "ItemName": "Kinoa Salatası",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen tavuk parçaları, mevsim yeşillikleri, mısır, kruton ekmek, parmesan peyniri, Sezar sos, cherry domates, zeytinyağı",
+            "ItemName": "Sezar Salata",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, mısır, siyah zeytin, havuç, mevsim yeşillikleri, zeytinyağı, limon sos",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, biber, maydanoz, zeytinyağı, limon sos, isteğe göre soğan",
+            "ItemName": "Çoban Salata",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Cheesecake",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Frambuazlı Cheesecake",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Frambuazlı Pasta",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim meyveleri üzerine çikolata sos",
+            "ItemName": "Çikolatalı Meyve Tabağı",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Çilek, muz, kivi, çikolata sos, Antep fıstığı",
+            "ItemName": "Waffle",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütlaç",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Marlenka",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sufle",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tiramisu",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Orman Meyveli Pasta",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim meyveleri",
+            "ItemName": "Meyve Tabağı",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mozaik Pasta",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Oreolu Milkshake",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Milkshake",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çilekli Milkshake",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Muzlu Milkshake",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Karamelli Milkshake",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Vanilyalı Milkshake",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Milkshake",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Naneli Frozen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çilekli Frozen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elmalı Frozen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Muzlu Frozen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kivili Frozen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Frozen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavunlu Frozen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Karpuzlu Frozen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Oreolu Frappe",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sade Frappe",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "White Mocha Frappe",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Karamelli Frappe",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Vanilyalı Frappe",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Iced Toffee Nut Latte",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coconut Chocolate Coffee",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Iced Latte",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Iced Americano",
+            "ItemPrice": "11,00 TL"
+        }
+    ]
+}

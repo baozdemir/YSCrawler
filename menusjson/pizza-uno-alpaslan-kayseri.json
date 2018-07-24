@@ -1,0 +1,610 @@
+{
+    "comment": [
+        {
+            "Comment": "O dominoscular pizza görsünler! Hem sıcak, hem malzemeden çalmıyorlar hem de vaktinde teslim ediyorlar.. Kuryeleri de son derece saygılı.. Kesinlikle doğru tercih yapmışız.. Helal olsun size..",
+            "Date": "2018-07-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizza güzeldi.",
+            "Date": "2018-07-02",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kola sıcak ve pizza soğuk geldi. Normalde beğeniyoruz ancak bu defa beğenmedik.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Ekstra soslar gelmemişti ayrıca ekstra patates söylemiştim pizzanın içindekilerle birlikte mi öyle oldu bilmiyorum ama ekstra söylemediğim zaman da yine o kadar patates geliyordu. Genel olarak gayet iyi, pizzada ilk tercih edilecek yer.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Ketcap ve mayonez 2 ser tane daha koyulsa daha iyi olur. Patates, citir tavuk ve crokat icin.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Porsiyonları azaltmışlar fiyatlara zam.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "2",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Gerçekten kaliteyi hiç bozmuyorsunuz tebrik ederim, hız servis, lezzet her şey mükemmel. Ne zaman sipariş etsem sıcak sıcak bolca geliyor. Teşekkürler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizza devrilmiş, ekstra mozerella istedim yoktu, soğuk geldi.",
+            "Date": "2018-03-26",
+            "Flavour": "5",
+            "Serving": "1",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Cok begendim pizzanizi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kesinlikle harika muhteşem efsane klasik pizza uno kalitesi gerçekten işlerini düzgün yapıyorlar.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Valla biz çok memnunuz hem lezzet hem hizmet gayet başarılı.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Beğendim.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Seçeceğiniz 1 Kişilik Pizza + Patates Kızartması + Soğan Halkası (1 Adet) + Patates Kroket (1 Adet) + Tavuk Parçası (1 Adet) + Kutu İçecek",
+            "ItemName": "1 Kişilik Menü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, sucuk, mantar, kırmızı biber, siyah zeytin, mısır, sarımsak sosu",
+            "ItemName": "Uno Pizza (1 Kişilik)",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz 2 Kişilik Pizza + Patates Kızartması + Soğan Halkası (2 Adet) + Patates Kroket (2 Adet) + Tavuk Parçası (2 Adet) + Kutu İçecek (2 Adet)",
+            "ItemName": "2 Kişilik Menü",
+            "ItemPrice": "46,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, sucuk, mantar, kırmızı biber, siyah zeytin, mısır, sarımsak sosu",
+            "ItemName": "Uno Pizza (2 Kişilik)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz 3 Kişilik Pizza + Patates Kızartması + Soğan Halkası (3 Adet) + Patates Kroket (3 Adet) + Tavuk Parçası (3 Adet) + Kutu İçecek (3 Adet)",
+            "ItemName": "3 Kişilik Menü",
+            "ItemPrice": "66,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, mantar, yeşil biber, kırmızı biber, domates, yeşil zeytin, siyah zeytin, mısır, brokoli, sarımsak sosu",
+            "ItemName": "Vegeterian Pizza (1 Kişilik)",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Dilim Pizza + Patates Kızartması + Soğan Halkası (1 Adet) + Patates Kroket (1 Adet) + Tavuk Parçası (1 Adet) + Kutu İçecek",
+            "ItemName": "Sera Menü",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz 1 Kişilik Pizza + Patates Kızartması + Soğan Halkası (1 Adet) + Patates Kroket (1 Adet) + Tavuk Parçası (1 Adet) + Kutu İçecek",
+            "ItemName": "1 Kişilik Menü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz 2 Kişilik Pizza + Patates Kızartması + Soğan Halkası (2 Adet) + Patates Kroket (2 Adet) + Tavuk Parçası (2 Adet) + Kutu İçecek (2 Adet)",
+            "ItemName": "2 Kişilik Menü",
+            "ItemPrice": "46,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz 3 Kişilik Pizza + Patates Kızartması + Soğan Halkası (3 Adet) + Patates Kroket (3 Adet) + Tavuk Parçası (3 Adet) + Kutu İçecek (3 Adet)",
+            "ItemName": "3 Kişilik Menü",
+            "ItemPrice": "66,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz 4 Kişilik Pizza + Patates Kızartması + Soğan Halkası (4 Adet) + Patates Kroket (4 Adet) + Tavuk Parçası (4 Adet) + Kutu İçecek (4 Adet)",
+            "ItemName": "4 Kişilik Menü",
+            "ItemPrice": "85,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, sucuk, mantar, kırmızı biber, siyah zeytin, mısır, sarımsak sosu",
+            "ItemName": "Uno Pizza (1 Kişilik)",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş patlıcan, közlenmiş biber, kırmızıbiber, domates, soğan",
+            "ItemName": "Turko Pizza (1 Kişilik)",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, mantar, yeşil biber, kırmızı biber, domates, yeşil zeytin, siyah zeytin, mısır, brokoli, sarımsak sosu",
+            "ItemName": "Vegeterian Pizza (1 Kişilik)",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, sucuk, mantar, sarımsak sosu",
+            "ItemName": "Üçes Pizza (1 Kişilik)",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, tavuk parçaları, mantar, yeşil biber, domates, mısır, pul biber, sarımsak sosu",
+            "ItemName": "Tavuklu Pizza (1 Kişilik)",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, mısır, sarımsak sosu",
+            "ItemName": "Combinato Pizza (1 Kişilik)",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sucuk, jalapeno biberi, soğan, yeşil biber, sarımsak sosu",
+            "ItemName": "Meksikan Pizza (1 Kişilik)",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, jambon, mısır, siyah zeytin, sarımsak sosu",
+            "ItemName": "Calzone Pizza (Kapalı) (1 Kişilik)",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, jambon, sarımsak sosu",
+            "ItemName": "Bambino Pizza (1 Kişilik)",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sarımsak sosu",
+            "ItemName": "Margherita Pizza (1 Kişilik)",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, dana kavurma, mantar, domates, soğan, yeşil biber, sarımsak sosu",
+            "ItemName": "Kavurmalı Toscana Pizza (1 Kişilik)",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, pastırma, sucuk, acı biberiye, sarımsak sosu",
+            "ItemName": "Siciliana Pizza (1 Kişilik)",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, ton balığı, karides, mısır, soğan, sarımsak sosu",
+            "ItemName": "Balıkçı Pizza (1 Kişilik)",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sucuk, sarımsak sosu",
+            "ItemName": "Sucuklu Pizza (1 Kişilik)",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, rokfor peyniri, hellim peyniri, brokoli, mısır, sarımsak sosu",
+            "ItemName": "Gorgonzola Pizza (1 Kişilik)",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sarımsak sosu, seçeceğiniz malzemeler ile",
+            "ItemName": "Üç Malzemeli Pizza (1 Kişilik)",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, rokfor peyniri, hellim peyniri, ricotta peyniri, sarımsak sosu",
+            "ItemName": "Dört Peynirli Pizza (1 Kişilik)",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, sucuk, mantar, kırmızı biber, siyah zeytin, mısır, sarımsak sosu",
+            "ItemName": "Uno Pizza (2 Kişilik)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, rokfor peyniri, hellim peyniri, ricotta peyniri, sarımsak sosu",
+            "ItemName": "Dört Peynirli Pizza (2 Kişilik)",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş patlıcan, közlenmiş biber, kırmızıbiber, domates, soğan",
+            "ItemName": "Turko Pizza (2 Kişilik)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, mantar, yeşil biber, kırmızı biber, domates, yeşil zeytin, siyah zeytin, mısır, brokoli, sarımsak sosu",
+            "ItemName": "Vegeterian Pizza (2 Kişilik)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, sucuk, mantar, sarımsak sosu",
+            "ItemName": "Üçes Pizza (2 Kişilik)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, tavuk parçaları, mantar, yeşil biber, domates, mısır, pul biber, sarımsak sosu",
+            "ItemName": "Tavuklu Pizza (2 Kişilik)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, mısır, sarımsak sosu",
+            "ItemName": "Combinato Pizza (2 Kişilik)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sucuk, jalapeno biberi, soğan, yeşil biber, sarımsak sosu",
+            "ItemName": "Meksikan Pizza (2 Kişilik)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, jambon, mısır, siyah zeytin, sarımsak sosu",
+            "ItemName": "Calzone Pizza (Kapalı) (2 Kişilik)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, jambon, sarımsak sosu",
+            "ItemName": "Bambino Pizza (2 Kişilik)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sarımsak sosu",
+            "ItemName": "Margherita Pizza (2 Kişilik)",
+            "ItemPrice": "31,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, dana kavurma, mantar, domates, soğan, yeşil biber, sarımsak sosu",
+            "ItemName": "Kavurmalı Toscana Pizza (2 Kişilik)",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, pastırma, sucuk, acı biberiye, sarımsak sosu",
+            "ItemName": "Siciliana Pizza (2 Kişilik)",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, ton balığı, karides, mısır, soğan, sarımsak sosu",
+            "ItemName": "Balıkçı Pizza (2 Kişilik)",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sucuk, sarımsak sosu",
+            "ItemName": "Sucuklu Pizza (2 Kişilik)",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, rokfor peyniri, hellim peyniri, brokoli, mısır, sarımsak sosu",
+            "ItemName": "Gorgonzola Pizza (2 Kişilik)",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sarımsak sosu, seçeceğiniz malzemeler ile",
+            "ItemName": "Üç Malzemeli Pizza (2 Kişilik)",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, sucuk, mantar, kırmızı biber, siyah zeytin, mısır, sarımsak sosu",
+            "ItemName": "Uno Pizza (3 Kişilik)",
+            "ItemPrice": "47,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, rokfor peyniri, hellim peyniri, ricotta peyniri, sarımsak sosu",
+            "ItemName": "Dört Peynirli Pizza (3 Kişilik)",
+            "ItemPrice": "51,50 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş patlıcan, közlenmiş biber, kırmızıbiber, domates, soğan",
+            "ItemName": "Turko Pizza (3 Kişilik)",
+            "ItemPrice": "47,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, mantar, yeşil biber, kırmızı biber, domates, yeşil zeytin, siyah zeytin, mısır, brokoli, sarımsak sosu",
+            "ItemName": "Vegeterian Pizza (3 Kişilik)",
+            "ItemPrice": "47,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, sucuk, mantar, sarımsak sosu",
+            "ItemName": "Üçes Pizza (3 Kişilik)",
+            "ItemPrice": "47,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, tavuk parçaları, mantar, yeşil biber, domates, mısır, pul biber, sarımsak sosu",
+            "ItemName": "Tavuklu Pizza (3 Kişilik)",
+            "ItemPrice": "47,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, mısır, sarımsak sosu",
+            "ItemName": "Combinato Pizza (3 Kişilik)",
+            "ItemPrice": "47,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sucuk, jalapeno biberi, soğan, yeşil biber, sarımsak sosu",
+            "ItemName": "Meksikan Pizza (3 Kişilik)",
+            "ItemPrice": "47,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, jambon, mısır, siyah zeytin, sarımsak sosu",
+            "ItemName": "Calzone Pizza (Kapalı) (3 Kişilik)",
+            "ItemPrice": "47,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, jambon, sarımsak sosu",
+            "ItemName": "Bambino Pizza (3 Kişilik)",
+            "ItemPrice": "47,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sarımsak sosu",
+            "ItemName": "Margherita Pizza (3 Kişilik)",
+            "ItemPrice": "45,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, dana kavurma, mantar, domates, soğan, yeşil biber",
+            "ItemName": "Kavurmalı Toscana Pizza (3 Kişilik)",
+            "ItemPrice": "51,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, pastırma, sucuk, acı biberiye, sarımsak sosu",
+            "ItemName": "Siciliana Pizza (3 Kişilik)",
+            "ItemPrice": "51,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, ton balığı, karides, mısır, soğan, sarımsak sosu",
+            "ItemName": "Balıkçı Pizza (3 Kişilik)",
+            "ItemPrice": "51,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sucuk, sarımsak sosu",
+            "ItemName": "Sucuklu Pizza (3 Kişilik)",
+            "ItemPrice": "51,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, rokfor peyniri, hellim peyniri, brokoli, mısır, sarımsak sosu",
+            "ItemName": "Gorgonzola Pizza (3 Kişilik)",
+            "ItemPrice": "51,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sarımsak sosu, seçeceğiniz malzemeler ile",
+            "ItemName": "Üç Malzemeli Pizza (3 Kişilik)",
+            "ItemPrice": "51,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, sucuk, mantar, kırmızı biber, siyah zeytin, mısır, sarımsak sosu",
+            "ItemName": "Uno Pizza (4 Kişilik)",
+            "ItemPrice": "62,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş patlıcan, közlenmiş biber, kırmızıbiber, domates, soğan",
+            "ItemName": "Turko Pizza (4 Kişilik)",
+            "ItemPrice": "62,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, rokfor peyniri, hellim peyniri, ricotta peyniri, sarımsak sosu",
+            "ItemName": "Dört Peynirli Pizza (4 Kişilik)",
+            "ItemPrice": "66,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, mantar, yeşil biber, kırmızı biber, domates, yeşil zeytin, siyah zeytin, mısır, brokoli, sarımsak sosu",
+            "ItemName": "Vegeterian Pizza (4 Kişilik)",
+            "ItemPrice": "62,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, sucuk, mantar, sarımsak sosu",
+            "ItemName": "Üçes Pizza (4 Kişilik)",
+            "ItemPrice": "62,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, tavuk parçaları, mantar, yeşil biber, domates, mısır, pul biber, sarımsak sosu",
+            "ItemName": "Tavuklu Pizza (4 Kişilik)",
+            "ItemPrice": "62,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, mısır, sarımsak sosu",
+            "ItemName": "Combinato Pizza (4 Kişilik)",
+            "ItemPrice": "62,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sucuk, jalapeno biberi, soğan, yeşil biber, sarımsak sosu",
+            "ItemName": "Meksikan Pizza (4 Kişilik)",
+            "ItemPrice": "62,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, jambon, mısır, siyah zeytin, sarımsak sosu",
+            "ItemName": "Calzone Pizza (Kapalı) (4 Kişilik)",
+            "ItemPrice": "62,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sosis, salam, jambon, sarımsak sosu",
+            "ItemName": "Bambino Pizza (4 Kişilik)",
+            "ItemPrice": "62,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sarımsak sosu",
+            "ItemName": "Margherita Pizza (4 Kişilik)",
+            "ItemPrice": "59,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, dana kavurma, mantar, domates, soğan, yeşil biber",
+            "ItemName": "Kavurmalı Toscana Pizza (4 Kişilik)",
+            "ItemPrice": "66,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, pastırma, sucuk, acı biberiye, sarımsak sosu",
+            "ItemName": "Siciliana Pizza (4 Kişilik)",
+            "ItemPrice": "66,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, ton balığı, karides, mısır, soğan, sarımsak sosu",
+            "ItemName": "Balıkçı Pizza (4 Kişilik)",
+            "ItemPrice": "66,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sucuk, sarımsak sosu",
+            "ItemName": "Sucuklu Pizza (4 Kişilik)",
+            "ItemPrice": "66,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, rokfor peyniri, hellim peyniri, brokoli, mısır, sarımsak sosu",
+            "ItemName": "Gorgonzola Pizza (4 Kişilik)",
+            "ItemPrice": "66,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, sarımsak sosu, seçeceğiniz malzemeler ile",
+            "ItemName": "Üç Malzemeli Pizza (4 Kişilik)",
+            "ItemPrice": "66,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Sarımsaklı Ekmek (2 Dilim)",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soğan Kroket (6 Adet)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kroket (6 Adet)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Parçası (6 Adet)",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Soğan kroket, patates kroket, tavuk parçaları",
+            "ItemName": "Karışık Tabak (9 Adet)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Parçaları (10 Adet)",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, iceberg marul, salatalık, domates, mısır, dereotu, çubuk kraker, çörekotu, karalahana",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, siyah zeytin, yeşil zeytin, iceberg marul, salatalık, domates, mısır, dereotu, çubuk kraker, çörekotu, karalahana",
+            "ItemName": "Akdeniz Salata",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Iceberg marul, salatalık, mısır, cordon bleu, karalahana, hellim peyniri, Sezar sos",
+            "ItemName": "Sezar Salata",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sufle",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütaş Ayran (30 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        }
+    ]
+}

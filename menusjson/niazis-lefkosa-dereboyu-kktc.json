@@ -1,0 +1,575 @@
+{
+    "comment": [
+        {
+            "Comment": "Pizza rezil. Hamur acilinca ilk yapilan sey domates sosunu koymaktir, o olmayinca olmaz. Dominos 40tl yapti diye alternatif pizza yeri arayisim bir kez daha cuvalladi.",
+            "Date": "2018-07-22",
+            "Flavour": "1",
+            "Serving": "5",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Berbat 1 saat sonra siparişi iptal ettiklerini söylüyolar.",
+            "Date": "2018-07-16",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Cok kötü hiç lezzetli degil.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Harika.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "200 gr donere 35 tl odedim ve birde ne goreyim adam bana 130 gr yollamis, ramazan kesintisine ugradi heralde umarim cok zengin olursunuz bu mubarek gunde.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Tavuk durumun icerisinde tavuk hatic her sey vardi.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Sizin yapıcağınız tatlı bu kadar olur, sağı solu plasitik kapa çarpmış, şekli şemali kaymış, bide koskoca işletmesiniz, sizden tatlı söylüceğime kesme şeker yesek daha iyiydi, yazıklar olsun ya.",
+            "Date": "2018-05-25",
+            "Flavour": "6",
+            "Serving": "5",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Pizza demeye bin şahit lazım berbat otesiydi asiri yağlı ve malzemeler eksikti hic tadi yoktu sunum desen felaket zaten bir dilimden sonra yiyemedim çöpe gitti.",
+            "Date": "2018-05-25",
+            "Flavour": "2",
+            "Serving": "1",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Geç geldi. Servis olarak içinde et yok denecek kadar azdı (ful karışık söylememize rağmen) 4 adet et şiş biri yağ 2 adet köfte çok az döner vardı et olarak. Soğuk geldiği için tat alamadım.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Köfte, şeftali, şiş, tavuk köfte, Adana kebap, döner kebap / Full Mixed Kebab - Meatballs, sheftali, meat skewers, chicken meatballs, Adana kebab, doner kebab",
+            "ItemName": "Full Kebap",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Salam, sosis, mantar, yeşil biber, domates / Mixed Pizza - Salami, sausage, mushrooms, green pepper, tomato",
+            "ItemName": "Karışık Pizza",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Sheftali Kebab ",
+            "ItemName": "Şeftali Kebabı",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Kanat, tavuk pirzola, tavuk şiş, köfte / Mixed Chicken Kebab - Wings, chicken cutlets, chicken skewers, meatball",
+            "ItemName": "Tavuk Mix Kebap",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Doner Kebab",
+            "ItemName": "Et Döner",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Chicken Skewers with Vegetables",
+            "ItemName": "Sebzeli Tavuk Şiş",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Salmon Wrap",
+            "ItemName": "Somon Dürüm",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Chicken Wrap",
+            "ItemName": "Tavuk Dürüm",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Meat Fajita Wrap",
+            "ItemName": "Dana Fajitas Dürüm",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Chicken Fajita Wrap",
+            "ItemName": "Tavuk Fajitas Dürüm",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Beef Burger",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mexican Burger",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Soup of the Day",
+            "ItemName": "Günün Çorbası",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fındık Lahmacun (3 Adet)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Bulgur Rolls (3 Pcs.)",
+            "ItemName": "Bulgur Köftesi (3 Adet)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Humus",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cacık",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Rice",
+            "ItemName": "Pilav",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "French Fries",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Potato Wedges",
+            "ItemName": "Elma Dilim Patates Kızartması",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurt",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Chicken Skewers in Pita - Served with garnish",
+            "ItemName": "Pidede Tavuk Şiş",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Chicken Meatballs in Pita - Served with garnish",
+            "ItemName": "Pidede Tavuk Köfte",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Kanat, tavuk pirzola, tavuk şiş, köfte / Mixed Chicken Kebab - Wings, chicken cutlets, chicken skewers, meatball",
+            "ItemName": "Tavuk Mix Kebap",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Chicken Skewers with Vegetables",
+            "ItemName": "Sebzeli Tavuk Şiş",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Grilled Chicken (1/4)",
+            "ItemName": "Piliç Izgara (1/4)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Chicken Cutlets",
+            "ItemName": "Tavuk Pirzola",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Chicken Wings",
+            "ItemName": "Tavuk Kanat",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Chicken Goujon",
+            "ItemName": "Tavuk Goujon",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Chicken with mushroom sauce",
+            "ItemName": "Mantar Soslu Tavuk",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Stuffed Chicken",
+            "ItemName": "Tavuk Dolma",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Şiş, şeftali, köfte, tavuk köfte / Meat skewers, sheftali, meatballs, chicken meatballs",
+            "ItemName": "Special Mix",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Meat Skewers",
+            "ItemName": "Şiş Kebap",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Sheftali Kebab ",
+            "ItemName": "Şeftali Kebabı",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Meatballs ",
+            "ItemName": "Köfte",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Meatballs with Cheese",
+            "ItemName": "Kaşarlı Köfte",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Adana Kebab",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Liver Skewers ",
+            "ItemName": "Ciğer Şiş",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Doner Kebab",
+            "ItemName": "Et Döner",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Köfte, şeftali, şiş, tavuk köfte, Adana kebap, döner kebap / Full Mixed Kebab - Meatballs, sheftali, meat skewers, chicken meatballs, Adana kebab, doner kebab",
+            "ItemName": "Full Kebap",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Lamb Cutlet",
+            "ItemName": "Pirzola",
+            "ItemPrice": "44,00 TL"
+        },
+        {
+            "ItemInfo": "İskender Kebab",
+            "ItemName": "İskender Kebap",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Kleftiko",
+            "ItemName": "Fırın Kebabı",
+            "ItemPrice": "44,00 TL"
+        },
+        {
+            "ItemInfo": "Fillet Steak",
+            "ItemName": "Dana Bonfile",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Grilled Sea Bream",
+            "ItemName": "Izgara Çipura",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Grilled Sea Bass",
+            "ItemName": "Izgara Levrek",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Fish & Chips",
+            "ItemName": "Balık ve Cips",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Grilled Salmon Steak",
+            "ItemName": "Izgara Somon Fileto",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Calamari",
+            "ItemName": "Kalamar",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Fajita Meat",
+            "ItemName": "Dana Fajita",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Fajita Chicken",
+            "ItemName": "Tavuk Fajita",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Mexican Quesadillas Meat",
+            "ItemName": "Mexican Quesadillas Et",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Mexican Quesadillas Chicken",
+            "ItemName": "Mexican Quesadillas Tavuk",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Chinese Style Cop Soey with Chicken ",
+            "ItemName": "Çin Usulü Çop Suey Tavuklu",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Chinese Style Beef With Green Pepper",
+            "ItemName": "Çin Usulü Yeşil Biberli Dana Eti",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Chinese Noodles With Chicken",
+            "ItemName": "Tavuklu Çin Makarnası",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "Salam, sosis, mantar, yeşil biber, domates / Mixed Pizza - Salami, sausage, mushrooms, green pepper, tomato",
+            "ItemName": "Karışık Pizza",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuklu, mantarlı / Chicken Pizza - Chicken, mushrooms",
+            "ItemName": "Tavuklu Pizza",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Havuç, kabak, brokoli / Vegeterian Pizza",
+            "ItemName": "Sebzeli Pizza",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, peynir, fesleğen / Pizza Margherita - Tomato cheese, basil",
+            "ItemName": "Pizza Margarita",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Margarita, karışık, tavuklu, sebzeli pizza / Four Seasons Pizza",
+            "ItemName": "Dört Mevsim Pizza",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Salam, sosis, mantar, yeşil biber, domates / Family Size Pizza",
+            "ItemName": "Aile Boyu Pizza (4-5 Kişilik)",
+            "ItemPrice": "60,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Spaghetti Bolognese",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Spaghetti Napolitan",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Havuç, kabak, brokoli",
+            "ItemName": "Spaghetti Vegetarian",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Penne Parmesan",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pesto Soslu Penne",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Penne Arrabiatta",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Prawns Tagliatelle",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Tagliatelle with Chicken & Mushrooms",
+            "ItemName": "Tavuk & Mantarlı Tagliatelle",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Tagliatelle with Salmon",
+            "ItemName": "Somonlu Tagliatelle",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tagliatelle Arrabiatta",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Turkish Ravioli",
+            "ItemName": "Mantı",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Caesar Salad with Prawn",
+            "ItemName": "Karidesli Sezar Salata",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Caesar Salad with Chicken",
+            "ItemName": "Tavuklu Sezar Salata",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Green Salad",
+            "ItemName": "Yeşil Salata",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Cajun Chicken Salad",
+            "ItemName": "Kajun Tavuk Salata",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, fasulye, patates, ton balığı, yumurta / Mediterranean greens, beans, potatos, tuna, eggs",
+            "ItemName": "Nicoise Salata",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Shrimp Salad",
+            "ItemName": "Karidesli Salata",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Tuna Salad",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Crumpets in Thick Syrup",
+            "ItemName": "Ekmek Kadayıfı",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Profiterol",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Frambuazlı Cheesecake",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tiramisu",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Gateau",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Krem Karamel",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Karamelli Trileçe",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Caramel Base Pudding",
+            "ItemName": "Kazandibi",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütlaç",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "7Up (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Su (50 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Cam Şişe",
+            "ItemName": "Su (1 L.)",
+            "ItemPrice": "6,00 TL"
+        }
+    ]
+}

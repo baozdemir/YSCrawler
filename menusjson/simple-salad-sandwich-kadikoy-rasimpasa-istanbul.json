@@ -1,0 +1,826 @@
+{
+    "comment": [
+        {
+            "Comment": "Fena değil.",
+            "Date": "2018-07-22",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok lezzetli sandviçler yedik, herkese öneririm.",
+            "Date": "2018-07-15",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yediğim en güzel sosisli sandviç:).",
+            "Date": "2018-07-14",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Fiyatını asla hak etmiyor. Salatadaki karides de salatanın miktarını da azdı. Ayrıca sos olarak yanına gerçek limon bile koymamışlar hazır limon suyu geldi.",
+            "Date": "2018-07-13",
+            "Flavour": "3",
+            "Serving": "4",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sosonu biraz daha fazla koyabilirsiniz.",
+            "Date": "2018-07-09",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Çok lezzetli :).",
+            "Date": "2018-07-09",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Karidesli sandviç bir harikaydi. Ellerinize sağlık.",
+            "Date": "2018-07-09",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Son zamanlarda yedigim en guzel sandwichti diyebilirim. Iki gun ust uste siparis verdim hala doyamadim (: elinize saglik!",
+            "Date": "2018-07-09",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Yine buz gibi :(.",
+            "Date": "2018-07-09",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Sandviçler ef sa ne!",
+            "Date": "2018-07-09",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sandvic cok taze ekmege yapilmisti ve lezzetliydi cok memnun kaldim.",
+            "Date": "2018-07-07",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tost buz gibiydi, portakal suyunun da vitamini belli ki 40 dakika önce kaçmış. Bu kadar geç gönderiyorsanız lütfen sıcak servis edilen yemeklerinizi çıkarın menüden!",
+            "Date": "2018-07-07",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Ekmeği yanlış hatırlamıyorsam kepekli istemiştim ama normal geldi. Olsun lezzet ve hız keyifliydi. Ya hazır aklıma gelmişken, ekmeğin kıtır kısımları damağımı deldi, acaba buna nasıl bir çözüm buluruz diye düşünmeden edemedim. Saygılar.",
+            "Date": "2018-07-05",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Nefis firindan taze cikmis bir kruvasandi. Kahvenin de porsiyonu buyuktu. Begendim.",
+            "Date": "2018-07-05",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tavuklu sandviç mükemmel. !",
+            "Date": "2018-07-05",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yavaş geldi ama lezzetliydi, denenebilir.",
+            "Date": "2018-07-05",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Tereyağlı kruvasan çok taze geldi. Fırından yeni çıkmış gibi harika tereyağı kokusu vardı.",
+            "Date": "2018-07-05",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kullanılan malzemeler iyi değil. Tostlar tatsız tuzsuz bişey olmuş.",
+            "Date": "2018-07-03",
+            "Flavour": "5",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Salatalarda yazılan malzemelere inanmayın, marul dışındakilerden her bir malzemeden 1-2 adet vardı. Salataya 20 lira verince daha fazlasını bekliyor insan.",
+            "Date": "2018-07-03",
+            "Flavour": "2",
+            "Serving": "6",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Baklalar sonradan ısıtılıp suyu süzülmeden ve yeşilliklerde suyuyla konmuştu yani salata suyu değil yıkama suyu içinde geldi salata.",
+            "Date": "2018-07-03",
+            "Flavour": "4",
+            "Serving": "6",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Meyvesuyu düzenli konmamıştı altındaki tost ıslanmış. Streç kullanırsanız daha iyi olur bence..",
+            "Date": "2018-07-03",
+            "Flavour": "6",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Kızartma yağınızı sık değiştirin.",
+            "Date": "2018-07-03",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kepek ekmegi istemistim ama normal ekmek gelmis.",
+            "Date": "2018-07-03",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hayatımda yediğim en güzel sandviçti teşekkürler.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Permesanli patades deyince daha farkli bise beklemistim bi avuc patadedin ustune toz permesan dokup yollamissiniz fiyatinidi abartmissiniz bekletileri karsiliyamiyorsunuz bence sandwic guzeldi.",
+            "Date": "2018-07-03",
+            "Flavour": "4",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Salatalarınız çoook güzel.",
+            "Date": "2018-07-02",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sandviçler çok iyi.",
+            "Date": "2018-07-02",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lezzet fena değil ama porsiyon kucuk ve sunum kötüydü. Yanına az yesillikle daha basarili olur.",
+            "Date": "2018-07-01",
+            "Flavour": "7",
+            "Serving": "6",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Çok güzel çıtır çıtır bir ekmeğin arasında az malzeme ve sosun resmen damla damla olması üzücü.",
+            "Date": "2018-06-25",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Iftar icin verdigim siparis 15 dakika gec geldi.",
+            "Date": "2018-06-24",
+            "Flavour": "5",
+            "Serving": "4",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Menemen gibi basit bir yemeğin nasıl bu kadar kötü yapılabildiğinin şaşkınlığını yaşıyorum. Domatesleri direkt atmışlar içine.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyiydi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ekmek yeni yapılmış ve sıcacıktı. Tost oldukça büyük ve lezzetliydi ancak soslu jülyen biftek porsiyonu biraz küçük bilginize.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ortalama 45 dk içerisinde geliyor. Ama böyle bir lezzeti bence daha hızlı ulaştırmalılar. Harika. Elinize sağlık...",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Joker olmasa söylemezdim, artık joker olsa da söylemem zincir olandan kötü...",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Veggieleri notumu dikkate alarak tamamen vegan olarak hazırladılar. Gerçekten çok memnun kaldım, çok teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Paketlerinizi değiştirmişsiniz çok güzel olmuş. Zaten butik sandviç denince ilk akla gelenlerdensiniz. Herkese tavsiye ediyorum.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "En çok sipariş verdiğim yer. Özellikle etli sandviçleri bir harika. Patateslere yazılan eleştirilere katılmıyorum. Çıtır çıtır patatesleri var. Hızlı servis olduğundan tavsiye ederim :).",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sandiviç seven birisi olarak söylüyorum gerçekten inanılmazdı. Bir dahakine gidip yerinde yiyecegim. Ellerinize sağlık :).",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Veggie sandviç soyledim, guzeldi tadi ve vejeteryan seçeneklerin olmasi beni mutlu etti :) tekrar siparis vereceğim mutlaka.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hem ekmek hem sandviçler aşırı leziz, bir de arada yanında sürpriz şeyler gönderiyorlar.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Anlatmaya gerek yok, görüyorsunuz mükemmel :).",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bu kadar kalitesiz olamazdı.",
+            "Date": "2018-06-24",
+            "Flavour": "3",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Menüye iyi ki kahve ve tatlıları eklediniz. Süperdi. Teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Baya guzel.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Çok taze, çok leziz.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Tavuklu sandviç efsane.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Genel olarak memnun kaldım. Tek sıkıntı, sandwich homojen değildi. Yani her ısırıkta aynı tadı alamadım. Bunun sebebi içindeki sos ve bazı malzemelerin, eksikliği değil, ekmeğin arasında belli yerlerde toplanmış olmasıydı. Dolayısıyla kimi lokmalarda daha yoğun bir tad alırken kimilerinde alamadım.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Sandviçlerdeki sosu ekmeğin içine sürseniz herşey mükemmel olacaktı. Elinize sağlık.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Sucuklu yumurta soylemistim. 1 tane yumurta, 4 dilim sucuk vardi. Şaka gibiydi, gercekten inanilmaz.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Malzeme az..",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Patates kroket yerine kaşar geldi, menüde de yok, anlamadım.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "5",
+            "Speed": "7"
+        },
+        {
+            "Comment": "İçine konulan soğanlar baş parmağımdan buyuktu. Dereotular siyahlaşmış ve ölmüşlerdi. Surekli maydanoz sapları vardı salatada. Böyle kötü bir salata hiç yemedim. Birde salatacı diyorsunuz kendinize. Çok ayıp.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Sadece biberden oluşan bir menemen yedim inanılmaz kötüydü.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "6",
+            "Speed": "7"
+        },
+        {
+            "Comment": "İçinde avokado sosu yoktu unutmuşlar sanırım, hafif bir sarımsak tadı geliyordu ekmekten çok hoşuma gitti.",
+            "Date": "2018-05-25",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Menu icerikleri ve malzemeleri okuyunca bayagi kaliteli bekledim bu siparisi. Ki lezzet ve hizda hicbir sikinti yok ama kullandiginiz posetten kaplara kadar cok basit ve ucuz yani yakismiyor kisacasi. Servis olarak iyilestirirseniz super olur.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "2",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Sandviclerin yüzü suyu hürmetine 3 verdim. Humus varmış gibi davranıp köfteli sandvici de yedik. Ama o patateslerin hali nedir? 3. Sınıf dönercide o kadar kötü patates görmedim. O patatese 8 lira verdim. Parmesanlı diye camda kuruttuğunuz beyaz peynirleri koymuşsunuz sanırım ona da ekstra 5 lira verdim.",
+            "Date": "2018-05-25",
+            "Flavour": "3",
+            "Serving": "6",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sandvic de cok guzeldi ekmegi yumusacikti, ici biraz daha dolu olabilirdi. Ama patates kizartmasi gercekten hayatimda yedigim en guzeliydi. Inanilmaz citir ve buhardan yumusamamis geldi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Menemeni gercekten basarili.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fiyat performans olarak kötü. Kupkuru bir sandviç geldi, mutlu etmedi.",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Bunu yedikten sonra doyarim herhalde diyeceğiniz sandviç bir lokma geliyor haberiniz olsun. Acaba ikiye böldüler de yarısını getirmeyi mi unuttular dedik. Bu arada, notlari da dikkate almiyorlar, boşuna yazmayin.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "10/10/10 hızlı lezzetli.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bayıldım! Böylesi hızlı, böylesi taze ve lezzetli bir öğün yememiştim. Elinize sağlık! :).",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişim çok sıcak ve çok lezzetliydi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "10/10/10 puan hızlı lezzetli.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Başarılıydı.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; 120 gr. tavuk, cajun baharatı, avokadolu Simple sos, renkli biberler, ızgara soğan, sotelenmiş mantar, jalapeno biberi, domates, kıvırcık marul veya roka",
+            "ItemName": "Tavuklu Sandviç No 1",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; eski kaşar peyniri, parmesan peyniri, suda mozzarella peyniri, labne peyniri, zeytin ezmesi, domates, roka ve kıvırcık marul, pesto sos",
+            "ItemName": "Şarküteri Sandviç No 1",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; dana jambon, burger peyniri, dilim zeytin, domates, salatalık, dilimlenmiş roka veya kıvırcık marul, Simple hardal sos",
+            "ItemName": "Şarküteri Sandviç No 2",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine, 120 gr. sebze köftesi, renkli biberler, sote tabak, sote havuç, sote mantar, karamelize soğan, labne, zeytin ezmesi, roka veya kıvırcık marul",
+            "ItemName": "Veggie Sandviç No 4",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine, 120 gr. sebze köftesi, humus, domates, dövülmüş ceviz, maydanoz, nar ekşisi, roka veya kıvırcık marul",
+            "ItemName": "Veggie Sandviç No 1",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; 120 gr. jülyen dana eti, burger peyniri, ızgara mantar, taze soğan, mısır, kıvırcık marul veya roka, krema",
+            "ItemName": "Etli Sandviç No 1",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Etli Sandviç No 1 + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Etli Sandviç No 1)",
+            "ItemPrice": "25,20 TL"
+        },
+        {
+            "ItemInfo": "Tavuklu Sandviç No 1 + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Tavuklu Sandviç No 1)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Şarküteri Sandviç No 2 + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Şarküteri Sandviç No 2)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Şarküteri Sandviç No 1 + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Şarküteri Sandviç No 1)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuklu Salata + Seçeceğiniz Ayran (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Tavuklu Salata)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Sosisli Sandviç No 1 + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Sosis & Patates Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Şarküteri No.3 + Rokalı Ayran",
+            "ItemName": "Sucuk Ayran Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz Tatlı + Filtre Kahve",
+            "ItemName": "Filtre Kahve & Tatlı Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "1 Adet Tereyağlı Kruvasan + Filtre Kahve",
+            "ItemName": "Filte Kahve & Kruvasan Menü",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tereyağlı Kruvasan",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine, 120 gr. sebze köftesi, humus, domates, dövülmüş ceviz, maydanoz, nar ekşisi, roka veya kıvırcık marul",
+            "ItemName": "Veggie Sandviç No 1",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine, 120 gr. sebze köftesi, avokadolu Simple sos, domates, renkli biberler, Simple hardal sos, roka veya kıvırcık marul",
+            "ItemName": "Veggie Sandviç No 2",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine, 120 gr. sebze köftesi, Ege baharatlı yoğurt, domates, renkli biberler, acılı Simple sos, roka veya kıvırcık marul",
+            "ItemName": "Veggie Sandviç No 3",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine, 120 gr. sebze köftesi, renkli biberler, sote tabak, sote havuç, sote mantar, karamelize soğan, labne, zeytin ezmesi, roka veya kıvırcık marul",
+            "ItemName": "Veggie Sandviç No 4",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; 120 gr. tavuk, cajun baharatı, avokadolu Simple sos, renkli biberler, ızgara soğan, sotelenmiş mantar, jalapeno biberi, domates, kıvırcık marul veya roka",
+            "ItemName": "Tavuklu Sandviç No 1",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; 120 gr. tavuk, kremalı köri sos, sotelenmiş mantar, ızgara soğan, ızgara havuç, ızgara kabak, renkli biberler",
+            "ItemName": "Tavuklu Sandviç No 2",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; 120 gr. tavuk, eritilmiş kaşar peyniri, karamelize soğan, sotelenmiş mantar, renkli biberler, kıvırcık marul veya roka",
+            "ItemName": "Tavuklu Sandviç No 3",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; 120 gr. tavuk, renkli biberler, ızgara soğan, sotelenmiş mantar, sweet chili sos, kıvırcık marul veya roka",
+            "ItemName": "Tavuklu Sandviç No 4",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; 120 gr. jülyen dana eti, burger peyniri, ızgara mantar, taze soğan, mısır, kıvırcık marul veya roka, krema",
+            "ItemName": "Etli Sandviç No 1",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; 120 gr. jülyen dana eti, kremalı parmesan sos, patates kızartması, biberiye",
+            "ItemName": "Etli Sandviç No 2",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; 120 gr. jülyen dana eti, avokadolu Simple sos, ızgara domates, ızgara soğan",
+            "ItemName": "Etli Sandviç No 3",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; 120 gr. jülyen dana eti, teriyaki sos, ızgara kabak, ızgara havuç, ızgara soğan, renkli biberler, kıvırcık marul veya roka",
+            "ItemName": "Etli Sandviç No 4",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; 125 gr. ev yapımı köfte, ızgara soğan, acuka sos, labne peyniri, roka veya kıvırcık marul",
+            "ItemName": "Köfteli Sandviç No 1",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; 125 gr. ev yapımı köfte, domates sos, parmesan peyniri, kıvırcık marul veya roka, pesto sos, dövülmüş ceviz",
+            "ItemName": "Köfteli Sandviç No 2",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; 125 gr. ev yapımı köfte, ızgara soğan, avokadolu Simple sos, domates, maydanoz",
+            "ItemName": "Köfteli Sandviç No 3",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; 125 gr. ev yapımı köfte, humus, ızgara soğan, ceviz, kıvırcık marul veya roka, domates, maydanoz, nar ekşisi",
+            "ItemName": "Köfteli Sandviç No 4",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; jülyen jumbo sosis, karamelize soğan, kornişon turşu, isteğe göre BBQ sos veya chipotle sos, Simple hardal sos",
+            "ItemName": "Sosisli Sandviç No 1",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; jülyen jumbo sosis, karamelize soğan, Amerikan salatası, kornişon turşu",
+            "ItemName": "Sosisli Sandviç No 2",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; jülyen jumbo sosis, karamelize soğan, patates kızartması, kornişon turşu, ketçap, mayonez",
+            "ItemName": "Sosisli Sandviç No 3",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; jülyen jumbo sosis, karamelize soğan, roast beef, kornişon turşu, BBQ sos",
+            "ItemName": "Sosisli Sandviç No 4",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; eski kaşar peyniri, parmesan peyniri, suda mozzarella peyniri, labne peyniri, zeytin ezmesi, domates, roka ve kıvırcık marul, pesto sos",
+            "ItemName": "Şarküteri Sandviç No 1",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; dana jambon, burger peyniri, dilim zeytin, domates, salatalık, dilimlenmiş roka veya kıvırcık marul, Simple hardal sos",
+            "ItemName": "Şarküteri Sandviç No 2",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; sucuk, eritme kaşar peyniri, domates, kekik",
+            "ItemName": "Şarküteri Sandviç No 3",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; hellim peyniri, kurutulmuş domates, közlenmiş kırmızıbiber, labne peyniri, roka veya kıvırcık marul, çörek otu, pesto sos",
+            "ItemName": "Şarküteri Sandviç No 4",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; roast beef, eritilmiş kaşar peyniri, acuka sos, labne peyniri, kornişon turşu, domates, roka veya kıvırcık marul",
+            "ItemName": "Füme Sandviç No 1",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; roast beef, ızgara domates, ızgara kabak, ızgara soğan, roka veya kıvırcık marul, isteğe göre teriyaki sos veya BBQ sos veya chipotle sos",
+            "ItemName": "Füme Sandviç No 2",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; roast beef, ızgara mantar, ızgara kabak, burger peyniri, karamelize soğan, renkli biberler, kıvırcık marul veya roka, BBQ sos",
+            "ItemName": "Füme Sandviç No 3",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; hindi füme, eski kaşar peyniri, salatalık, kornişon turşu, ince doğranmış roka veya kıvırcık marul, mayonez",
+            "ItemName": "Füme Sandviç No 4",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; tereyağında sotelenmiş 180 gr. karides, ızgara mantar, parmesan peyniri, rendelenmiş kaşar peyniri, kıvırcık marul veya roka, domates sos, pesto sos",
+            "ItemName": "Deniz Ürünlü Sandviç No 1",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "150 gr. sandviç ekmeğine; sotelenmiş 180 gr. karides, ızgara kabak, ızgara havuç, ızgara soğan, ızgara mantar, renkli biberler, sweet chili sos, kıvırcık marul veya roka",
+            "ItemName": "Deniz Ürünlü Sandviç No 2",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (25 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütlü Nesquik",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ketçap",
+            "ItemPrice": "0,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mayonez",
+            "ItemPrice": "0,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hardal",
+            "ItemPrice": "0,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "BBQ Sos",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sweet Chili Sos",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sriracha Sos",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Zeytinyağı",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Balsamik Sirke",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Nar Ekşili Sos",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limon Sos",
+            "ItemPrice": "0,75 TL"
+        }
+    ]
+}

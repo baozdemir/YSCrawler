@@ -1,0 +1,2358 @@
+{
+    "comment": [
+        {
+            "Comment": "Herşey güzel de mantar istemediğimizi belirttiğimiz halde mantarlı pizza getirmişler. Ama olsun yine de güzeldi.",
+            "Date": "2018-07-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gelen arkadaş çok samimi kibardı. Kalbinin götürdüğü yere getir.",
+            "Date": "2018-07-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-07-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hayatımda yediğim en kotu pizza...",
+            "Date": "2018-07-20",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Bildiğimiz pizza pizza.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Çok kötü, diğer alternatifler varken tekrar tercih etmem.",
+            "Date": "2018-07-17",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Fiyatına göre gayet iyiydi. Ta ki pizzanın içinden alimünyum folyo parçası çıkana kadar.",
+            "Date": "2018-07-16",
+            "Flavour": "4",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "30 dk lık sipari 50 dk geldi soguk yedik pizzayı.",
+            "Date": "2018-07-16",
+            "Flavour": "3",
+            "Serving": "3",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Arkadaşlar çok net söylüyorum, burdan sipariş vereceğinize gidip 1 paket makarna alın, evde yapıp mis gibi yiyin en azından mutsuz olmazsınız. Paranıza yazık olmasın. Bize pizza diye 2 kupkuru hamur gönderiler. Verdiğim paraya ayrı, o pizzaları yediğime ayrı üzüldüm.",
+            "Date": "2018-07-16",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Menüleriniz ne yazık ki ketcap mayoneze ihtiyac duyuyor, notlara belirttigimiz halde cogu kez mayonez koymayi unutuyorsunuz. Lutfen bu duruma biraz dikkat edin.",
+            "Date": "2018-07-15",
+            "Flavour": "9",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Oldukça iyi fiyatı da uygun.",
+            "Date": "2018-07-13",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hizli geldi fakat gelirken çok sarsıldıgi için pizza dağılmışti. Tadi gayet güzeldi.",
+            "Date": "2018-07-12",
+            "Flavour": "9",
+            "Serving": "6",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-07-12",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Gerek hız gerek lezzet gerekse malzeme super daha ne olsun ki 26 liraya 4 malzemeli pizza yiyoruz malzemesi az diyenlere inanamıyorum dana mı cevirsinler daha ne istiyorsunuz.",
+            "Date": "2018-07-11",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fena degildi guzel.",
+            "Date": "2018-07-10",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hamur yanmıştı ve sosu az olduğu için yavan bı tat vardı.",
+            "Date": "2018-07-10",
+            "Flavour": "1",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Herşeyiyle mükemmel.",
+            "Date": "2018-07-09",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı servis başarılı.",
+            "Date": "2018-07-09",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "On numara.",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pos makinanız çalışmıyor ve ince pizzaları beceremiyorsunuz yanık geldi.",
+            "Date": "2018-07-08",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Hamurun inceliği, hız, servis mükemmel ama mexico pizzada jalapeno yoktu, yeşil biber doğranmıştı sadece. Malzemelere biraz daha özen gösterilmeli.",
+            "Date": "2018-07-08",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sıcacık geldi ve çok lezzetliydi elinize sağlık.",
+            "Date": "2018-07-07",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Emeği geçen herkese teşekkür ederim.",
+            "Date": "2018-07-07",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-07-07",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Maalesef lezzeti hiç izmirde ki gibi olmuyor.",
+            "Date": "2018-07-06",
+            "Flavour": "5",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyiydi.",
+            "Date": "2018-07-04",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Bu kadar kuru bir pizza yemedim hayatımda.",
+            "Date": "2018-07-04",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Malzeme bol olmasi lazim.",
+            "Date": "2018-07-04",
+            "Flavour": "4",
+            "Serving": "10",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Ne bir selpak ne bi mendil ne bi paket poşeti nede ekstra bi baharat mukemellsiniz.",
+            "Date": "2018-07-04",
+            "Flavour": "4",
+            "Serving": "1",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Yok abi tek favori pizzacim sizsiniz. Çalışma arkadaşlarınıza ayrıca teşekkür ediyorum davranışları için bir daha sanıyorum sipariş verirken.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Malzemesi azdı...",
+            "Date": "2018-07-03",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok lezzetliydi.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yediğimiz pizza mideme oturdu, tavsiye etmiyorum.",
+            "Date": "2018-07-03",
+            "Flavour": "4",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Super hizli.",
+            "Date": "2018-07-02",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Guzell.",
+            "Date": "2018-07-01",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Fena defildi.",
+            "Date": "2018-07-01",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Paket ürünü olan kola pizzalarla beraber gelmedi. Yaklaşık 1 saat sonra geldi pizzalarımız soğudu.",
+            "Date": "2018-06-30",
+            "Flavour": "6",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Teşekkür ederim.",
+            "Date": "2018-06-30",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet güzel ve zamanında geldi.",
+            "Date": "2018-06-29",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyiydi işte.",
+            "Date": "2018-06-29",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Peyniri koklatmayaydınız iyiydi.",
+            "Date": "2018-06-29",
+            "Flavour": "5",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Görüntü pizza ama tadı yok bildiğiniz pizza markalarından şaşmayın.",
+            "Date": "2018-06-29",
+            "Flavour": "1",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Her zamanki gibi.",
+            "Date": "2018-06-28",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi geldi bu sefer hızlı ve sıcaktı teşekkür ederim.",
+            "Date": "2018-06-28",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-06-28",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Başarılı.",
+            "Date": "2018-06-28",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Servis elemanı adresi bulamayıp üstüne haklıymış gibi servisi teslim ederken söylendi.",
+            "Date": "2018-06-27",
+            "Flavour": "5",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Teşekkürler, çok memnun kaldım.",
+            "Date": "2018-06-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Berbat.",
+            "Date": "2018-06-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "2 adet pizza aldim kampanyali icindre malzeme adina birsey yoktu verdigim paraya acidim malzemenizi koyun hakkiniz neyse alin.",
+            "Date": "2018-06-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "5"
+        },
+        {
+            "Comment": "35 dakikada geldi oldukça sıcak ve lezzetliydi.",
+            "Date": "2018-06-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Uyarı notu yazmama rağmen hamur sert ve malzemeler neredeyse yanmış geldi. Çok kötü.",
+            "Date": "2018-06-24",
+            "Flavour": "3",
+            "Serving": "3",
+            "Speed": "7"
+        },
+        {
+            "Comment": "İdare ederdi.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Teslimat süresi 30 dakika olmasına rağmen 1 saatte geldi, kenarları çok kuru ve sertti.",
+            "Date": "2018-06-24",
+            "Flavour": "5",
+            "Serving": "7",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Oldukça hızlıydı lezzetini beğendim yorumlar neden bu kadar kötü anlam veremedim.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Taş gibi hamur yedik bildiğin :d sipariş vermeyin burdan.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "İlginc bir sistemi var pizza pizzanin mesaj atiyorsun oraya bu sube bakmiyor diyorlar sistemdeki adres ne diyorum benim adresi soyluyor ilginc bir dukkan genel olarak 6. 5 fln olmali puani bence.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Vaktinde geldi, pizzalarımız oldukça sıcak ve doyurucuydu. Fakat fazla olmasa da çiğneme konusunda sıkıntı yaşadık. Sertti.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Memnun kaldım.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Geç ve eksik geldi ustelik zile basilmasin diye not yazmama ragman zile basildi patatea istendi gelmedi yiyeceklerde soguktu.",
+            "Date": "2018-06-24",
+            "Flavour": "4",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Pizzayı ince hamur istemiştim fakat tamamen kenarları yanık halde geldi bunu kutuya koyarken vicdanı sızlamayan insanlar var. Neden iş yapamadığınız burdan belli ilk ve son siparişimdi!",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "2",
+            "Speed": "8"
+        },
+        {
+            "Comment": "1 saatte buz gibi kupkuru geldi.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Kuryenin saygısızligi ve yalan soylemesi disinda hersey güzeldi.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Soğumuş hamur yedik.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "2",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Kötü.",
+            "Date": "2018-06-24",
+            "Flavour": "3",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Not yazmama rağmen iftarı geçmişti teslimat ve ayrıca extra malzrmenin parası ödrnediği halde yine ve yine koyulmadı, ki buna da değindim not da... Ton balıklı pizzada yon balığı aradık resmen...",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Çok lezzetsiz. Ekstra cheddara o kadar para verdik ama cheddar sadece koklatılmış. Kötü servis ile geç ve soğuk gelmesi de cabası. Komple fiyasko...",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Teslim süresi 30 dk yazmasına rağmen 1 saatten geç geldi. Açlıktan öldüm. Teşekkürler...",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Camlica da oturmama rağmen gayet hızlı geldi ve lezetliydi teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tşkler ancak daha sıcak ve daha dikkatli olabilir.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Malzemeler iyi, hamur kötü.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Gelmesi 1 saat sürdü. İçeceğim unutulmuştu. Bu kadar bariz bir şey nasıl unutulur anlamış değilim.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Malzesi çok azdı ve ılıktı.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hizli ve lezzetli. Tsk.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Paket açık geldi soğumuştu oda tabi, lezzet olarak pizza yediğimi hissetmedim 5-10 lira fazla verip daha lezzetlisini yemenizi tavsiye ederim.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "2",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Soguk geldi.",
+            "Date": "2018-06-24",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Demin sipariş verdin geldi ama patates yok denecek kadar az pizzadan biraz daha melzeme alıp sadece pizza ve pizza sosu yapsaydınız bari pizzanın kenarları taş gibi olmuş ısırılmıyo bile ya 20 tl alıyosunuz bari hakkını verin arkadaş ya.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "3",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İdare eder.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İçeriği daha bol olması gerekirdi.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kaliteli yer.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Servis hızlı, pizzaları gayet lezzetli.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Başarılarınız daım olsun elınıze emegınıze sağlık.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "30 dk ı geçti ama utanmazlar 30dk ı geçti göstermemek için 30. Dakikada sipariş yerine ulaştı olarak işaretlemişlerhamur kağıt gibiydi klasik hamur istememe rağmen patateslere sanki işemişsiniz tadı vardıpizzanın içinde peynir bile yoktu bildiğin 20 liramı çöpe attım.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Son iki siparişim sıcacık bol malzemeli ve hızlı geldi. Notların dikkate alınıyor oluşu memnun edici.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizza 2 katlı cheddarlı olmasına rağmen kuru ve lezzetsizdi, daha iyisi kesinlikle olabilirdi. Patatesi güzel, soğan halkaları fazla kavrulmuş ve soğuktu.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Pizza pizza notları dikkate alıyor.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Normal.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fena değil, biraz daha çıtır olmalı hamuru yoksa güzel.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yemek cok kotuydu.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Pizza güzeldi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Neredeyse 1 saatte geldi, buz gibi bir pizza takır takır olmuş bir hamur, peynir arimiş tekrar kurumuş.. Yediğim en kötü pizzaydı. Pizza pizzayı ilk defa denedim ve tekrarı olmayacak.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Hem içecek yanlış getirildi hemde yanlış sipariş getirildi. Tebrikler.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Çıtır kutusu güzeldi ama pizzayı kalın hamurlu istediğim halde ince hamurlu geldi, ince hamurlu pizzadan nefret ederim o yüzden pizza çok kötüydü.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "6",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Dondrulmus market pizzaları gibi.",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Oyuncak sorunu hala cozulememis.",
+            "Date": "2018-05-25",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Guzeldi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ton balıklı pizza söyledim fakat içindeki ton balığı çok azdı. Sıklıkla pizza söylediğim bir yer fakat bu sefer memnun kalmadım.",
+            "Date": "2018-05-25",
+            "Flavour": "3",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Çok iyi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet güzel.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Bir ara sistemde sorun vardı sipariş veremiyordum bir kez daha neden pizza pizza yıl tercih ettiğimi anladım elinize sağlık kurye arkadaşlarınıza ayrıca tesekkurler.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet güzel.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hızlı bir şekilde getirdiği için hayrullah beye teşekkür ederim.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hep memnun kaldığım bir yer, bugün beni hayal kırıklığına uğrattı. 1-çok geç geldi2-çok soğuk geldi3-normal hamur olması gerekirken, ince hamur geldi. Bir sonraki siparişde de hayal kırıklığı yaratırsanız, bir daha sipariş vermem. Daha dikkatli olmanızı rica ederim.",
+            "Date": "2018-05-25",
+            "Flavour": "3",
+            "Serving": "2",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Sıcak ve lezzetli pizza fiyatlarda uygun. Getiren arkadaşlarda nazik ve güleryüzlü 10/10. Yalnızca ketçap mayonezde seçim ekranıyla tercihen seçilip pizza sosu gibi pizzayla gelse daha iyi olurdu.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hem hizli hem. Guzel. Boyle devam.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bildiğiniz yanık kurumuş olarak geldi.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Hem hızlı geldi hem lezzetliydi hem de yanında gelen baharatlar çok iyiydi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Nsjsj.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hızlı ve güzel servis için teşekkürler...",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok lezzetliydi çabuk getirdiler ama sanırım aceleden peçete vs yoktu.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "6",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Tesekkurler.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kotu.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Hayatımda yediğim en kötü pizza olabilir, yerken çenem yoruldu.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok güzeldi, teşekkürler.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Orta boy olmasina ragmen küçük gibi geldi pizza ama sicak ve hizliydi.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "3",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok güzel di herzamanki gibi ve sıcak geldi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tsk.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hamur klasik olmalı.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizzamı sıcak getiren kurye arkadaşa çok teşekkür ederim. Yaşasın pizza pizza.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gerçekten emek vererek ellerinden geldiğince güzel hizmet vermeye calışıyolar.. Yine hızlı, sicacik ve lezzetliydi. Yorumun amacıda samimiyettir. Tüm samimiyetimle söylüyorum seviliyorsunuz..",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hem güzel hem hızlıydı.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bir daha tövbe.",
+            "Date": "2018-04-25",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Gayet lezzetli ve başarılı lütfen hep böyle kalın.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İzmirde bayıla bayıla yerdik. Göztepeye teslimatı görünce hiç düşünmeden sipariş verdik. Yanılmamışız, hala aynı tat. Ellerinize sağlık!",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Tek kelimeyle harika ayrıca kurye hayrullah beye tesekkurler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Diğer siparişlerim gibi sıcak geldi ve lezzeti 10 numara idi ellerinize sağlık.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Vaktinden geç geldi sipariş soğuktu.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "5",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Pizza lezzetli degildi. Yaninda servis verilmemisti. Pizza hamurunda agir bi tat vardi.",
+            "Date": "2018-04-25",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Fiyat lezzet oranı çok güzel her zamanki gibi teşekkürler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet güzeldi ve çokta lezzetliydi getiren arkadaş çok mütavaziydi teşekkürler pizza pizzaya.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzeti çok iyiydi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok iyi herşey mükemmel.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Efsane.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Anlatmaya gerek yok mikemmel.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kurye burak beye teşekkürler çok hızlı getirdi siparişimi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gelen motorcu çok güler yüzlü ve kibardı, pizza kutusunu da tutamadım neredeyse çok çok sıcaktı. Bu restorandan 2. Siparişim ve ilkiyle arasında uçurum kadar fark vardı bu siparişimden çok memnun kaldım çok teşekkürler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hayatımda ilk defa yemek sepetinde restoran yorumluyorum. Çünkü yediğim şey hakikaten dayanılamayacak kadar lezzetsizdi. Hem soğan halkasını hem patatesi hemde pizzayı aynı anda yakmayı nasıl başardınız merak ediyorum. Buradan son siparişim. Bir daha tövbe.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Bu sefer malzemeden calmissiniz dikkate almanızı dilerim.",
+            "Date": "2018-04-25",
+            "Flavour": "5",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hızlı geldi ve sıcaktı. Bir siparişte beklenen şeyler sanırım :d.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkür ederim çok lezzetliydi ve çok sıcaktı.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Geçen siparişim. Gibi sıcak ve lezettliydi siparişlerimin devamının geleceğinden emin olabilirsiniz ellerinize sağlık. Ve kurye güler yüzlü ve hızliydi pizzamı sıcak getirdiği için burak bey e tşekkur ediyorum.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizzanın tadını hiç beğenmedim büyük ihtimalle domates sosu bozulmuştu 1 dilimi zor yedim nerdeyse sosun tadı çok ekşiydi servis de eh işte zaten yanında gelen ürünlerle karnımı doyurdum hemen hemen lezzet konusunda benim görüşümce pek bi puan hak edemediniz... İyi çalışmalar.",
+            "Date": "2018-04-25",
+            "Flavour": "2",
+            "Serving": "6",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Beyfendi 20 liralik pizza satma yada satiosan malzemesini hakki kadar koy. Bu ne ya cimbizla koymus gibi malzeme mi olur.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Tşk.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok hızlı geldi getiren arkadaş samimi ve güzel yüzlüydü elinize sağlık teşekkür ederim.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişim tam zamanında geldi ve okadar sıcaktı ki soğuması için bekledim şimdiye kadar yediğim en güzel pizzaydı. Getiren kurye hayrullah bey güler yüzlü ve çok mütavazidi emeği geçen herkese teşekkür ederim. Ayrıca yorumlara baktım kötü yorum yapanlar biraz emeğe saygı gösterin lütfen emeğe saygı.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok güzeldi. Ellerinize sağlık sevilyorsunuz.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İlk defa sipariş verdim gayet hızlı ve lezzetliydi memnun kaldım tavsiye ederim.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Uzun süredir sipariş vermemiştim kalite baya artmış böyle devam..",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyidir de peynir akiskan degilll akiskan olmali hiz iyi.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Son aylarda çok iyi pizzalar geliyo eskiye göre çok iyi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İlk defa bu pizza pizzada sıcak güzel bi pizza yedim muazzamdı.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sipariş hızlı geldi ancak pizzalar soğuk ve lezzeti kötüydü.",
+            "Date": "2018-04-25",
+            "Flavour": "3",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lezzet mukemmel hız super fiyat ta diger firmalara bakarak en uygunu tskler pizza pizza ailesi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "On numara.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her sey cok guzeldi elinize kolunaza saglik.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hiz, lezzet, ilgi 10 numara.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "En hızlı değil ama kesinlikle en sıcak. Lezzet daha iyi olabilir. Közlenmiş patlıcan yazıp, kizartma patlıcani pizzanin üstüne koyuyorsunuz ona da dikkat.",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Arka sokagina bile yarim saate geldi. Asil sasirdigim sey ise tam 29 dakika olduktan sonra yemek sepeti anasayfadaki siparis verildiginden sonraki sure sayaci durdu yani bize geldiginde aslinda 32 dk olmustu ama 29 dan sonra 29 olarak kaldi. Bu da magazaya ve ysne karsi bir guvensizlik yaratti.",
+            "Date": "2018-03-26",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Süper.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkür ederim 25 dakikada geldi. Servis personeli gayet kibardi ve gelince beni aradı.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hayatımda yediğim en kötü pizzaydi. İlk defa midem yerine çöpe attım.",
+            "Date": "2018-03-26",
+            "Flavour": "3",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hizli ve lezzetliydi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Klasik hamur istedik, ince hamur gönderdiler galiba hamur tasarrufu yapıyorlar.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "On numara sıcacık geldi çabucak geldi :d çıtır çıtır patatesleriyle eywallah canlar.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Seviyoruz kendilerini.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Siparişlerim vaktinde geldi ve sıcak sıcak geldi :).",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "10 numara.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizza kutusu ezik buzuk geldi kurye pizza saglam dedi inandik actik baktik yarisi kapakta kalmış.",
+            "Date": "2018-03-26",
+            "Flavour": "4",
+            "Serving": "3",
+            "Speed": "6"
+        },
+        {
+            "Comment": "10 kere söyledim buradan ilk defa çok güzeldi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Guzel ama peynirleri uzamiyor uzaya uzaya yemek icin alıyoruz pizzayi peynirler akiskan olsun lutfen.",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "55 dk gelen bir pizza siparişi kapıdan geri çevirdim rezalet felaket bir durum 1 altında bir puan olsa emin olun onuda verirdim.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Yarım saat kuralı geçildiği halde pizzanın ücretsiz verilmemesi hakkında bahaneler söylendi. İlgili motokurye başında olanlar için aynısını söylemek zor.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Servis hızlı, tat vasatın az üstü fiyat gayet ucuz. Sadece 4 adet ufacık tavuk kroket hem çok lezzetsiz hem de komik derecede ufakttı.",
+            "Date": "2018-03-26",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Pizzanız lezzetli değil hamurda veya başka bi üründe değişik bi koku var üzgünüm beğenmedim bidaha sipariş vermem.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Mükemmel bir lezzet, harika servis.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Malzemeler inanılmaz kalitesiz.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "5 malzemeli pizza 3 malzemeli geldi çok güzel hizmet teşekkürler :).",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "2",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Nota dikkat ederek istediğim gibi getirdiler.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Burak abi siparisimizi her zamanki cok hızlı bi sekilde sıcacık getirdi tesekkür ederiz.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika hızlı servis.",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Sıcak ve hızlı geldi iyiydi..",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Baya hızlılar. Fiyatına göre tadı çok iyi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişlerim yarım saat içinde geliyor, pizza hamurunuzun tadı gerçekten çok hoş. Ellerinize sağlık.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tam bir rezalet klasik hamur seçimimde lahmacun hamuru gelmiş domates istemiyorum dedim domates koyulmuş pizza pişmemiş siparişim pizzanın pişme zamanını çıkartırsak 10 15 dakikada gelinebilicek yere 1 saatte geldi.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Beni aşırı rahatsız etti. Midesi hassas biriyseniz tavsiye etmiyorum. Resmen pizzadan soğudum.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Malzemesi gerçekten bol, ikinci siparişimiz oldu yine hızlı ve sıcacık geldi. Yine düşünmeden sipariş verebileceğimiz bir pizza adresi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Abdullah abi cok güleryüzlü ve iyi biriydi. Pizzalarımızı oldukca hızlı getirdi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mükemmel. El yakan sıcak bir sipariş geldi. Çok memnun kaldık. Teşekkür ederim. Başarılar dilerim.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Burak abi sagolsun cok hızlı bir sekilde getirdigi icin pizzamızı sıcak sıcak yedik. Kendisi ayrıca cok da güleryüzlü birisi.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız çok iyi, servis yapan arkadaş çok nazik ve işini seviyor fakat pizza notta belirtmeme rağmen ince gönderildi. Ben hamur tipini klasik veya normal artık neyse onu seçerek yapıyorum ve nota da lütfen dikkat edin yazıyorum ama gelen pizza değil sanki lahmacun.. Böyle olmaz..",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok ilgilendiler teşekkür ederim.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Uzak durun.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Yanlış kola gönderimi gene (2 oldu).",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Pizzalarda yazan ürünlerin hepsi yoktu, et ürünlerinde eksik malzeme vardı ve zeytin-mantar vs doldurulmuş, sebzeli pizza gibi olmuş. Beğenmedim açıkçası.",
+            "Date": "2018-02-24",
+            "Flavour": "4",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Hiç lezzetli bulmadım kesinlikle tavsiye etmiyorum.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Yani bi iyi yapıyolar bi kötü yapıyolar anlamadım, arada soğuk geliyo bi de hamur ekmek hamuru gibi oluyo ama lezzetli de oluyo bazen, burası şansa yani.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Hersey mukemmel ellerinize saglik.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizza hamurunuz daha kaliteli malzemeleri hakediyor.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Restoran evime çok yakın olduğu halde sipariş 45 dk. Da geldi. Yemek soğuktu.",
+            "Date": "2018-02-24",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Pizzalarınız çok kuru.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Super pizza super hız elinize emeginize saglık.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet hizliydi.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişimiz resmen dumanı üstünde geldi çok lezzetliydi malzemesi gerçekten boldu :) teşekkürler ellerinize sağlık.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Karnımız doydu saolun :).",
+            "Date": "2018-02-24",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Ucuz kampanya yapmak için son derece kalitesiz malzemeden yapılmış pizzalar. 3. Dilimi zor yedim.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "6",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Forza pizza pizza.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "45 dakikayı geçti bir siparişi getirmek üstelik defalarca aradılar adresi bulamadılar navigasyon kullanımı yok. İlk defa sipariş verdim lezzet olarak da beklentimin altındaydı bir daha sipariş verirmiyim hiç sanmıyorum.",
+            "Date": "2018-02-24",
+            "Flavour": "4",
+            "Serving": "6",
+            "Speed": "3"
+        },
+        {
+            "Comment": "4 peynirli pizzama ek zeytin istedim banagelen pizzada sadece peynir vardi ve yemek sepetiyle iletisime gectim bana pizzayi degistiremeyeceklerini onun yerine bir sonra ki siparişte tatli ikrami olacaklari soylediler ben bunun yerine pizzami istedim ve kabul ettiler ama pızza elıme ulaşmadı asla.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "0 yoktu kusura bakmayın şuan a kadar getirdiginiz en ilgisiz ve isteksizce yaptığınız pizzydi.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Fiyasko kesinlikle daha solemicem.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Söze gerek yok.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hem cok hizli geldi hem de bildigimiz bircok pizza zincirinin pizzalarindan daha lezzetliydi.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Sıcak ve zamanında teslim peyniri azdı ama pizzanın.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "On numara iki yildiz.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Hızı 30 dakikayı geçtipizzada malzemeler eksiktitekrar pizza gönderdiklerinde yine eksiktibeğenmedim.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "2",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Gerek lezzet olsun gerek hız gerek sıcak servis hersey mukemmel tek kelime harika hayırlı isler bol kazanclar.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Akdeniz akşamları bir başka oluyor :d euwuwueuw.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişi vermek için gelen adama biraz para üstü verin para üstü yok diye 4tl fazladan aldı...",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "2 adet pizza soylemistir pizzalardan birinde sucuklari ve sosisleri koymayi unutmuslar sadece sebzeli pizza geldi ve 1 saate yakin bi surede geldi.",
+            "Date": "2018-02-24",
+            "Flavour": "2",
+            "Serving": "6",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Bekledigim lezzet degildi hiz ve servis iyiydi.",
+            "Date": "2018-02-24",
+            "Flavour": "5",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Pizza daha iyi pişmiş olsa güzel olacak birde peçete ve ıslak mendil koyulmaması eksiklik.",
+            "Date": "2018-02-24",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "7"
+        },
+        {
+            "Comment": "En iyi pizzacı.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Kuruydu mozerella nerede ise hiç yok gibiydi tekraını düşün müyorum.",
+            "Date": "2018-02-24",
+            "Flavour": "3",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Eksik içeceği getirmediler!",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Param boşa gitti. Geçmiş olsun efendim.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Daha sicak olabilirdi ama pizzanin lezzeti guzel.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Seçeceğiniz 2 Adet Orta Boy Klasik Pizza (Ton Balıklı, Mexico, Mezzaluna, 5 Malzemeli, Süper, Deluxe pizzalarda geçerlidir.)",
+            "ItemName": "Süper İkili Menü",
+            "ItemPrice": "29,98 TL"
+        },
+        {
+            "ItemInfo": "Mezzaluna, Deluxe, Süper, Mexico, 5 Malzemeli, Ton Balıklı pizzalarda geçerlidir.",
+            "ItemName": "Klasik Pizza (Büyük)",
+            "ItemPrice": "20,99 TL"
+        },
+        {
+            "ItemInfo": "5 Malzemeli-Klasik (Küçük) + Patates Kızartması + Soğan Halkası (4 Adet) + Kutu İçecek",
+            "ItemName": "4x4'lük Menü",
+            "ItemPrice": "21,99 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sufle",
+            "ItemPrice": "8,90 TL"
+        },
+        {
+            "ItemInfo": "Orta Boy Pizza + Litrelik İçecek (Kampanya koşulları için restoranın promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Orta Boy Pizza)",
+            "ItemPrice": "20,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Sucuk, Siyah Zeytin, Mantar, Yeşilbiber, Mısır",
+            "ItemName": "3 Adet Süper-Klasik (Orta) + Litrelik İçecek",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Taraftar-Kıyak (Büyük) + Soğan Halkası (4 Adet) + Coca-Cola (1 L.)",
+            "ItemName": "Seçilmiş Menü (Taraftar-Kıyak Büyük)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "BolBol Pizza-Kallavi (Küçük) + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (BolBol Pizza-Kallavi Küçük)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Süper-Klasik (Orta) + Çıtır Kovası + Coca-Cola (1 L.)",
+            "ItemName": "Seçilmiş Menü (2 Süper-Klasik Orta)",
+            "ItemPrice": "48,00 TL"
+        },
+        {
+            "ItemInfo": "Orta Boy Pizza + Litrelik İçecek (Kampanya koşulları için restoranın promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Orta Boy Pizza)",
+            "ItemPrice": "26,80 TL"
+        },
+        {
+            "ItemInfo": "Gino-Kıyak (Küçük) + Kutu İçecek",
+            "ItemName": "Eko Menü 1",
+            "ItemPrice": "15,99 TL"
+        },
+        {
+            "ItemInfo": "Fiesta-Kıyak (Küçük) + Sütaş Ayran (30 cl.)",
+            "ItemName": "Eko Menü 2",
+            "ItemPrice": "15,99 TL"
+        },
+        {
+            "ItemInfo": "İnce Hamur Fiesta-Kıyak (Küçük) + İnce Hamur Vegetarian-Kıyak (Küçük)",
+            "ItemName": "Fit Menü",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Mezzaluna, Deluxe, Süper, Mexico, 5 Malzemeli, Ton Balıklı pizzalarda geçerlidir.",
+            "ItemName": "Klasik Pizza (Büyük)",
+            "ItemPrice": "20,99 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz 2 Adet Orta Boy Klasik Pizza (Ton Balıklı, Mexico, Mezzaluna, 5 Malzemeli, Süper, Deluxe pizzalarda geçerlidir.)",
+            "ItemName": "Süper İkili Menü",
+            "ItemPrice": "29,98 TL"
+        },
+        {
+            "ItemInfo": "5 Malzemeli-Klasik (Küçük) + Patates Kızartması + Soğan Halkası (4 Adet) + Kutu İçecek",
+            "ItemName": "4x4'lük Menü",
+            "ItemPrice": "21,99 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz Orta Boy Gurme Pizza + Seçeceğiniz Orta Boy Kallavi Pizza + Patates Kızartması + Soğan Halkası (4 Adet) + Nuggets (4 Adet) + Litrelik İçecek",
+            "ItemName": "Dev Menü",
+            "ItemPrice": "54,99 TL"
+        },
+        {
+            "ItemInfo": "3 Adet Taraftar-Kıyak (Orta) + Patates Kovası + Litrelik İçecek",
+            "ItemName": "Taraftar Menü",
+            "ItemPrice": "54,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Sucuk, Siyah Zeytin, Mantar, Yeşilbiber, Mısır",
+            "ItemName": "3 Adet Süper-Klasik (Orta) + Litrelik İçecek",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Klasik pizza seçimlerinizde 1 TL, Kallavi pizza seçimlerinizde 3 TL, Gurme pizza seçimlerinizde 5 TL fark eklenir.",
+            "ItemName": "Tek Büyük Boy Pizza",
+            "ItemPrice": "28,90 TL"
+        },
+        {
+            "ItemInfo": "Klasik pizza seçimlerinizde 1 TL, Kallavi pizza seçimlerinizde 3 TL, Gurme pizza seçimlerinizde 4 TL fark eklenir.",
+            "ItemName": "Tek Orta Boy Pizza",
+            "ItemPrice": "21,90 TL"
+        },
+        {
+            "ItemInfo": "Klasik pizza seçimlerinizde 1 TL, Kallavi pizza seçimlerinizde 2 TL, Gurme pizza seçimlerinizde 3 TL fark eklenir.",
+            "ItemName": "Tek Küçük Boy Pizza",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Parça Pizza + Patates Kızartması + Chicken Fingers (2 Adet) + Nuggets (4 Adet) + Soğan Halkası (4 Adet) + Kutu İçecek",
+            "ItemName": "Şampiyon Menü",
+            "ItemPrice": "27,90 TL"
+        },
+        {
+            "ItemInfo": "Parça Pizza + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Combo Menü",
+            "ItemPrice": "16,90 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Hamburger Menü",
+            "ItemPrice": "20,90 TL"
+        },
+        {
+            "ItemInfo": "Çıtır Burger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Çıtır Burger Menü",
+            "ItemPrice": "16,90 TL"
+        },
+        {
+            "ItemInfo": "Parça Pizza + Chicken Fingers (3 Adet) + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Özel Menü",
+            "ItemPrice": "24,90 TL"
+        },
+        {
+            "ItemInfo": "Parça Pizza + Chicken Fingers (4 Adet) + Kutu İçecek",
+            "ItemName": "Dıp Dıp Menü",
+            "ItemPrice": "21,90 TL"
+        },
+        {
+            "ItemInfo": "Chicken Fingers (6 Adet) + Patates Kızartması + Sarımsaklı Ekmek (1 Dilim) + Kutu İçecek",
+            "ItemName": "Chicken Fingers Menü",
+            "ItemPrice": "26,90 TL"
+        },
+        {
+            "ItemInfo": "Küçük Boy Pizza (Pizza sosu, mozzarella peyniri, şerit sosis, dilim sucuk, siyah zeytin, mısır) + Patates Kızartması + Ayran (20 cl.) + Oyuncak",
+            "ItemName": "Kids Pizza Menü",
+            "ItemPrice": "16,90 TL"
+        },
+        {
+            "ItemInfo": "Chicken Fingers (3 Adet) + Patates Kızartması + Ayran (20 cl.) + Oyuncak",
+            "ItemName": "Kids Fingers Menü",
+            "ItemPrice": "16,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Siyah Zeytin, Brokoli, Fırınlanmış Patlıcan, Közlenmiş Kırmızıbiber, Mantar",
+            "ItemName": "Vegetarian-Kıyak (Küçük)",
+            "ItemPrice": "32,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Siyah Zeytin, Dilim Salam, Mısır, Domates",
+            "ItemName": "Taraftar-Kıyak (Küçük)",
+            "ItemPrice": "32,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Dilim Sucuk",
+            "ItemName": "Marios-Kıyak (Küçük)",
+            "ItemPrice": "32,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Dilim Domates",
+            "ItemName": "Margarita-Kıyak (Küçük)",
+            "ItemPrice": "32,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Dilim Sucuk",
+            "ItemName": "Gino-Kıyak (Küçük)",
+            "ItemPrice": "32,90 TL"
+        },
+        {
+            "ItemInfo": "Slimfit Hamur, Pizza Sosu, Beyaz Peynir, Kekik, Küp Domates, Mozzarella Peyniri, Parmesan Peyniri, Siyah Zeytin",
+            "ItemName": "Fiesta-Kıyak (Küçük)",
+            "ItemPrice": "32,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Mısır, Soğan, Ton Balığı",
+            "ItemName": "Ton Balıklı-Klasik (Küçük)",
+            "ItemPrice": "34,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Mısır, Dilim Sucuk, Yeşilbiber, Siyah Zeytin",
+            "ItemName": "Süper-Klasik (Küçük)",
+            "ItemPrice": "34,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Dilim Salam, Dilim Sosis",
+            "ItemName": "Mezzaluna-Klasik (Küçük)",
+            "ItemPrice": "34,90 TL"
+        },
+        {
+            "ItemInfo": "Barbekü Sosu, Mozzarella Peyniri, Mantar, Mısır, Dilim Sucuk, Dilim Domates, Kekik, Jalapeno Biber",
+            "ItemName": "Mexico-Klasik (Küçük)",
+            "ItemPrice": "34,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Dilim Sucuk, Yeşilbiber, Dilim Sosis, Dilim Salam",
+            "ItemName": "Deluxe-Klasik (Küçük)",
+            "ItemPrice": "34,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Dilim Sosis, Mısır, Dilim Sucuk, Yeşilbiber",
+            "ItemName": "5 Malzemeli-Klasik (Küçük)",
+            "ItemPrice": "34,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Soğan, Pul Biber, Misket Köfte, Fırınlanmış Patlıcan, Dilim Domates",
+            "ItemName": "Anadolu Ateşi-Kallavi (Küçük)",
+            "ItemPrice": "35,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Mısır, Soğan, Mantar, Dilim Sucuk, Siyah Zeytin, Közlenmiş Kırmızıbiber, Küp Sucuk, Susam, Şerit Sosis",
+            "ItemName": "BolBol Pizza-Kallavi (Küçük)",
+            "ItemPrice": "35,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Siyah Zeytin, Küp Sucuk, Yeşilbiber, Mısır, Soğan, Dilim Sucuk, Dilim Sosis, Dilim Domates",
+            "ItemName": "Extra Extra-Kallavi (Küçük)",
+            "ItemPrice": "35,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Siyah Zeytin, Mısır, Mantar, Közlenmiş Kırmızıbiber, Dilim Sucuk, Dilim Salam",
+            "ItemName": "Ortaya Karışık-Kallavi (Küçük)",
+            "ItemPrice": "35,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Siyah Zeytin, Közlenmiş Kırmızıbiber, Küp Sucuk, Kekik",
+            "ItemName": "Sucukçu-Kallavi (Küçük)",
+            "ItemPrice": "35,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu veya Barbekü Sos, Siyah Zeytin, Mısır, Közlenmiş Kırmızıbiber, Tavuk Parçaları, Jalapeno Biber",
+            "ItemName": "Tavuklu-Kallavi (Küçük)",
+            "ItemPrice": "35,90 TL"
+        },
+        {
+            "ItemInfo": "Barbekü Sos, Mozzarella Peyniri, Mantar, Soğan, Barbekü Sos, Fırınlanmış Patlıcan, Susam, Kekik, Füme Kaburga",
+            "ItemName": "Füme Kaburgalı-Gurme (Küçük)",
+            "ItemPrice": "36,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Mantar, Soğan, Kavurma",
+            "ItemName": "Kavurmalı-Gurme (Küçük)",
+            "ItemPrice": "36,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Mantar, Dilim Domates, Pastırma",
+            "ItemName": "Pastırmalı-Gurme (Küçük)",
+            "ItemPrice": "36,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Cheddar Peyniri, Beyaz Peynir, Parmesan Peyniri, Kekik",
+            "ItemName": "4 Peynirli-Gurme (Küçük)",
+            "ItemPrice": "36,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mısır, Tavuk Parçaları, Cheddar Peyniri, Brokoli",
+            "ItemName": "Tavuklu Brokolili-Gurme (Küçük)",
+            "ItemPrice": "36,90 TL"
+        },
+        {
+            "ItemInfo": "Slimfit Hamur, Pizza Sosu, Beyaz Peynir, Kekik, Küp Domates, Mozzarella Peyniri, Parmesan Peyniri, Siyah Zeytin",
+            "ItemName": "Fiesta-Kıyak (Orta)",
+            "ItemPrice": "37,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Dilim Sucuk",
+            "ItemName": "Marios-Kıyak (Orta)",
+            "ItemPrice": "37,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Siyah Zeytin, Brokoli, Fırınlanmış Patlıcan, Közlenmiş Kırmızıbiber, Mantar",
+            "ItemName": "Vegetarian-Kıyak (Orta)",
+            "ItemPrice": "37,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Dilim Domates",
+            "ItemName": "Margarita-Kıyak (Orta)",
+            "ItemPrice": "37,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Siyah Zeytin, Dilim Salam, Mısır, Domates",
+            "ItemName": "Taraftar-Kıyak (Orta)",
+            "ItemPrice": "37,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Dilim Sucuk",
+            "ItemName": "Gino-Kıyak (Orta)",
+            "ItemPrice": "37,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Dilim Sucuk, Yeşilbiber, Dilim Sosis, Dilim Salam",
+            "ItemName": "Deluxe-Klasik (Orta)",
+            "ItemPrice": "39,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Dilim Sosis, Mısır, Dilim Sucuk, Yeşilbiber",
+            "ItemName": "5 Malzemeli-Klasik (Orta)",
+            "ItemPrice": "39,90 TL"
+        },
+        {
+            "ItemInfo": "Barbekü Sosu, Mozzarella Peyniri, Mantar, Mısır, Dilim Sucuk, Dilim Domates, Kekik, Jalapeno Biber",
+            "ItemName": "Mexico-Klasik (Orta)",
+            "ItemPrice": "39,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Mısır, Soğan, Ton Balığı",
+            "ItemName": "Ton Balıklı-Klasik (Orta)",
+            "ItemPrice": "39,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Mısır, Dilim Sucuk, Yeşilbiber, Siyah Zeytin",
+            "ItemName": "Süper-Klasik (Orta)",
+            "ItemPrice": "39,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Dilim Salam, Dilim Sosis",
+            "ItemName": "Mezzaluna-Klasik (Orta)",
+            "ItemPrice": "39,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Soğan, Pul Biber, Misket Köfte, Fırınlanmış Patlıcan, Dilim Domates",
+            "ItemName": "Anadolu Ateşi-Kallavi (Orta)",
+            "ItemPrice": "44,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Siyah Zeytin, Mısır, Mantar, Közlenmiş Kırmızıbiber, Dilim Sucuk, Dilim Salam",
+            "ItemName": "Ortaya Karışık-Kallavi (Orta)",
+            "ItemPrice": "44,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Siyah Zeytin, Közlenmiş Kırmızıbiber, Küp Sucuk, Kekik",
+            "ItemName": "Sucukçu-Kallavi (Orta)",
+            "ItemPrice": "44,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Mısır, Soğan, Mantar, Dilim Sucuk, Siyah Zeytin, Közlenmiş Kırmızıbiber, Küp Sucuk, Susam, Şerit Sosis",
+            "ItemName": "BolBol Pizza-Kallavi (Orta)",
+            "ItemPrice": "44,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Siyah Zeytin, Küp Sucuk, Yeşilbiber, Mısır, Soğan, Dilim Sucuk, Dilim Sosis, Dilim Domates",
+            "ItemName": "Extra Extra-Kallavi (Orta)",
+            "ItemPrice": "44,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu veya Barbekü Sos, Siyah Zeytin, Mısır, Közlenmiş Kırmızıbiber, Tavuk Parçaları, Jalapeno Biber",
+            "ItemName": "Tavuklu-Kallavi (Orta)",
+            "ItemPrice": "44,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Mantar, Dilim Domates, Pastırma",
+            "ItemName": "Pastırmalı-Gurme (Orta)",
+            "ItemPrice": "46,90 TL"
+        },
+        {
+            "ItemInfo": "Slimfit Hamur, Pizza Sosu, Mozzarella Peyniri, Mısır, Tavuk Parçaları, Cheddar Peyniri, Brokoli",
+            "ItemName": "Tavuklu Brokolili-Gurme (Orta)",
+            "ItemPrice": "46,90 TL"
+        },
+        {
+            "ItemInfo": "Slimfit Hamur, Barbekü Sos, Mozzarella Peyniri, Mantar, Soğan, Barbekü Sos, Fırınlanmış Patlıcan, Susam, Kekik, Füme Kaburga",
+            "ItemName": "Füme Kaburgalı-Gurme (Orta)",
+            "ItemPrice": "46,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Mantar, Soğan, Kavurma",
+            "ItemName": "Kavurmalı-Gurme (Orta)",
+            "ItemPrice": "46,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Cheddar Peyniri, Beyaz Peynir, Parmesan Peyniri, Kekik",
+            "ItemName": "4 Peynirli-Gurme (Orta)",
+            "ItemPrice": "46,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Siyah Zeytin, Brokoli, Fırınlanmış Patlıcan, Közlenmiş Kırmızıbiber, Mantar",
+            "ItemName": "Vegetarian-Kıyak (Büyük)",
+            "ItemPrice": "50,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Dilim Sucuk",
+            "ItemName": "Marios-Kıyak (Büyük)",
+            "ItemPrice": "50,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Siyah Zeytin, Dilim Salam, Mısır, Domates",
+            "ItemName": "Taraftar-Kıyak (Büyük)",
+            "ItemPrice": "50,90 TL"
+        },
+        {
+            "ItemInfo": "Slimfit Hamur, Pizza Sosu, Beyaz Peynir, Kekik, Küp Domates, Mozzarella Peyniri, Parmesan Peyniri, Siyah Zeytin",
+            "ItemName": "Fiesta-Kıyak (Büyük)",
+            "ItemPrice": "50,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Dilim Domates",
+            "ItemName": "Margarita-Kıyak (Büyük)",
+            "ItemPrice": "50,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Dilim Sucuk",
+            "ItemName": "Gino-Kıyak (Büyük)",
+            "ItemPrice": "50,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Dilim Sosis, Mısır, Dilim Sucuk, Yeşilbiber",
+            "ItemName": "5 Malzemeli-Klasik (Büyük)",
+            "ItemPrice": "52,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Dilim Sucuk, Yeşilbiber, Dilim Sosis, Dilim Salam",
+            "ItemName": "Deluxe-Klasik (Büyük)",
+            "ItemPrice": "52,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Mısır, Soğan, Ton Balığı",
+            "ItemName": "Ton Balıklı-Klasik (Büyük)",
+            "ItemPrice": "52,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Mısır, Dilim Sucuk, Yeşilbiber, Siyah Zeytin",
+            "ItemName": "Süper-Klasik (Büyük)",
+            "ItemPrice": "52,90 TL"
+        },
+        {
+            "ItemInfo": "Barbekü Sosu, Mozzarella Peyniri, Mantar, Mısır, Dilim Sucuk, Dilim Domates, Kekik, Jalapeno Biber",
+            "ItemName": "Mexico-Klasik (Büyük)",
+            "ItemPrice": "52,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Dilim Salam, Dilim Sosis",
+            "ItemName": "Mezzaluna-Klasik (Büyük)",
+            "ItemPrice": "52,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Siyah Zeytin, Küp Sucuk, Yeşilbiber, Mısır, Soğan, Dilim Sucuk, Dilim Sosis, Dilim Domates",
+            "ItemName": "Extra Extra-Kallavi (Büyük)",
+            "ItemPrice": "58,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Mısır, Soğan, Mantar, Dilim Sucuk, Siyah Zeytin, Közlenmiş Kırmızıbiber, Küp Sucuk, Susam, Şerit Sosis",
+            "ItemName": "BolBol Pizza-Kallavi (Büyük)",
+            "ItemPrice": "58,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mantar, Siyah Zeytin, Közlenmiş Kırmızıbiber, Küp Sucuk, Kekik",
+            "ItemName": "Sucukçu-Kallavi (Büyük)",
+            "ItemPrice": "58,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Siyah Zeytin, Mısır, Mantar, Közlenmiş Kırmızıbiber, Dilim Sucuk, Dilim Salam",
+            "ItemName": "Ortaya Karışık-Kallavi (Büyük)",
+            "ItemPrice": "58,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu veya Barbekü Sos, Siyah Zeytin, Mısır, Közlenmiş Kırmızıbiber, Tavuk Parçaları, Jalapeno Biber",
+            "ItemName": "Tavuklu-Kallavi (Büyük)",
+            "ItemPrice": "58,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Soğan, Pul Biber, Misket Köfte, Fırınlanmış Patlıcan, Dilim Domates",
+            "ItemName": "Anadolu Ateşi-Kallavi (Büyük)",
+            "ItemPrice": "58,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Mantar, Dilim Domates, Pastırma",
+            "ItemName": "Pastırmalı-Gurme (Büyük)",
+            "ItemPrice": "63,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Mısır, Tavuk Parçaları, Cheddar Peyniri, Brokoli",
+            "ItemName": "Tavuklu Brokolili-Gurme (Büyük)",
+            "ItemPrice": "63,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Yeşilbiber, Mantar, Soğan, Kavurma",
+            "ItemName": "Kavurmalı-Gurme (Büyük)",
+            "ItemPrice": "63,90 TL"
+        },
+        {
+            "ItemInfo": "Barbekü Sos, Mozzarella Peyniri, Mantar, Soğan, Barbekü Sos, Fırınlanmış Patlıcan, Susam, Kekik, Füme Kaburga",
+            "ItemName": "Füme Kaburgalı-Gurme (Büyük)",
+            "ItemPrice": "63,90 TL"
+        },
+        {
+            "ItemInfo": "Pizza Sosu, Mozzarella Peyniri, Cheddar Peyniri, Beyaz Peynir, Parmesan Peyniri, Kekik",
+            "ItemName": "4 Peynirli-Gurme (Büyük)",
+            "ItemPrice": "63,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hamburger",
+            "ItemPrice": "15,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çıtır Burger",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, sosis, mantar",
+            "ItemName": "Parça Pizza",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "4 Adet Hot Chicks, 2 Adet Chicken Fingers, 4 Adet Soğan Halkası, Patates Kızartması",
+            "ItemName": "Çıtır Kovası",
+            "ItemPrice": "16,99 TL"
+        },
+        {
+            "ItemInfo": "3 porsiyon parmak dilim patates kızartması",
+            "ItemName": "Patates Kovası",
+            "ItemPrice": "11,99 TL"
+        },
+        {
+            "ItemInfo": "Sarımsak sos, mozzarella peyniri",
+            "ItemName": "Sarımsaklı Ekmek (1 Dilim)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hot Chicks (4 Adet)",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Nugget (4 Adet)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soğan Halkası (4 Adet)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Chicken Fingers (4 Adet)",
+            "ItemPrice": "10,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fırında Tavuk Kanat (4 Adet)",
+            "ItemPrice": "10,90 TL"
+        },
+        {
+            "ItemInfo": "Patates baharatı ile",
+            "ItemName": "Parmak Dilim Patates Kızartması (Orta)",
+            "ItemPrice": "5,90 TL"
+        },
+        {
+            "ItemInfo": "Patates baharatı ile",
+            "ItemName": "Elma Dilim Patates Kızartması (Orta)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sufle",
+            "ItemPrice": "8,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy Karışık (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy Kayısı (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy Şeftali (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy Vişne (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy Portakal (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea Limon (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea Şeftali (33 cl.)",
+            "ItemPrice": "3,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütaş Ayran (30 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "4,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (1 L.)",
+            "ItemPrice": "4,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (1 L.)",
+            "ItemPrice": "4,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "4,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (1 L.)",
+            "ItemPrice": "4,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (1 L.)",
+            "ItemPrice": "4,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ketçap",
+            "ItemPrice": "0,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mayonez",
+            "ItemPrice": "0,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Acı Sos",
+            "ItemPrice": "1,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Barbekü (BBQ) Sos",
+            "ItemPrice": "1,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sarımsaklı Sos",
+            "ItemPrice": "1,25 TL"
+        }
+    ]
+}

@@ -1,0 +1,438 @@
+{
+    "comment": [
+        {
+            "Comment": "Eskiden patatesi daha fazla getirirlerdi. Tabi fiyatı arttıysa ondandır ama yazayım dedim.",
+            "Date": "2018-07-04",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "En son 7 yıl önce g3 yemiştim, şimdi yine aynı lezzeti yakalar mıyım diye tekrar sipariş ettim ama maalesef... Üzdün beni altın kafe, bir efsane bitmiş resmen...",
+            "Date": "2018-07-04",
+            "Flavour": "3",
+            "Serving": "3",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Tavsiye ederim...",
+            "Date": "2018-06-28",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hiç fena değil.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Siparişleri ciddiyetle okumuyorlar. Köfte siparşi verdim adam bana köfte ekmek getirdi. Telefonla aradım düzeltilmesini söyledim getirdiğimiz ürünü geri alamayık! Dedi yeni sipariş verdim yine aynısını getirdi bide parasını istedi. Boşa sipariş verip canınızı sıkmayın. Gidin adam gbi yerden alın.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Hayatımda yediğim en kötü kumruydu. Sandviç ekmeği mayonez içinde yüzüyordu... Mayonez, ekmek ve löp doğranmış sosis yedim... Paketlemede tam bir facia patatesleri köpük tabağa, kumruyuda onun içine koymuşlar. Herşey birbirine bulaşmıştı. Bir daha sipariş vermeyi düşünmüyorum kesinlikle.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Süper.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Patates ile ana yemek beraber karton kutunun icinde geldğinden dolayı içinde oluşan sıcaklıkla beraber patatesler nemli olarak geliyor. Tadı kalmıyor.",
+            "Date": "2018-04-25",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Servis fena değil fakat biraz daha sos lazım.",
+            "Date": "2018-04-25",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Her zamanki altın kalitesi.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İyisiniz.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "G3 Double (Kaşarlı Chicken Burger) + Patates Kızartması + İçecek",
+            "ItemName": "G3 Double Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşarlı chicken burger, domates, marul, nane, ketçap, mayonez ile",
+            "ItemName": "G3 Double",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Kumru (Sucuk, Salam, Sosis, Kaşar Peyniri, Domates, Turşu, Ketçap, Mayonez) + Patates Kızartması + İçecek",
+            "ItemName": "Kumru Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner Dürüm + Patates Kızartması + İçecek",
+            "ItemName": "Tavuk Döner Dürüm Menü",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Patates Kızartması + İçecek",
+            "ItemName": "Hamburger Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuklu Salata (Tavuk Parçaları, Domates, Salatalık, Marul, Nane, Kaşar Peyniri) + İçecek",
+            "ItemName": "Tavuklu Salata Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Tost + Patates Kızartması + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Karışık Tost)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "G3 Double (Kaşarlı Chicken Burger) + Patates Kızartması + İçecek",
+            "ItemName": "G3 Double Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Altın Cheeseburger + Patates Kızartması + İçecek",
+            "ItemName": "Altın Cheeseburger Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Altın Burger (Hamburger Köftesi) + Patates Kızartması + İçecek",
+            "ItemName": "Altın Burger Menü",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Burger + Patates Kızartması + İçecek",
+            "ItemName": "Tavuk Burger Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Patates Kızartması + İçecek",
+            "ItemName": "Hamburger Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Sosis Burger + Patates Kızartması + İçecek",
+            "ItemName": "Sosis Burger Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kumru (Sucuk, Salam, Sosis, Kaşar Peyniri, Domates, Turşu, Ketçap, Mayonez) + Patates Kızartması + İçecek",
+            "ItemName": "Kumru Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Altın Izgara Köfte + İçecek",
+            "ItemName": "Altın Izgara Köfte Menü",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara Tavuk + Patates Kızartması + Salata + İçecek",
+            "ItemName": "Izgara Tavuk Menü",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuklu Salata (Tavuk Parçaları, Domates, Salatalık, Marul, Nane, Kaşar Peyniri) + İçecek",
+            "ItemName": "Tavuklu Salata Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Ton Balıklı Salata (Ton Balığı, Domates, Salatalık, Marul, Nane, Kaşar Peyniri) + İçecek",
+            "ItemName": "Ton Balıklı Salata Menü",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara Sucuk Sandviç + Patates Kızartması + İçecek",
+            "ItemName": "Izgara Sucuk Sandviç Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner Dürüm + Patates Kızartması + İçecek",
+            "ItemName": "Tavuk Döner Dürüm Menü",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara Köfte + Patates Kızartması + Salata + İçecek",
+            "ItemName": "Izgara Köfte Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Tabakta G3 (Tavuk Eti) + Patates Kızartması + Salata + İçecek",
+            "ItemName": "Tabakta G3 Menü",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Izgara + Patates Kızartması + Salata + İçecek",
+            "ItemName": "Karışık Izgara Menü",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Çöp Şiş + Patates Kızartması + Salata + İçecek",
+            "ItemName": "Tavuk Çöp Şiş Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner + Patates Kızartması + Salata + İçecek",
+            "ItemName": "Tavuk Döner Menü",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Schnitzel + Patates Kızartması + Salata + İçecek",
+            "ItemName": "Schnitzel Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Piliç Pane + Patates Kızartması + Salata + İçecek",
+            "ItemName": "Piliç Pane Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Nugget + Patates Kızartması + Salata + İçecek",
+            "ItemName": "Nugget Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Döner Dürüm + Patates Kızartması + Pepsi (1,5 L.)",
+            "ItemName": "4'lü Döner Dürüm Menü",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "4 Adet G3 + Patates Kızartması + Pepsi (1,5 L.)",
+            "ItemName": "4'lü G3 Menü",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salam, sosis, salatalık, marul, nane, kaşar peyniri",
+            "ItemName": "Soğuk Sandviç",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, salam, sosis, kaşar peyniri, domates, turşu, ketçap, mayonez",
+            "ItemName": "Kumru Sandviç",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, marul, nane ile",
+            "ItemName": "Izgara Sucuk Sandviç",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, marul, nane ile",
+            "ItemName": "Tavuk Döner Dürüm",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşarlı chicken burger, domates, marul, nane, ketçap, mayonez ile",
+            "ItemName": "G3 Double",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, marul, nane ketçap, mayonez ile",
+            "ItemName": "Altın Cheeseburger",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger köftesi, domates, marul, nane ketçap, mayonez ile",
+            "ItemName": "Altın Burger",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, marul, nane ketçap, mayonez ile",
+            "ItemName": "Tavuk Burger",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, marul, nane ketçap, mayonez ile",
+            "ItemName": "Hamburger",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, marul, nane ketçap, mayonez ile",
+            "ItemName": "Sosis Burger",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Altın Izgara Köfte Burger",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, marul, nane ile",
+            "ItemName": "Izgara Tavuk",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, marul, nane ile",
+            "ItemName": "Izgara Köfte",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk parçaları, domates, marul, biber, nane ile",
+            "ItemName": "Tabakta G3",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara köfte, nugget, soğan halkaları, patates kızarması, közlenmiş domates, biber, nane ile",
+            "ItemName": "Karışık Izgara",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, marul, nane ile",
+            "ItemName": "Tavuk Çöp Şiş",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, marul, nane ile",
+            "ItemName": "Tavuk Döner",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, marul, nane ile",
+            "ItemName": "Schnitzel",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, marul, nane ile",
+            "ItemName": "Piliç Pane",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, marul, nane ile",
+            "ItemName": "Nugget",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Parmak Patates Kızartması",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates Kızartması",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "8 adet",
+            "ItemName": "Soğan Halkası",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fruko (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütaş Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        }
+    ]
+}

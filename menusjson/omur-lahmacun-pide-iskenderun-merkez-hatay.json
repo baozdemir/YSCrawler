@@ -1,0 +1,627 @@
+{
+    "comment": [
+        {
+            "Comment": "Aslında pide çok güzeldi ama yanında gelen salata kötüydü salatayı yemedik. Ama pidesi lezzetli.",
+            "Date": "2018-07-16",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Böyle bir lezzet hızlı servis görmedim daha işinizin hakkını veriyorsunuz elinize sağlık.",
+            "Date": "2018-07-07",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ben sizin lokantada da yedim çok güzeldi lakin dün getirdiğüniz pide kokuyodu ve yarısını zorşa yedim gerçekten bir sıkıntı vardı pidede güzel yaptığınızı biliyorum.",
+            "Date": "2018-07-06",
+            "Flavour": "1",
+            "Serving": "6",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-07-02",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Teşekkürler. Mantarlar aşırı boldu biraz azaltılabilir.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hayatımda yediğim en kötü pide. Kaşarlı kuşbaşı bide istedim içinde sucuk zeytin ne ararsan vardı.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Berbattı kuşbaşı istedim kiyma gönderdiler.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Muhteşem.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok kötü..",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Harika.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lahmacunlarda hiç et tadı yok. Aşırı sarımsak kullanıyosunuz. Islak mendil peçete çatal falanda yok.",
+            "Date": "2018-04-25",
+            "Flavour": "2",
+            "Serving": "3",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Tadı güzel fakat doyurucu değil. 35-40 dakika arası bir sürede geldi.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "6",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Fena değil.",
+            "Date": "2018-04-25",
+            "Flavour": "7",
+            "Serving": "6",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Ispanaklı pide istedim ama ıspanak kaşar lor peynirini karıştırmışlardı açıklama kısmında da bu yazmıyordu!",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzell.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Lütfen sipariş seçeneklerine dikkat ve özen gosteriniz. Özellikle mantida.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Cok ağır geldi.",
+            "Date": "2018-02-24",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "4"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Fındık Lahmacun",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "Kıymalı pide harcıyla hazırlanmıştır. Soğansız, sarımsaksız",
+            "ItemName": "Kıymalı Lahmacun",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sarımsaklı Lahmacun",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kıymalı Kaşarlı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimek Çorbası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fındık Lahmacun",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Peymacun",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sarımsaklı Lahmacun",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Kıymalı pide harcıyla hazırlanmıştır. Soğansız, sarımsaksız",
+            "ItemName": "Kıymalı Lahmacun",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlar ile",
+            "ItemName": "Lor Peynirli Pide",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaşılı & Kaşarlı & Mantarlı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaşılı & Kaşarlı & Mantarlı & Yumurtalı Pide",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuvurmalı & Mantarlı Pide",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı & Sebzeli Pide",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pastırmalı & Yumurtalı Pide",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pastırmalı & Mantarlı Pide",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Jambonlu & Yumurtalı Pide",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sosisli & Yumurtalı Pide",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Salamlı & Yumurtalı Pide",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı & Yumurtalı Pide",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Karışık Yumurtalı & Mantarlı & Sucuklu Pide",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kaşarlı & Zeytinli & Mısırlı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kaşarlı Zeytinli Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kuşbaşı, kaşar peyniri, sucuk, mevsim salatası ile",
+            "ItemName": "Karışık Sucuklu Pide",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kaşarlı Mısırlı Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kaşarlı & Mantarlı & Mısırlı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Tavuk Dönerli Pide",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Et Dönerli Pide",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Labne Peynirli Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Beyaz Peynirli Yumurtalı Pide",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Beyaz Peynirli Mısırlı Pide",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Beyaz Peynirli Mantarlı Pide",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Beyaz Peynirli Zeytinli Pide",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kaşarlı Sucuklu Pide",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Beyaz Peynirli & Zeytinli & Mısırlı & Mantarlı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Beyaz Peynirli & Zeytinli & Mısırlı & Mantarlı & Yumurtalı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kaşar Peynirli & Yumurtalı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kaşarlı & Zeytinli & Mısırlı & Mantarlı Pide",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kaşarlı & Zeytinli & Mısırlı & Mantarlı & Yumurtalı Pide",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kaşarlı & Sucuklu & Yumurtalı Pide",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kaşarlı & Sucuklu & Yumurtalı & Mantarlı Pide",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kıymalı Mantarlı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Biber, domates, kaşar peyniri, mısır, zeytin, yumurta. Mevsim salatası ile",
+            "ItemName": "Sebzeli Yumurtalı Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kuşbaşılı Mantarlı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Special Pide",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Ispanaklı Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Beyaz Peynirli Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Patatesli Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kuşbaşılı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kaşarlı Pide",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kıymalı Kaşarlı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kuşbaşılı Kaşarlı Mantarlı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Sucuklu Pide",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kıymalı Kaşarlı Mantarlı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Jambonlu Pide",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Salamlı Pide",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Sosisli Pide",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kuşbaşı, kaşar peyniri ve mevsim salata ile",
+            "ItemName": "Karışık Yumurtalı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Karışık Mantarlı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Sucuklu Kaşarlı Mantarlı Pide",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Pastırmalı Pide",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Yumurtalı Pide",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Kavurma, mantar. Mevsim salata ile",
+            "ItemName": "Kavurmalı Mantarlı Pide",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Kavurma, domates, biber. Mevsim salata ile",
+            "ItemName": "Kavurmalı Sebzeli Pide",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pastırmalı Mantarlı Pide",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Salamlı Yumurtalı Pide",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yumurtalı Mantarlı Sucuklu Pide",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kuşbaşı, kaşar peyniri",
+            "ItemName": "Karışık Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Ton Balıklı Pide",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kavurmalı Kaşarlı Pide",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, mantar, domates, biber",
+            "ItemName": "Sebzeli Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mantı",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Biberli Ekmek",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "Salam, sucuk, sosis, kaşar peyniri, mısır, mantar, zeytin, biber, domates",
+            "ItemName": "Naturel Pizza (Küçük)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Salam, sucuk, sosis, kaşar peyniri, mısır, mantar, zeytin, biber, domates",
+            "ItemName": "Naturel Pizza (Orta)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Salam, sucuk, sosis, kaşar peyniri, mısır, mantar, zeytin, biber, domates",
+            "ItemName": "Naturel Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ton Balıklı Mevsim Salata",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cacık",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurt",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Cam şişe",
+            "ItemName": "Coca-Cola (20 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (2,5 L.)",
+            "ItemPrice": "6,00 TL"
+        }
+    ]
+}

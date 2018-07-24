@@ -1,0 +1,660 @@
+{
+    "comment": [
+        {
+            "Comment": "Kapanmaya 3 dakika kala hem siparişim geldi hem de not ile ilgili ricam geri çevrilmedi. Teşekkürler harikasınız.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Şaka mı bu?",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "",
+            "Speed": ""
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Haşlanmış yumurta, ezine peyniri, kaşar peyniri, mini salata, zeytin, reçel, simit ile",
+            "ItemName": "Akdeniz Kahvaltısı",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "4 adet yumurta beyazı, 1 adet yumurta, keçi peynirli omlet, salatalık, domates, zeytin",
+            "ItemName": "Nedim Bey'in Omleti",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Krema & süt ile çırpılmış mantarlı veya sade yumurta",
+            "ItemName": "Çırpılmış Yumurta",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "Simit ortasında pişmiş iki göz yumurta",
+            "ItemName": "Moc Usulü Simitte Göz Yumurta",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "Arasında kaşar peyniri & sucuk olan simit ortasında pişmiş iki göz yumurta",
+            "ItemName": "Moc Usulü Simitte Sucuklu Göz Yumurta",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Arasında kaşar peyniri & pastırma olan simit ortasında pişmiş iki göz yumurta",
+            "ItemName": "Moc Usulü Simitte Pastırmalı Göz Yumurta",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Arasında avokado, domates & balsamik sirke olan simit ortasında pişmiş iki göz yumurta",
+            "ItemName": "Moc Usulü Simitte Avokadolu Göz Yumurta",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış ekmek üzerinde püre haline getirilmiş avokado, domates, karabiber, balsamik sos ile",
+            "ItemName": "Avokado & Domates",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Tam tahıllı ekmek üzerine somon füme, krem peynir, salatalık, roka, mini salata ile",
+            "ItemName": "Somonlu Ekmek",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Fırında biberiye ile pişirilmiş küp patates, cheddar peyniri, mini salata ile",
+            "ItemName": "Moc Usulü İspanyol Omlet",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış ekmek üzerine vegemite sos, hellim peyniri",
+            "ItemName": "Vegemite Kızarmış Ekmek",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Dana pastırma, göz yumurta, kızarmış domates, kızarmış mantar",
+            "ItemName": "Avustralya Kahvaltısı",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "Krema ile çırpılmış yumurta, mantar",
+            "ItemName": "Mantarlı Çırpılmış Yumurta",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "Fıstık ezmesi, muz, çilek, elma, kuru üzüm",
+            "ItemName": "Yulaf Lapası",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, cheddar peyniri, taze kaşar peyniri, domates, salatalık, mini salata",
+            "ItemName": "Üç Peynirli Moc Sandviç",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "Hindi füme, beyaz peynir, cheddar peyniri, taze kaşar peyniri",
+            "ItemName": "Hindi Füme Moc Sandviç",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "Dana füme, cheddar peyniri, taze kaşar peyniri, domates, mini salata",
+            "ItemName": "Dana Füme Moc Sandviç",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "Fırınlanmış mevsim sebzeleri, mini salata",
+            "ItemName": "Fırınlanmış Sebzeli Moc Sandviç",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Günün Çorbası",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Muz, portakal, çilek, elma, bal, tarçın",
+            "ItemName": "Meyve Salatası",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, kinoa, hellim peyniri",
+            "ItemName": "Kinoalı Hellimli Salata",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "Marul, domates, salatalık, mısır",
+            "ItemName": "Moc Yeşil Salata",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, marul, domates, salatalık, mısır",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "Roka, cherry domates, keçi peyniri, ceviz, nar ekşisi",
+            "ItemName": "Roka Salatası",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, salatalık, somon, ceviz, nar ekşisi",
+            "ItemName": "Somonlu Salata",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Somonlu Salata",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Somonlu Salata",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Carrot Cheesecake",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coffee Cheesecake",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "Shot of espresso and a shot of chocolate piccolo latte",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Espresso, shot of raspberry and a shot of chocolate silky textured milk",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Espresso w. cinnamon and honey finished w. steamed milk",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Filter coffee w. triple shot of espresso",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "Doppio w. chocolate shot finished w. a spray of orange fire and dash of milk",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Vanilla w. doppio espresso w. shot of chocolate silky milk topped w. chocolate whipped cream and shaved chocolate",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Ameretto and strawberry latte sprinkled w. cinnamon",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Espresso w. shot of white and shot of dark chocolate finished w. silky textured milk",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Filter coffee w. coconut oil and butter",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Soğuk demleme yöntemi ile demlenen kırmızı orman meyveli çay",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "1/3 chocolate, 1/4 banana syrup, 1/4 caramel syrup, 1/3 hazelnut syrup, w. milk topped, w. shaved chocolate",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "1/2 chocolate, espresso, tobasco sauce, w. shaved chocolate, silky textured milk",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,40 TL"
+        },
+        {
+            "ItemInfo": "Espresso, w. milk, w. melted marshmallow",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Strawberry syrup, liquorice sauce, espresso shaked, w. brown sugar and milk",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mosaic Cake",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Portakal Suyu (Büyük)",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ev Yapımı Limonata (Büyük)",
+            "ItemPrice": "14,50 TL"
+        }
+    ]
+}

@@ -3,182 +3,1493 @@
         {
             "Akmescit Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "6c86388a-6197-4c44-832a-49dfb1907c35",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ada Döner & Tantuni, Kuzeykent Mah.",
+                            "FlavourText": "6,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/adadonertantuni_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/ada-doner-tantuni-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Aktekke Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "6c86388a-6197-4c44-832a-49dfb1907c35",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ada Döner & Tantuni, Kuzeykent Mah.",
+                            "FlavourText": "6,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/adadonertantuni_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/ada-doner-tantuni-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Atabey Gazi Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Bey Çelebi Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "8740b2fe-ada1-4fdd-8914-ba59b6dc4cb6",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Döner Tantuni Dünyası, Kuzeykent Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/donertantunidunyasi_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-03:00",
+                            "href": "/doner-tantuni-dunyasi-kuzeykent-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Candaroğulları Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "6c86388a-6197-4c44-832a-49dfb1907c35",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ada Döner & Tantuni, Kuzeykent Mah.",
+                            "FlavourText": "6,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/adadonertantuni_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/ada-doner-tantuni-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "f19b568c-5f94-4fc6-b672-8cead985cd15",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Beşiroğlu Pide & Döner, Kuzeykent Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/besirlioglupidedoner_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,8",
+                            "WorkHoursText": "12:00-02:00",
+                            "href": "/besiroglu-pide-doner-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 18.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "8740b2fe-ada1-4fdd-8914-ba59b6dc4cb6",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Döner Tantuni Dünyası, Kuzeykent Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/donertantunidunyasi_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-03:00",
+                            "href": "/doner-tantuni-dunyasi-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "88a2d5b7-523a-4ded-a548-08f2b6fa6821",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pizza Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, İsmailbey Mah.",
+                            "FlavourText": "8,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "637e2156-09b0-4008-8de1-b003866b823f",
+                            "MainCuisineName": "Pizza Pizza",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,6",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/pizza-pizza-ismailbey-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Cebrail Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Esentepe Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "88a2d5b7-523a-4ded-a548-08f2b6fa6821",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pizza Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, İsmailbey Mah.",
+                            "FlavourText": "8,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "637e2156-09b0-4008-8de1-b003866b823f",
+                            "MainCuisineName": "Pizza Pizza",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,6",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/pizza-pizza-ismailbey-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Hepkebirler Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Hisarardı Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Honsalar Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "İnönü Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "6c86388a-6197-4c44-832a-49dfb1907c35",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ada Döner & Tantuni, Kuzeykent Mah.",
+                            "FlavourText": "6,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/adadonertantuni_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/ada-doner-tantuni-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "f19b568c-5f94-4fc6-b672-8cead985cd15",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Beşiroğlu Pide & Döner, Kuzeykent Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/besirlioglupidedoner_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,8",
+                            "WorkHoursText": "12:00-02:00",
+                            "href": "/besiroglu-pide-doner-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "8740b2fe-ada1-4fdd-8914-ba59b6dc4cb6",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Döner Tantuni Dünyası, Kuzeykent Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/donertantunidunyasi_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 50.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-03:00",
+                            "href": "/doner-tantuni-dunyasi-kuzeykent-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "İsfendiyar Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "6c86388a-6197-4c44-832a-49dfb1907c35",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ada Döner & Tantuni, Kuzeykent Mah.",
+                            "FlavourText": "6,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/adadonertantuni_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/ada-doner-tantuni-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "İsmailbey Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "6c86388a-6197-4c44-832a-49dfb1907c35",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ada Döner & Tantuni, Kuzeykent Mah.",
+                            "FlavourText": "6,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/adadonertantuni_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/ada-doner-tantuni-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "88a2d5b7-523a-4ded-a548-08f2b6fa6821",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pizza Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, İsmailbey Mah.",
+                            "FlavourText": "8,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "637e2156-09b0-4008-8de1-b003866b823f",
+                            "MainCuisineName": "Pizza Pizza",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,6",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/pizza-pizza-ismailbey-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Kırkçeşme Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "6c86388a-6197-4c44-832a-49dfb1907c35",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ada Döner & Tantuni, Kuzeykent Mah.",
+                            "FlavourText": "6,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/adadonertantuni_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/ada-doner-tantuni-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Kuzeykent Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "6c86388a-6197-4c44-832a-49dfb1907c35",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ada Döner & Tantuni, Kuzeykent Mah.",
+                            "FlavourText": "6,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/adadonertantuni_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/ada-doner-tantuni-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "f19b568c-5f94-4fc6-b672-8cead985cd15",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Beşiroğlu Pide & Döner, Kuzeykent Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/besirlioglupidedoner_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,8",
+                            "WorkHoursText": "12:00-02:00",
+                            "href": "/besiroglu-pide-doner-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 18.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "8740b2fe-ada1-4fdd-8914-ba59b6dc4cb6",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Döner Tantuni Dünyası, Kuzeykent Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/donertantunidunyasi_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-03:00",
+                            "href": "/doner-tantuni-dunyasi-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "8,4",
+                            "CategoryName": "31101374-f77d-4103-99df-7a8a2beb5d45",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pizza Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, Kuzeykent Mah.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "637e2156-09b0-4008-8de1-b003866b823f",
+                            "MainCuisineName": "Pizza Pizza",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,1",
+                            "SpeedText": "8,5",
+                            "WorkHoursText": "10:30-02:00",
+                            "href": "/pizza-pizza-kuzeykent-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Mehmet Akif Ersoy Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "6c86388a-6197-4c44-832a-49dfb1907c35",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ada Döner & Tantuni, Kuzeykent Mah.",
+                            "FlavourText": "6,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/adadonertantuni_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/ada-doner-tantuni-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "f19b568c-5f94-4fc6-b672-8cead985cd15",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Beşiroğlu Pide & Döner, Kuzeykent Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/besirlioglupidedoner_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,8",
+                            "WorkHoursText": "12:00-02:00",
+                            "href": "/besiroglu-pide-doner-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "8740b2fe-ada1-4fdd-8914-ba59b6dc4cb6",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Döner Tantuni Dünyası, Kuzeykent Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/donertantunidunyasi_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-03:00",
+                            "href": "/doner-tantuni-dunyasi-kuzeykent-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Saraçlar Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 18.99,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "88a2d5b7-523a-4ded-a548-08f2b6fa6821",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pizza Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, İsmailbey Mah.",
+                            "FlavourText": "8,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "637e2156-09b0-4008-8de1-b003866b823f",
+                            "MainCuisineName": "Pizza Pizza",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,6",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/pizza-pizza-ismailbey-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Sarı Ömer Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Topçuoğlu Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Bahçelievler Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Camiiatik Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Çatma Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Dere Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Dilküşah)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Fevzipaşa Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Hacaimat Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
@@ -192,112 +1503,534 @@
         {
             "Tosya (Hacıpir Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Harsat Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Hocafakı Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (İbni Selim Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (İlyasbey Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Kargı Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Karşıyaka Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Kuzyaka Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Mimarsinan Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Pınarbaşı Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Şeh Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Şehreküstü Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Yavuz Selim Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Tosya (Yunus Emre Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "d2f8a488-cd02-4667-8752-e1efc293b93f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Tosya (Bahçelievler Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "11:00-21:30",
+                            "href": "/pasaport-pizza-tosya-bahcelievler-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Yavuz Selim Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Kastamonu Üniversitesi - Merkez Kampüs": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "6c86388a-6197-4c44-832a-49dfb1907c35",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ada Döner & Tantuni, Kuzeykent Mah.",
+                            "FlavourText": "6,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/adadonertantuni_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/ada-doner-tantuni-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "ddcd9bcf-839b-4f25-a00f-bcdf2e30376f",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Aktekke Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b41eaa63-e9af-4430-8756-c7afd7df525c",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-aktekke-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "8,4",
+                            "CategoryName": "31101374-f77d-4103-99df-7a8a2beb5d45",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pizza Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Pizza Pizza, Kuzeykent Mah.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
+                            "MainCuisineId": "637e2156-09b0-4008-8de1-b003866b823f",
+                            "MainCuisineName": "Pizza Pizza",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,1",
+                            "SpeedText": "8,5",
+                            "WorkHoursText": "10:30-02:00",
+                            "href": "/pizza-pizza-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "f19b568c-5f94-4fc6-b672-8cead985cd15",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Beşiroğlu Pide & Döner, Kuzeykent Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/besirlioglupidedoner_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 12.0,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,8",
+                            "WorkHoursText": "12:00-02:00",
+                            "href": "/besiroglu-pide-doner-kuzeykent-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "cfc8eb58-b0f8-438e-96a0-8c2be6f23693",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, İsmailbey Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "169ecbb7-496b-443b-8e73-97039f55f278",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 18.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-ismailbey-mah-kastamonu"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "8740b2fe-ada1-4fdd-8914-ba59b6dc4cb6",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Döner Tantuni Dünyası, Kuzeykent Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KASTAMONU/donertantunidunyasi_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-03:00",
+                            "href": "/doner-tantuni-dunyasi-kuzeykent-mah-kastamonu"
+                        }
+                    ]
                 }
             ]
         }

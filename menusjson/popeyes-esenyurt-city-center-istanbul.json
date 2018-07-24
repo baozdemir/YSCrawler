@@ -1,0 +1,750 @@
+{
+    "comment": [
+        {
+            "Comment": "Servis guzeldi hizli geldi ama lezzet konusunda biraz gelismesi lazim.",
+            "Date": "2018-07-21",
+            "Flavour": "8",
+            "Serving": "6",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Bu sefer kendimi yormayacağım. Yine çok kötü. Başka popeyes tecrübelerimin hatırına bir süre sonra son bir kez deneyebilirim belki.",
+            "Date": "2018-07-20",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey sıcak ve h��zlı geldi teşekkürler :).",
+            "Date": "2018-07-17",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Neden siparişin yarısı yok? Bu puanınıza şaşılmamalı...",
+            "Date": "2018-07-16",
+            "Flavour": "6",
+            "Serving": "1",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yıldızlı 10, herşey güzeldi, kurye arkadasa ayrıca tesekkur.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Şikayetleri görünce sipariş notuma acelesi yok yemeklerin sıcak gelsin yeter yazdım gurur yaptılar heralde yemek sepetindeki en iyi performansı bugünkü siparişim 30 dakikada geldi herşey iyidi teşekkürler.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Patatesler fazla kızartılmamış.",
+            "Date": "2018-07-16",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Sipariş eksikmi dersiniz 1, 5 saate sipariş mi gelir dersiniz tam bir rezalet örneği sergiliyorlar eksik gelen sipariş bile 1 saate gelmedi.",
+            "Date": "2018-07-16",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Ekstra peynir istedik peynir yoktu içinde ama ücretini aldılar normal dilim patates istedik o farklı geldi pepsi max yanlış geldi.",
+            "Date": "2018-07-15",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Bu sefer iyi geldi sadece kanatlar biraz daha çıtır olabilirdi.",
+            "Date": "2018-07-15",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Bence en iyisi.",
+            "Date": "2018-07-15",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Patatesleri kötü sadece.",
+            "Date": "2018-07-15",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Pek öyle lezzetli denemez ama normaldi. Patatesler rastgele konulduğu için dökülmüş dağılmıştı ve peçete falan yoktu.",
+            "Date": "2018-07-14",
+            "Flavour": "7",
+            "Serving": "4",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Menüde seçeneklerden seçtiğimle hiçbir alakası yoktu kafes patates seçtim normal geldi ve en az 3 saatlikti göğüs eti sevmem seçmedim halde inatla yollamışlar.",
+            "Date": "2018-07-14",
+            "Flavour": "3",
+            "Serving": "3",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Sipariş 1 buçuk saat sonra geldi geldiğinde 2 adet olması gereken patates 1 adetti hemde büyük boy olmasına gerekirsen küçük boydu geri yolladığımda tekrar gelmesi 45 dakika sürdü yolladığım aynı paket gelmiş yanına patates eklenmişti yemeği 2 saat gezdirip öyle getirdiler..",
+            "Date": "2018-07-14",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Sığacak mı bilmiyorum. Bu kadar hatayı kimse tek başına yapamaz. Bence organize işler bunlar. Süre 75 dk. , soslar hem eksik hem de hatalı, gravy yerine patates kızartması. Peçete bile yok. Tavuklar ise acılı değil ama en azından klasik lezzeti fazla bozamamışlar. Ama kutu kola iyiydi.",
+            "Date": "2018-07-14",
+            "Flavour": "8",
+            "Serving": "1",
+            "Speed": "1"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "2 Adet Popchicken Sandviç + Mega Boy Patates + 10'lu Nuggets + 1 L. İçecek",
+            "ItemName": "2 Kişilik Ekonomik Menü",
+            "ItemPrice": "24,90 TL"
+        },
+        {
+            "ItemInfo": "Chicken Deluxe Sandviç + 8'li Nuggets + 2'li Acılı Kanat + Patates Kızartması (Orta) + Coleslaw (Orta) + Kutu İçecek",
+            "ItemName": "Maxi XL Menü",
+            "ItemPrice": "24,95 TL"
+        },
+        {
+            "ItemInfo": "Poproll + Tavuk Burger® + Orta Boy Patates Kızartması + 10'lu Nuggets + Orta Boy (Kutu) İçecek",
+            "ItemName": "Maxi Menü (Nuggets'lı)",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "Tavukburger® + Orta Boy Ek Lezzet + Kutu İçecek",
+            "ItemName": "Tavukburger® Menü",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "10'lu Dip’n Chicken + Normal Boy Ek Lezzet + Kutu İçecek + Blackened Ranch Sos",
+            "ItemName": "10'lu Dip’n Chicken Menü",
+            "ItemPrice": "16,95 TL"
+        },
+        {
+            "ItemInfo": "Popchicken + 10'lu Wicked Chicken + 8'li Susamlı Soğan Halkası + Mega Boy Patates Kızartması + 1 L. İçecek",
+            "ItemName": "Pro Gamer Menü 2",
+            "ItemPrice": "23,90 TL"
+        },
+        {
+            "ItemInfo": "Popchicken + Tavukburger® + 2 Adet Büyük Boy Patates Kızartması + Litrelik İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız.)",
+            "ItemName": "Vodafone Menüsü 1",
+            "ItemPrice": "42,90 TL"
+        },
+        {
+            "ItemInfo": "Tavukburger® + Orta Boy Ek Lezzet + Coleslaw + 1 Parça But + Biscuit + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız.)",
+            "ItemName": "Vodafone Menüsü 2",
+            "ItemPrice": "25,10 TL"
+        },
+        {
+            "ItemInfo": "Chicken Deluxe Sandviç + 5'li Dip’n Chicken + Orta Boy Patates Kızartması + 8'li Susamlı Soğan Halkası + Kutu İçecek (Maximum Menü indirimi, Maximum özellikli tüm kredi kartları ve İş Bankası Bankamatik Kartları ile yapılacak online ödemelerde ödeme anında uygulanacaktır.)",
+            "ItemName": "Maximum Menü (Chicken Deluxe Sandviç)",
+            "ItemPrice": "36,50 TL"
+        },
+        {
+            "ItemInfo": "30'lu Nuggets + 3 Adet Tavukburger® + Kova Boy Patates + 1 L. İçecek 79,85 TL yerine 44 TL",
+            "ItemName": "Futbol Kovası",
+            "ItemPrice": "44,00 TL"
+        },
+        {
+            "ItemInfo": "Popchicken + 10'lu Wicked Chicken + 8'li Susamlı Soğan Halkası + Mega Boy Patates Kızartması + 1 L. İçecek",
+            "ItemName": "Pro Gamer Menü 2",
+            "ItemPrice": "23,90 TL"
+        },
+        {
+            "ItemInfo": "Tavukburger® + 10'lu Nuggets + Büyük Boy Patates Kızartması + Kutu İçecek",
+            "ItemName": "Pro Gamer Menü",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "5'li Wicked Chicken + Popchicken Sandviç + Mega Boy Patates Kızartması + 2 Adet Chipotle Sos + 1 L. İçecek",
+            "ItemName": "Trend Menü",
+            "ItemPrice": "19,95 TL"
+        },
+        {
+            "ItemInfo": "4 Parça Acılı Kanat + 4 Parça Tenders + 6'lı Nuggets + 2 Adet Popchicken + 2 Adet Orta Boy Patates Kızartması + 1 L. İçecek",
+            "ItemName": "Kazandıran Kova",
+            "ItemPrice": "43,00 TL"
+        },
+        {
+            "ItemInfo": "2 Parça Tenders + 6'lı Nuggets + 6'lı Dip’n Chicken + 6'lı Wicked Chicken + 2 Adet Tavukburger® + 2 Adet Orta Boy Patates Kızartması + 1 L. İçecek",
+            "ItemName": "Kazandıran Kova 2",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Popchicken Sandviç + Mega Boy Patates + 10'lu Nuggets + 1 L. İçecek",
+            "ItemName": "2 Kişilik Ekonomik Menü",
+            "ItemPrice": "24,90 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Poproll + 2 Adet Tavukburger® + 2 Adet Patates Kızartması (Orta Boy) + Parça But (2 Adet) + 2 Adet Kutu İçecek",
+            "ItemName": "2'li Maxi Menü",
+            "ItemPrice": "39,90 TL"
+        },
+        {
+            "ItemInfo": "Poproll + Normal Boy Ek Lezzet + Kutu İçecek",
+            "ItemName": "Poproll Menü",
+            "ItemPrice": "14,95 TL"
+        },
+        {
+            "ItemInfo": "Popchicken + Normal Boy Ek Lezzet + Kutu İçecek",
+            "ItemName": "Popchicken Menü",
+            "ItemPrice": "16,95 TL"
+        },
+        {
+            "ItemInfo": "Double Popchicken + Normal Boy Ek Lezzet + Kutu İçecek",
+            "ItemName": "Double Popchicken Menü",
+            "ItemPrice": "23,95 TL"
+        },
+        {
+            "ItemInfo": "Tavukburger® + Orta Boy Ek Lezzet + Kutu İçecek",
+            "ItemName": "Tavukburger® Menü",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "Chicken Deluxe Sandviç + Normal Boy Ek Lezzet + Kutu İçecek",
+            "ItemName": "Chicken Deluxe Sandwich Menü",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Panini Gusto + Normal Boy Ek Lezzet + Kutu İçecek",
+            "ItemName": "Panini Gusto Menü",
+            "ItemPrice": "19,95 TL"
+        },
+        {
+            "ItemInfo": "Poproll + Tavuk Burger® + Orta Boy Patates Kızartması + Parça But (1 Adet) + Orta Boy (Kutu) İçecek",
+            "ItemName": "Maxi Menü",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "Poproll + Tavuk Burger® + Orta Boy Patates Kızartması + 10'lu Nuggets + Orta Boy (Kutu) İçecek",
+            "ItemName": "Maxi Menü (Nuggets'lı)",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "Chicken Deluxe Sandviç + 8'li Nuggets + 2'li Acılı Kanat + Patates Kızartması (Orta) + Coleslaw (Orta) + Kutu İçecek",
+            "ItemName": "Maxi XL Menü",
+            "ItemPrice": "24,95 TL"
+        },
+        {
+            "ItemInfo": "5 Dip’n Chicken + 5 Wicked Chicken + 5'li Nuggets + 2 Parça Acılı Kanat + Biscuit + Orta Boy Patates Kızartması + Kutu İçecek",
+            "ItemName": "Maxi Dip Menü",
+            "ItemPrice": "23,95 TL"
+        },
+        {
+            "ItemInfo": "Poproll + 6'lı Nuggets + Coleslaw (Orta) + Orta Boy Patates Kızartması + Orta Boy (Kutu) İçecek",
+            "ItemName": "Maxi Avantaj Menü",
+            "ItemPrice": "23,95 TL"
+        },
+        {
+            "ItemInfo": "15'li Wicked Chicken + 15'li Nuggets + 2 Parça Tenders + 2 Adet Biscuit + Kova Boy Patates + 1 L. İçecek",
+            "ItemName": "2 Kişilik Kemiksiz Maxi Kova Menü",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "12 Parça Kanat + 2 Biscuit + Kova Boy Patates + 1 L. İçecek",
+            "ItemName": "2 Kişilik Kanat Maxi Kova Menü",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "2 Parça Terbiyeli Tavuk + 4 Parça Acılı Kanat + 5 Parça Wicked Chicken + 5 Parça Dip'n Chicken + Kova Boy Patates + 2 Adet Biscuit + 1 L. İçecek",
+            "ItemName": "2 Kişilik Karışık Maxi Kova Menü",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "2 Parça Göğüs + 2 Parça Kaburga + 2 Parça But + 2 Biscuit + Kova Boy Patates + 1 L. İçecek",
+            "ItemName": "2 Kişilik Parça Tavuk Maxi Kova Menü",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "30 Parça Acılı Kanat",
+            "ItemName": "4 Kişilik Kanat Maxi Kova",
+            "ItemPrice": "60,00 TL"
+        },
+        {
+            "ItemInfo": "30 Parça Acılı Kanat + 4 Adet Biscuit + 1 L. İçecek",
+            "ItemName": "4 Kişilik Kanat Maxi Kova Menü",
+            "ItemPrice": "67,00 TL"
+        },
+        {
+            "ItemInfo": "3 Parça Göğüs + 3 Parça Kaburga + 3 Parça But + 3 Parça Kalça",
+            "ItemName": "4 Kişilik Parça Tavuk Maxi Kova",
+            "ItemPrice": "60,00 TL"
+        },
+        {
+            "ItemInfo": "3 Parça Göğüs + 3 Parça Kaburga + 3 Parça But + 3 Parça Kalça + 4 Adet Biscuit + 1 L. İçecek",
+            "ItemName": "4 Kişilik Parça Tavuk Maxi Kova Menü",
+            "ItemPrice": "67,00 TL"
+        },
+        {
+            "ItemInfo": "2 Parça Golden But + Normal Boy Ek Lezzet + Kutu İçecek + 1 adet Biscuit",
+            "ItemName": "2 Parça Golden But Menü",
+            "ItemPrice": "14,95 TL"
+        },
+        {
+            "ItemInfo": "2 Parça Tavuk (But, kalça, kaburga veya kemikli göğüs) + Normal Boy Ek Lezzet + Kutu İçecek + 1 adet Biscuit",
+            "ItemName": "2 Parça Tavuk Menü",
+            "ItemPrice": "14,95 TL"
+        },
+        {
+            "ItemInfo": "3 Parça Tavuk (But, kalça, kaburga veya kemikli göğüs) + Normal Boy Ek Lezzet + Kutu İçecek + 1 adet Biscuit",
+            "ItemName": "3 Parça Tavuk Menü",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "4 Parça Golden Tavuk (But, kalça, kaburga veya kemikli göğüs) + Normal Boy Ek Lezzet + Kutu İçecek + 1 adet Biscuit",
+            "ItemName": "4 Parça Tavuk Menü",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "5 Parça Acılı Kanat + Normal Boy Ek Lezzet + Kutu İçecek + 1 adet Biscuit",
+            "ItemName": "5 Parça Acılı Kanat Menü",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "8 Parça Acılı Kanat + Normal Boy Ek Lezzet + Kutu İçecek + 1 adet Biscuit",
+            "ItemName": "8 Parça Acılı Kanat Menü",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "10'lu Nuggets + Normal Boy Ek Lezzet + Kutu İçecek",
+            "ItemName": "10'lu Nuggets Menü",
+            "ItemPrice": "16,95 TL"
+        },
+        {
+            "ItemInfo": "15'li Nuggets + Normal Boy Ek Lezzet + Kutu İçecek",
+            "ItemName": "15'li Nuggets Menü",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "20'li Nuggets + Normal Boy Ek Lezzet + Kutu İçecek",
+            "ItemName": "20'li Nuggets Menü",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "10'lu Dip’n Chicken + Normal Boy Ek Lezzet + Kutu İçecek + Blackened Ranch Sos",
+            "ItemName": "10'lu Dip’n Chicken Menü",
+            "ItemPrice": "16,95 TL"
+        },
+        {
+            "ItemInfo": "15'li Dip’n Chicken + Normal Boy Ek Lezzet + Kutu İçecek + Blackened Ranch Sos",
+            "ItemName": "15'li Dip’n Chicken Menü",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "20'li Dip’n Chicken + Normal Boy Ek Lezzet + Kutu İçecek + Blackened Ranch Sos",
+            "ItemName": "20'li Dip’n Chicken Menü",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "10'lu Wicked Chicken + Normal Boy Ek Lezzet + Kutu İçecek",
+            "ItemName": "10'lu Wicked Chicken Menü",
+            "ItemPrice": "16,95 TL"
+        },
+        {
+            "ItemInfo": "15'li Wicked Chicken + Normal Boy Ek Lezzet + Kutu İçecek",
+            "ItemName": "15'li Wicked Chicken Menü",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "20'li Wicked Chicken + Normal Boy Ek Lezzet+ Kutu İçecek",
+            "ItemName": "20'li Wicked Chicken Menü",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "3'lü Tenders + Normal Boy Ek Lezzet + Kutu İçecek + 1 adet Biscuit",
+            "ItemName": "3 'lü Tenders Menü (Kemiksiz)",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Çocuk Tavukburger® veya 1 Parça But veya 5'li Nuggets + Orta Boy Patates Kızartması + Normal Seçim + Kutu İçecek",
+            "ItemName": "Çocuk Menüsü",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "10'lu Wicked Chicken + 10'lu Nuggets + 4 Parça Acılı Kanat + Çocuk Tavukburger® + Kova Boy Patates + Oyuncak + 1 L. İçecek",
+            "ItemName": "Aile Kovası-Çocuk Tavukburger® Menü",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "10'lu Wicked Chicken + 15'li Nuggets + 4 Parça Acılı Kanat + Kova Boy Patates + Oyuncak + 1 L. İçecek",
+            "ItemName": "Aile Kovası-Nuggets Menü",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "1 Adet Golden But",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "2 Adet Golden But",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "1 Parça But",
+            "ItemPrice": "5,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "1 Parça Kaburga",
+            "ItemPrice": "5,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "1 Parça Kalça",
+            "ItemPrice": "5,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "1 Parça Tavuk Göğüs",
+            "ItemPrice": "5,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "1 Parça Tender (Kemiksiz)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "1 Parça Acılı Kanat (Wings)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "3 Parça Acılı Kanat",
+            "ItemPrice": "10,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "5 Parça Acılı Kanat",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "8 Parça Acılı Kanat",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "10'lu Dip’n Chicken",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "15'li Dip’n Chicken",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "20'li Dip’n Chicken",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "10'lu Nuggets",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "15'li Nuggets",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "20'li Nuggets",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "10'lu Wicked Chicken",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "15'li Wicked Chicken",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "20'li Wicked Chicken",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Özel panini ekmeği, sarımsaklı kekikli mayonez, marine edilmiş çıtır çıtır bonfile tavuğu, rende kaşar ve salatalık turşusu",
+            "ItemName": "Panini Gusto Sandviç",
+            "ItemPrice": "13,95 TL"
+        },
+        {
+            "ItemInfo": "Salata, domates, mayonez ile",
+            "ItemName": "Chicken Deluxe Sandviç",
+            "ItemPrice": "13,95 TL"
+        },
+        {
+            "ItemInfo": "Salata, mayonez ile",
+            "ItemName": "Tavukburger®",
+            "ItemPrice": "10,95 TL"
+        },
+        {
+            "ItemInfo": "Ketçap ile",
+            "ItemName": "Çocuk Tavukburger®",
+            "ItemPrice": "10,95 TL"
+        },
+        {
+            "ItemInfo": "(Dürüm) Salata, domates, mayonez ile",
+            "ItemName": "Poproll",
+            "ItemPrice": "10,95 TL"
+        },
+        {
+            "ItemInfo": "Popchicken filetosu, çörekotlu 4,25’’ ekmek, mayonez ve salata",
+            "ItemName": "Double Popchicken",
+            "ItemPrice": "15,95 TL"
+        },
+        {
+            "ItemInfo": "Popchicken filetosu, çörekotlu 4,25’’ ekmek, mayonez, domates ve salata",
+            "ItemName": "Popchicken",
+            "ItemPrice": "13,95 TL"
+        },
+        {
+            "ItemInfo": "Nuggets Salata + Normal Seçim + Kutu İçecek + 1 Adet Salata Sosu",
+            "ItemName": "Nuggets Salata Menü",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Nuggets, domates, mısır, havuç, göbek salata, kaşar peyniri",
+            "ItemName": "Nuggets Salata",
+            "ItemPrice": "13,95 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cage Fries (Patates Kızartması)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kova Boy Cage Fries (Patates Kızartması)",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Normal Dilim Patates Kızartması",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kova Boy Normal Dilim (Patates Kızartması)",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Gravy Soslu Patates Püresi",
+            "ItemPrice": "5,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coleslaw",
+            "ItemPrice": "5,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Baharatlı Tavuk Pilav",
+            "ItemPrice": "5,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mısır",
+            "ItemPrice": "5,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Biscuit",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Susamlı Soğan Halkası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "5,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Max (33 cl.)",
+            "ItemPrice": "5,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Light (33 cl.)",
+            "ItemPrice": "5,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "5,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fruko (33 cl.)",
+            "ItemPrice": "5,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Küçük Ayran (200 ml.)",
+            "ItemPrice": "3,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Büyük Ayran (300 ml.)",
+            "ItemPrice": "5,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Exotic Portakal Suyu (330 ml.)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea Limon (33 cl.)",
+            "ItemPrice": "5,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea Şeftali (33 cl.)",
+            "ItemPrice": "5,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sade Soda",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Soda",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elmalı Soda",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elmalı Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonata",
+            "ItemPrice": "4,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Light (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Max (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fruko (1,5 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Profiterol",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Acı Sos",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Buffalo Sos",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Chipotle Sos",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Creole",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ketçap",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mayonez",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Blackened Ranch Sos",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Acılı Barbekü Sos",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sarımsaklı Parmesanlı Mayonez",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Salata Sosu",
+            "ItemPrice": "1,00 TL"
+        }
+    ]
+}

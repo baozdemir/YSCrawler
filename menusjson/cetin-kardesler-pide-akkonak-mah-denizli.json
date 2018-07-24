@@ -1,0 +1,613 @@
+{
+    "comment": [
+        {
+            "Comment": "Kuriye arkadaş çok iyi pideler çok iyi di.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tahinli ballı pidesi güzel değildi. Ayrıca bi kısmı yakıntı is ve yanık tadından yiyemedim. Kıymalı kaşarlı pidesi başarılı ve lezzetliydi. Servisi özenliydi.",
+            "Date": "2018-07-16",
+            "Flavour": "5",
+            "Serving": "10",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Lezzetli.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Sizi tek gecerim mükkemmelsiniz lütfen bu kalitenizi bozmayın teşekür ederim.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pideler her zamanki gibi enfes.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok iyi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kıymalı kaşarlı pideyi kesinlikle tavsiye ederim.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet basarılı cok memnun kaldık.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "O kadar pide yedim etin lezzetini damağımda hissettiğim tek yer iyi ki varsınız çetin kardesler.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pideler çok lezzetli tahinli pideyi mutlaka denemelisiniz efsane bir tadı var tüm çalışanların eline sağlık.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Biraz daha citir gelse iyiydi tat olarak lezzetli. Fiyat olarsk. Uygun tavsiye ederim.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kıymalı Pide (1,5 Porsiyon)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kıymalı Kaşarlı Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kıymalı Kaşarlı Pide (1,5 Porsiyon)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide (1,5 Porsiyon)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Kıymalı Pide (1,5 Porsiyon) + Zafer Gazoz (20 cl.)",
+            "ItemName": "Eko Menü",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Kuşbaşılı Karışık + Zafer Gazoz (20 cl.)",
+            "ItemName": "Karışık Sevenler Menü",
+            "ItemPrice": "54,00 TL"
+        },
+        {
+            "ItemInfo": "3 Adet Kıymalı Pide (1,5 Porsiyon) + Full Tahinli Pide + Zafer Gazoz (1 L.)",
+            "ItemName": "Aile Boyu Menü",
+            "ItemPrice": "54,00 TL"
+        },
+        {
+            "ItemInfo": "3 Adet Kuşbaşılı Kaşarlı Pide + Full Tahinli Pide + Zafer Gazoz (1 L.)",
+            "ItemName": "Lezzet Avcısı Menü",
+            "ItemPrice": "54,00 TL"
+        },
+        {
+            "ItemInfo": "Kıymalı Pide + Kıymalı Kaşarlı Pide + Kuşbaşılı Kaşarlı Pide + Kaşarlı Yumurtalı Pide + Full Tahinli Pide + Zafer Gazoz (2 L.)",
+            "ItemName": "Ortaya Karışık Menü",
+            "ItemPrice": "59,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Çökelekli Pide",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Çökelek peyniri, domates ve maydanoz",
+            "ItemName": "Çökelekli Sebzeli Pide",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, domates, maydanoz, salata ile",
+            "ItemName": "Kaşarlı Sebzeli Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar, mantar, domates ve maydanoz. Salata ile",
+            "ItemName": "Kaşarlı Mantarlı Sebzeli Pide",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kaşarlı Mantarlı Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kaşarlı Pide",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kıymalı Kaşarlı Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kaşar peyniri, mantar, salata ile",
+            "ItemName": "Kıymalı Karışık Pide",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kıymalı Mantarlı Pide",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kuşbaşı, mantar, kaşar peyniri, salata ile",
+            "ItemName": "Kuşbaşılı Karışık Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kuşbaşılı Mantarlı Pide",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kuşbaşılı Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Mantarlı Pide",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Sucuklu Kaşarlı Pide",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Sucuklu Yumurtalı Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Sucuklu & Mantarlı & Yumurtalı Pide",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Sucuklu & Mantarlı & Kaşarlı Pide",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Yumurtalı Pide",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Çökelekli Pide (1,5 Porsiyon)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Çökelek peyniri, domates ve maydanoz",
+            "ItemName": "Çökelekli Sebzeli Pide (1,5 Porsiyon)",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, domates, maydanoz, salata ile",
+            "ItemName": "Kaşarlı Sebzeli Pide (1,5 Porsiyon)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, mantar, domates ve maydanoz. Salata ile",
+            "ItemName": "Kaşarlı Mantarlı Sebzeli Pide (1,5 Porsiyon)",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kaşarlı Mantarlı Pide (1,5 Porsiyon)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kaşarlı Pide (1,5 Porsiyon)",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kıymalı Kaşarlı Pide (1,5 Porsiyon)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kaşar peyniri, mantar, salata ile",
+            "ItemName": "Kıymalı Karışık Pide (1,5 Porsiyon)",
+            "ItemPrice": "15,75 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kıymalı Mantarlı Pide (1,5 Porsiyon)",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kıymalı Pide (1,5 Porsiyon)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide (1,5 Porsiyon)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Kuşbaşı, mantar, kaşar peyniri, salata ile",
+            "ItemName": "Kuşbaşılı Karışık Pide (1,5 Porsiyon)",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kuşbaşılı Mantarlı Pide (1,5 Porsiyon)",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kuşbaşılı Pide (1,5 Porsiyon)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Mantarlı Pide (1,5 Porsiyon)",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Sucuklu Kaşarlı Pide (1,5 Porsiyon)",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Sucuklu Yumurtalı Pide (1,5 Porsiyon)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Sucuklu & Mantarlı & Yumurtalı Pide (1,5 Porsiyon)",
+            "ItemPrice": "15,75 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Sucuklu & Mantarlı & Kaşarlı Pide (1,5 Porsiyon)",
+            "ItemPrice": "18,75 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Yumurtalı Pide (1,5 Porsiyon)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Çökelekli Pide (Duble)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Çökelek peyniri, domates ve maydanoz",
+            "ItemName": "Çökelekli Sebzeli Pide (Duble)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, domates, maydanoz, salata ile",
+            "ItemName": "Kaşarlı Sebzeli Pide (Duble)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, mantar, domates ve maydanoz. Salata ile",
+            "ItemName": "Kaşarlı Mantarlı Sebzeli Pide (Duble)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kaşarlı Mantarlı Pide (Duble)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kaşarlı Pide (Duble)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kıymalı Kaşarlı Pide (Duble)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kaşar peyniri, mantar, salata ile",
+            "ItemName": "Kıymalı Karışık Pide (Duble)",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kıymalı Mantarlı Pide (Duble)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kıymalı Pide (Duble)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide (Duble)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Kuşbaşı, mantar, kaşar peyniri, salata ile",
+            "ItemName": "Kuşbaşılı Karışık Pide (Duble)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kuşbaşılı Mantarlı Pide (Duble)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kuşbaşılı Pide (Duble)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Mantarlı Pide (Duble)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Sucuklu Kaşarlı Pide (Duble)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Sucuklu Yumurtalı Pide (Duble)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Sucuklu & Mantarlı & Yumurtalı Pide (Duble)",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Sucuklu & Mantarlı & Kaşarlı Pide (Duble)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Yumurtalı Pide (Duble)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kiremitte Alabalık",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Kiremitte Kaşarlı Alabalık",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "(100 gr.)",
+            "ItemName": "Acı Biber",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limon (Adet)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kabak Tatlısı",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tahinli Kabak Tatlısı",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tahinli & Kaymaklı & Fıstıklı Kabak Tatlısı",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavukgöğüs",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Supangle",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kazandibi",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Profiterol",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütlaç",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tahinli Ballı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Tahin, bal, fındık ",
+            "ItemName": "Tahinli Selçuklu Yıldızı",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tahinli Şekerli Fındıklı Pide",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tahinli Şekerli Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Tahin, bal, kaymak, fındık, Antep fıstığı, hindistan cevizi",
+            "ItemName": "Full Tahinli Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Cam şişe",
+            "ItemName": "Fuse Tea Şeftali (25 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Cam şişe",
+            "ItemName": "Aroma Meyve Suyu (25 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "Cam şişe",
+            "ItemName": "Dimes (20 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Zafer Gazoz (20 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "Cam şişe",
+            "ItemName": "Acılı Şalgam Suyu (25 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "Yanık kokulu",
+            "ItemName": "Yayık Ayran",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yayık Ayran",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Zafer Gazoz (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (2,5 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Zafer Gazoz (2 L.)",
+            "ItemPrice": "5,00 TL"
+        }
+    ]
+}

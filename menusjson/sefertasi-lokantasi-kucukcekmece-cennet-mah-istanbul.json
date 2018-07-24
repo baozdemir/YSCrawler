@@ -1,0 +1,753 @@
+{
+    "comment": [
+        {
+            "Comment": "Porsiyonlar daha bol daha lezzetli olabilir. Ama temiz ve basarili yine de.",
+            "Date": "2018-07-23",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Yemekler sicakti ancak 1 saati geciyordu siparis geldiginde.",
+            "Date": "2018-07-22",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Süper.",
+            "Date": "2018-07-21",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-07-20",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Tatlı için teşekkürler.",
+            "Date": "2018-07-20",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ev yemeği için iyiydi.",
+            "Date": "2018-07-19",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Puanlardan korkarak sipariş verdim ama gayet lezzetli.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sürekli sipariş verdiğimiz bir yer yoğurtlu kızartmanız bugyn sanki tam kızarmamıstı bide keske içinde patatesde olsa dedik onun haricinde hersey cok güzeldi.",
+            "Date": "2018-07-18",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Harika fiyat performans.",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kaliteli hizmet.",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız idare eder. Lezzetler önceden daha güzeldi ayrıca patates salatası çok fazla acı ve patatesler çiğdi. Yoğurtlu kızartma ise çok güzel. Servis orta.",
+            "Date": "2018-07-18",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Yemekler de artı eksi bir durum yoktu yeterliydi. Ama tavuk ciğer bir garipti.",
+            "Date": "2018-07-16",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "İzmir köfte nohutlu ve misket şeklinde olmuyorsa ki bildiğim kadarıyla olmuyor siparişim yanlış geldi. Yine de lezzetliydi..",
+            "Date": "2018-07-16",
+            "Flavour": "9",
+            "Serving": "1",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yemek lezzetliydi fakat kurye çöplerini ısrarla kapımın önüne bırakıyor.",
+            "Date": "2018-07-16",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Yemek lezzetliydi fakat kurye çöplerini ısrarla kapımın önüne bırakıyor.",
+            "Date": "2018-07-16",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Sipariş verirken cok düşündük yorumlardan dolayı tek kelimeyle mükemmeldi tuzu, paketlenişi gayet güzeldi. İkramınız için cok tesekkür ederiz cok incesiniz.",
+            "Date": "2018-07-15",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ellerinize sağlık herşey çok güzeldi.",
+            "Date": "2018-07-14",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hiz muhtesem lezzet de guzel.",
+            "Date": "2018-07-14",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yemek yenemeyecek kadar tuzluydu.",
+            "Date": "2018-07-14",
+            "Flavour": "1",
+            "Serving": "2",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Çok aşırı yağlı, biri çok tuzlu biri çok tussuz, hiç tad yok. Beş kuruş daha pahalı olup biraz daha fazla yemek konulabilir.",
+            "Date": "2018-07-14",
+            "Flavour": "1",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Puan düşük diye korktum başta fakat gayet başarılı ve porsiyonlarda küçük değil. Ancak biraz soğuk geldi, geliştirilebilir.",
+            "Date": "2018-07-14",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fişi getirmediler istememe rağmen ilgilenmediler.",
+            "Date": "2018-07-10",
+            "Flavour": "6",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Porsiyonlar küçük özellikle salatası 5 liralık salatada 3 kaşık salata vardı yoğurt istedik bozuk ekşi yoğurt gönderdiler iyice boşverdiler sadece para kazanmaya bakıyorlar müşteri memnuniyeti kalmamış hızıda yavaştı.",
+            "Date": "2018-07-10",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Cok memnun kaldik tesekkurler.",
+            "Date": "2018-07-04",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Super.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tavuklu pilav kurufasulyeli geldi ama oda güzeldi hayırlı kazançlar.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok hızlı geldi ve gerçekten temiz ve lezzetiydi yiyeceklerimiz teşekkür ederiz.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız 10 çünkü tam söylenen zamanda geldi, lezzet 8 çünkü tuz ayarında bir problem var onun dışında gayet lezzetli, servis kötüydü çünkü ne bir çatal kaşık ne bir ekmek peçete hiç bir şey yollamamışlardı biraz sıkıntı oldu.",
+            "Date": "2018-07-02",
+            "Flavour": "8",
+            "Serving": "4",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mekan muthis.",
+            "Date": "2018-07-01",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Verilen parayı haketmiyor. Yollanan yemek miktarları az. 2 menüye sadece 3 çeyrek dilim ekmek göndermişlerdi. Ekmekle bile doyamadık.",
+            "Date": "2018-06-30",
+            "Flavour": "1",
+            "Serving": "5",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Lezzetli ev yemekleri. Biraz daha bol kepçe olsa diycem ama bu fiyata bu kadar. Yoğurtlu kızartması çok güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Ek olarak söylediğim ekmeği ikram ettikleri için teşekkür ederim fakat kıbrıs tatlısı yerinetr ileçe göndermek niye? İkisi de tatlı tamam da :/.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Harika.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ha.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "İki kişiyiz çeyrek ekmek gönderdiler nasıl saçmalık bu.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzet bekleyen parasına yazık etmesin 2liraya tavuk döner ayran şirinevlerde daha güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yemekler ve servis özensiz. Bütün yemeklerim dökülmüştü.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Tavuklu pilavınızın sadece isminde tavuk vardı! Servis sıfır, kaşıklar açıkta yollanmıştı.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Tsk.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızı süperdi 20 dakikada geldi çok şaşırdık paketlemede gayet iyiydi ama sanrıım getiren arkadaş sallaya sallaya getirdiki çorbam ile pilavım iç içe girmişti lezzette sıkıntı yok azcık tuzsuzdu ama ekledik geçti.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yedikten sonra midem bozuldu uzun süre de geçmedi.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "4",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Yemek 50 dakikada geldi köfte menüye 19 lira verdim ama sadece üç parça köfte vardı mantı ise hazırdı bi daha sipariş vermeyeceğim muhtemelen.",
+            "Date": "2018-05-25",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Biraz yemeklerin yağı faza gibiydi.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Özenli ve güzel...",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tek kelimeyle harikasınız..",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çorbanın yarısı poşete dökülmüştü ve biraz soğuktu..",
+            "Date": "2018-05-25",
+            "Flavour": "6",
+            "Serving": "1",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gerçekten hayatımda yediğim en berbat yemekti birbuçuk saat sonra geldi çorba poşete dökülmüş ve yemeklerde ters dönmüştü suları akıyordu görüntüden midem bulandı zaten patates püresi demeye bin şahit zaten tavukta bozuk kokuyordu siparişi getiren kişinin yüzsüzlüğünü söylemiyorum bile yemeyin!",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Cok kucuk porsiyonlar, doyurucu degil.",
+            "Date": "2018-04-25",
+            "Flavour": "4",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "1 buçuk saatte geldi resmen ve yemekler.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Yemekler lezzetli ama çok yağlı.",
+            "Date": "2018-04-25",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Porsyon cok az.",
+            "Date": "2018-04-25",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Çok kötü ya her seferinde pişman oluyorum, lütfen biraz özen gösterin.",
+            "Date": "2018-04-25",
+            "Flavour": "2",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İlk açıldıklarına nazaran daha kötüydü o kadar yemek söylememe rağmen ufacık bir ekmek gelmiş yoğurtlu kızartma söyledim patlıcan harici pişmemiş saray kebabı söyledim her zaman söylerdim bu sefer cok yağlı geldi sevilen bir yerdiniz lütfen kendinize çeki düzen verin...",
+            "Date": "2018-04-25",
+            "Flavour": "5",
+            "Serving": "4",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Yorumlara baktigimda siparis vermeyecektim ama denemek istedim. Yorumlarda bahsedildigi gibi kotu degil. Sadece mercimek corbasini gercekten degistirmesi gerekiyor cok yagliydi. Kuru fasulye ve orman kebabi soyledim fiyata gore gayet lezzetliydi. Tavsiye ederim. Mantarli et sote eti porsiyonu kcuktu.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bulgur pilavı pişirilirken tuz unutulmuş net. Bunun az tuzlu karşılığı olamaz ve dibi tutmuş kısmı bana gönderilmiş. Yiyemedim. Musakkanın eti çok kötü kokuyordu ve pişirdiğiniz yağlar gerçekten kalitesiz. Sürekli whatsapptan grup kurup, hiç tanımadığım insanların numaramı öğrenmiş olmasi sinirimi bozuy.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Sipariş çok geç geldi ve bilgilendirme yapılmadı ayrıca kaşık çatal da konulmamıştı.",
+            "Date": "2018-03-26",
+            "Flavour": "5",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "The best!",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sutlaç candır.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tsk.",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Siparişimde mevcut olan içeceği göndermeyi unutmuşlar sanırım. Yemek lezzetliydi. Supangle malesef kötü.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Ne istedik ne geldidaha okuduğunuz yemeği doğru gönderemiyorsunuz.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Mükemmeldi.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok güzel.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Tavuk Sote + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "Tavuk Sote Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salata",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "Kuru Fasulye + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "Kuru Fasulye Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "İzmir Köfte + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "İzmir Köfte Menü",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütlaç",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Karnıyarık + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "Karnıyarık Menü",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Günün Çorbası + Patlıcanlı Güveç + Pilav",
+            "ItemName": "Et Menü",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Günün Çorbası + Kavurma + Pilav",
+            "ItemName": "Kavurma Menü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Günün Çorbası + Ispanak + Pilav",
+            "ItemName": "Sebze Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Günün Çorbası + Kuru Fasulye + Pilav",
+            "ItemName": "Kuru Fasulye Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "İzmir Köfte + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "İzmir Köfte Menü",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Nohut + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "Nohut Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Köri Soslu Tavuk + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "Köri Soslu Tavuk Menü",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Sote + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "Tavuk Sote Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk But + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "Tavuk But Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Kanat + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "Tavuk Kanat Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Kuru Fasulye + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "Kuru Fasulye Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Musakka + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "Musakka Menü",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Karnıyarık + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "Karnıyarık Menü",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Ciğer + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "Ciğer Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Taze Fasulye + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "Taze Fasulye Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Orman Kebabı + Pilav + Seçeceğiniz Yan Ürün",
+            "ItemName": "Orman Kebabı Menü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Abant Kebabı",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Etli Kabak Graten",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Arap Tava",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Arnavut Ciğeri",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuzu Kol Haşlama",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şehriyeli Ankara Tava",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çıtır Tavuk Kanat",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Biftek",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Rosto",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Roti",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kır Köftesi",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bamya",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Menemen",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pilav Üstü Kuru Fasulye",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salata",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cacık",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurt",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Püresi",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kayısı Kompostosu",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bardaklı Muhallebi",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kemalpaşa Tatlısı",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıbrıs Tatlısı",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Puding",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Supangle",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütlaç",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Trileçe",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        }
+    ]
+}

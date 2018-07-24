@@ -1,0 +1,645 @@
+{
+    "comment": [
+        {
+            "Comment": "Very bad.",
+            "Date": "2018-07-02",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "6"
+        },
+        {
+            "Comment": "A must taste for ındian food lovers who crave ındian food.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Puanlarınızın bu denli düşük olmasını memleket insanının standart donanımında bulunan kompleksli mükemmeliyetçilikten başka bir sebeple açıklamaya kalkışmak yersiz çaba olur. Islatılmış baharatlı bulguru, çiğköfte adı altında her öğün (dişileri de dahil) tüketebilen bi güruhtan beklenir davranış.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Yemegi sparis ettikten tam 1 saat 10 dk sonra geldi. Lezzet vasatti. Ben sevmedim.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "5",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Bwgenmedim.",
+            "Date": "2018-06-24",
+            "Flavour": "2",
+            "Serving": "5",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Zira rice damak tadıma uymadı ama porsiyonu baya büyüktü, tatlıyı çok begendim, sarmısaklı ekmek sıcacıktı ve lezzetliydi.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Porsiyon hiç de az değildi, tuzu azdı ama tuzlu gelmesinden iyidir, zencefil tadı ağır basıyordu chicken tikka masalada ama güzeldi, az acılı söyleyin benim gibi dayanıksızsanız ya da orta, tereyağlı tandır ekmeği süperdi.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Çatal, mendil vs. Gönderilse iyi olurdu...",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "3",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Özellikle rica ettiğim halde yanında gelen soslar unutulmuş. Yeme zevkini etkiledi haliyle. İtinalı olursak daha iyi olur.",
+            "Date": "2018-04-25",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Fena degil ama katiliyorum cok pahali. Hint yemegi nusretle yarisiyor degisik. Ayrica orta aci secmeyin aci tadiniz normalse, orta aci cok aci yani yemegin tadini alamiyorsunuz.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Açıkçası beklediğim gibi değildi. Çok özensizdi servis talep etmeme rağmen peçete bile koyulmamıştı. Ödediğim üctete göre biraz daha özen beklerdim.",
+            "Date": "2018-02-24",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hiç sos gelmedi, herhangi bir çatal bıçak da yok.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "5",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Zencefil, baharatlar, özel soslu tavuk",
+            "ItemName": "Chicken Tikka Masala",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Buharda hazırlanan sade basmati pilavı",
+            "ItemName": "Basmati Steamed Rice",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Buharda hazırlanan basmati pilavı, safran, kuru üzüm",
+            "ItemName": "Basmati Zaffron Rice",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Ot ve baharatlı Hint usulü cacık",
+            "ItemName": "Raita",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Taze ve kuru baharat, köri sosu, kemiksiz tavuk",
+            "ItemName": "Chicken Curry",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk etli pilav",
+            "ItemName": "Chicken Biryani",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Hindistan'a özgü geleneksel mercimek çorbası",
+            "ItemName": "Mulligatawny Soup",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Mısır, baharatlı tavuk",
+            "ItemName": "Chicken Corn Soup",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Hindistan'a özgü geleneksel brokoli çorbası",
+            "ItemName": "Broccoli Soup",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Hindistan'a özgü geleneksel patates & karnabahar çorbası",
+            "ItemName": "Potato & Cauliflower Soup",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Hindistan'a özgü geleneksel ıspanak çorbası",
+            "ItemName": "Spinach Soup",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk, karides, mevsim sebzeleri",
+            "ItemName": "Tandoori Special Soup",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Hindistan'a özgü geleneksel kremalı domates çorbası",
+            "ItemName": "Tomato Soup",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Hint usulü sebzeli börek",
+            "ItemName": "Spring Rolls (2 Adet)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Nane ve kişnişli patates topu",
+            "ItemName": "Aloo Bonda (5 Adet)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı nohut unu ile panelenmiş tavuk lolipop",
+            "ItemName": "Chicken Lollipop (5 Adet)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı nohut unu ile panelenmiş mevsim sebzeleri",
+            "ItemName": "Mix Vegetables Pakora (6 Adet)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı nohut unu ile panelenmiş tavuk kızartması",
+            "ItemName": "Chicken Pakora (6 Adet)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı nohut unu ile panelenmiş soğan kızartması",
+            "ItemName": "Onion Bhaji (6 Adet)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Yoğurt ve baharatlarla panelenmiş ızgara peynir",
+            "ItemName": "Paneer Tikka (6 Adet)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "İnce çekilmiş kuzu kıymadan köfte, nohut ezmesi, baharat",
+            "ItemName": "Shami Kebabs (4 Adet)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Baharat & kıymalı börek",
+            "ItemName": "Keema Samosa (6 Adet)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Sebzeli börek",
+            "ItemName": "Vegetable Samosa (6 Adet)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı nohut unu ile panelenmiş peynir kızartması",
+            "ItemName": "Paneer Pakora (6 Adet)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Nane ve kişniş yapraklı patates köftesi",
+            "ItemName": "Aloo Tikki (4 Adet)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Nohut ezmesi ile panelenmiş karides",
+            "ItemName": "Prawn Pakora (5 Adet)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pakora, samosa, spring rolls, tavuk pakora, alo tikki",
+            "ItemName": "Appetizer Plate",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Köri sosta kavrulmuş taze kıymalı bezelye",
+            "ItemName": "Lamb Keema Mattar",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Tandırda pişmiş karışık kebaplar",
+            "ItemName": "Tandoori Mix Platter",
+            "ItemPrice": "90,00 TL"
+        },
+        {
+            "ItemInfo": "Soslu, kemiksiz kuzu eti",
+            "ItemName": "Lamb Shahi Korma",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Soslu, kemiksiz tavuk eti",
+            "ItemName": "Chicken Shahi Korma",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşilbiber, domates, zencefil, sarımsak, kemiksiz tavuk",
+            "ItemName": "Chicken Makhani",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Orta acı baharatlı köri soslu kuzu eti",
+            "ItemName": "Lamb Curry",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Soğan, domates, Yeşilbiber, özel baharatlar, kuzu kuşbaşı",
+            "ItemName": "Lamb Roghan Ghosth",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Taze ve kuru baharat, köri sosu, kemiksiz tavuk",
+            "ItemName": "Chicken Curry",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Aromalı baharatlarla hazırlanan Hindistan'a özgü kiremitte tavuk",
+            "ItemName": "Chicken Achar",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Aromalı baharatlarla hazırlanan Hindistan'a özgü kiremitte kuzu eti",
+            "ItemName": "Lamb Achar Ghosth",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşilbiber, domates, zencefil, sarımsak, acı biber, tavuk",
+            "ItemName": "Chicken Vindaloo",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşilbiber, domates, zencefil, sarımsak, acı biber, kuzu eti",
+            "ItemName": "Lamb Vindaloo (Bol Acılı)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Aromalı baharatlarla hazırlanan Hindistan'a özgü kiremitte tavuk",
+            "ItemName": "Chicken Karahi",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Aromalı baharatlarla hazırlanan Hindistan'a özgü kiremitte kuzu eti",
+            "ItemName": "Lamb Karahi",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Zencefil, baharatlar, özel soslu tavuk",
+            "ItemName": "Chicken Tikka Masala",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Taze zencefil ve baharatlarla hazırlanmış özel soslu tavuk",
+            "ItemName": "Chicken Ginger",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, sarımsak sos, köri sos, karides",
+            "ItemName": "Shrimp Masala",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Taze ıspanaklı kuzu eti",
+            "ItemName": "Lamb Palak",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "(Acılı) 12 çeşit mercimek ve baharatlarla lapa şeklinde pişirilmiş kuzu eti",
+            "ItemName": "Lamb Mughlai Haleem",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşilbiber, domates, zencefil, sarımsak, balık",
+            "ItemName": "Fish Masala",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşilbiber, domates, zencefil, sarımsak, Hindistan cevizi sütü, balık",
+            "ItemName": "Fish Moilee",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Tandırda pişmiş baharatlı Hint usulü kebap",
+            "ItemName": "Seekh Kebab",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Kömürlü tandırda pişirilmiş baharatlı Hint usulü tavuk but",
+            "ItemName": "Chicken Tandoori (Adet)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Yoğurt ve baharatlarla soslanmış, tandırda pişirilmiş kemiksiz tavuk şiş",
+            "ItemName": "Chicken Botti",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sosta bekletilmiş, tandırda ve sos içinde pişirilmiş ızgara kuzu pirzola",
+            "ItemName": "Tondoori Lamb Chop Masala",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Kuzu pirzola",
+            "ItemName": "Lamb Chop",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos içinde bekletilip, özel sos ile pişirilen karides",
+            "ItemName": "Tandoori King Prawn Masala",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşilbiber, domates, zencefil, sarımsak, kemiksiz tavuk",
+            "ItemName": "Chicken 65",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Mantar, ev peyniri, kemiksiz kuzu eti",
+            "ItemName": "Lamb Mushroom & Paneer",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Badem, elma, safran, tavuk",
+            "ItemName": "Chicken Zafrani with Apple & Almonds",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Ananas, yeşilbiber, Hindistan cevizli sos, kemiksiz tavuk",
+            "ItemName": "Murgh Ananas Chillies",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Badem, kuru üzüm, fıstık, krema, kemiksiz tavuk",
+            "ItemName": "Chicken Shahjehani",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Acı biber, domates, soğan, baharatlar, tavuk eti",
+            "ItemName": "Chicken Jalferazi",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Ev peyniri, ıspanak",
+            "ItemName": "Palak Paneer",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Ispanak, mercimek",
+            "ItemName": "Dal Palak",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Zencefil, kimyon, patates",
+            "ItemName": "Dam Aloo",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Baharat, kimyon tohumu, karnabahar, patates",
+            "ItemName": "Aloo Gobi",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Egzotik baharatlı sos, sarı mercimek",
+            "ItemName": "Tarka Dal Masala (Dal Masoor)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, soğan, baharat, bamya",
+            "ItemName": "Bhindi Peyaz",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Bezelye, ev peyniri, baharat",
+            "ItemName": "Matar Paneer Masala",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Baharat, biber, nohut yemeği",
+            "ItemName": "Channa Masala",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Krema sos, patates, ev peynirli köfte",
+            "ItemName": "Malai Kofte (4 Adet)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı karışık mevsim sebzeleri",
+            "ItemName": "Mix Seasonal Vegetables",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Soslu karışık sebzeler",
+            "ItemName": "Mix Vegetables Shahi Korma",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, yeşilbiber, domates, zencefil, sarımsak, ev peyniri",
+            "ItemName": "Paneer Makhani",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Acı biber, domates, soğan, baharat, peynir",
+            "ItemName": "Paneer Jalferazi",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Aromalı baharatlı Hindistan'a özgü peynir",
+            "ItemName": "Paneer Karahi",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos içinde marine edilip, özel sos içinde pişirilen peynir",
+            "ItemName": "Paneer Tikka Masala",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşilbiber, domates, zencefil, sarımsak, ev peyniri",
+            "ItemName": "Paneer 65",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşilbiber, domates, zencefil, sarımsak, karnabahar",
+            "ItemName": "Gobi 65",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Buharda hazırlanan sade basmati pilavı",
+            "ItemName": "Basmati Steamed Rice",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Buharda hazırlanan basmati pilavı, safran, kuru üzüm",
+            "ItemName": "Basmati Zaffron Rice",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Kimyon ve baharatlı pilav",
+            "ItemName": "Zira Rice",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk etli pilav",
+            "ItemName": "Chicken Biryani",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Kuzu etli pilav",
+            "ItemName": "Lamb Biryani",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim sebzeli, baharatlı basmati pilavı",
+            "ItemName": "Vegetable Biryani",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Karides, baharat, safranlı basmati pilavı",
+            "ItemName": "Prawn Biryani",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Sade tandır ekmeği",
+            "ItemName": "Tandoori Roti",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Tereyağlı tandır ekmeği",
+            "ItemName": "Roghni Naan",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Kıymalı tandır ekmeği",
+            "ItemName": "Keema Naan",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Ev peyniri tandır ekmeği",
+            "ItemName": "Paneer Naan",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Sarımsaklı tandır ekmeği",
+            "ItemName": "Garlic Naan",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Kişniş, zencefil, yeşilbiberli tandır ekmeği",
+            "ItemName": "Ginger Naan",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Kişniş, soğan, yeşilbiberli tandır ekmeği",
+            "ItemName": "Onion Kulcha",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Kişniş, kaju, kuru üzümlü tandır ekmeği",
+            "ItemName": "Peshawari Naan",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Tavada pişirilmiş tereyağlı Hint ekmeği",
+            "ItemName": "Plain Paratha",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Tavada pişirilmiş patatesli Hint ekmeği",
+            "ItemName": "Aloo Paratha",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Tavada pişirilmiş yağsız Hint ekmeği",
+            "ItemName": "Chappati",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Ot ve baharatlı Hint usulü cacık",
+            "ItemName": "Raita",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşil salata",
+            "ItemName": "Green Salad",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Havuç, tatlı süt, tereyağı, krema",
+            "ItemName": "Gajar Ka Halwa",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Geleneksel safranlı çıtır Hint tatlısı",
+            "ItemName": "Jilebi",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Hint usulü dondurma",
+            "ItemName": "Kulfi",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık mevsim meyveleri suyu",
+            "ItemName": "Fruite Punch",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Hint usulü tuzlu ayran",
+            "ItemName": "Salted Lassi",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Mango aromalı ayran",
+            "ItemName": "Mango Lassi",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Mango, süt, dondurma",
+            "ItemName": "Mango Shake",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Muz, yoğurt, süt",
+            "ItemName": "Banana Lassi",
+            "ItemPrice": "8,00 TL"
+        }
+    ]
+}

@@ -1,0 +1,888 @@
+{
+    "comment": [
+        {
+            "Comment": "Hızlı geldi lezzetli bir yemek oldu.",
+            "Date": "2018-07-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bir gaziantepli olarak söylüyorum, istanbulda bu fiyata yiyebileceginiz en iyi beyran.",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzell.",
+            "Date": "2018-07-09",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Biraz tuzsuzdu beyti ama fena değildi.",
+            "Date": "2018-07-03",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Çok beğendik inanılmaz fazla doyduk ellerinize sağlık.",
+            "Date": "2018-07-01",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Joker indiriminden aldım. Lahmacunlar çok iyiydi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet memnunum.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Herşey zevkliydi..",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzell.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Anadolu yakasında daha iyi beyan içmedim. İçli köftesi her seferinde taze çıtır çıtır. Antepi evinize getiriyorlar.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Nimet hakkında fazla yorum yapmam yapılmasını da sevmem ama iftar için söylenen yemek yarım saat sonra ve soğuk gelince defalarca yemek yediğim yere yakıştıramadım tekrarı olmaz inşallah.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Güler yüzlü kuryeniz ve lezzetinz mükemmell.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişler hem çok geç geliyor hemde lezzet kocaman bir 0.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Çok güzeldi. İlk kez sipariş verdik arkadaşla. Yerinde de yemeyi düşünüyoruz. Tek kötü yanı çoban salata ve kolamız sıcak gelmişti (hep olacak bir şey olduğunu sanmıyorum tabi). Acılı adananın yanında serinletici bir şeyler arıyor insan :).",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Urfa dedim acili geldi. Sogansiz dedim soganli geldi.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "1",
+            "Speed": "9"
+        },
+        {
+            "Comment": "1-yanlis [ve pahali olan] siparis getirip ustune bir de onun parasini alan, esnafliktan uzak bir yapiya sahip isletme. 2- beyran corbasi 500 metre mesafeden buraya gelmesi 45 dakika surdu. 3- telefonla soyleseydiniz daha ucuz olurdu diyen kuryelere sahip restoran. 4- lezzeti 10 puan.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Hiziniz ve servis mukemmeldi ama porsiyon azdi verdgim paraya gore lezzette tam bekledgim gibi degildi cok kotu degildi ama mukemmelde denemezdi.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fiyatına göre harika,.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ben hayatimda boyle berbat yemek yemedim. 90 liralik siparis verdim tamami kotu. Acisiz lahmacun istedik acili ve tuzlu lahmacun geldi kola istedik cay gibi sicak kola geldi kadayif istedik kunefe geldi. Calisan arkadaslar menuyu kendi istekleri dogrultusunda guncelliyor. Yemeden once dusunun.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Soğana tarçın koymasanız daha güzel olur. Beyti sarmayı sardıktan sonra ocakta ekmeği kızartırsanız mükemmel olur. Kabapın lezzeti güzeldi elinize sağlık.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı servis, lezzetli ürün teşekkür ederiz. Sipariş vermeye devam edeceğiz.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ilık gelmesi dışında herşey iyiydi...",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Suppa.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fiyat kalite oranlaması iyiydi.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Teşekkürler çok lezzetli ve hızlı geldi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika!",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-05-25",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "2. Siparişimizdi. Sipariş notunu da dikkate almışlardı. Her şey güzeldi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cok geç geldiler isminin hakkını veriyor firma acıkmadan gelmediler.",
+            "Date": "2018-04-25",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Hayatımda yediğim en berbat ezogelin çorbası ve lahmacundu. Hatta yiyemedim çöpe attım.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Çok güzeldi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tavsiye ediyorum yemek ve servis cok güzeldi agzının tadını bilen burdan sipariş verebilir beyran çorbası çok güzel.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İzgara karisik tavuk net mukemmel.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Mercimek corbasının icinde köri vardı(? ), renk versin diye konmus belli ama dumduz mercimek corbasi icmek istemistik sadece. Lahmacunun kıyması da asırı kokuyordu yenmedi, iyi ki corbanin yaninda pideyi fazla gondermissiniz de peynirle yedik doyduk.",
+            "Date": "2018-04-25",
+            "Flavour": "2",
+            "Serving": "3",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Ya gerçekten muhteşem bir ciğer dürümdü. Bayıldım.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "8 dakika içerisinde 2 lahmacun geldi harika hız bravo.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparis tam 15. 21 verdim tam 16. 14 teslim edildi tam 57 dakikada gelen siparis de cok kotu ve soguktu bu kadar kotu ve uzun surede gelmesi bir durum ve pide icin cok fazla bir daha siparis vermem burdan.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Süperdi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süperdi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pidelerin lezzeti harikaydı. Fakat kapalı pide/açık pide olarak belirtirseniz daha hoş olabilir. Elinize sağlık.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ben böyle güzel künefe yememiştim hem zamanında geldi, sıcaktı serbetide tam yerinde olmuş ustanın ellerine saglık siparisi getiren arkadaşta güler yüzlüydü.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İstanbulda içtiğim en güzel beyran diyebilirim. Ellerinize sağlık. Adana dürümde çok güzeldi. Abonenizim bundan sonra.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kuzu şişin kuzu eti olduğuna emin misiniz?",
+            "Date": "2018-04-25",
+            "Flavour": "3",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Beyti sarma soğuk ve az pişmişti. Katmerin içinde kaymağı zor buldumm. Gurmeler zor anlar kaymakla yapıldıgını.",
+            "Date": "2018-04-25",
+            "Flavour": "3",
+            "Serving": "8",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Lahmacun soğuk geldi ve pek lezzetli değildi.",
+            "Date": "2018-04-25",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Beyraninizi beyendim kadikoye gidiyordum cok daha pahaliya yiyordum. Artik sizdeyim bozmadan devam.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Toprağım kendimi antepe hissettim. Ustamın ellerine sağlık uzun zamandır böyle dürüm yememiştim. Lavaşı ısıtmanız daha çok hoşuma gitti. İyi çalışmalar. Kaliteyi bozmadan aynen böyle devam.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İlk siparişim, beğendik teşekkürler.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, kıvırcık marul, maydanoz ve isteğe göre soğan",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimek Çorbası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Sarma Beyti Kebap",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fındık Lahmacun",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "Domates, kıvırcık marul, maydanoz ve isteğe göre soğan",
+            "ItemName": "Urfa Dürüm",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Beyran Çorbası",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimek Çorbası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kelle Paça Çorbası",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "İşkembe Çorbası",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Urfa Kebap",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, közlenmiş soğan ile",
+            "ItemName": "Patlıcanlı Kebap",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Domatesli Kebap",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Fıstıklı Kebap",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Beyti Kebap",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Sarma Beyti Kebap",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Dallas Beyti Kebap",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Buharlı Fırın Beyti",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Adana kebağ, tavuk şiş, tavuk kanat, et şiş, domatesli kebap, fındık lahmacun, fıstık pide, salata, pilav",
+            "ItemName": "Karışık Kebap",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Tavuk Adana Kebap",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Adana kebap, domatesli kebap, tavuk şiş, tavuk kanat, tavuk pirzola, et şiş, içli köfte, ızgara köfte, salata, pilav, fındık pide, fıstık lahmacun, çiğ köfte",
+            "ItemName": "Acıktım Özel",
+            "ItemPrice": "46,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Alinazik Kebap (Şişten)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Abugannuş Kebap (Şişten)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Yoğurtlu Kebap (Şişten)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Altı Ezmeli Kebap (Şişten)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "İskender Kebap (Kıymadan)",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Çöp Şiş",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Kuzu Şiş",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Sucuk Izgara",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Ciğer Şiş",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Izgara Köfte",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Kaşarlı Köfte",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Sucuk Köfte",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Tavuk Kanat",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, salata, pilav, çiğ köfte",
+            "ItemName": "Tavuk Pirzola",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk şiş, tavuk kanat, tavuk pirzola, tavuk Adana kebap, fıstık kaşarlı pide, közlenmiş doımates, közlenmiş yeşilbiber",
+            "ItemName": "Karışık Izgara (Tavuk)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Sote",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Sote",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Kavurma",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, kıvırcık marul, maydanoz ve isteğe göre soğan",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, kıvırcık marul, maydanoz ve isteğe göre soğan",
+            "ItemName": "Urfa Dürüm",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, kıvırcık marul, maydanoz ve isteğe göre soğan",
+            "ItemName": "Ciğer Dürüm",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, kıvırcık marul, maydanoz ve isteğe göre soğan",
+            "ItemName": "Kuzu Şiş Dürüm",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, kıvırcık marul, maydanoz ve isteğe göre soğan",
+            "ItemName": "Çöp Şiş Dürüm",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, kıvırcık marul, maydanoz ve isteğe göre soğan",
+            "ItemName": "Tavuk Dürüm",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, kıvırcık marul, maydanoz ve isteğe göre soğan",
+            "ItemName": "Sucuklu Kaşarlı Dürüm",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, kıvırcık marul, maydanoz ve isteğe göre soğan",
+            "ItemName": "Beyti Dürüm",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yarım Ekmek Arası Köfte",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Üç Çeyrek Ekmek Arası Köfte",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, yeşilbiber, salata ve çiğ köfte ile",
+            "ItemName": "Sebzeli Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve çiğ köfte ile",
+            "ItemName": "Mantarlı Kaşarlı Pide",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve çiğ köfte ile",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve çiğ köfte ile",
+            "ItemName": "Kıymalı Kaşarlı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve çiğ köfte ile",
+            "ItemName": "Tulum Peynirli Kaşarlı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve çiğ köfte ile",
+            "ItemName": "Tavuklu Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Kuşbaşı, kıyma, kaşar peyniri, sucuk, kavurma, pastırma",
+            "ItemName": "Acıktım Pide",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve çiğ köfte ile",
+            "ItemName": "Sucuklu Kaşarlı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve çiğ köfte ile",
+            "ItemName": "Kaşarlı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve çiğ köfte ile",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve çiğ köfte ile",
+            "ItemName": "Kuşbaşıılı Pide",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve çiğ köfte ile",
+            "ItemName": "Kavurmalı Kaşarlı Pide",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, kuşbaşı",
+            "ItemName": "Karışık Pide",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve çiğ köfte ile",
+            "ItemName": "Pastırmalı Kaşarlı Pide",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve çiğ köfte ile",
+            "ItemName": "Kaşarlı Lahmacun",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fındık Lahmacun",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ceviz Lahmacun",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Antep Lahmacun",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kızartma İçli Köfte (Adet)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "20 sıkım",
+            "ItemName": "Çiğ Köfte",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Göbek Salata",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salata",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Gavurdağı Salata",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Acılı Ezme",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bostan Salata",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuklu Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Karışık Salata",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Haydari",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kadayıf",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütlaç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Katmer",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (25 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Soda",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (2,5 L.)",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (2,5 L.)",
+            "ItemPrice": "8,50 TL"
+        }
+    ]
+}

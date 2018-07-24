@@ -1,0 +1,433 @@
+{
+    "comment": [
+        {
+            "Comment": "İlk sparişimdi beklediğimden çok iyiydi. Malzemeler bol fiyatlar iyi.",
+            "Date": "2018-07-23",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Berbatın ötüsü.",
+            "Date": "2018-07-23",
+            "Flavour": "1",
+            "Serving": "2",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Efsane.",
+            "Date": "2018-07-22",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Kavurmalı tost yerine sadece kocaman ekmeğin içinde bir avuç parça et vardı ama sizde haklısınız etin fiyatı almış başını gidiyor ama diğer tostlarınız süper 8 verme sebebim kavurmalı tost için onun dışında herşey mükemmel teşekkürler.",
+            "Date": "2018-07-21",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Artık başka yerden tost yemem süperdi.",
+            "Date": "2018-07-21",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İdeal.",
+            "Date": "2018-07-20",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Bu kadar lezzetli olacağını beklemiyordum. Her malzemenin apayrı bir etkisi olmuş mükemmel.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok mükemmel tostunuz harika lezzet.",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Enfes.",
+            "Date": "2018-07-18",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Beklentimin çok üstünde bir lezzet sunduğunuz için teşekkür ederim.",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fiyata oranla daha güzel tad beklentim vardı ayvalık tostu normal ekmek olması şaşırttı. Eksiklerinizi giderirseniz daha güzel olabilir hayırlı olsun.",
+            "Date": "2018-07-18",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, salam, sosis, Rus salatası, ketçap, mayonez veya salça",
+            "ItemName": "Ayvalık Tostu",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, salam, sosis, yumurta, ketçap, mayonez veya salça",
+            "ItemName": "Atom Tost",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, ketçap, mayonez veya salça",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, 50 gr. dana kavurma, ketçap, mayonez veya salça, isteğe göre yumurta",
+            "ItemName": "Kavurmalı Tost",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "200 gr. patates kızartması, kornişon turşu, ketçap, mayonez",
+            "ItemName": "Patatesli Sandviç",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "125 gr. sosis, Rus salatası, salça veya ketçap",
+            "ItemName": "Sosisli Sandviç",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşarlı Tost + Patates Kızartması + Coca-Cola (25 cl.)",
+            "ItemName": "Kaşarlı Tost Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Çeyrek Bazlama Ekmeğine Karışık Tost + Patates Kızartması + Coca-Cola (25 cl.)",
+            "ItemName": "Çeyrek Bazlama Ekmeğine Karışık Tost Menü",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Diyet Tost + Patates Kızartması + Coca-Cola (25 cl.)",
+            "ItemName": "Diyet Tost Menü",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuklu Yumurtalı Tost + Patates Kızartması + Coca-Cola (25 cl.)",
+            "ItemName": "Sucuklu Yumurtalı Tost Menü",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Ayvalık Tost + Patates Kızartması + Coca-Cola (25 cl.)",
+            "ItemName": "Ayvalık Tost Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Kavurmalı Tost + Patates Kızartması + Coca-Cola (25 cl.)",
+            "ItemName": "Kavurmalı Tost Menü",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Atom Tost + Patates Kızartması + Coca-Cola (25 cl.)",
+            "ItemName": "Atom Tost Menü",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet yumurta, 50 gr. dana kavurma",
+            "ItemName": "Kavurmalı Yumurta",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet yumurta ile",
+            "ItemName": "Sade Yumurta",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, 1 adet yumurta",
+            "ItemName": "Menemen",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet yumurta, 50 gr. sucuk",
+            "ItemName": "Sucuklu Yumurta",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet yumurta, 50 gr. dana kıyma",
+            "ItemName": "Kıymalı Yumurta",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet yumurta, 50 gr. pastırma",
+            "ItemName": "Pastırmalı Yumurta",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Haşlanmış yumurta, beyaz peynir, kaşar peyniri, salam, yeşil zeytin, siyah zeytin, bal, tereyağı, reçel, domates, salatalık",
+            "ItemName": "Kahvaltı Tabağı",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, 1 adet yumurta, 50 gr. sucuk",
+            "ItemName": "Sucuklu Menemen",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet yumurta, 50 gr. sosis",
+            "ItemName": "Sosisli Yumurta",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, yumurta, kaşar peyniri",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, salam, sosis, yumurta, ketçap, mayonez veya salça",
+            "ItemName": "Atom Tost",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, salam, sosis, Rus salatası, ketçap, mayonez veya salça",
+            "ItemName": "Ayvalık Tostu",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, ketçap, mayonez veya salça",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, ketçap, mayonez veya salça",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, yumurta, ketçap, mayonez veya salça",
+            "ItemName": "Sucuklu Yumurtalı Tost",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, sosis, turşu, domates, ketçap, mayonez veya salça",
+            "ItemName": "Yengen Tost",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, domates, biber, ketçap, mayonez veya salça",
+            "ItemName": "Çeyrek Bazlama Ekmeğine Karışık Tost",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, domates, biber, ketçap, mayonez veya salça",
+            "ItemName": "Yarım Bazlama Ekmeğine Karışık Tost",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, domates, biber, ketçap, mayonez veya salça",
+            "ItemName": "Tam Bazlama Ekmeğine Karışık Tost",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, 40 gr. kasap sucuk, ketçap, mayonez veya salça, isteğe göre yumurta",
+            "ItemName": "Kasap Sucuklu Tost",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, 50 gr. dana kavurma, ketçap, mayonez veya salça, isteğe göre yumurta",
+            "ItemName": "Kavurmalı Tost",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, 50 gr. dana kıyma, ketçap, mayonez veya salça, isteğe göre yumurta",
+            "ItemName": "Kıymalı Tost",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, 50 gr. pastırma, ketçap, mayonez veya salça, isteğe göre yumurta",
+            "ItemName": "Pastırmalı Tost",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, 70 gr. tavuk döner, domates, ketçap, mayonez veya salça",
+            "ItemName": "Tavuk Dönerli Tost",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, domates, biber, yumurta, ketçap, mayonez veya salça",
+            "ItemName": "Sebzeli Sucuklu Yumurtalı Tost",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, domates, biber, ketçap, mayonez veya salça",
+            "ItemName": "Sebzeli Karışık Tost",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, domates, biber, ketçap, mayonez veya salça",
+            "ItemName": "Sebzeli Kaşarlı Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Nutella, Antep fıstığı, çikolata sos",
+            "ItemName": "Nutellalı Antep Fıstıklı Tost",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Nutella, muz, bal",
+            "ItemName": "Nutellalı Muzlu Tost",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, domates, yeşilbiber, salatalık, kıvırcık marul",
+            "ItemName": "Beyaz Peynirli Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, domates, yeşilbiber, salatalık, kıvırcık marul",
+            "ItemName": "Kaşarlı Sandviç",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, beyaz peynir, domates, yeşilbiber, salatalık, kıvırcık marul",
+            "ItemName": "Karışık Peynirli Sandviç",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, mısır, turşu, kıvırcık marul, limon",
+            "ItemName": "Ton Balıklı Sandviç",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, beyaz peynir, salam, domates, yeşilbiber, salatalık, kıvırcık marul, turşu",
+            "ItemName": "Atom Sandviç",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, salam, domates, yeşilbiber, salatalık, kıvırcık marul",
+            "ItemName": "Salamlı Kaşarlı Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Köfte, domates, kıvırcık marul, ketçap, mayonez, isteğe göre soğan",
+            "ItemName": "Köfteli Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "200 gr. patates kızartması, kornişon turşu, ketçap, mayonez",
+            "ItemName": "Patatesli Sandviç",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "125 gr. sosis, Rus salatası, salça veya ketçap",
+            "ItemName": "Sosisli Sandviç",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "100 gr. sucuk, isteğe göre yeşillik, domates",
+            "ItemName": "Sucuklu Sandviç",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "200 gr. tavuk şnitzel, domates, kıvırcık marul, ketçap, mayonez",
+            "ItemName": "Tavuk Şnitzel Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates Kızartması",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Nugget",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sosis Kızartma",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Parmak Patates Kızartması",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Niğde Gazozu (25 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Portakal Suyu (Küçük)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Portakal Suyu (Büyük)",
+            "ItemPrice": "8,00 TL"
+        }
+    ]
+}

@@ -1,0 +1,503 @@
+{
+    "comment": [
+        {
+            "Comment": "Superdi gercekten.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Daha önce övdüğüm yer ne hale gelmiş bir karışık noddle söyledim makarna plastik gibi pişmemiş ve yarısı soslu yarısı sossuz çok kötü idi, sushi desen sanki bir stajer yapmış gibi dağınık malzemeleri eksikti, artık banamı denk geldi ama kalite düşmüş epey...",
+            "Date": "2018-06-24",
+            "Flavour": "2",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Öğle menüsü porsiyonu yetersiz, çok yetersiz.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Hafta içi menüsü yedim. Yemeğin miktarı tek satıldığı halinden çok daha eksik. Menüyü tehdit zoruyla satmıyorsanız eğer yapılan çok ayıp!",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Hizliydi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "I love dynamite shrimp.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Cheesecake leriniz çok lezzetli ama bu sefer epey bir sallanıp getirilmiş gibiydiler, alt üst olmuşlardı.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Çok başarılı!",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "İlk kez siparis verdim. Yemegin lezzeti, paketlemesi.. Begendim, oldukca bsarili.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Mukemmel.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Istanbuldaki en iyi çin lokantası.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "(Porsiyonlar 1 Kişiliktir) Seçeceğiniz Ana Yemek + Seçeceğiniz Yan Ürün + İçecek",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "California Roll (8 Adet) veya Crab Bites (4 Adet) + Seçeceğiniz Ana Yemek + Kutu İçecek",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "64,00 TL"
+        },
+        {
+            "ItemInfo": "Wok tavada tavuk parçaları, siyah mantar, yeşil soğan, su kestaneleri, çıtır pirinç çubukları, göbek marul kapları ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Hafif panelenmiş taze fasulyeler, baharatlı ve acı dip sos ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı baharatlı sos, panelenmiş aromalı karides, taze soğan parçaları ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Tuz, karabiber, yeşil soğan, kalamar şeritleri, chili bean dip sos ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Edamame, tuz",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Baharat, chili mash, mevsim sebzeleri",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Baharat, chili mash, tavuk",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Baharat, chili mash, karides",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim sebzeleri ile doldurulmuş çıtır spring roll, tatlı & ekşi hardal sos ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim sebzeleri ile doldurulmuş çıtır spring roll, tatlı & ekşi hardal sos ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç, krem peynir, taze soğan, baharat, dynamite sos ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Zencefilli sos, taze mevsim yeşillikleri",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Haşlanmış tavuk, havuç, salatalık, zencefil, kırmızılahana, kızartılmış çıtır erişteler, yerfıstığı & misket limon sos, taze kişniş, kırılmış yerfıstığı parçaları",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Zencefilli sos, taze mevsim yeşillikleri",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Zencefilli sos, taze mevsim yeşillikleri",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı somon, avokado, salatalık. Wasabi, zencefil turşusu ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı somon, avokado, salatalık. Wasabi, zencefil turşusu ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, havuç, kuşkonmaz, Japon turp, avokado, yeşil soğan, baharatlı krem peynir. Wasabi, zencefil turşusu ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, havuç, kuşkonmaz, Japon turp, avokado, yeşil soğan, baharatlı krem peynir. Wasabi, zencefil turşusu ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Kanikama, avokado, salatalık, susam taneleri. Wasabi, zencefil turşusu ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Kanikama, avokado, salatalık, susam taneleri. Wasabi, zencefil turşusu ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, somon, kanikama, avokado, salatalık, susam taneleri. Wasabi, zencefil turşusu ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, somon, kanikama, avokado, salatalık, susam taneleri. Wasabi, zencefil turşusu ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Karides tempura, salatalık, dynamite sos, susam taneleri. Wasabi, zencefil turşusu ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Karides tempura, salatalık, dynamite sos, susam taneleri. Wasabi, zencefil turşusu ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Panelenmiş 4 adet jumbo karides, sos. Wasabi, zencefil turşusu ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "(Acılı) Wok tavada küp doğranmış tavuk göğüs, Chang's Kung Pao sos, acı biber, taze soğan, yer fıstıkları",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Wok tavada baharatlı susam sos, yumuşak tavuk göğüs, brokoli, kırmızı dolmalık biber, soğan, zencefil, sarımsak, acı biber",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "47,00 TL"
+        },
+        {
+            "ItemInfo": "(Acılı) Baharat, tatlı narenciye sos, küp doğranmış tavuk",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Küp doğranmış tavuk göğüs, ananas, yeşil biber, sarı soğan, tatlı ekşi sos ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "İnce dilimlenmiş tavuk göğüs, sebze suyunda pişirilmiş badem, tatlı biberler, kaju fıstıkları, soğan, mantar, kereviz, bambu filizi, su kestaneleri, sarımsaklı soya sos",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "47,00 TL"
+        },
+        {
+            "ItemInfo": "Wok tavada sebze suyunda pişirilmiş ince tavuk dilimleri, zencefil, taze soğan, buharda pişirilmiş brokoli",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Küp doğranmış tavuk, tatlı narenciye sos",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Buharda pişirilip ızgara edilen ördek göğüs ve but, susam sosu, salatalık, jülyen doğranmış taze soğan",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "80,00 TL"
+        },
+        {
+            "ItemInfo": "Marine edilmiş beyaz mantar, shiitake mantarı, tatlı biberler, karamelize dana dilimleri",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Sarımsak, zencefil, yeşil soğan, brokoli, wokta biftek dilimleri",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "52,00 TL"
+        },
+        {
+            "ItemInfo": "(Acılı) Wok tavada ince biftek dilimleri, kırmızı biber, yeşil biber, soğan, sarımsak, karabiber",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Wok tavada ince dana eti dilimleri, portakal kabukları",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "52,00 TL"
+        },
+        {
+            "ItemInfo": "Wok tavada sos ile karamelize edilmiş dana eti dilimleri, yeşil soğan",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "59,00 TL"
+        },
+        {
+            "ItemInfo": "Tatlı teriyaki sos, antrikot dilimleri, limon soslu sotelenmiş mantar, wasabili patates püresi ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "80,00 TL"
+        },
+        {
+            "ItemInfo": "(Acılı) Acı biber, sarımsak, siyah fasulye, karides yumurtası, erişte, baharat",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "64,00 TL"
+        },
+        {
+            "ItemInfo": "(Acılı) Yer fıstığı, acı biber",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "64,00 TL"
+        },
+        {
+            "ItemInfo": "(Acılı) Yeşil fasulye, karides, Kung Pao sos",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "60,00 TL"
+        },
+        {
+            "ItemInfo": "(Acılı) Tuz, karabiber, acı biber, wokta jumbo karidesler, tatlı hardal dip sos",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "69,00 TL"
+        },
+        {
+            "ItemInfo": "Hafif panelenmiş karides, tatlı & ekşi sos",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "59,00 TL"
+        },
+        {
+            "ItemInfo": "Wok tavada panelenmiş karides, karabiber, limon sos, pırasa, kereviz, havuç, soya filizi ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "59,00 TL"
+        },
+        {
+            "ItemInfo": "Wok tavada karides, acı biber, taze portakal kabuğu",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "59,00 TL"
+        },
+        {
+            "ItemInfo": "(Acılı) Sichuan soslu panga balığı, kızartılmış mevsim sebzeleri",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara somon, taze kuşkonmaz ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "65,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara somon, wokta shiitake mantarı, bok choy, domates, kuşkonmaz ile",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "65,00 TL"
+        },
+        {
+            "ItemInfo": "Hindistan cevizi, köri sos, mevsim sebzeleri, tofu, yerfıstıkları",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Yumurta, soya, dilimlenmiş taze soğan, wokta pirinç",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Yumurta, soya, dilimlenmiş taze soğan, wokta pirinç",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Yumurta, soya, dilimlenmiş taze soğan, wokta pirinç",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Yumurta, soya, dilimlenmiş taze soğan, wokta pirinç",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Et, tavuk, karides, yumurta, soya, dilimlenmiş taze soğan, wokta pirinç",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Esmer soslu çıtır noodle",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Esmer soslu çıtır noodle",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Esmer soslu çıtır noodle",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Esmer soslu çıtır noodle",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Et, tavuk, karides, esmer soslu çıtır noodle",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Karides, tavuk şeritleri, domates, kişniş, sarımsak, ince pirinç noodleları",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Damla çikolata, çikolata kreması",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Doğranmış ceviz, baharat",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Taze çilek, ahududu sos",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hafta İçi Öğle Menüsü",
+            "ItemPrice": "6,00 TL"
+        }
+    ]
+}

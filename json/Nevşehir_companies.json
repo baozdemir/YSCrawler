@@ -5,6 +5,45 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "1c0c9f11-72fb-4cd3-b2fc-522947ff8570",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Bahçelievler Mah.",
+                            "FlavourText": "7,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "f4e405e7-0284-489a-8b3a-30cfe4823ac7",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,8",
+                            "CategoryName": "9da1d626-02ff-42f6-a7ca-9cb5b3061b17",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Yeni Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "87cfe267-1949-4cf3-bfd5-70650fa59540",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-yeni-mah-nevsehir"
+                        },
+                        {
                             "AvgPoint": "-",
                             "CategoryName": "c55d4f89-92dc-4bc4-91df-7b61e7fd6a73",
                             "CuisineNameList": [
@@ -23,25 +62,62 @@
                             "href": "/hayat-su-bahcelievler-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,6",
+                            "AvgPoint": "6,9",
+                            "CategoryName": "edaf0ab8-ea28-42f1-93aa-19700e8a9754",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İkizler Cafe & Restaurant, Güzelyurt Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/ikizlercaferest_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,1",
+                            "SpeedText": "7,0",
+                            "WorkHoursText": "24 Saat Açık",
+                            "href": "/ikizler-cafe-restaurant-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
                             "CategoryName": "b07db71f-02b7-46e3-b81e-faf8eb91fe39",
                             "CuisineNameList": [
                                 "Pide"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Merkez Kayseri Lahmacun & Pide, Güzelyurt Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "8,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/merkezkayserilogo_big.gif",
                             "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
                             "MainCuisineName": "Pide",
                             "MinimumDeliveryPrice": 20.0,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,9",
+                            "ServingText": "8,0",
+                            "SpeedText": "8,3",
                             "WorkHoursText": "08:00-21:00",
                             "href": "/merkez-kayseri-lahmacun-pide-guzelyurt-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "5,9",
                             "CategoryName": "5ae961a1-b095-4adb-976e-00ca768753d9",
                             "CuisineNameList": [
                                 "Pizza & İtalyan",
@@ -49,15 +125,55 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "Pizza Pizza, Bahçelievler Mah.",
-                            "FlavourText": "7,2",
+                            "FlavourText": "6,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
                             "MainCuisineId": "98240285-5175-4f93-9265-f9f3633404de",
                             "MainCuisineName": "Pizza Pizza",
                             "MinimumDeliveryPrice": 15.9,
-                            "ServingText": "6,8",
-                            "SpeedText": "6,2",
-                            "WorkHoursText": "10:00-21:30",
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "10:00-21:45",
                             "href": "/pizza-pizza-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "892c474c-24ef-4060-ab59-c53e89681457",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Tavuk",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Popeyes, Bahçelievler Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "2cfbb786-19f6-4fa6-8cde-e8363b5ca48b",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/popeyes-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "b816ce7e-2cd0-44db-bfa5-868bde9166cf",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Bahçelievler Mah.",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "75d38786-6ac1-48e9-9ef9-6a71697f4fd7",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,0",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-bahcelievler-mah-nevsehir"
                         }
                     ]
                 }
@@ -68,43 +184,156 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "9,0",
+                            "AvgPoint": "7,3",
+                            "CategoryName": "1c0c9f11-72fb-4cd3-b2fc-522947ff8570",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Bahçelievler Mah.",
+                            "FlavourText": "7,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "f4e405e7-0284-489a-8b3a-30cfe4823ac7",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,8",
+                            "CategoryName": "9da1d626-02ff-42f6-a7ca-9cb5b3061b17",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Yeni Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "87cfe267-1949-4cf3-bfd5-70650fa59540",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,6",
+                            "CategoryName": "ce05d3b4-15cf-49bd-879b-a0b0b0a72001",
+                            "CuisineNameList": [
+                                "Cafe"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "F Concept & Lounge, 2000 Evler Mah.",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_NEVSEHIR/f-concept-lounge-2000_big.gif",
+                            "MainCuisineId": "3cccafeb-245e-4b2a-82be-3a0f1b3a39b6",
+                            "MainCuisineName": "Cafe",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/f-concept-lounge-2000-evler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "9,1",
                             "CategoryName": "3b8f5965-fc63-4fbd-afb0-529e3d2bbe99",
                             "CuisineNameList": [
                                 "Ev Yemekleri"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Hammura, 2000 Evler Mah.",
-                            "FlavourText": "9,1",
+                            "DisplayName": "Hamura, 2000 Evler Mah.",
+                            "FlavourText": "9,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/hamuralogo_big.gif",
                             "MainCuisineId": "b5ceacf5-9724-4751-a600-78d35cfcf72b",
                             "MainCuisineName": "Ev Yemekleri",
                             "MinimumDeliveryPrice": 0,
-                            "ServingText": "8,9",
+                            "ServingText": "9,0",
                             "SpeedText": "9,1",
                             "WorkHoursText": "09:00-23:00",
-                            "href": "/hammura-2000-evler-mah-nevsehir"
+                            "href": "/hamura-2000-evler-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,6",
+                            "AvgPoint": "6,9",
+                            "CategoryName": "edaf0ab8-ea28-42f1-93aa-19700e8a9754",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İkizler Cafe & Restaurant, Güzelyurt Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/ikizlercaferest_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,1",
+                            "SpeedText": "7,0",
+                            "WorkHoursText": "24 Saat Açık",
+                            "href": "/ikizler-cafe-restaurant-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
                             "CategoryName": "b07db71f-02b7-46e3-b81e-faf8eb91fe39",
                             "CuisineNameList": [
                                 "Pide"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Merkez Kayseri Lahmacun & Pide, Güzelyurt Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "8,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/merkezkayserilogo_big.gif",
                             "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
                             "MainCuisineName": "Pide",
                             "MinimumDeliveryPrice": 18.0,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,9",
+                            "ServingText": "8,0",
+                            "SpeedText": "8,3",
                             "WorkHoursText": "08:00-21:00",
                             "href": "/merkez-kayseri-lahmacun-pide-guzelyurt-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "7,3",
+                            "CategoryName": "6aa8eca4-adbc-4426-a082-3c86a8c771b3",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Milano Pizza & Makarna, Ragıp Üner (15 Temmuz) Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/milanopizza_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,4",
+                            "SpeedText": "7,5",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/milano-pizza-makarna-ragip-uner-15-temmuz-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "5,9",
                             "CategoryName": "5ae961a1-b095-4adb-976e-00ca768753d9",
                             "CuisineNameList": [
                                 "Pizza & İtalyan",
@@ -112,18 +341,38 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "Pizza Pizza, Bahçelievler Mah.",
-                            "FlavourText": "7,2",
+                            "FlavourText": "6,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
                             "MainCuisineId": "98240285-5175-4f93-9265-f9f3633404de",
                             "MainCuisineName": "Pizza Pizza",
                             "MinimumDeliveryPrice": 15.9,
-                            "ServingText": "6,8",
-                            "SpeedText": "6,2",
-                            "WorkHoursText": "10:00-21:30",
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "10:00-21:45",
                             "href": "/pizza-pizza-bahcelievler-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "6,0",
+                            "CategoryName": "892c474c-24ef-4060-ab59-c53e89681457",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Tavuk",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Popeyes, Bahçelievler Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "2cfbb786-19f6-4fa6-8cde-e8363b5ca48b",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/popeyes-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,6",
                             "CategoryName": "6cdb53f5-e185-49e5-ada0-824c792e0015",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -131,13 +380,13 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Simitçi Dünyası, 2000 Evler Mah.",
-                            "FlavourText": "7,1",
+                            "FlavourText": "7,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/simitci-dunyasi_big.gif",
                             "MainCuisineId": "3cccafeb-245e-4b2a-82be-3a0f1b3a39b6",
                             "MainCuisineName": "Cafe",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,8",
-                            "SpeedText": "8,2",
+                            "ServingText": "7,6",
+                            "SpeedText": "7,9",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/simitci-dunyasi-2000-evler-mah-nevsehir"
                         }
@@ -150,25 +399,119 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "1c0c9f11-72fb-4cd3-b2fc-522947ff8570",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Bahçelievler Mah.",
+                            "FlavourText": "7,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "f4e405e7-0284-489a-8b3a-30cfe4823ac7",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,8",
+                            "CategoryName": "9da1d626-02ff-42f6-a7ca-9cb5b3061b17",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Yeni Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "87cfe267-1949-4cf3-bfd5-70650fa59540",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-yeni-mah-nevsehir"
+                        },
+                        {
                             "AvgPoint": "7,6",
+                            "CategoryName": "ce05d3b4-15cf-49bd-879b-a0b0b0a72001",
+                            "CuisineNameList": [
+                                "Cafe"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "F Concept & Lounge, 2000 Evler Mah.",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_NEVSEHIR/f-concept-lounge-2000_big.gif",
+                            "MainCuisineId": "3cccafeb-245e-4b2a-82be-3a0f1b3a39b6",
+                            "MainCuisineName": "Cafe",
+                            "MinimumDeliveryPrice": 34.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/f-concept-lounge-2000-evler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,9",
+                            "CategoryName": "edaf0ab8-ea28-42f1-93aa-19700e8a9754",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İkizler Cafe & Restaurant, Güzelyurt Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/ikizlercaferest_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,1",
+                            "SpeedText": "7,0",
+                            "WorkHoursText": "24 Saat Açık",
+                            "href": "/ikizler-cafe-restaurant-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
                             "CategoryName": "b07db71f-02b7-46e3-b81e-faf8eb91fe39",
                             "CuisineNameList": [
                                 "Pide"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Merkez Kayseri Lahmacun & Pide, Güzelyurt Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "8,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/merkezkayserilogo_big.gif",
                             "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
                             "MainCuisineName": "Pide",
                             "MinimumDeliveryPrice": 18.0,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,9",
+                            "ServingText": "8,0",
+                            "SpeedText": "8,3",
                             "WorkHoursText": "08:00-21:00",
                             "href": "/merkez-kayseri-lahmacun-pide-guzelyurt-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "5,9",
                             "CategoryName": "5ae961a1-b095-4adb-976e-00ca768753d9",
                             "CuisineNameList": [
                                 "Pizza & İtalyan",
@@ -176,15 +519,55 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "Pizza Pizza, Bahçelievler Mah.",
-                            "FlavourText": "7,2",
+                            "FlavourText": "6,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
                             "MainCuisineId": "98240285-5175-4f93-9265-f9f3633404de",
                             "MainCuisineName": "Pizza Pizza",
                             "MinimumDeliveryPrice": 15.9,
-                            "ServingText": "6,8",
-                            "SpeedText": "6,2",
-                            "WorkHoursText": "10:00-21:30",
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "10:00-21:45",
                             "href": "/pizza-pizza-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "892c474c-24ef-4060-ab59-c53e89681457",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Tavuk",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Popeyes, Bahçelievler Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "2cfbb786-19f6-4fa6-8cde-e8363b5ca48b",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/popeyes-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "b816ce7e-2cd0-44db-bfa5-868bde9166cf",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Bahçelievler Mah.",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "75d38786-6ac1-48e9-9ef9-6a71697f4fd7",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,0",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-bahcelievler-mah-nevsehir"
                         }
                     ]
                 }
@@ -195,6 +578,26 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "1c0c9f11-72fb-4cd3-b2fc-522947ff8570",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Bahçelievler Mah.",
+                            "FlavourText": "7,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "f4e405e7-0284-489a-8b3a-30cfe4823ac7",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-bahcelievler-mah-nevsehir"
+                        },
+                        {
                             "AvgPoint": "-",
                             "CategoryName": "c55d4f89-92dc-4bc4-91df-7b61e7fd6a73",
                             "CuisineNameList": [
@@ -213,22 +616,99 @@
                             "href": "/hayat-su-bahcelievler-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,6",
+                            "AvgPoint": "6,9",
+                            "CategoryName": "edaf0ab8-ea28-42f1-93aa-19700e8a9754",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İkizler Cafe & Restaurant, Güzelyurt Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/ikizlercaferest_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,1",
+                            "SpeedText": "7,0",
+                            "WorkHoursText": "24 Saat Açık",
+                            "href": "/ikizler-cafe-restaurant-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
                             "CategoryName": "b07db71f-02b7-46e3-b81e-faf8eb91fe39",
                             "CuisineNameList": [
                                 "Pide"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Merkez Kayseri Lahmacun & Pide, Güzelyurt Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "8,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/merkezkayserilogo_big.gif",
                             "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
                             "MainCuisineName": "Pide",
                             "MinimumDeliveryPrice": 25.0,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,9",
+                            "ServingText": "8,0",
+                            "SpeedText": "8,3",
                             "WorkHoursText": "08:00-21:00",
                             "href": "/merkez-kayseri-lahmacun-pide-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "892c474c-24ef-4060-ab59-c53e89681457",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Tavuk",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Popeyes, Bahçelievler Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "2cfbb786-19f6-4fa6-8cde-e8363b5ca48b",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/popeyes-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "b816ce7e-2cd0-44db-bfa5-868bde9166cf",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Bahçelievler Mah.",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "75d38786-6ac1-48e9-9ef9-6a71697f4fd7",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,0",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-bahcelievler-mah-nevsehir"
                         }
                     ]
                 }
@@ -239,6 +719,45 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "1c0c9f11-72fb-4cd3-b2fc-522947ff8570",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Bahçelievler Mah.",
+                            "FlavourText": "7,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "f4e405e7-0284-489a-8b3a-30cfe4823ac7",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,8",
+                            "CategoryName": "9da1d626-02ff-42f6-a7ca-9cb5b3061b17",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Yeni Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "87cfe267-1949-4cf3-bfd5-70650fa59540",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-yeni-mah-nevsehir"
+                        },
+                        {
                             "AvgPoint": "-",
                             "CategoryName": "c55d4f89-92dc-4bc4-91df-7b61e7fd6a73",
                             "CuisineNameList": [
@@ -257,25 +776,62 @@
                             "href": "/hayat-su-bahcelievler-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,6",
+                            "AvgPoint": "6,9",
+                            "CategoryName": "edaf0ab8-ea28-42f1-93aa-19700e8a9754",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İkizler Cafe & Restaurant, Güzelyurt Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/ikizlercaferest_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,1",
+                            "SpeedText": "7,0",
+                            "WorkHoursText": "24 Saat Açık",
+                            "href": "/ikizler-cafe-restaurant-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
                             "CategoryName": "b07db71f-02b7-46e3-b81e-faf8eb91fe39",
                             "CuisineNameList": [
                                 "Pide"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Merkez Kayseri Lahmacun & Pide, Güzelyurt Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "8,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/merkezkayserilogo_big.gif",
                             "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
                             "MainCuisineName": "Pide",
                             "MinimumDeliveryPrice": 25.0,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,9",
+                            "ServingText": "8,0",
+                            "SpeedText": "8,3",
                             "WorkHoursText": "08:00-21:00",
                             "href": "/merkez-kayseri-lahmacun-pide-guzelyurt-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "5,9",
                             "CategoryName": "5ae961a1-b095-4adb-976e-00ca768753d9",
                             "CuisineNameList": [
                                 "Pizza & İtalyan",
@@ -283,15 +839,55 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "Pizza Pizza, Bahçelievler Mah.",
-                            "FlavourText": "7,2",
+                            "FlavourText": "6,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
                             "MainCuisineId": "98240285-5175-4f93-9265-f9f3633404de",
                             "MainCuisineName": "Pizza Pizza",
                             "MinimumDeliveryPrice": 15.9,
-                            "ServingText": "6,8",
-                            "SpeedText": "6,2",
-                            "WorkHoursText": "10:00-21:30",
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "10:00-21:45",
                             "href": "/pizza-pizza-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "892c474c-24ef-4060-ab59-c53e89681457",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Tavuk",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Popeyes, Bahçelievler Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "2cfbb786-19f6-4fa6-8cde-e8363b5ca48b",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/popeyes-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "b816ce7e-2cd0-44db-bfa5-868bde9166cf",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Bahçelievler Mah.",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "75d38786-6ac1-48e9-9ef9-6a71697f4fd7",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,0",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-bahcelievler-mah-nevsehir"
                         }
                     ]
                 }
@@ -302,20 +898,76 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,6",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "9da1d626-02ff-42f6-a7ca-9cb5b3061b17",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Yeni Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "87cfe267-1949-4cf3-bfd5-70650fa59540",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,9",
+                            "CategoryName": "edaf0ab8-ea28-42f1-93aa-19700e8a9754",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İkizler Cafe & Restaurant, Güzelyurt Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/ikizlercaferest_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,1",
+                            "SpeedText": "7,0",
+                            "WorkHoursText": "24 Saat Açık",
+                            "href": "/ikizler-cafe-restaurant-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
                             "CategoryName": "b07db71f-02b7-46e3-b81e-faf8eb91fe39",
                             "CuisineNameList": [
                                 "Pide"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Merkez Kayseri Lahmacun & Pide, Güzelyurt Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "8,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/merkezkayserilogo_big.gif",
                             "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
                             "MainCuisineName": "Pide",
                             "MinimumDeliveryPrice": 25.0,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,9",
+                            "ServingText": "8,0",
+                            "SpeedText": "8,3",
                             "WorkHoursText": "08:00-21:00",
                             "href": "/merkez-kayseri-lahmacun-pide-guzelyurt-mah-nevsehir"
                         }
@@ -328,6 +980,45 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "1c0c9f11-72fb-4cd3-b2fc-522947ff8570",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Bahçelievler Mah.",
+                            "FlavourText": "7,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "f4e405e7-0284-489a-8b3a-30cfe4823ac7",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,8",
+                            "CategoryName": "9da1d626-02ff-42f6-a7ca-9cb5b3061b17",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Yeni Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "87cfe267-1949-4cf3-bfd5-70650fa59540",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-yeni-mah-nevsehir"
+                        },
+                        {
                             "AvgPoint": "-",
                             "CategoryName": "c55d4f89-92dc-4bc4-91df-7b61e7fd6a73",
                             "CuisineNameList": [
@@ -346,25 +1037,62 @@
                             "href": "/hayat-su-bahcelievler-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,6",
+                            "AvgPoint": "6,9",
+                            "CategoryName": "edaf0ab8-ea28-42f1-93aa-19700e8a9754",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İkizler Cafe & Restaurant, Güzelyurt Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/ikizlercaferest_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,1",
+                            "SpeedText": "7,0",
+                            "WorkHoursText": "24 Saat Açık",
+                            "href": "/ikizler-cafe-restaurant-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
                             "CategoryName": "b07db71f-02b7-46e3-b81e-faf8eb91fe39",
                             "CuisineNameList": [
                                 "Pide"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Merkez Kayseri Lahmacun & Pide, Güzelyurt Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "8,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/merkezkayserilogo_big.gif",
                             "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
                             "MainCuisineName": "Pide",
                             "MinimumDeliveryPrice": 25.0,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,9",
+                            "ServingText": "8,0",
+                            "SpeedText": "8,3",
                             "WorkHoursText": "08:00-21:00",
                             "href": "/merkez-kayseri-lahmacun-pide-guzelyurt-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "5,9",
                             "CategoryName": "5ae961a1-b095-4adb-976e-00ca768753d9",
                             "CuisineNameList": [
                                 "Pizza & İtalyan",
@@ -372,15 +1100,55 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "Pizza Pizza, Bahçelievler Mah.",
-                            "FlavourText": "7,2",
+                            "FlavourText": "6,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
                             "MainCuisineId": "98240285-5175-4f93-9265-f9f3633404de",
                             "MainCuisineName": "Pizza Pizza",
                             "MinimumDeliveryPrice": 15.9,
-                            "ServingText": "6,8",
-                            "SpeedText": "6,2",
-                            "WorkHoursText": "10:00-21:30",
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "10:00-21:45",
                             "href": "/pizza-pizza-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "892c474c-24ef-4060-ab59-c53e89681457",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Tavuk",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Popeyes, Bahçelievler Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "2cfbb786-19f6-4fa6-8cde-e8363b5ca48b",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/popeyes-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "b816ce7e-2cd0-44db-bfa5-868bde9166cf",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Bahçelievler Mah.",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "75d38786-6ac1-48e9-9ef9-6a71697f4fd7",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,0",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-bahcelievler-mah-nevsehir"
                         }
                     ]
                 }
@@ -391,20 +1159,76 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,6",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "9da1d626-02ff-42f6-a7ca-9cb5b3061b17",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Yeni Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "87cfe267-1949-4cf3-bfd5-70650fa59540",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,9",
+                            "CategoryName": "edaf0ab8-ea28-42f1-93aa-19700e8a9754",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İkizler Cafe & Restaurant, Güzelyurt Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/ikizlercaferest_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,1",
+                            "SpeedText": "7,0",
+                            "WorkHoursText": "24 Saat Açık",
+                            "href": "/ikizler-cafe-restaurant-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
                             "CategoryName": "b07db71f-02b7-46e3-b81e-faf8eb91fe39",
                             "CuisineNameList": [
                                 "Pide"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Merkez Kayseri Lahmacun & Pide, Güzelyurt Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "8,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/merkezkayserilogo_big.gif",
                             "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
                             "MainCuisineName": "Pide",
                             "MinimumDeliveryPrice": 25.0,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,9",
+                            "ServingText": "8,0",
+                            "SpeedText": "8,3",
                             "WorkHoursText": "08:00-21:00",
                             "href": "/merkez-kayseri-lahmacun-pide-guzelyurt-mah-nevsehir"
                         }
@@ -417,6 +1241,63 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "1c0c9f11-72fb-4cd3-b2fc-522947ff8570",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Bahçelievler Mah.",
+                            "FlavourText": "7,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "f4e405e7-0284-489a-8b3a-30cfe4823ac7",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,8",
+                            "CategoryName": "9da1d626-02ff-42f6-a7ca-9cb5b3061b17",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Yeni Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "87cfe267-1949-4cf3-bfd5-70650fa59540",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,6",
+                            "CategoryName": "ce05d3b4-15cf-49bd-879b-a0b0b0a72001",
+                            "CuisineNameList": [
+                                "Cafe"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "F Concept & Lounge, 2000 Evler Mah.",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_NEVSEHIR/f-concept-lounge-2000_big.gif",
+                            "MainCuisineId": "3cccafeb-245e-4b2a-82be-3a0f1b3a39b6",
+                            "MainCuisineName": "Cafe",
+                            "MinimumDeliveryPrice": 45.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/f-concept-lounge-2000-evler-mah-nevsehir"
+                        },
+                        {
                             "AvgPoint": "-",
                             "CategoryName": "c55d4f89-92dc-4bc4-91df-7b61e7fd6a73",
                             "CuisineNameList": [
@@ -435,22 +1316,99 @@
                             "href": "/hayat-su-bahcelievler-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,6",
+                            "AvgPoint": "6,9",
+                            "CategoryName": "edaf0ab8-ea28-42f1-93aa-19700e8a9754",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İkizler Cafe & Restaurant, Güzelyurt Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/ikizlercaferest_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,1",
+                            "SpeedText": "7,0",
+                            "WorkHoursText": "24 Saat Açık",
+                            "href": "/ikizler-cafe-restaurant-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
                             "CategoryName": "b07db71f-02b7-46e3-b81e-faf8eb91fe39",
                             "CuisineNameList": [
                                 "Pide"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Merkez Kayseri Lahmacun & Pide, Güzelyurt Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "8,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/merkezkayserilogo_big.gif",
                             "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
                             "MainCuisineName": "Pide",
                             "MinimumDeliveryPrice": 25.0,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,9",
+                            "ServingText": "8,0",
+                            "SpeedText": "8,3",
                             "WorkHoursText": "08:00-21:00",
                             "href": "/merkez-kayseri-lahmacun-pide-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "892c474c-24ef-4060-ab59-c53e89681457",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Tavuk",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Popeyes, Bahçelievler Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "2cfbb786-19f6-4fa6-8cde-e8363b5ca48b",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/popeyes-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "b816ce7e-2cd0-44db-bfa5-868bde9166cf",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Bahçelievler Mah.",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "75d38786-6ac1-48e9-9ef9-6a71697f4fd7",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,0",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-bahcelievler-mah-nevsehir"
                         }
                     ]
                 }
@@ -461,6 +1419,63 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "1c0c9f11-72fb-4cd3-b2fc-522947ff8570",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Bahçelievler Mah.",
+                            "FlavourText": "7,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "f4e405e7-0284-489a-8b3a-30cfe4823ac7",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,8",
+                            "CategoryName": "9da1d626-02ff-42f6-a7ca-9cb5b3061b17",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Yeni Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "87cfe267-1949-4cf3-bfd5-70650fa59540",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,6",
+                            "CategoryName": "ce05d3b4-15cf-49bd-879b-a0b0b0a72001",
+                            "CuisineNameList": [
+                                "Cafe"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "F Concept & Lounge, 2000 Evler Mah.",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_NEVSEHIR/f-concept-lounge-2000_big.gif",
+                            "MainCuisineId": "3cccafeb-245e-4b2a-82be-3a0f1b3a39b6",
+                            "MainCuisineName": "Cafe",
+                            "MinimumDeliveryPrice": 41.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/f-concept-lounge-2000-evler-mah-nevsehir"
+                        },
+                        {
                             "AvgPoint": "-",
                             "CategoryName": "c55d4f89-92dc-4bc4-91df-7b61e7fd6a73",
                             "CuisineNameList": [
@@ -479,22 +1494,118 @@
                             "href": "/hayat-su-bahcelievler-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,6",
+                            "AvgPoint": "6,9",
+                            "CategoryName": "edaf0ab8-ea28-42f1-93aa-19700e8a9754",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İkizler Cafe & Restaurant, Güzelyurt Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/ikizlercaferest_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,1",
+                            "SpeedText": "7,0",
+                            "WorkHoursText": "24 Saat Açık",
+                            "href": "/ikizler-cafe-restaurant-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
                             "CategoryName": "b07db71f-02b7-46e3-b81e-faf8eb91fe39",
                             "CuisineNameList": [
                                 "Pide"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Merkez Kayseri Lahmacun & Pide, Güzelyurt Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "8,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/merkezkayserilogo_big.gif",
                             "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
                             "MainCuisineName": "Pide",
                             "MinimumDeliveryPrice": 25.0,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,9",
+                            "ServingText": "8,0",
+                            "SpeedText": "8,3",
                             "WorkHoursText": "08:00-21:00",
                             "href": "/merkez-kayseri-lahmacun-pide-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "6aa8eca4-adbc-4426-a082-3c86a8c771b3",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Milano Pizza & Makarna, Ragıp Üner (15 Temmuz) Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/milanopizza_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "7,4",
+                            "SpeedText": "7,5",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/milano-pizza-makarna-ragip-uner-15-temmuz-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "892c474c-24ef-4060-ab59-c53e89681457",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Tavuk",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Popeyes, Bahçelievler Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "2cfbb786-19f6-4fa6-8cde-e8363b5ca48b",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/popeyes-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "b816ce7e-2cd0-44db-bfa5-868bde9166cf",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Bahçelievler Mah.",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "75d38786-6ac1-48e9-9ef9-6a71697f4fd7",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,0",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-bahcelievler-mah-nevsehir"
                         }
                     ]
                 }
@@ -505,6 +1616,63 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "1c0c9f11-72fb-4cd3-b2fc-522947ff8570",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Bahçelievler Mah.",
+                            "FlavourText": "7,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "f4e405e7-0284-489a-8b3a-30cfe4823ac7",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,8",
+                            "CategoryName": "9da1d626-02ff-42f6-a7ca-9cb5b3061b17",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Yeni Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "87cfe267-1949-4cf3-bfd5-70650fa59540",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,6",
+                            "CategoryName": "ce05d3b4-15cf-49bd-879b-a0b0b0a72001",
+                            "CuisineNameList": [
+                                "Cafe"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "F Concept & Lounge, 2000 Evler Mah.",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_NEVSEHIR/f-concept-lounge-2000_big.gif",
+                            "MainCuisineId": "3cccafeb-245e-4b2a-82be-3a0f1b3a39b6",
+                            "MainCuisineName": "Cafe",
+                            "MinimumDeliveryPrice": 35.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/f-concept-lounge-2000-evler-mah-nevsehir"
+                        },
+                        {
                             "AvgPoint": "-",
                             "CategoryName": "c55d4f89-92dc-4bc4-91df-7b61e7fd6a73",
                             "CuisineNameList": [
@@ -523,25 +1691,101 @@
                             "href": "/hayat-su-bahcelievler-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,6",
+                            "AvgPoint": "6,9",
+                            "CategoryName": "edaf0ab8-ea28-42f1-93aa-19700e8a9754",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İkizler Cafe & Restaurant, Güzelyurt Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/ikizlercaferest_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,1",
+                            "SpeedText": "7,0",
+                            "WorkHoursText": "24 Saat Açık",
+                            "href": "/ikizler-cafe-restaurant-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
                             "CategoryName": "b07db71f-02b7-46e3-b81e-faf8eb91fe39",
                             "CuisineNameList": [
                                 "Pide"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Merkez Kayseri Lahmacun & Pide, Güzelyurt Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "8,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/merkezkayserilogo_big.gif",
                             "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
                             "MainCuisineName": "Pide",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,9",
+                            "ServingText": "8,0",
+                            "SpeedText": "8,3",
                             "WorkHoursText": "08:00-21:00",
                             "href": "/merkez-kayseri-lahmacun-pide-guzelyurt-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,3",
+                            "CategoryName": "6aa8eca4-adbc-4426-a082-3c86a8c771b3",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Milano Pizza & Makarna, Ragıp Üner (15 Temmuz) Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/milanopizza_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,4",
+                            "SpeedText": "7,5",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/milano-pizza-makarna-ragip-uner-15-temmuz-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "892c474c-24ef-4060-ab59-c53e89681457",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Tavuk",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Popeyes, Bahçelievler Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "2cfbb786-19f6-4fa6-8cde-e8363b5ca48b",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/popeyes-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,6",
                             "CategoryName": "6cdb53f5-e185-49e5-ada0-824c792e0015",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -549,15 +1793,35 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Simitçi Dünyası, 2000 Evler Mah.",
-                            "FlavourText": "7,1",
+                            "FlavourText": "7,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/simitci-dunyasi_big.gif",
                             "MainCuisineId": "3cccafeb-245e-4b2a-82be-3a0f1b3a39b6",
                             "MainCuisineName": "Cafe",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,8",
-                            "SpeedText": "8,2",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,9",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/simitci-dunyasi-2000-evler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "b816ce7e-2cd0-44db-bfa5-868bde9166cf",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Bahçelievler Mah.",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "75d38786-6ac1-48e9-9ef9-6a71697f4fd7",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,0",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-bahcelievler-mah-nevsehir"
                         }
                     ]
                 }
@@ -568,6 +1832,45 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "1c0c9f11-72fb-4cd3-b2fc-522947ff8570",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Bahçelievler Mah.",
+                            "FlavourText": "7,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "f4e405e7-0284-489a-8b3a-30cfe4823ac7",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,8",
+                            "CategoryName": "9da1d626-02ff-42f6-a7ca-9cb5b3061b17",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Yeni Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "87cfe267-1949-4cf3-bfd5-70650fa59540",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-yeni-mah-nevsehir"
+                        },
+                        {
                             "AvgPoint": "-",
                             "CategoryName": "c55d4f89-92dc-4bc4-91df-7b61e7fd6a73",
                             "CuisineNameList": [
@@ -584,6 +1887,65 @@
                             "SpeedText": "-",
                             "WorkHoursText": "09:00-18:45",
                             "href": "/hayat-su-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "892c474c-24ef-4060-ab59-c53e89681457",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Tavuk",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Popeyes, Bahçelievler Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "2cfbb786-19f6-4fa6-8cde-e8363b5ca48b",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/popeyes-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "b816ce7e-2cd0-44db-bfa5-868bde9166cf",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Bahçelievler Mah.",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "75d38786-6ac1-48e9-9ef9-6a71697f4fd7",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,0",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-bahcelievler-mah-nevsehir"
                         }
                     ]
                 }
@@ -594,6 +1956,45 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "1c0c9f11-72fb-4cd3-b2fc-522947ff8570",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Bahçelievler Mah.",
+                            "FlavourText": "7,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "f4e405e7-0284-489a-8b3a-30cfe4823ac7",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,8",
+                            "CategoryName": "9da1d626-02ff-42f6-a7ca-9cb5b3061b17",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Yeni Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "87cfe267-1949-4cf3-bfd5-70650fa59540",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-yeni-mah-nevsehir"
+                        },
+                        {
                             "AvgPoint": "-",
                             "CategoryName": "c55d4f89-92dc-4bc4-91df-7b61e7fd6a73",
                             "CuisineNameList": [
@@ -612,22 +2013,99 @@
                             "href": "/hayat-su-bahcelievler-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,6",
+                            "AvgPoint": "6,9",
+                            "CategoryName": "edaf0ab8-ea28-42f1-93aa-19700e8a9754",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İkizler Cafe & Restaurant, Güzelyurt Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/ikizlercaferest_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,1",
+                            "SpeedText": "7,0",
+                            "WorkHoursText": "24 Saat Açık",
+                            "href": "/ikizler-cafe-restaurant-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
                             "CategoryName": "b07db71f-02b7-46e3-b81e-faf8eb91fe39",
                             "CuisineNameList": [
                                 "Pide"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Merkez Kayseri Lahmacun & Pide, Güzelyurt Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "8,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/merkezkayserilogo_big.gif",
                             "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
                             "MainCuisineName": "Pide",
                             "MinimumDeliveryPrice": 25.0,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,9",
+                            "ServingText": "8,0",
+                            "SpeedText": "8,3",
                             "WorkHoursText": "08:00-21:00",
                             "href": "/merkez-kayseri-lahmacun-pide-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "892c474c-24ef-4060-ab59-c53e89681457",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Tavuk",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Popeyes, Bahçelievler Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "2cfbb786-19f6-4fa6-8cde-e8363b5ca48b",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/popeyes-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "b816ce7e-2cd0-44db-bfa5-868bde9166cf",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Bahçelievler Mah.",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "75d38786-6ac1-48e9-9ef9-6a71697f4fd7",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,0",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-bahcelievler-mah-nevsehir"
                         }
                     ]
                 }
@@ -638,7 +2116,65 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "7,3",
+                            "CategoryName": "1c0c9f11-72fb-4cd3-b2fc-522947ff8570",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Bahçelievler Mah.",
+                            "FlavourText": "7,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "f4e405e7-0284-489a-8b3a-30cfe4823ac7",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,8",
+                            "CategoryName": "9da1d626-02ff-42f6-a7ca-9cb5b3061b17",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Yeni Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "87cfe267-1949-4cf3-bfd5-70650fa59540",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "5,9",
                             "CategoryName": "5ae961a1-b095-4adb-976e-00ca768753d9",
                             "CuisineNameList": [
                                 "Pizza & İtalyan",
@@ -646,15 +2182,55 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "Pizza Pizza, Bahçelievler Mah.",
-                            "FlavourText": "7,2",
+                            "FlavourText": "6,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
                             "MainCuisineId": "98240285-5175-4f93-9265-f9f3633404de",
                             "MainCuisineName": "Pizza Pizza",
                             "MinimumDeliveryPrice": 20.0,
-                            "ServingText": "6,8",
-                            "SpeedText": "6,2",
-                            "WorkHoursText": "10:00-21:30",
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "10:00-21:45",
                             "href": "/pizza-pizza-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "892c474c-24ef-4060-ab59-c53e89681457",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Tavuk",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Popeyes, Bahçelievler Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "2cfbb786-19f6-4fa6-8cde-e8363b5ca48b",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/popeyes-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "b816ce7e-2cd0-44db-bfa5-868bde9166cf",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Bahçelievler Mah.",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "75d38786-6ac1-48e9-9ef9-6a71697f4fd7",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,0",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-bahcelievler-mah-nevsehir"
                         }
                     ]
                 }
@@ -665,43 +2241,157 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "9,0",
+                            "AvgPoint": "7,3",
+                            "CategoryName": "1c0c9f11-72fb-4cd3-b2fc-522947ff8570",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Bahçelievler Mah.",
+                            "FlavourText": "7,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "f4e405e7-0284-489a-8b3a-30cfe4823ac7",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,6",
+                            "CategoryName": "ce05d3b4-15cf-49bd-879b-a0b0b0a72001",
+                            "CuisineNameList": [
+                                "Cafe"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "F Concept & Lounge, 2000 Evler Mah.",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_NEVSEHIR/f-concept-lounge-2000_big.gif",
+                            "MainCuisineId": "3cccafeb-245e-4b2a-82be-3a0f1b3a39b6",
+                            "MainCuisineName": "Cafe",
+                            "MinimumDeliveryPrice": 23.5,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/f-concept-lounge-2000-evler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "9,1",
                             "CategoryName": "3b8f5965-fc63-4fbd-afb0-529e3d2bbe99",
                             "CuisineNameList": [
                                 "Ev Yemekleri"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Hammura, 2000 Evler Mah.",
-                            "FlavourText": "9,1",
+                            "DisplayName": "Hamura, 2000 Evler Mah.",
+                            "FlavourText": "9,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/hamuralogo_big.gif",
                             "MainCuisineId": "b5ceacf5-9724-4751-a600-78d35cfcf72b",
                             "MainCuisineName": "Ev Yemekleri",
                             "MinimumDeliveryPrice": 16.0,
-                            "ServingText": "8,9",
+                            "ServingText": "9,0",
                             "SpeedText": "9,1",
                             "WorkHoursText": "09:00-23:00",
-                            "href": "/hammura-2000-evler-mah-nevsehir"
+                            "href": "/hamura-2000-evler-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,6",
+                            "AvgPoint": "6,9",
+                            "CategoryName": "edaf0ab8-ea28-42f1-93aa-19700e8a9754",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İkizler Cafe & Restaurant, Güzelyurt Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/ikizlercaferest_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,1",
+                            "SpeedText": "7,0",
+                            "WorkHoursText": "24 Saat Açık",
+                            "href": "/ikizler-cafe-restaurant-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 35.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
                             "CategoryName": "b07db71f-02b7-46e3-b81e-faf8eb91fe39",
                             "CuisineNameList": [
                                 "Pide"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Merkez Kayseri Lahmacun & Pide, Güzelyurt Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "8,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/merkezkayserilogo_big.gif",
                             "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
                             "MainCuisineName": "Pide",
                             "MinimumDeliveryPrice": 13.0,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,9",
+                            "ServingText": "8,0",
+                            "SpeedText": "8,3",
                             "WorkHoursText": "08:00-21:00",
                             "href": "/merkez-kayseri-lahmacun-pide-guzelyurt-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,3",
+                            "CategoryName": "6aa8eca4-adbc-4426-a082-3c86a8c771b3",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Milano Pizza & Makarna, Ragıp Üner (15 Temmuz) Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/milanopizza_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,4",
+                            "SpeedText": "7,5",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/milano-pizza-makarna-ragip-uner-15-temmuz-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "892c474c-24ef-4060-ab59-c53e89681457",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Tavuk",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Popeyes, Bahçelievler Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "2cfbb786-19f6-4fa6-8cde-e8363b5ca48b",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/popeyes-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,6",
                             "CategoryName": "6cdb53f5-e185-49e5-ada0-824c792e0015",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -709,13 +2399,13 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Simitçi Dünyası, 2000 Evler Mah.",
-                            "FlavourText": "7,1",
+                            "FlavourText": "7,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/simitci-dunyasi_big.gif",
                             "MainCuisineId": "3cccafeb-245e-4b2a-82be-3a0f1b3a39b6",
                             "MainCuisineName": "Cafe",
                             "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,8",
-                            "SpeedText": "8,2",
+                            "ServingText": "7,6",
+                            "SpeedText": "7,9",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/simitci-dunyasi-2000-evler-mah-nevsehir"
                         }
@@ -744,6 +2434,25 @@
                             "SpeedText": "-",
                             "WorkHoursText": "09:00-18:45",
                             "href": "/hayat-su-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 35.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
                         }
                     ]
                 }
@@ -753,6 +2462,63 @@
             "Yeni Mah.": [
                 {
                     "comps": [
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "1c0c9f11-72fb-4cd3-b2fc-522947ff8570",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Bahçelievler Mah.",
+                            "FlavourText": "7,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "f4e405e7-0284-489a-8b3a-30cfe4823ac7",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,8",
+                            "CategoryName": "9da1d626-02ff-42f6-a7ca-9cb5b3061b17",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Yeni Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "87cfe267-1949-4cf3-bfd5-70650fa59540",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-01:30",
+                            "href": "/dominos-pizza-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,6",
+                            "CategoryName": "ce05d3b4-15cf-49bd-879b-a0b0b0a72001",
+                            "CuisineNameList": [
+                                "Cafe"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "F Concept & Lounge, 2000 Evler Mah.",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_NEVSEHIR/f-concept-lounge-2000_big.gif",
+                            "MainCuisineId": "3cccafeb-245e-4b2a-82be-3a0f1b3a39b6",
+                            "MainCuisineName": "Cafe",
+                            "MinimumDeliveryPrice": 45.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/f-concept-lounge-2000-evler-mah-nevsehir"
+                        },
                         {
                             "AvgPoint": "-",
                             "CategoryName": "c55d4f89-92dc-4bc4-91df-7b61e7fd6a73",
@@ -772,22 +2538,99 @@
                             "href": "/hayat-su-bahcelievler-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,6",
+                            "AvgPoint": "6,9",
+                            "CategoryName": "edaf0ab8-ea28-42f1-93aa-19700e8a9754",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İkizler Cafe & Restaurant, Güzelyurt Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/ikizlercaferest_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,1",
+                            "SpeedText": "7,0",
+                            "WorkHoursText": "24 Saat Açık",
+                            "href": "/ikizler-cafe-restaurant-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
                             "CategoryName": "b07db71f-02b7-46e3-b81e-faf8eb91fe39",
                             "CuisineNameList": [
                                 "Pide"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Merkez Kayseri Lahmacun & Pide, Güzelyurt Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "8,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/merkezkayserilogo_big.gif",
                             "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
                             "MainCuisineName": "Pide",
                             "MinimumDeliveryPrice": 22.0,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,9",
+                            "ServingText": "8,0",
+                            "SpeedText": "8,3",
                             "WorkHoursText": "08:00-21:00",
                             "href": "/merkez-kayseri-lahmacun-pide-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "892c474c-24ef-4060-ab59-c53e89681457",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Tavuk",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Popeyes, Bahçelievler Mah.",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "2cfbb786-19f6-4fa6-8cde-e8363b5ca48b",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/popeyes-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "6,0",
+                            "CategoryName": "b816ce7e-2cd0-44db-bfa5-868bde9166cf",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Bahçelievler Mah.",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "75d38786-6ac1-48e9-9ef9-6a71697f4fd7",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,0",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-bahcelievler-mah-nevsehir"
                         }
                     ]
                 }
@@ -798,7 +2641,46 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "7,3",
+                            "CategoryName": "1c0c9f11-72fb-4cd3-b2fc-522947ff8570",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Bahçelievler Mah.",
+                            "FlavourText": "7,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "f4e405e7-0284-489a-8b3a-30cfe4823ac7",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,1",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-bahcelievler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "6aa8eca4-adbc-4426-a082-3c86a8c771b3",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Milano Pizza & Makarna, Ragıp Üner (15 Temmuz) Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/milanopizza_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,4",
+                            "SpeedText": "7,5",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/milano-pizza-makarna-ragip-uner-15-temmuz-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "5,9",
                             "CategoryName": "5ae961a1-b095-4adb-976e-00ca768753d9",
                             "CuisineNameList": [
                                 "Pizza & İtalyan",
@@ -806,18 +2688,18 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "Pizza Pizza, Bahçelievler Mah.",
-                            "FlavourText": "7,2",
+                            "FlavourText": "6,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pizzapizzaguncel_big.gif",
                             "MainCuisineId": "98240285-5175-4f93-9265-f9f3633404de",
                             "MainCuisineName": "Pizza Pizza",
                             "MinimumDeliveryPrice": 15.9,
-                            "ServingText": "6,8",
-                            "SpeedText": "6,2",
-                            "WorkHoursText": "10:00-21:30",
+                            "ServingText": "6,0",
+                            "SpeedText": "5,5",
+                            "WorkHoursText": "10:00-21:45",
                             "href": "/pizza-pizza-bahcelievler-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,6",
                             "CategoryName": "6cdb53f5-e185-49e5-ada0-824c792e0015",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -825,49 +2707,104 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Simitçi Dünyası, 2000 Evler Mah.",
-                            "FlavourText": "7,1",
+                            "FlavourText": "7,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/simitci-dunyasi_big.gif",
                             "MainCuisineId": "3cccafeb-245e-4b2a-82be-3a0f1b3a39b6",
                             "MainCuisineName": "Cafe",
                             "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,8",
-                            "SpeedText": "8,2",
+                            "ServingText": "7,6",
+                            "SpeedText": "7,9",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/simitci-dunyasi-2000-evler-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "9,0",
+                            "AvgPoint": "7,6",
+                            "CategoryName": "ce05d3b4-15cf-49bd-879b-a0b0b0a72001",
+                            "CuisineNameList": [
+                                "Cafe"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "F Concept & Lounge, 2000 Evler Mah.",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_NEVSEHIR/f-concept-lounge-2000_big.gif",
+                            "MainCuisineId": "3cccafeb-245e-4b2a-82be-3a0f1b3a39b6",
+                            "MainCuisineName": "Cafe",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "7,9",
+                            "WorkHoursText": "11:00-02:00",
+                            "href": "/f-concept-lounge-2000-evler-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "9,1",
                             "CategoryName": "3b8f5965-fc63-4fbd-afb0-529e3d2bbe99",
                             "CuisineNameList": [
                                 "Ev Yemekleri"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Hammura, 2000 Evler Mah.",
-                            "FlavourText": "9,1",
+                            "DisplayName": "Hamura, 2000 Evler Mah.",
+                            "FlavourText": "9,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/hamuralogo_big.gif",
                             "MainCuisineId": "b5ceacf5-9724-4751-a600-78d35cfcf72b",
                             "MainCuisineName": "Ev Yemekleri",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "8,9",
+                            "ServingText": "9,0",
                             "SpeedText": "9,1",
                             "WorkHoursText": "09:00-23:00",
-                            "href": "/hammura-2000-evler-mah-nevsehir"
+                            "href": "/hamura-2000-evler-mah-nevsehir"
                         },
                         {
-                            "AvgPoint": "7,6",
+                            "AvgPoint": "6,9",
+                            "CategoryName": "edaf0ab8-ea28-42f1-93aa-19700e8a9754",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "İkizler Cafe & Restaurant, Güzelyurt Mah.",
+                            "FlavourText": "6,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/ikizlercaferest_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,1",
+                            "SpeedText": "7,0",
+                            "WorkHoursText": "24 Saat Açık",
+                            "href": "/ikizler-cafe-restaurant-guzelyurt-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "42c98f36-83dc-41ce-a071-ddf625f2bee8",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Konyalı Hacı Vehbi Usta, Yeni Mah.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_NEVSEHIR/konyali-haci-vehbi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/konyali-haci-vehbi-usta-yeni-mah-nevsehir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
                             "CategoryName": "b07db71f-02b7-46e3-b81e-faf8eb91fe39",
                             "CuisineNameList": [
                                 "Pide"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Merkez Kayseri Lahmacun & Pide, Güzelyurt Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "8,1",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/merkezkayserilogo_big.gif",
                             "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
                             "MainCuisineName": "Pide",
                             "MinimumDeliveryPrice": 20.0,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,9",
+                            "ServingText": "8,0",
+                            "SpeedText": "8,3",
                             "WorkHoursText": "08:00-21:00",
                             "href": "/merkez-kayseri-lahmacun-pide-guzelyurt-mah-nevsehir"
                         }

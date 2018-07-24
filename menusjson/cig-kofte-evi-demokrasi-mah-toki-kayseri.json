@@ -1,0 +1,317 @@
+{
+    "comment": [
+        {
+            "Comment": "Genel olarak güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hiç güzel değil.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "5"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "90 gr. çiğ köfte, maydanoz, salatalık turşusu, jalapeno biberi, domates, nane, limon, nar ekşisi, acı sos",
+            "ItemName": "Normal Çiğ Köfte Dürüm",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "Çift lavaş, 150 gr. çiğ köfte, maydanoz, salatalık turşusu, jalapeno biberi, domates, nane, limon, nar ekşisi, acı sos",
+            "ItemName": "Maksi Çiğ Köfte Dürüm",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "(Sıcak) Antep fıstığı, Antep şerbeti ile",
+            "ItemName": "Hatay Künefesi (140 gr.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "4 adet lavaş, 1/2 göbek marul, maydanoz, nane, nar ekşisi, acı sos ile",
+            "ItemName": "Çiğ Köfte (400 gr.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "5 adet lavaş, 1/2 göbek marul, maydanoz, nane, nar ekşisi, acı sos ile",
+            "ItemName": "Çiğ Köfte (500 gr.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "10 adet lavaş, tam göbek marul, maydanoz, nane, nar ekşisi, acı sos ile",
+            "ItemName": "Çiğ Köfte (1 kg.) (Garnitürlü)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Tereyağlı Pizza Tost + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Tereyağlı Pizza Tost)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Tereyağlı Karışık Ayvalık Tost + Ayran (17 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Tereyağlı Karışık Ayvalık Tost)",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte Dürüm + Seçeceğiniz Tatlı + Ayran (17 cl.)",
+            "ItemName": "Normal Çiğ Köfte Dürüm Menü",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Maksi Çiğ Köfte Dürüm + Seçeceğiniz Tatlı + Ayran (29,5 cl.)",
+            "ItemName": "Maksi Çiğ Köfte Dürüm Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (250 gr.) + Seçeceğiniz Tatlı + Ayran (29,5 cl.)",
+            "ItemName": "Çiğ Köfte (250 gr.) Menü",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte Dürüm + Seçeceğiniz Tatlı + Ayran (17 cl.)",
+            "ItemName": "Junior Çiğ Köfte Dürüm Menü",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "90 gr. çiğ köfte, maydanoz, salatalık turşusu, jalapeno biberi, domates, nane, limon, nar ekşisi, acı sos",
+            "ItemName": "Normal Çiğ Köfte Dürüm",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "Çift lavaş, 150 gr. çiğ köfte, maydanoz, salatalık turşusu, jalapeno biberi, domates, nane, limon, nar ekşisi, acı sos",
+            "ItemName": "Maksi Çiğ Köfte Dürüm",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet lavaş, 1/4 göbek marul, maydanoz, nane, nar ekşisi, acı sos ile",
+            "ItemName": "Çiğ Köfte (250 gr.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "3 adet lavaş, 1/4 göbek marul, maydanoz, nane, nar ekşisi, acı sos ile",
+            "ItemName": "Çiğ Köfte (300 gr.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "4 adet lavaş, 1/2 göbek marul, maydanoz, nane, nar ekşisi, acı sos ile",
+            "ItemName": "Çiğ Köfte (400 gr.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "5 adet lavaş, 1/2 göbek marul, maydanoz, nane, nar ekşisi, acı sos ile",
+            "ItemName": "Çiğ Köfte (500 gr.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "6 adet lavaş, 3/4 göbek marul, maydanoz, nane, nar ekşisi, acı sos ile",
+            "ItemName": "Çiğ Köfte (670 gr.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "8 adet lavaş, 3/4 göbek marul, maydanoz, nane, nar ekşisi, acı sos ile",
+            "ItemName": "Çiğ Köfte (800 gr.)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "10 adet lavaş, tam göbek marul, maydanoz, nane, nar ekşisi, acı sos ile",
+            "ItemName": "Çiğ Köfte (1 kg.) (Garnitürlü)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çiğ Köfte (1 kg.) (Garnitürsüz)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık ile",
+            "ItemName": "Peynirli Gözleme",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık ile",
+            "ItemName": "Kaşarlı Gözleme",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Çift lavaş ekmeğine; patates kızartması, seçeceğiniz malzemeler ile",
+            "ItemName": "Patatesli Dürüm",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lavaş (3 Adet)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "1/4 göbek marul, maydanoz, nane, limon",
+            "ItemName": "Yeşillik (Küçük)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Acı Sos (Adet)",
+            "ItemPrice": "0,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Nar Ekşisi (Adet)",
+            "ItemPrice": "0,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Burger Sos (Adet)",
+            "ItemPrice": "0,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ketçap (Adet)",
+            "ItemPrice": "0,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mayonez (Adet)",
+            "ItemPrice": "0,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hardal (Adet)",
+            "ItemPrice": "0,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Nar Ekşisi (1 L.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "(Sıcak)",
+            "ItemName": "Fıstıklı Antep Katmeri (150 gr.)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "(Sıcak) Antep fıstığı, Antep şerbeti ile",
+            "ItemName": "Hatay Künefesi (140 gr.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Didi (50 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Didi Bergamot (25 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Didi Şeftali (25 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Organik Şalgam Suyu (25 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (29,5 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tam Yağlı Yayık Ayran (19,5 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (17 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Zencefilli Limonlu Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı",
+            "ItemName": "Şalgam Suyu (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Organik Şalgam Suyu (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (1 L.)",
+            "ItemPrice": "4,75 TL"
+        }
+    ]
+}

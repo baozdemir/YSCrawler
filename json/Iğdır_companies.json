@@ -3,91 +3,1323 @@
         {
             "14 Kasım Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,6",
+                            "CategoryName": "3bfd4517-1b00-4892-88b1-650dab0ad42f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Domino's Pizza, Vali Yolu Cad.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": null,
+                            "MainCuisineName": null,
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-01:45",
+                            "href": "/dominos-pizza-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0ad88784-3fbc-4909-a041-e13879d4318f",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Hot Döner, Topçular Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/hotdonerlogo_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/hot-doner-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "3182a903-f662-4301-a7ce-feda8f14acee",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Namlı76 Lahmacun & Kebap, Topçular Mah.",
+                            "FlavourText": "8,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_IGDIR/namli76lahmacunkebap_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "8,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-23:30",
+                            "href": "/namli76-lahmacun-kebap-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "07b6f841-101a-422c-8009-ef0158e03358",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Narin Kasap & Restaurant, Vali Yolu Cad.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/narin-kasap-restaurant_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:30-21:50",
+                            "href": "/narin-kasap-restaurant-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "28161cd2-c5d1-43eb-81af-d84254826d98",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Atatürk Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KAYSERI/oncu-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/oncu-doner-ataturk-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "6,8",
+                            "CategoryName": "89e843fa-5549-4226-ba7c-67563237d2aa",
+                            "CuisineNameList": [
+                                "Cafe",
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pizza Roma, Cumhuriyet Mah.",
+                            "FlavourText": "6,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/pizzaromalogo_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "09:00-23:00",
+                            "href": "/pizza-roma-cumhuriyet-mah-igdir"
+                        }
+                    ]
                 }
             ]
         },
         {
             "7 Kasım Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,6",
+                            "CategoryName": "3bfd4517-1b00-4892-88b1-650dab0ad42f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Domino's Pizza, Vali Yolu Cad.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": null,
+                            "MainCuisineName": null,
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-01:45",
+                            "href": "/dominos-pizza-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0ad88784-3fbc-4909-a041-e13879d4318f",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Hot Döner, Topçular Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/hotdonerlogo_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/hot-doner-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "3182a903-f662-4301-a7ce-feda8f14acee",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Namlı76 Lahmacun & Kebap, Topçular Mah.",
+                            "FlavourText": "8,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_IGDIR/namli76lahmacunkebap_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 7.5,
+                            "ServingText": "8,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-23:30",
+                            "href": "/namli76-lahmacun-kebap-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "07b6f841-101a-422c-8009-ef0158e03358",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Narin Kasap & Restaurant, Vali Yolu Cad.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/narin-kasap-restaurant_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:30-21:50",
+                            "href": "/narin-kasap-restaurant-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "28161cd2-c5d1-43eb-81af-d84254826d98",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Atatürk Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KAYSERI/oncu-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/oncu-doner-ataturk-mah-igdir"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Atatürk Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,6",
+                            "CategoryName": "3bfd4517-1b00-4892-88b1-650dab0ad42f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Domino's Pizza, Vali Yolu Cad.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": null,
+                            "MainCuisineName": null,
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-01:45",
+                            "href": "/dominos-pizza-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0ad88784-3fbc-4909-a041-e13879d4318f",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Hot Döner, Topçular Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/hotdonerlogo_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/hot-doner-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "3182a903-f662-4301-a7ce-feda8f14acee",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Namlı76 Lahmacun & Kebap, Topçular Mah.",
+                            "FlavourText": "8,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_IGDIR/namli76lahmacunkebap_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-23:30",
+                            "href": "/namli76-lahmacun-kebap-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "07b6f841-101a-422c-8009-ef0158e03358",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Narin Kasap & Restaurant, Vali Yolu Cad.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/narin-kasap-restaurant_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:30-21:50",
+                            "href": "/narin-kasap-restaurant-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "28161cd2-c5d1-43eb-81af-d84254826d98",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Atatürk Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KAYSERI/oncu-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/oncu-doner-ataturk-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "6,8",
+                            "CategoryName": "89e843fa-5549-4226-ba7c-67563237d2aa",
+                            "CuisineNameList": [
+                                "Cafe",
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pizza Roma, Cumhuriyet Mah.",
+                            "FlavourText": "6,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/pizzaromalogo_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "09:00-23:00",
+                            "href": "/pizza-roma-cumhuriyet-mah-igdir"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Bağlar Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,6",
+                            "CategoryName": "3bfd4517-1b00-4892-88b1-650dab0ad42f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Domino's Pizza, Vali Yolu Cad.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": null,
+                            "MainCuisineName": null,
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-01:45",
+                            "href": "/dominos-pizza-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0ad88784-3fbc-4909-a041-e13879d4318f",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Hot Döner, Topçular Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/hotdonerlogo_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/hot-doner-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "3182a903-f662-4301-a7ce-feda8f14acee",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Namlı76 Lahmacun & Kebap, Topçular Mah.",
+                            "FlavourText": "8,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_IGDIR/namli76lahmacunkebap_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-23:30",
+                            "href": "/namli76-lahmacun-kebap-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "07b6f841-101a-422c-8009-ef0158e03358",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Narin Kasap & Restaurant, Vali Yolu Cad.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/narin-kasap-restaurant_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:30-21:50",
+                            "href": "/narin-kasap-restaurant-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "28161cd2-c5d1-43eb-81af-d84254826d98",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Atatürk Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KAYSERI/oncu-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/oncu-doner-ataturk-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "6,8",
+                            "CategoryName": "89e843fa-5549-4226-ba7c-67563237d2aa",
+                            "CuisineNameList": [
+                                "Cafe",
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pizza Roma, Cumhuriyet Mah.",
+                            "FlavourText": "6,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/pizzaromalogo_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "09:00-23:00",
+                            "href": "/pizza-roma-cumhuriyet-mah-igdir"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Cumhuriyet Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,6",
+                            "CategoryName": "3bfd4517-1b00-4892-88b1-650dab0ad42f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Domino's Pizza, Vali Yolu Cad.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": null,
+                            "MainCuisineName": null,
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-01:45",
+                            "href": "/dominos-pizza-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0ad88784-3fbc-4909-a041-e13879d4318f",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Hot Döner, Topçular Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/hotdonerlogo_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/hot-doner-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "3182a903-f662-4301-a7ce-feda8f14acee",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Namlı76 Lahmacun & Kebap, Topçular Mah.",
+                            "FlavourText": "8,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_IGDIR/namli76lahmacunkebap_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-23:30",
+                            "href": "/namli76-lahmacun-kebap-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "07b6f841-101a-422c-8009-ef0158e03358",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Narin Kasap & Restaurant, Vali Yolu Cad.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/narin-kasap-restaurant_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:30-21:50",
+                            "href": "/narin-kasap-restaurant-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "28161cd2-c5d1-43eb-81af-d84254826d98",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Atatürk Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KAYSERI/oncu-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/oncu-doner-ataturk-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "6,8",
+                            "CategoryName": "89e843fa-5549-4226-ba7c-67563237d2aa",
+                            "CuisineNameList": [
+                                "Cafe",
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pizza Roma, Cumhuriyet Mah.",
+                            "FlavourText": "6,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/pizzaromalogo_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "09:00-23:00",
+                            "href": "/pizza-roma-cumhuriyet-mah-igdir"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Karaağaç Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,6",
+                            "CategoryName": "3bfd4517-1b00-4892-88b1-650dab0ad42f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Domino's Pizza, Vali Yolu Cad.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": null,
+                            "MainCuisineName": null,
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-01:45",
+                            "href": "/dominos-pizza-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0ad88784-3fbc-4909-a041-e13879d4318f",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Hot Döner, Topçular Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/hotdonerlogo_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/hot-doner-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "3182a903-f662-4301-a7ce-feda8f14acee",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Namlı76 Lahmacun & Kebap, Topçular Mah.",
+                            "FlavourText": "8,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_IGDIR/namli76lahmacunkebap_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-23:30",
+                            "href": "/namli76-lahmacun-kebap-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "07b6f841-101a-422c-8009-ef0158e03358",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Narin Kasap & Restaurant, Vali Yolu Cad.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/narin-kasap-restaurant_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:30-21:50",
+                            "href": "/narin-kasap-restaurant-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "28161cd2-c5d1-43eb-81af-d84254826d98",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Atatürk Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KAYSERI/oncu-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/oncu-doner-ataturk-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "6,8",
+                            "CategoryName": "89e843fa-5549-4226-ba7c-67563237d2aa",
+                            "CuisineNameList": [
+                                "Cafe",
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pizza Roma, Cumhuriyet Mah.",
+                            "FlavourText": "6,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/pizzaromalogo_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "09:00-23:00",
+                            "href": "/pizza-roma-cumhuriyet-mah-igdir"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Kışla Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,6",
+                            "CategoryName": "3bfd4517-1b00-4892-88b1-650dab0ad42f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Domino's Pizza, Vali Yolu Cad.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": null,
+                            "MainCuisineName": null,
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-01:45",
+                            "href": "/dominos-pizza-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0ad88784-3fbc-4909-a041-e13879d4318f",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Hot Döner, Topçular Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/hotdonerlogo_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/hot-doner-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "3182a903-f662-4301-a7ce-feda8f14acee",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Namlı76 Lahmacun & Kebap, Topçular Mah.",
+                            "FlavourText": "8,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_IGDIR/namli76lahmacunkebap_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "8,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-23:30",
+                            "href": "/namli76-lahmacun-kebap-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "07b6f841-101a-422c-8009-ef0158e03358",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Narin Kasap & Restaurant, Vali Yolu Cad.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/narin-kasap-restaurant_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:30-21:50",
+                            "href": "/narin-kasap-restaurant-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "28161cd2-c5d1-43eb-81af-d84254826d98",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Atatürk Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KAYSERI/oncu-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/oncu-doner-ataturk-mah-igdir"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Konaklı Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,6",
+                            "CategoryName": "3bfd4517-1b00-4892-88b1-650dab0ad42f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Domino's Pizza, Vali Yolu Cad.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": null,
+                            "MainCuisineName": null,
+                            "MinimumDeliveryPrice": 50.0,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-01:45",
+                            "href": "/dominos-pizza-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0ad88784-3fbc-4909-a041-e13879d4318f",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Hot Döner, Topçular Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/hotdonerlogo_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/hot-doner-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "3182a903-f662-4301-a7ce-feda8f14acee",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Namlı76 Lahmacun & Kebap, Topçular Mah.",
+                            "FlavourText": "8,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_IGDIR/namli76lahmacunkebap_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 12.0,
+                            "ServingText": "8,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-23:30",
+                            "href": "/namli76-lahmacun-kebap-topcular-mah-igdir"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Suveren Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,6",
+                            "CategoryName": "3bfd4517-1b00-4892-88b1-650dab0ad42f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Domino's Pizza, Vali Yolu Cad.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": null,
+                            "MainCuisineName": null,
+                            "MinimumDeliveryPrice": 50.0,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-01:45",
+                            "href": "/dominos-pizza-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0ad88784-3fbc-4909-a041-e13879d4318f",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Hot Döner, Topçular Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/hotdonerlogo_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/hot-doner-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "3182a903-f662-4301-a7ce-feda8f14acee",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Namlı76 Lahmacun & Kebap, Topçular Mah.",
+                            "FlavourText": "8,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_IGDIR/namli76lahmacunkebap_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "8,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-23:30",
+                            "href": "/namli76-lahmacun-kebap-topcular-mah-igdir"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Topçular Mah. ": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,6",
+                            "CategoryName": "3bfd4517-1b00-4892-88b1-650dab0ad42f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Domino's Pizza, Vali Yolu Cad.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": null,
+                            "MainCuisineName": null,
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-01:45",
+                            "href": "/dominos-pizza-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0ad88784-3fbc-4909-a041-e13879d4318f",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Hot Döner, Topçular Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/hotdonerlogo_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/hot-doner-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "3182a903-f662-4301-a7ce-feda8f14acee",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Namlı76 Lahmacun & Kebap, Topçular Mah.",
+                            "FlavourText": "8,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_IGDIR/namli76lahmacunkebap_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-23:30",
+                            "href": "/namli76-lahmacun-kebap-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "07b6f841-101a-422c-8009-ef0158e03358",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Narin Kasap & Restaurant, Vali Yolu Cad.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/narin-kasap-restaurant_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:30-21:50",
+                            "href": "/narin-kasap-restaurant-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "28161cd2-c5d1-43eb-81af-d84254826d98",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Atatürk Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KAYSERI/oncu-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/oncu-doner-ataturk-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "6,8",
+                            "CategoryName": "89e843fa-5549-4226-ba7c-67563237d2aa",
+                            "CuisineNameList": [
+                                "Cafe",
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pizza Roma, Cumhuriyet Mah.",
+                            "FlavourText": "6,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/pizzaromalogo_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "09:00-23:00",
+                            "href": "/pizza-roma-cumhuriyet-mah-igdir"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Vali Yolu Cad.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,6",
+                            "CategoryName": "3bfd4517-1b00-4892-88b1-650dab0ad42f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Domino's Pizza, Vali Yolu Cad.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": null,
+                            "MainCuisineName": null,
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-01:45",
+                            "href": "/dominos-pizza-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0ad88784-3fbc-4909-a041-e13879d4318f",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Hot Döner, Topçular Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/hotdonerlogo_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/hot-doner-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "3182a903-f662-4301-a7ce-feda8f14acee",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Namlı76 Lahmacun & Kebap, Topçular Mah.",
+                            "FlavourText": "8,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_IGDIR/namli76lahmacunkebap_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-23:30",
+                            "href": "/namli76-lahmacun-kebap-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "07b6f841-101a-422c-8009-ef0158e03358",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Narin Kasap & Restaurant, Vali Yolu Cad.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/narin-kasap-restaurant_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:30-21:50",
+                            "href": "/narin-kasap-restaurant-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "28161cd2-c5d1-43eb-81af-d84254826d98",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Atatürk Mah.",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KAYSERI/oncu-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/oncu-doner-ataturk-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "6,8",
+                            "CategoryName": "89e843fa-5549-4226-ba7c-67563237d2aa",
+                            "CuisineNameList": [
+                                "Cafe",
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pizza Roma, Cumhuriyet Mah.",
+                            "FlavourText": "6,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/pizzaromalogo_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "09:00-23:00",
+                            "href": "/pizza-roma-cumhuriyet-mah-igdir"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Iğdır Üniversitesi - Karaağaç Kampüsü": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "3182a903-f662-4301-a7ce-feda8f14acee",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Namlı76 Lahmacun & Kebap, Topçular Mah.",
+                            "FlavourText": "8,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_IGDIR/namli76lahmacunkebap_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-23:30",
+                            "href": "/namli76-lahmacun-kebap-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "6,8",
+                            "CategoryName": "89e843fa-5549-4226-ba7c-67563237d2aa",
+                            "CuisineNameList": [
+                                "Cafe",
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pizza Roma, Cumhuriyet Mah.",
+                            "FlavourText": "6,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/pizzaromalogo_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "09:00-23:00",
+                            "href": "/pizza-roma-cumhuriyet-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "07b6f841-101a-422c-8009-ef0158e03358",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Narin Kasap & Restaurant, Vali Yolu Cad.",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_IGDIR/narin-kasap-restaurant_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:30-21:50",
+                            "href": "/narin-kasap-restaurant-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,6",
+                            "CategoryName": "3bfd4517-1b00-4892-88b1-650dab0ad42f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Domino's Pizza, Vali Yolu Cad.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": null,
+                            "MainCuisineName": null,
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-01:45",
+                            "href": "/dominos-pizza-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0ad88784-3fbc-4909-a041-e13879d4318f",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Hot Döner, Topçular Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/hotdonerlogo_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/hot-doner-topcular-mah-igdir"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Iğdır Üniversitesi - Suveren Kampüsü": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "3182a903-f662-4301-a7ce-feda8f14acee",
+                            "CuisineNameList": [
+                                "Pide",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Namlı76 Lahmacun & Kebap, Topçular Mah.",
+                            "FlavourText": "8,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_IGDIR/namli76lahmacunkebap_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 45.0,
+                            "ServingText": "8,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-23:30",
+                            "href": "/namli76-lahmacun-kebap-topcular-mah-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,6",
+                            "CategoryName": "3bfd4517-1b00-4892-88b1-650dab0ad42f",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Domino's Pizza, Vali Yolu Cad.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": null,
+                            "MainCuisineName": null,
+                            "MinimumDeliveryPrice": 50.0,
+                            "ServingText": "8,4",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:00-01:45",
+                            "href": "/dominos-pizza-vali-yolu-cad-igdir"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0ad88784-3fbc-4909-a041-e13879d4318f",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Hot Döner, Topçular Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/hotdonerlogo_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/hot-doner-topcular-mah-igdir"
+                        }
+                    ]
                 }
             ]
         }

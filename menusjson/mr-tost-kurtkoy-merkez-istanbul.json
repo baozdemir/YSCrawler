@@ -1,0 +1,366 @@
+{
+    "comment": [
+        {
+            "Comment": "Sipariş cok hızlı şekilde ve gerçekten cok lezzetli ellerinize sağlık... Arkadaşım tavsiye etti denemek istedim. Favorim ayvalık tostu.",
+            "Date": "2018-07-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sosisli ekmeğiniz bayaat bari tost bassaydınız çöpe attım.",
+            "Date": "2018-07-22",
+            "Flavour": "3",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tekrar sipariş vermeyi düşünmüyorum siparişi getiren arkadaş kibar değil aksine asabi şekilde bakıyordu aşırı itici bir durum kolay gelsin.",
+            "Date": "2018-07-21",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Ürünleriniz kalitesiz demedim. Ayvalık tostu diğer restoranlarınkine göre küçük sadece. Ketçap, mayonez ekleme seçenekleri var fakat hardal ekleme seçeneği yok. Seçeneği ekleyin diye tavsiyede bulundum. Bu kadar defansif olmayın derim. :-).",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hamburger yanında alışıldığı gibi patates kızartması ile servis edilse daha güzel olabilirdi onun dışında hamburger güzel köftesi gayet hoş büyüklükteydi.",
+            "Date": "2018-07-20",
+            "Flavour": "8",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Berbat hizmet içinde malzeme adına bişey yok ürünler kaliteli evet ama. Çok az ve buz gibi geldi içeçekle aynı pakete konmus yemek buz gibi olmuştu.",
+            "Date": "2018-07-20",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Denemek için sandviç, sosisli ve ayvalık tostu söyledim. Sosisli hariç ürünler fiyatlara göre biraz küçüktü maalesef. Sosisliye hardal seçeneği eklenirse süper olur.",
+            "Date": "2018-07-20",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişim çok lezzetliydi ve çok hızlı teslim edildi. Teşekkür ederim ellerinize sağlık.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sipariş çok hızlı bi şekilde geldi. Gayet başarılı lezzetliydi teşekkür ederim.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı geldi ve çok lezzetliydi. İkram olarak turşu vb konulabilir ve içeceğin farklı bir poşette getirilmesi sıcaklık açısından daha iyi olabilir. Sandviç ve tostta yeni favori.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Seçeceğiniz malzemeler ile",
+            "ItemName": "Sosisli Sandviç",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, salam, sosis, domates, Amerikan salatası, turşu, ketçap, mayonez",
+            "ItemName": "Ayvalık Tost",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre ketçap, mayonez",
+            "ItemName": "Sosisli Patso Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Kaşarlı Tost",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre ketçap, mayonez",
+            "ItemName": "Patso Sandviç",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu, Amerikan salatası",
+            "ItemName": "Goralı Sandviç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Hamburger)",
+            "ItemPrice": "11,70 TL"
+        },
+        {
+            "ItemInfo": "Köfte Sandviç + Patates Kızartması + İçecek",
+            "ItemName": "Köfte Sandviç Menü",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Ayvalık Tost + Patates Kızartması + İçecek",
+            "ItemName": "Ayvalık Tost Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Cheeseburger + Patates Kızartması + İçecek",
+            "ItemName": "Cheeseburger Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Şiş + Patates Kızartması + İçecek",
+            "ItemName": "Tavuk Şiş Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, salam, sosis, domates, Amerikan salatası, turşu, ketçap, mayonez",
+            "ItemName": "Ayvalık Tost",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sandviç Ekmeğine Kaşarlı Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sandviç Ekmeğine Kaşarlı Sucuklu Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Sucuklu Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sandviç Ekmeğine Sucuklu Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sandviç Ekmeğine Kavurmalı Kaşarlı Tost",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Kaşarlı Tost",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Füme Dilli Kaşarlı Tost",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sandviç Ekmeğine Dilli Kaşarlı Tost",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu, Amerikan salatası",
+            "ItemName": "Goralı Sandviç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Füme Dilli Kaşarlı Amerikanlı Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz malzemeler ile",
+            "ItemName": "Sosisli Sandviç",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez, turşu",
+            "ItemName": "Füme Dilli Kaşarlı Sandviç",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, isteğe göre soğan",
+            "ItemName": "Tavuk Şiş Sandviç",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ciğerli Sandviç",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ciğerli Kaşarlı Sandviç",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ciğerli Kaşarlı Amerikanlı Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ton Balıklı Sandviç",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ton Balıklı Kaşarlı Sandviç",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Acı sos, karamelize soğan, patates kızartması, domates",
+            "ItemName": "Köfte Sandviç",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, karamelize soğan, soğan halkası veya patates kızartması",
+            "ItemName": "Hamburger",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, karamelize soğan, soğan halkası veya patates kızartması",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre ketçap, mayonez",
+            "ItemName": "Patso Sandviç",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Patso Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre ketçap, mayonez",
+            "ItemName": "Sosisli Patso Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Köfteli Patso Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Patso Sandviç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (1 L.)",
+            "ItemPrice": "5,00 TL"
+        }
+    ]
+}

@@ -1,0 +1,390 @@
+{
+    "comment": [
+        {
+            "Comment": "Siparişte light kola istediğim halde nomal kola geldi. Tavuk iyi pişmemişti.",
+            "Date": "2018-06-23",
+            "Flavour": "2",
+            "Serving": "4",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Pizzanın tadı iyiydi malzemezisi boldu. Ama hamuru biraz daha iyi olabilirdi. Pates kızartmasını köpük tabağa koyup streçlemek büyük yanlış patates yumuşamıştı tadı kötü olmuştu. Aynı şekilde pizzayı köpük tabağa koymak büyük yanlış. Servise biraz daha önem vermeniz lazım. İyi kazançlar.",
+            "Date": "2018-04-24",
+            "Flavour": "8",
+            "Serving": "4",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Sosis, ketçap, mayonez, sucuk, salam, kaşar peyniri, turşu",
+            "ItemName": "Karışık Kumru Sandviç",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Pizza + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Pizza Menü",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre kıvırcık marul, domates, soğan, turşu, ketçap, mayonez",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Kıvırcık marul, domates, ketçap, mayonez, turşu, kaşar peyniri",
+            "ItemName": "Duble Burger",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Kumru Sandviç + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Kumru Menü",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, salam, sosis, sucuk, mantar, mısır, domates, biber",
+            "ItemName": "Spesiyal Pizza (Orta)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Kumru Sandviç + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Kumru Menü",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Hamburger Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Pizza + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Pizza Menü",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Ayvalık Tostu + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Ayvalık Tostu Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, zeytin, beyaz peynir, kaşar peyniri, salam, yumurta, bal, tereyağı, reçel",
+            "ItemName": "Kahvaltı Tabağı",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Peynir, zeytin, söğüş salata, patates kızartması ile",
+            "ItemName": "Menemen",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sade Menemen",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Menemen",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Menemen",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Menemen",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Yumurta",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Omlet",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Omlet",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk",
+            "ItemName": "Karışık Omlet",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, salam, sucuk, salatalık turşusu, domates, ketçap, mayonez",
+            "ItemName": "Ayvalık Tostu",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, isteğe göre ketçap, mayonez",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, yumurta",
+            "ItemName": "Yumurtalı Karışık Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Yumurtalı Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, ketçap, mayonez",
+            "ItemName": "Patso Sandviç",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Sosis, ketçap, mayonez, sucuk, salam, kaşar peyniri, turşu",
+            "ItemName": "Karışık Kumru Sandviç",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Sosis, ketçap, mayonez, sucuk, salam, kaşar peyniri, turşu, yumurta",
+            "ItemName": "Yumurtalı Kumru Sandviç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Sosis, ketçap, mayonez, sucuk, salam, bol kaşar peyniri, turşu",
+            "ItemName": "Ekstra Kaşarlı Kumru Sandviç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Kıvırcık marul, domates, ketçap, mayonez, turşu",
+            "ItemName": "Hamburger",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Kıvırcık marul, domates, ketçap, mayonez, turşu, kaşar peyniri",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Kıvırcık marul, domates, ketçap, mayonez, turşu, kaşar peyniri",
+            "ItemName": "Duble Burger",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, domates, biber",
+            "ItemName": "Margherita Pizza (Orta)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, domates, mısır, zeytin, biber, mantar",
+            "ItemName": "Sebzeli Pizza (Orta)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, salam, sosis, mıısr",
+            "ItemName": "Napoli Pizza (Orta)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, sosis, zeytin",
+            "ItemName": "Napolitan Pizza (Orta)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sosis, mısır, zeytin",
+            "ItemName": "Milano Pizza (Orta)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, salam, sosis, sucuk, mantar, mısır, domates, biber",
+            "ItemName": "Spesiyal Pizza (Orta)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, ton balığı, zeytin, domates, biber",
+            "ItemName": "Ton Pizza (Orta)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, tavuk, zeytin, domates, biber",
+            "ItemName": "Chicken Pizza (Orta)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, kavurma, domates, biber",
+            "ItemName": "Kavurmalı Pizza (Orta)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sosis, sucuk, salam",
+            "ItemName": "Kumru Pizza (Orta)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, salata ile",
+            "ItemName": "Izgara Köfte",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, salata ile",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, salata ile",
+            "ItemName": "Tavuk Izgara",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, salata ile",
+            "ItemName": "Tavuk Schnitzel",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, salata ile",
+            "ItemName": "Köri Soslu Tavuk",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, salata ile",
+            "ItemName": "Tavuk Sote",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, salata ile",
+            "ItemName": "Tavuk Kavurma",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre kıvırcık marul, domates, soğan, turşu, ketçap, mayonez",
+            "ItemName": "Yarım Ekmek Arası Izgara Köfte",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre kıvırcık marul, domates, soğan, turşu, ketçap, mayonez",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre kıvırcık marul, domates, soğan, turşu, ketçap, mayonez",
+            "ItemName": "Köfte Dürüm",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Sosis, ketçap, mayonez, sucuk, salam, turşu, bol kaşar peyniri",
+            "ItemName": "Kumru Dürüm",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Patlıcan, patates, biber, domates sosu",
+            "ItemName": "Domates Soslu Karışık Kızartma",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Patlıcan, patates, biber, yoğurt",
+            "ItemName": "Yoğurtlu Karışık Kızartma",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates Kızartması",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salatası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Kıvırcık marul, domates, salatalık, mısır, zeytin, sos, nar ekşisi, ızgara tavuk",
+            "ItemName": "Tavuklu Salata",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Kıvırcık marul, domates, salatalık, mısır, zeytin, sos, nar ekşisi, ton balığı",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Eker Ayran (20 cl.)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Uludağ Soda (33 cl.)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Uludağ Soda (33 cl.)",
+            "ItemPrice": "0,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "3,00 TL"
+        }
+    ]
+}

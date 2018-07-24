@@ -1,0 +1,374 @@
+{
+    "comment": [
+        {
+            "Comment": "Çok geç gönderiyorsunuz siparişi.",
+            "Date": "2018-07-21",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Ya siz efsanesiniz ya bayıldım kıbrısta yediğim en lezzetli şey sizin tostlarınız bağımlılık yaptı bende.",
+            "Date": "2018-07-21",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Nerdeyse bütün ürünlerinizi denedim çok lezzetliydi elinize sağlık.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok beğendim. Kaliteyi her zaman belli ediyorsunuz.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zaman herşeyiyle mükemmel!",
+            "Date": "2018-06-30",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tavuk dolmasıni asla tavsiye etmiyorum.",
+            "Date": "2018-06-29",
+            "Flavour": "2",
+            "Serving": "8",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Daha önce telefoniyen sipariş vermiştim ikisi de 15-20 dakika içerisinde geldi. Sıcak ve hijyenikti hayatımda yediğim en güzel tavuk dolmaydı çok memnun kaldm. Herkese tavsiye ederim.",
+            "Date": "2018-06-29",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Memnun kalmadim malesef.",
+            "Date": "2018-04-25",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Yıllardır yemeksepetinden sipariş veriyorum. Hayatımda yediğim en kötü yemekti. Olduğu gibi çöpe attım.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Mantı",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bulgur Köftesi",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Köfteli Bidda Badadez Dürüm",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, salam, sosis, domates",
+            "ItemName": "Ayvalık Tostu",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Bidda Badadez Dürüm + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Bidda Badadez Dürüm)",
+            "ItemPrice": "15,25 TL"
+        },
+        {
+            "ItemInfo": "Ayvalık Tostu + Ayran (20 cl.)",
+            "ItemName": "Ayvalık Tostu Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Bidda Badadez Dürüm + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Bidda Badadez Dürüm)",
+            "ItemPrice": "15,25 TL"
+        },
+        {
+            "ItemInfo": "Ayvalık Tostu + Ayran (20 cl.)",
+            "ItemName": "Ayvalık Tostu Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Bidda Badadez Dürüm + Ayran (20 cl.)",
+            "ItemName": "Bidda Badadez Dürüm Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Cheeseburger + Kutu İçecek",
+            "ItemName": "Cheeseburger Menü",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Çıtır Tavuk + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Çıtır Tavuk Menü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Çörek Ekmeğine Full Sandviç + Ayran (20 cl.)",
+            "ItemName": "Çörek Ekmeğine Full Sandviç Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Çörek Ekmeğine Karışık Sandviç + Ayran (20 cl.)",
+            "ItemName": "Çörek Ekmeğine Karışık Sandviç Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Çörek Ekmeğine Karışık Tost + Ayran (20 cl.)",
+            "ItemName": "Çörek Ekmeğine Karışık Tost Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Çörek Ekmeğine Ton Balıklı Sandviç + Ayran (20 cl.)",
+            "ItemName": "Çörek Ekmeğine Ton Balıklı Sandviç Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Ekmek Arası Izgara Köfte + Ayran (20 cl.)",
+            "ItemName": "Ekmek Arası Izgara Köfte Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Kutu İçecek",
+            "ItemName": "Hamburger Menü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Sandviç + Ayran (20 cl.)",
+            "ItemName": "Karışık Sandviç Menü",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Tost + Ayran (20 cl.)",
+            "ItemName": "Karışık Tost Menü",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Köfteli Bidda Badadez Dürüm + Ayran (20 cl.)",
+            "ItemName": "Köfteli Bidda Badadez Dürüm Menü",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Kumru Sandviç + Ayran (20 cl.)",
+            "ItemName": "Kumru Sandviç Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Somun Ekmek Arası Ciğer + Ayran (20 cl.)",
+            "ItemName": "Somun Ekmek Arası Ciğer Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Sosisli Sandviç + Ayran (20 cl.)",
+            "ItemName": "Sosisli Sandviç Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Dolma + Pilav + Patates Kızartması + Salata + Kutu İçecek",
+            "ItemName": "Tavuk Dolma Menü",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Ton Balıklı Sandviç + Ayran (20 cl.)",
+            "ItemName": "Ton Balıklı Sandviç Menü",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Peynirli Poğaça",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Günün Çorbası",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Salam, biftek, kaşar peyniri, hellim peyniri, domates, salatalık, sos",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Biftek, salam, kaşar peyniri, hellim peyniri, domates, salatalık, sos",
+            "ItemName": "Çörek Ekmeğine Karışık Tost",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, salam, sosis, domates",
+            "ItemName": "Ayvalık Tostu",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Sosis, karamelize soğan, mayonez, ketçap, mayonez, hardal, turşu, isteğe göre acı",
+            "ItemName": "Sosisli Sandviç",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Salam, biftek, kaşar peyniri, hellim peyniri, domates, salatalık, sos",
+            "ItemName": "Karışık Sandviç",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, marul, domates, salatalık",
+            "ItemName": "Ton Balıklı Sandviç",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sosis, sucuk, salam, domates, ketçap, mayonez",
+            "ItemName": "Kumru Sandviç",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, marul, domates, salatalık",
+            "ItemName": "Çörek Ekmeğine Ton Balıklı Sandviç",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Salam, biftek, hellim peyniri, domates, salatalık, sos",
+            "ItemName": "Çörek Ekmeğine Karışık Sandviç",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, hellim peyniri, biftek, salam, mısır, domates, salatalık, patates kızartması, sos",
+            "ItemName": "Çörek Ekmeğine Full Sandviç",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması ile",
+            "ItemName": "Hamburger",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Ev yapımı hamburger ekmeği, karamelize soğam, burger sos, domates, göbek marul, mayonez, ketçap",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mantı",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bulgur Köftesi",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ile",
+            "ItemName": "Tavuklu Pilav",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Nugget",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre soğan",
+            "ItemName": "Ekmek Arası Izgara Köfte",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bidda Badadez Dürüm",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Köfteli Bidda Badadez Dürüm",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk, marul, salatalık, domates, mısır, siyah zeytin, kornişon turşu",
+            "ItemName": "Tavuklu Salata",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, marul, salatalık, domates, mısır, siyah zeytin, kornişon turşu",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (1 L.)",
+            "ItemPrice": "4,00 TL"
+        }
+    ]
+}

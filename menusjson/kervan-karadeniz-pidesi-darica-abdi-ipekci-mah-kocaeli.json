@@ -1,0 +1,305 @@
+{
+    "comment": [
+        {
+            "Comment": "Pideler gayet büyük ve lezzetliydi. Minumum paket tutarını arttırmadığınız sürece pide siparişlerini buradan vermeyi düşünüyoruz:).",
+            "Date": "2018-07-22",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hem doyurucu hem lezzetli hem de hızlı.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Sucuklu Kaşarlı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Kolot peyniri, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Sürmene Yağlısı (Yuvarlak)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Kuşbaşı, domates, kırmızıbiber, yeşilbiber, maydanoz, baharat, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Kuşbaşılı Pide",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ezogelin Çorbası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Kaşarlı Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Cağ Kebabı Şiş (160 gr.) + Acılı Ezme + Biber Turşusu + Lavaş",
+            "ItemName": "2'li Cağ Kebabı Şiş Menü",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Günün Çorbası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ezogelin Çorbası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimek Çorbası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk, domates, kırmızıbiber, yeşilbiber, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Tavuklu Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, domates, yeşilbiber, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Ton Balıklı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Kuşbaşı, domates, kırmızıbiber, yeşilbiber, maydanoz, baharat, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Kuşbaşılı Pide",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Görele Pidesi",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Pastırma, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Pastırmalı Pide (Kapalı)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Sucuklu Kaşarlı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Patates, kaşar peyniri, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Patatesli Kaşarlı Pide",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mantar, kaşar peyniri, baharat. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Mantarlı Kaşarlı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Bafra Pidesi",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Kavurma, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Kavurmalı Pide (Kapalı)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kuşbaşı, kavurma, kaşar peyniri, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Karışık Karadeniz Pidesi",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Çökelek, kaşar peyniri, maydanoz, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Karışık Peynirli Pide",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Kaşarlı Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Kıymalı Pide (Yuvarlak)",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Kavurma, kuşbaşı, kıyma, kaşar peyniri",
+            "ItemName": "Karışık Karadeniz Pidesi (Yuvarlak)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Pastırmalı Kaşarlı Pide (Yuvarlak)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Kolot peyniri, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Sürmene Yağlısı (Yuvarlak)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Kavurma, kıyma, pastırma, sucuk, kaşar peyniri, domates, biber, tereyağı. Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Special Pide (Yuvarlak)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Kavurmalı Pide (Yuvarlak)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, biber turşusu, salatalık turşusu ile",
+            "ItemName": "Kuşbaşılı Pide (Yuvarlak)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "80 gr. kuzu eti, acılı ezme, biber turşusu ile",
+            "ItemName": "Cağ Kebabı Şiş",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "80 gr. kuzu eti, isteğe göre domates ve soğan. Acılı ezme, biber turşusu ile",
+            "ItemName": "Cağ Kebabı Dürüm",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Manda Yoğurdu",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salata",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Gavurdağı Salatası",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fırın Sütlaç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kadayıf Dolması",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Katmer Tatlısı",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (1 L.)",
+            "ItemPrice": "6,00 TL"
+        }
+    ]
+}

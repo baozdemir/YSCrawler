@@ -1,0 +1,451 @@
+{
+    "comment": [
+        {
+            "Comment": "Ayvalık tostunu tavsiye ederim.",
+            "Date": "2018-06-27",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Duru.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Tost iki kere ısıtılmıştı yanmıştı, patateslerde aynı şekilde ısıtılmıştı. Patatesi baharatlı istemiştim normal gelmişti. İlk defa eve sipariş ettim çok kötüydü.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Patso daki sosis tek parça olsa herşey mükemmel olacaktı. Gayet başarılı.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bildiğimiz menüden şaşmıyoruz, fiyatına göre gayet doyurucu. Hız, lezzet ve servis konusundaki hassasiyetiniz için teşekkürler...",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet güzeldi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Okulumuz merkeze uzak olmasına rağmen siparişimiz 25 dkda sıcak bir şekilde geldi. Cimbilik tost ve patatesleri lezzetli, teşekkür ederiz. :).",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bafranin en iyisi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mükemmel.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok iyi. Teşekkürler.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Cimbilik Tost + Patates Kızartması + Ev Yapımı Limonata veya Ayran (18. cl.)",
+            "ItemName": "Cimbilik Tost Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Bazlama ekmeği, sucuk, salam, sosis, kaşar peyniri, domates, turşu, çarliston biber",
+            "ItemName": "Öğle Arası Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, kavurma, isteğe göre domates, çarliston biber, pul biber, kekik",
+            "ItemName": "Kavurmalı Tost",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, salam, kaşar peyniri, domates, çarliston biber, turşu, ketçap, mayonez",
+            "ItemName": "Cimbilik Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Patates Kızartması + İçecek",
+            "ItemName": "Hamburger Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, kaşar peyniri, beyaz peynir, domates, çarliston biber, pul biber, kekik",
+            "ItemName": "Pattost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Cheeseburger + Patates Kızartması + İçecek",
+            "ItemName": "Cheeseburger Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Duble Burger + Patates Kızartması + İçecek",
+            "ItemName": "Duble Burger Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Duble Cheeseburger + Patates Kızartması + İçecek",
+            "ItemName": "Duble Cheeseburger Menü",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Öğle Arası Tost + Patates Kızartması + Ev Yapımı Limonata veya Ayran (18. cl.)",
+            "ItemName": "Öğle Arası Tost Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Ayvalık Tostu + Patates Kızartması + Soğan Halkası + İçecek",
+            "ItemName": "Ayvalık Tost Menü",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Duble Tost + Patates Kızartması + Soğan Halkası + İçecek",
+            "ItemName": "Duble Tost Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Veggie Tost + Patates Kızartması + İçecek",
+            "ItemName": "Veggie Tost Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Yengen Tost + Patates Kızartması + İçecek",
+            "ItemName": "Yengen Tost Menü",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Patates Kızartması + İçecek",
+            "ItemName": "Hamburger Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Burger + Patates Kızartması + İçecek",
+            "ItemName": "Tavuk Burger Menü",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Schnitzel Burger + Patates Kızartması + İçecek",
+            "ItemName": "Schnitzel Burger Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Yeme De Yanında Yat Tost + Patates Kızartması + İçecek",
+            "ItemName": "Yeme De Yanında Yat Tost Menü",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Cimbilik Tost + Patates Kızartması + Ev Yapımı Limonata veya Ayran (18. cl.)",
+            "ItemName": "Cimbilik Tost Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Duble Burger (Uno büyük boy hamburger ekmeği, 2 adet dana hamburger köftesi, özel sos, iceberg marul, domates, turşu) + Limonata",
+            "ItemName": "Duble Burger & Limonata Menü",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Duble Cheeseburger (Uno büyük boy hamburger ekmeği, 2 adet dana hamburger köftesi, 2 adet cheddar peyniri, özel sos, iceberg marul, domates, turşu) + Limonata",
+            "ItemName": "Duble Cheeseburger & Limonata Menü",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Cimbilik Burger + Patates Kızartması + İçecek",
+            "ItemName": "Cimbilik Burger Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, kaşar peyniri, beyaz peynir, domates, çarliston biber, pul biber, kekik",
+            "ItemName": "Pattost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, kaşar peyniri, sucuk, salam, sosis, Rus salatası",
+            "ItemName": "Süper Ayvalık Tostu",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Kasap sucuk, kaşar peyniri, domates, turşu",
+            "ItemName": "Ayvalık Ekmeğine Yengen Tost",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Ayvalık tost ekmeği, kasap sucuk, kaşar peyniri, domates, turşu, isteğe göre ketçap, mayonez",
+            "ItemName": "Duble Tost",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Dana sucuk, pastırma, çemen, domates, çarliston biber, kaşar peyniri, cheddar peyniri",
+            "ItemName": "Ali Baba Tost",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kasap sucuk, kaşar peyniri, beyaz peynir, jalapeno biber, sriracha acı sos, domates",
+            "ItemName": "Acı Sever Tost",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, domates, turşu, çarliston biber, ketçap, mayonez",
+            "ItemName": "Ayrılsak Da Beraberiz Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, kaşar peyniri, sucuk, salam, sosis, Rus salatası",
+            "ItemName": "Ayvalık Tostu",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, salam, kaşar peyniri, domates, çarliston biber, turşu, ketçap, mayonez",
+            "ItemName": "Cimbilik Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Kepek ekmeği, light beyaz peynir, domates, isteğe göre kekik, pul biber",
+            "ItemName": "Diyet Tost (205 Kcal.)",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, kavurma, isteğe göre domates, çarliston biber, pul biber, kekik",
+            "ItemName": "Kavurmalı Tost",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Pastırma, kaşar peyniri, domates, çarliston biber, turşu, isteğe göre Rus salatası",
+            "ItemName": "Kayseri Lezzeti Tost",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Bazlama ekmeği, sucuk, salam, sosis, kaşar peyniri, domates, turşu, çarliston biber",
+            "ItemName": "Öğle Arası Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Kasap sucuk, kaşar peyniri, pul biber, kekik, ketçap, mayonez",
+            "ItemName": "Sosyete Güzeli Tost",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, kaşar peyniri, domates, çarliston biber, kekik, marul, turşu, isteğe göre iceberg marul",
+            "ItemName": "Veggie Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Bazlama ekmeği, kasap sucuk, pastırma, dana kavurma, kaşar peyniri, domates, çarliston biber, turşu",
+            "ItemName": "Yeme De Yanında Yat Tost",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pastırma, kaşar peyniri, köy yumurtası, isteğe göre domates, çarliston biber, patates kızartması",
+            "ItemName": "Yumurtalı Pastırmalı Tost",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kavurma, kaşar peyniri, köy yumurtası, isteğe göre domates, çarliston biber, patates kızartması",
+            "ItemName": "Yumurtalı Kavurmalı Tost",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kasap sucuk, kaşar peyniri, köy yumurtası, isteğe göre domates, çarliston biber, patates kızartması",
+            "ItemName": "Yumurtalı Kasap Sucuklu Tost",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Baston sandviç ekmeği, kızarmış tavuk, iceberg marul, özel sos, isteğe göre ketçap, mayonez",
+            "ItemName": "Tavuklu Sandviç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Baston sandviç ekmeği, ton balığı, domates, iceberg marul, çarliston biber, isteğe göre nar ekşisi, limon",
+            "ItemName": "Ton Balıklı Sandviç",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Baston sandviç ekmeği, beyaz peynir, kaşar peyniri, domates, çarliston biber, iceberg marul, cheddar peyniri",
+            "ItemName": "Peynirli Sandviç",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Baston sandviç ekmeği, patates kızartması, turşu, ketçap, mayonez",
+            "ItemName": "Patso Sandviç",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Baston sandviç ekmeği, patates kızartması, sosis, turşu, ketçap, mayonez, hardal",
+            "ItemName": "Sosisli Patso Sandviç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Baston sandviç ekmeği, patates kızartması, kavurma, kaşar peyniri, turşu, ketçap, mayonez",
+            "ItemName": "Kavurmalı Patso Sandviç",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Yumurta, patates kızartması, domates, çarliston biber, kaşar peyniri",
+            "ItemName": "Yumurtalı Sandviç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Kızartılmış sucuk, isteğe göre domates, çarliston biber",
+            "ItemName": "Sucuk Ekmek",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Uno büyük boy hamburger ekmeği, dana hamburger köftesi, özel sos, iceberg marul, domates, turşu",
+            "ItemName": "Hamburger",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Uno büyük boy hamburger ekmeği, dana hamburger köftesi, cheddar peyniri, özel sos, iceberg marul, domates, turşu",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Uno büyük boy hamburger ekmeği, tavuk köfte, turşu, ketçap, mayonez, isteğe göre özel sos",
+            "ItemName": "Tavuk Burger",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Baston sandviç ekmeği, dana hamburger köftesi, özel sos, iceberg marul, domates, turşu",
+            "ItemName": "Cimbilik Burger",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Uno büyük boy hamburger ekmeği, tavuk schnitzel, turşu, ketçap, mayonez, isteğe göre özel sos",
+            "ItemName": "Schnitzel Burger",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates Kızartması",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soğan Halkası (8 Adet)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (18 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "Üzüm şırası",
+            "ItemName": "Şıra",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ev Yapımı Limonata",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Muzlu Süt",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Havuç Suyu",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Elma Suyu",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Nar Suyu",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Armut Suyu",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Yumurta, bal, portakal, nar, armut, havuç, elma",
+            "ItemName": "Taze Sıkma Atom",
+            "ItemPrice": "9,00 TL"
+        }
+    ]
+}

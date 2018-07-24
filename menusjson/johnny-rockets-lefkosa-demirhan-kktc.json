@@ -1,0 +1,511 @@
+{
+    "comment": [
+        {
+            "Comment": "Ödediğim soslar gelmedi, tanesi 1 tl... 1 saat 15 dakikada geldi, patatesler solmuştu. Bekletilmiş patates konulmuş.. Bir daha sioariş vermem.",
+            "Date": "2018-07-11",
+            "Flavour": "9",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Servia hız güzel fakat lezzet konusunda midem almadı.",
+            "Date": "2018-06-24",
+            "Flavour": "3",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Jr baska bişey söylenmez.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sipariş yanlış gönderildi.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Tavuk dolma çok iyiydi...",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Mini Hamburger + Patates Kızartması + İçecek",
+            "ItemName": "65. Mini Hamburger Menü",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Hindi bacon, çıtır kaplamalı soğan halkaları, cheddar peyniri, smokehouse bbq sos",
+            "ItemName": "28. Smokehouse Single Burger",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "İki adet hamburger köftesi, duble hindi bacon, iki adet cheddar peyniri, çıtır kaplamalı soğan halkası, smokehouse bbq sos",
+            "ItemName": "31. Smokehouse Double Burger",
+            "ItemPrice": "43,00 TL"
+        },
+        {
+            "ItemInfo": "Mantarlı peynirli beşamel sos ile doldurulmuş tavuk göğsü",
+            "ItemName": "45. Tavuk Dolma",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "İki adet hamburger köftesi, doğranmış marul, cheddar peyniri, domates, ketçap",
+            "ItemName": "16. Double Express Burger",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, domates, doğranmış soğan, tatlı relish sos, turşu, hardal, mayonez",
+            "ItemName": "26. The Original Burger",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, domates, ketçap, mayonez",
+            "ItemName": "12. Kids Hamburger",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Cheddar peyniri, marul, domates, ketçap, mayonez",
+            "ItemName": "13. Kids Cheeseburger",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Çıtır kaplamalı parmak tavuk parçaları, ranch sos",
+            "ItemName": "14. Kids Chicken Strips",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Mini The Original Burger + Patates Kızartması + İçecek",
+            "ItemName": "60. Mini The Original Burger Menü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Mini Bacon Cheddar Burger + Patates Kızartması + İçecek",
+            "ItemName": "61. Mini Bacon Cheddar Burger Menü",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Mini Smokehouse Burger + Patates Kızartması + İçecek",
+            "ItemName": "62. Mini Smokehouse Burger Menü",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Mini Rocket Single Burger + Patates Kızartması + İçecek",
+            "ItemName": "63. Mini Rocket Single Burger Menü",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Mini Route 66 Burger + Patates Kızartması + İçecek",
+            "ItemName": "64. Mini Route 66 Burger Menü",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Mini Hamburger + Patates Kızartması + İçecek",
+            "ItemName": "65. Mini Hamburger Menü",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Mini Cheeseburger + Patates Kızartması + İçecek",
+            "ItemName": "66. Mini Cheeseburger Menü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, domates, doğranmış soğan, tatlı relish sos, turşu, hardal, mayonez",
+            "ItemName": "53. Mini The Original Burger",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Hindi bacon, cheddar peyniri, marul, domates, beyaz soğan, sos",
+            "ItemName": "54. Mini Bacon Cheddar Burger",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Hindi bacon, çıtır kaplamalı soğan halkaları, cheddar peyniri, Smokehouse BBQ sos",
+            "ItemName": "55. Mini Smokehouse Burger",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Cheddar peynir, marul, domates, beyaz soğan, sos",
+            "ItemName": "56. Mini Rocket Single Burger",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Emmantel peyniri, ızgara mantar, karamelize soğan, mayonez",
+            "ItemName": "57. Mini Route 66 Burger",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Marul, domates, ketçap",
+            "ItemName": "58. Mini Hamburger",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "Cheddar peyniri, marul, domates, ketçap, mayonez",
+            "ItemName": "59. Mini Cheeseburger",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "1. Rocket Wings (6 Adet)",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "3. Soğan Halkası (8 Adet)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı çıtır tavuk parçacıkları",
+            "ItemName": "4. Popcorn Chicken",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı çıtır tavuk parçaları",
+            "ItemName": "5. Chicken Strips",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Marinara sos ile",
+            "ItemName": "6. Mozzarella Sticks (4 Adet)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "7. Bacon Cheese Fries",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "8. American Fries (Small)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "9. American Fries (Large)",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Çıtır parmak tavuk, marul, domates, mayonez",
+            "ItemName": "38. Crispy Chicken Strips",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk göğüs, domates, marul, mayonez",
+            "ItemName": "39. Grilled Chicken Burger",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk göğüs, cheddar peyniri, çıtır soğan halkası, smokehouse bbq sos",
+            "ItemName": "40. Chicken Smokehouse Burger",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk göğüs, emmantel peyniri, ızgara mantar, mayonez, ızgara soğan",
+            "ItemName": "41. Chicken Route 66 Burger",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk parçaları, mayonez, ızgara hellim peyniri, ızgara kırmızıbiber, yeşilbiber, domates, ızgara soğan",
+            "ItemName": "42. Chicken Philly Halloumi Burger",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "İki adet hamburger köftesi, doğranmış marul, turşu, cheddar peyniri, express sos",
+            "ItemName": "15. Big Express Burger",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "İki adet hamburger köftesi, doğranmış marul, cheddar peyniri, domates, ketçap",
+            "ItemName": "16. Double Express Burger",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "İki adet hamburger köftesi, cheddar peyniri, turşu, dijon hardal",
+            "ItemName": "17. Express Burger",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, domates, doğranmış soğan, tatlı relish sos, turşu, hardal, mayonez",
+            "ItemName": "26. The Original Burger",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Hindi bacon, cheddar peyniri, yumurta, mantar, karamelize soğan, Rocket rose sos",
+            "ItemName": "27. Full House Burger",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Hindi bacon, çıtır kaplamalı soğan halkaları, cheddar peyniri, smokehouse bbq sos",
+            "ItemName": "28. Smokehouse Single Burger",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Cheddar peyniri, marul, domates, beyaz soğan, sos",
+            "ItemName": "29. Rocket Single Burger",
+            "ItemPrice": "31,50 TL"
+        },
+        {
+            "ItemInfo": "Hindi bacon, cheddar peyniri, marul, domates, beyaz soğan, sos",
+            "ItemName": "30. Bacon Cheddar Single Burger",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "İki adet hamburger köftesi, duble hindi bacon, iki adet cheddar peyniri, çıtır kaplamalı soğan halkası, smokehouse bbq sos",
+            "ItemName": "31. Smokehouse Double Burger",
+            "ItemPrice": "43,00 TL"
+        },
+        {
+            "ItemInfo": "İki adet hamburger köftesi, iki adet cheddar peyniri, marul, domates, soğan, sos",
+            "ItemName": "32. Rocket Double Burger",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "İki adet hamburger köftesi, duble hindi bacon, iki adet cheddar peyniri, marul, domates, beyaz soğan, sos",
+            "ItemName": "33. Bacon Cheddar Double Burger",
+            "ItemPrice": "43,00 TL"
+        },
+        {
+            "ItemInfo": "Emmantel peyniri, ızgara mantar, karamelize soğan, mayonez",
+            "ItemName": "34. Route 66 Burger",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Cheddar peyniri, marul, domates, ketçap, mayonez",
+            "ItemName": "35. Cheeseburger",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, domates, karamelize soğan, ızgara mantar, hindi bacon, dishers pub peynir, dijonnaise sos",
+            "ItemName": "36. Irish Pub Burger",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Jalapeno biber, emmantel peyniri, marul, domates, chipotle ranch sos",
+            "ItemName": "37. The Houston Burger",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Steak parçaları, smokehouse BBQ sos, ızgara hellim peyniri, ızgara kırmızıbiber, yeşilbiber, domates, ızgara soğan",
+            "ItemName": "43. Steak Philly Halloumi Burger",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "İnce doğranmış ızgara tavuk parçaları, karamelize soğan, cheddar peyniri, ızgara yeşilbiber, kırmızıbiber, patates kızartması",
+            "ItemName": "22. Philly Cheese Chicken Sandviç",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "İnce doğranmış dana biftek parçaları, karamelize soğan, cheddar peyniri, ızgara yeşilbiber, kırmızıbiber, patates kızartması",
+            "ItemName": "23. Philly Cheese Steak Sandviç",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk göğüs, rendelenmiş cheddar peyniri, marul, domates, ranch sos",
+            "ItemName": "24. Grilled Chicken Wrap",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Çıtır tavuk göğüs, rendelenmiş cheddar peyniri, marul, domates, ranch sos",
+            "ItemName": "25. Crispy Strips Wrap",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Mantar, emmantel peyniri, cheddar peyniri, sarılarak kızartılmış tavuk köfte",
+            "ItemName": "44. Peynirli Beşamel Sarma",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Mantarlı peynirli beşamel sos ile doldurulmuş tavuk göğsü",
+            "ItemName": "45. Tavuk Dolma",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "46. Tavuk Şnitzel",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "47. Tatlı Acı Soslu Izgara Tavuk",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Peynirli beşamel sarma, tavuk şnitzel, çıtır tavuk, tavuk kanat",
+            "ItemName": "48. Karışık Tavuk Izgara",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk göğsü, mantar sos, emmantel peyniri, cheddar peyniri",
+            "ItemName": "49. Peynirli Mantarlı Tavuk",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Baharat karışımlı çıtır tavuk parçaları",
+            "ItemName": "50. Çıtır Tavuk",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatla marine edilmiş ızgara tavuk göğsü",
+            "ItemName": "51. Izgara Tavuk",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Dışı çıtır kaplamalı tavuk kanatları",
+            "ItemName": "52. Çıtır Kanat",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Doğranmış marul, patates kızartması, hellim peyniri",
+            "ItemName": "18. Hellim Peynirli Bidda Badadez",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Doğranmış marul, patates kızartması, peynir",
+            "ItemName": "19. Peynirli Bidda Badadez",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Doğranmış marul, patates kızartması, hindi bacon, peynir",
+            "ItemName": "20. Bacon & Peynirli Bidda Badadez",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Doğranmış marul, patates kızartması, hellim peyniri, burger köftesi",
+            "ItemName": "21. Hellim & Burger Bidda Badadez",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk göğüs, marul, domates, mor lahana, havuç, mısır",
+            "ItemName": "9. Grilled Chicken Salad",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Çıtır tavuk göğüs veya çıtır tavuk, marul, domates, mor lahana, havuç, mısır",
+            "ItemName": "10. Chicken Strips Salad",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, domates, mor lahana, havuç, mısır",
+            "ItemName": "11. Garden Salad",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara hellim peyniri, marul, domates, mor lahana, havuç, mısır",
+            "ItemName": "67. Grilled Halloumi Salad",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, marul, domates, mor lahana, havuç, mısır",
+            "ItemName": "68. Feta Cheese Salad",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, beyaz peynir, marul, domates, mor lahana, havuç, mısır",
+            "ItemName": "69. Tuna Salad",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "1. Premium Chocolate Milkshake",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "2. Vanilla Milkshake",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "3. Strawberry Milkshake",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "4. Chocolate Peanut Butter Milkshake",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "5. Strawberry Banana Milkshake",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "6. Brownie Brittle Milkshake",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "7. Maltesers© Candy Shake Milkshake",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "8. Oreo© Cookies & Cream Milkshake",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (30 cl.)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (20 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (25 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        }
+    ]
+}

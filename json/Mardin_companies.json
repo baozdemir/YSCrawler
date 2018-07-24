@@ -5,7 +5,25 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "5,9",
                             "CategoryName": "cbaf35dc-c34e-4bab-b8ea-b78338cf2e1f",
                             "CuisineNameList": [
                                 "Döner",
@@ -13,18 +31,38 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Arya Döner & Çiğ Köfte, 13 Mart Mah.",
-                            "FlavourText": "6,8",
+                            "FlavourText": "6,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/aryadoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "6,1",
-                            "SpeedText": "7,3",
+                            "ServingText": "5,0",
+                            "SpeedText": "6,7",
                             "WorkHoursText": "10:00-21:00",
                             "href": "/arya-doner-cig-kofte-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "6,0",
+                            "AvgPoint": "7,5",
+                            "CategoryName": "5182dd8d-3abe-4a37-9bbd-08357d8ccbc5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Burger King, Yenişehir (Merkez)",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "5ff90da3-9772-49c8-a4b3-e50d53768149",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-yenisehir-merkez-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,0",
                             "CategoryName": "99fb20ec-8796-4fd1-98f6-3aaa499a232f",
                             "CuisineNameList": [
                                 "Pizza & İtalyan",
@@ -32,72 +70,148 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "Domino's Pizza, 13 Mart Mah.",
-                            "FlavourText": "5,8",
+                            "FlavourText": "6,8",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
                             "MainCuisineId": "790dca09-063e-4b0e-8bf8-d5b720cd60c3",
                             "MainCuisineName": "Domino's Pizza",
                             "MinimumDeliveryPrice": 12.9,
-                            "ServingText": "5,7",
-                            "SpeedText": "6,5",
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-01:00",
                             "href": "/dominos-pizza-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "8,0",
-                            "CategoryName": "83c7bab6-1e53-4170-8e5f-788a29a0e17b",
+                            "AvgPoint": "6,3",
+                            "CategoryName": "ad70fd3e-f8de-4f89-836f-d53ef93ad5ec",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
-                            ],
-                            "DeliveryTime": 45,
-                            "DisplayName": "Ege Kumru, 13 Mart Mah.",
-                            "FlavourText": "8,0",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/egekumru_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,5",
-                            "SpeedText": "8,5",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/ege-kumru-13-mart-mah-mardin"
-                        },
-                        {
-                            "AvgPoint": "7,1",
-                            "CategoryName": "9768506a-9b5c-41e4-928f-a73303215620",
-                            "CuisineNameList": [
+                                "Döner",
                                 "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Meşhur Adana Kebapçısı Celal Usta, 13 Mart Mah.",
-                            "FlavourText": "7,1",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/meshuradanakebapcisicelalusta_big.gif",
-                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
-                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "DisplayName": "Ehli Döner, 13 Mart Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/ehli-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "6,8",
-                            "SpeedText": "7,3",
-                            "WorkHoursText": "10:00-23:00",
-                            "href": "/meshur-adana-kebapcisi-celal-usta-13-mart-mah-mardin"
+                            "ServingText": "6,1",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "10:30-22:00",
+                            "href": "/ehli-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "5,8",
+                            "CategoryName": "73a3b99d-4c81-4358-9e59-f311593fb785",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Gözde Cafe Fast Food & Pizza, Yenişehir (Merkez)",
+                            "FlavourText": "5,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/gozdecafefastfood_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "5,7",
+                            "SpeedText": "5,9",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/gozde-cafe-fast-food-pizza-yenisehir-merkez-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "c6f8033b-d841-4622-8bb9-4ade3d6c4a56",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, 13 Mart Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "65d37edf-e0b0-43ca-936d-a1699d8eef35",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,9",
+                            "CategoryName": "b2cfc497-e41e-4730-9f14-97f82be3a0cd",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Meşhur Adıyaman Çiğ Köftecisi Ömer Aybak, 13 Mart Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/meshur-adiyaman-cigkoftecisi-omer-aybak_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "9,3",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "12:00-23:59",
+                            "href": "/meshur-adiyaman-cig-koftecisi-omer-aybak-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "c6163805-6d21-4ae3-8041-8435b5f215ae",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Serdar Döner, 13 Mart Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/serdadoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/serdar-doner-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,4",
                             "CategoryName": "87649db7-139f-4397-b8fb-8b365cdb45bb",
                             "CuisineNameList": [
                                 "Döner"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "SR Döner, 13 Mart Mah.",
-                            "FlavourText": "7,4",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/sr_doner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,8",
-                            "SpeedText": "7,8",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,2",
                             "WorkHoursText": "08:30-23:00",
                             "href": "/sr-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,4",
                             "CategoryName": "34bb7362-08c9-4cf5-9633-ff30a6f222a8",
                             "CuisineNameList": [
                                 "Döner",
@@ -105,13 +219,13 @@
                             ],
                             "DeliveryTime": 40,
                             "DisplayName": "Yaprak Döner, 13 Mart Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,0",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/yaprakdoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,0",
+                            "ServingText": "7,2",
+                            "SpeedText": "8,1",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/yaprak-doner-13-mart-mah-mardin"
                         }
@@ -124,7 +238,7 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "5,9",
                             "CategoryName": "cbaf35dc-c34e-4bab-b8ea-b78338cf2e1f",
                             "CuisineNameList": [
                                 "Döner",
@@ -132,72 +246,149 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Arya Döner & Çiğ Köfte, 13 Mart Mah.",
-                            "FlavourText": "6,8",
+                            "FlavourText": "6,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/aryadoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "6,1",
-                            "SpeedText": "7,3",
+                            "ServingText": "5,0",
+                            "SpeedText": "6,7",
                             "WorkHoursText": "10:00-21:00",
                             "href": "/arya-doner-cig-kofte-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "8,0",
-                            "CategoryName": "83c7bab6-1e53-4170-8e5f-788a29a0e17b",
+                            "AvgPoint": "7,5",
+                            "CategoryName": "5182dd8d-3abe-4a37-9bbd-08357d8ccbc5",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
                             ],
-                            "DeliveryTime": 45,
-                            "DisplayName": "Ege Kumru, 13 Mart Mah.",
-                            "FlavourText": "8,0",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/egekumru_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 6.5,
-                            "ServingText": "7,5",
-                            "SpeedText": "8,5",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/ege-kumru-13-mart-mah-mardin"
+                            "DeliveryTime": 30,
+                            "DisplayName": "Burger King, Yenişehir (Merkez)",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "5ff90da3-9772-49c8-a4b3-e50d53768149",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-yenisehir-merkez-mardin"
                         },
                         {
-                            "AvgPoint": "7,1",
-                            "CategoryName": "9768506a-9b5c-41e4-928f-a73303215620",
+                            "AvgPoint": "6,3",
+                            "CategoryName": "ad70fd3e-f8de-4f89-836f-d53ef93ad5ec",
                             "CuisineNameList": [
+                                "Döner",
                                 "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Meşhur Adana Kebapçısı Celal Usta, 13 Mart Mah.",
-                            "FlavourText": "7,1",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/meshuradanakebapcisicelalusta_big.gif",
-                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
-                            "MainCuisineName": "Kebap & Türk Mutfağı",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "6,8",
-                            "SpeedText": "7,3",
-                            "WorkHoursText": "10:00-23:00",
-                            "href": "/meshur-adana-kebapcisi-celal-usta-13-mart-mah-mardin"
+                            "DisplayName": "Ehli Döner, 13 Mart Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/ehli-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,1",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "10:30-22:00",
+                            "href": "/ehli-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "5,8",
+                            "CategoryName": "73a3b99d-4c81-4358-9e59-f311593fb785",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Gözde Cafe Fast Food & Pizza, Yenişehir (Merkez)",
+                            "FlavourText": "5,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/gozdecafefastfood_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "5,7",
+                            "SpeedText": "5,9",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/gozde-cafe-fast-food-pizza-yenisehir-merkez-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,9",
+                            "CategoryName": "b2cfc497-e41e-4730-9f14-97f82be3a0cd",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Meşhur Adıyaman Çiğ Köftecisi Ömer Aybak, 13 Mart Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/meshur-adiyaman-cigkoftecisi-omer-aybak_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "9,3",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "12:00-23:59",
+                            "href": "/meshur-adiyaman-cig-koftecisi-omer-aybak-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "c6163805-6d21-4ae3-8041-8435b5f215ae",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Serdar Döner, 13 Mart Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/serdadoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/serdar-doner-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,4",
                             "CategoryName": "87649db7-139f-4397-b8fb-8b365cdb45bb",
                             "CuisineNameList": [
                                 "Döner"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "SR Döner, 13 Mart Mah.",
-                            "FlavourText": "7,4",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/sr_doner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,8",
-                            "SpeedText": "7,8",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,2",
                             "WorkHoursText": "08:30-23:00",
                             "href": "/sr-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,4",
                             "CategoryName": "34bb7362-08c9-4cf5-9633-ff30a6f222a8",
                             "CuisineNameList": [
                                 "Döner",
@@ -205,13 +396,13 @@
                             ],
                             "DeliveryTime": 40,
                             "DisplayName": "Yaprak Döner, 13 Mart Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,0",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/yaprakdoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,0",
+                            "ServingText": "7,2",
+                            "SpeedText": "8,1",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/yaprak-doner-13-mart-mah-mardin"
                         }
@@ -224,7 +415,25 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "5,9",
                             "CategoryName": "cbaf35dc-c34e-4bab-b8ea-b78338cf2e1f",
                             "CuisineNameList": [
                                 "Döner",
@@ -232,18 +441,18 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Arya Döner & Çiğ Köfte, 13 Mart Mah.",
-                            "FlavourText": "6,8",
+                            "FlavourText": "6,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/aryadoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 15.0,
-                            "ServingText": "6,1",
-                            "SpeedText": "7,3",
+                            "ServingText": "5,0",
+                            "SpeedText": "6,7",
                             "WorkHoursText": "10:00-21:00",
                             "href": "/arya-doner-cig-kofte-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "6,0",
+                            "AvgPoint": "7,0",
                             "CategoryName": "99fb20ec-8796-4fd1-98f6-3aaa499a232f",
                             "CuisineNameList": [
                                 "Pizza & İtalyan",
@@ -251,72 +460,148 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "Domino's Pizza, 13 Mart Mah.",
-                            "FlavourText": "5,8",
+                            "FlavourText": "6,8",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
                             "MainCuisineId": "790dca09-063e-4b0e-8bf8-d5b720cd60c3",
                             "MainCuisineName": "Domino's Pizza",
                             "MinimumDeliveryPrice": 12.9,
-                            "ServingText": "5,7",
-                            "SpeedText": "6,5",
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-01:00",
                             "href": "/dominos-pizza-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "8,0",
-                            "CategoryName": "83c7bab6-1e53-4170-8e5f-788a29a0e17b",
+                            "AvgPoint": "6,3",
+                            "CategoryName": "ad70fd3e-f8de-4f89-836f-d53ef93ad5ec",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
-                            ],
-                            "DeliveryTime": 45,
-                            "DisplayName": "Ege Kumru, 13 Mart Mah.",
-                            "FlavourText": "8,0",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/egekumru_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 6.5,
-                            "ServingText": "7,5",
-                            "SpeedText": "8,5",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/ege-kumru-13-mart-mah-mardin"
-                        },
-                        {
-                            "AvgPoint": "7,1",
-                            "CategoryName": "9768506a-9b5c-41e4-928f-a73303215620",
-                            "CuisineNameList": [
+                                "Döner",
                                 "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Meşhur Adana Kebapçısı Celal Usta, 13 Mart Mah.",
-                            "FlavourText": "7,1",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/meshuradanakebapcisicelalusta_big.gif",
-                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
-                            "MainCuisineName": "Kebap & Türk Mutfağı",
-                            "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "6,8",
-                            "SpeedText": "7,3",
-                            "WorkHoursText": "10:00-23:00",
-                            "href": "/meshur-adana-kebapcisi-celal-usta-13-mart-mah-mardin"
+                            "DisplayName": "Ehli Döner, 13 Mart Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/ehli-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,1",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "10:30-22:00",
+                            "href": "/ehli-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "5,8",
+                            "CategoryName": "73a3b99d-4c81-4358-9e59-f311593fb785",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Gözde Cafe Fast Food & Pizza, Yenişehir (Merkez)",
+                            "FlavourText": "5,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/gozdecafefastfood_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "5,7",
+                            "SpeedText": "5,9",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/gozde-cafe-fast-food-pizza-yenisehir-merkez-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "c6f8033b-d841-4622-8bb9-4ade3d6c4a56",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, 13 Mart Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "65d37edf-e0b0-43ca-936d-a1699d8eef35",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,9",
+                            "CategoryName": "b2cfc497-e41e-4730-9f14-97f82be3a0cd",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Meşhur Adıyaman Çiğ Köftecisi Ömer Aybak, 13 Mart Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/meshur-adiyaman-cigkoftecisi-omer-aybak_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "9,3",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "12:00-23:59",
+                            "href": "/meshur-adiyaman-cig-koftecisi-omer-aybak-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "c6163805-6d21-4ae3-8041-8435b5f215ae",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Serdar Döner, 13 Mart Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/serdadoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/serdar-doner-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,4",
                             "CategoryName": "87649db7-139f-4397-b8fb-8b365cdb45bb",
                             "CuisineNameList": [
                                 "Döner"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "SR Döner, 13 Mart Mah.",
-                            "FlavourText": "7,4",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/sr_doner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,8",
-                            "SpeedText": "7,8",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,2",
                             "WorkHoursText": "08:30-23:00",
                             "href": "/sr-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,4",
                             "CategoryName": "34bb7362-08c9-4cf5-9633-ff30a6f222a8",
                             "CuisineNameList": [
                                 "Döner",
@@ -324,13 +609,13 @@
                             ],
                             "DeliveryTime": 40,
                             "DisplayName": "Yaprak Döner, 13 Mart Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,0",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/yaprakdoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,0",
+                            "ServingText": "7,2",
+                            "SpeedText": "8,1",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/yaprak-doner-13-mart-mah-mardin"
                         }
@@ -343,7 +628,7 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "6,0",
+                            "AvgPoint": "7,0",
                             "CategoryName": "99fb20ec-8796-4fd1-98f6-3aaa499a232f",
                             "CuisineNameList": [
                                 "Pizza & İtalyan",
@@ -351,54 +636,74 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "Domino's Pizza, 13 Mart Mah.",
-                            "FlavourText": "5,8",
+                            "FlavourText": "6,8",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
                             "MainCuisineId": "790dca09-063e-4b0e-8bf8-d5b720cd60c3",
                             "MainCuisineName": "Domino's Pizza",
                             "MinimumDeliveryPrice": 12.9,
-                            "ServingText": "5,7",
-                            "SpeedText": "6,5",
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-01:00",
                             "href": "/dominos-pizza-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "8,0",
-                            "CategoryName": "83c7bab6-1e53-4170-8e5f-788a29a0e17b",
+                            "AvgPoint": "5,8",
+                            "CategoryName": "73a3b99d-4c81-4358-9e59-f311593fb785",
                             "CuisineNameList": [
+                                "Pizza & İtalyan",
                                 "Fast Food & Sandwich"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Ege Kumru, 13 Mart Mah.",
-                            "FlavourText": "8,0",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/egekumru_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "7,5",
-                            "SpeedText": "8,5",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/ege-kumru-13-mart-mah-mardin"
+                            "DisplayName": "Gözde Cafe Fast Food & Pizza, Yenişehir (Merkez)",
+                            "FlavourText": "5,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/gozdecafefastfood_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "5,7",
+                            "SpeedText": "5,9",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/gozde-cafe-fast-food-pizza-yenisehir-merkez-mardin"
                         },
                         {
-                            "AvgPoint": "7,1",
-                            "CategoryName": "9768506a-9b5c-41e4-928f-a73303215620",
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
                             "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 19.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,9",
+                            "CategoryName": "b2cfc497-e41e-4730-9f14-97f82be3a0cd",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
                                 "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Meşhur Adana Kebapçısı Celal Usta, 13 Mart Mah.",
-                            "FlavourText": "7,1",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/meshuradanakebapcisicelalusta_big.gif",
-                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
-                            "MainCuisineName": "Kebap & Türk Mutfağı",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "6,8",
-                            "SpeedText": "7,3",
-                            "WorkHoursText": "10:00-23:00",
-                            "href": "/meshur-adana-kebapcisi-celal-usta-13-mart-mah-mardin"
+                            "DisplayName": "Meşhur Adıyaman Çiğ Köftecisi Ömer Aybak, 13 Mart Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/meshur-adiyaman-cigkoftecisi-omer-aybak_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "9,3",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "12:00-23:59",
+                            "href": "/meshur-adiyaman-cig-koftecisi-omer-aybak-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,4",
                             "CategoryName": "34bb7362-08c9-4cf5-9633-ff30a6f222a8",
                             "CuisineNameList": [
                                 "Döner",
@@ -406,13 +711,13 @@
                             ],
                             "DeliveryTime": 40,
                             "DisplayName": "Yaprak Döner, 13 Mart Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,0",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/yaprakdoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 30.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,0",
+                            "ServingText": "7,2",
+                            "SpeedText": "8,1",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/yaprak-doner-13-mart-mah-mardin"
                         }
@@ -425,7 +730,7 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "5,9",
                             "CategoryName": "cbaf35dc-c34e-4bab-b8ea-b78338cf2e1f",
                             "CuisineNameList": [
                                 "Döner",
@@ -433,36 +738,74 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Arya Döner & Çiğ Köfte, 13 Mart Mah.",
-                            "FlavourText": "6,8",
+                            "FlavourText": "6,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/aryadoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 30.0,
-                            "ServingText": "6,1",
-                            "SpeedText": "7,3",
+                            "ServingText": "5,0",
+                            "SpeedText": "6,7",
                             "WorkHoursText": "10:00-21:00",
                             "href": "/arya-doner-cig-kofte-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,1",
-                            "CategoryName": "9768506a-9b5c-41e4-928f-a73303215620",
+                            "AvgPoint": "5,8",
+                            "CategoryName": "73a3b99d-4c81-4358-9e59-f311593fb785",
                             "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Gözde Cafe Fast Food & Pizza, Yenişehir (Merkez)",
+                            "FlavourText": "5,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/gozdecafefastfood_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "5,7",
+                            "SpeedText": "5,9",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/gozde-cafe-fast-food-pizza-yenisehir-merkez-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 19.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,9",
+                            "CategoryName": "b2cfc497-e41e-4730-9f14-97f82be3a0cd",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
                                 "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Meşhur Adana Kebapçısı Celal Usta, 13 Mart Mah.",
-                            "FlavourText": "7,1",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/meshuradanakebapcisicelalusta_big.gif",
-                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
-                            "MainCuisineName": "Kebap & Türk Mutfağı",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "6,8",
-                            "SpeedText": "7,3",
-                            "WorkHoursText": "10:00-23:00",
-                            "href": "/meshur-adana-kebapcisi-celal-usta-13-mart-mah-mardin"
+                            "DisplayName": "Meşhur Adıyaman Çiğ Köftecisi Ömer Aybak, 13 Mart Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/meshur-adiyaman-cigkoftecisi-omer-aybak_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "9,3",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "12:00-23:59",
+                            "href": "/meshur-adiyaman-cig-koftecisi-omer-aybak-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,4",
                             "CategoryName": "34bb7362-08c9-4cf5-9633-ff30a6f222a8",
                             "CuisineNameList": [
                                 "Döner",
@@ -470,13 +813,13 @@
                             ],
                             "DeliveryTime": 40,
                             "DisplayName": "Yaprak Döner, 13 Mart Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,0",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/yaprakdoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 30.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,0",
+                            "ServingText": "7,2",
+                            "SpeedText": "8,1",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/yaprak-doner-13-mart-mah-mardin"
                         }
@@ -489,7 +832,7 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "5,9",
                             "CategoryName": "cbaf35dc-c34e-4bab-b8ea-b78338cf2e1f",
                             "CuisineNameList": [
                                 "Döner",
@@ -497,18 +840,18 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Arya Döner & Çiğ Köfte, 13 Mart Mah.",
-                            "FlavourText": "6,8",
+                            "FlavourText": "6,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/aryadoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 30.0,
-                            "ServingText": "6,1",
-                            "SpeedText": "7,3",
+                            "ServingText": "5,0",
+                            "SpeedText": "6,7",
                             "WorkHoursText": "10:00-21:00",
                             "href": "/arya-doner-cig-kofte-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "6,0",
+                            "AvgPoint": "7,0",
                             "CategoryName": "99fb20ec-8796-4fd1-98f6-3aaa499a232f",
                             "CuisineNameList": [
                                 "Pizza & İtalyan",
@@ -516,54 +859,92 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "Domino's Pizza, 13 Mart Mah.",
-                            "FlavourText": "5,8",
+                            "FlavourText": "6,8",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
                             "MainCuisineId": "790dca09-063e-4b0e-8bf8-d5b720cd60c3",
                             "MainCuisineName": "Domino's Pizza",
                             "MinimumDeliveryPrice": 12.9,
-                            "ServingText": "5,7",
-                            "SpeedText": "6,5",
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-01:00",
                             "href": "/dominos-pizza-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "8,0",
-                            "CategoryName": "83c7bab6-1e53-4170-8e5f-788a29a0e17b",
+                            "AvgPoint": "5,8",
+                            "CategoryName": "73a3b99d-4c81-4358-9e59-f311593fb785",
                             "CuisineNameList": [
+                                "Pizza & İtalyan",
                                 "Fast Food & Sandwich"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Ege Kumru, 13 Mart Mah.",
-                            "FlavourText": "8,0",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/egekumru_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "7,5",
-                            "SpeedText": "8,5",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/ege-kumru-13-mart-mah-mardin"
+                            "DisplayName": "Gözde Cafe Fast Food & Pizza, Yenişehir (Merkez)",
+                            "FlavourText": "5,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/gozdecafefastfood_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "5,7",
+                            "SpeedText": "5,9",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/gozde-cafe-fast-food-pizza-yenisehir-merkez-mardin"
                         },
                         {
-                            "AvgPoint": "7,1",
-                            "CategoryName": "9768506a-9b5c-41e4-928f-a73303215620",
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
                             "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 19.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,9",
+                            "CategoryName": "b2cfc497-e41e-4730-9f14-97f82be3a0cd",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
                                 "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Meşhur Adana Kebapçısı Celal Usta, 13 Mart Mah.",
-                            "FlavourText": "7,1",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/meshuradanakebapcisicelalusta_big.gif",
-                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
-                            "MainCuisineName": "Kebap & Türk Mutfağı",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "6,8",
-                            "SpeedText": "7,3",
-                            "WorkHoursText": "10:00-23:00",
-                            "href": "/meshur-adana-kebapcisi-celal-usta-13-mart-mah-mardin"
+                            "DisplayName": "Meşhur Adıyaman Çiğ Köftecisi Ömer Aybak, 13 Mart Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/meshur-adiyaman-cigkoftecisi-omer-aybak_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "9,3",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "12:00-23:59",
+                            "href": "/meshur-adiyaman-cig-koftecisi-omer-aybak-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,9",
+                            "CategoryName": "c6163805-6d21-4ae3-8041-8435b5f215ae",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Serdar Döner, 13 Mart Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/serdadoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/serdar-doner-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,4",
                             "CategoryName": "34bb7362-08c9-4cf5-9633-ff30a6f222a8",
                             "CuisineNameList": [
                                 "Döner",
@@ -571,13 +952,13 @@
                             ],
                             "DeliveryTime": 40,
                             "DisplayName": "Yaprak Döner, 13 Mart Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,0",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/yaprakdoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 30.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,0",
+                            "ServingText": "7,2",
+                            "SpeedText": "8,1",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/yaprak-doner-13-mart-mah-mardin"
                         }
@@ -588,7 +969,26 @@
         {
             "İstasyon": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 24.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        }
+                    ]
                 }
             ]
         },
@@ -597,7 +997,25 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "5,9",
                             "CategoryName": "cbaf35dc-c34e-4bab-b8ea-b78338cf2e1f",
                             "CuisineNameList": [
                                 "Döner",
@@ -605,72 +1023,148 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Arya Döner & Çiğ Köfte, 13 Mart Mah.",
-                            "FlavourText": "6,8",
+                            "FlavourText": "6,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/aryadoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "6,1",
-                            "SpeedText": "7,3",
+                            "ServingText": "5,0",
+                            "SpeedText": "6,7",
                             "WorkHoursText": "10:00-21:00",
                             "href": "/arya-doner-cig-kofte-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "8,0",
-                            "CategoryName": "83c7bab6-1e53-4170-8e5f-788a29a0e17b",
+                            "AvgPoint": "6,3",
+                            "CategoryName": "ad70fd3e-f8de-4f89-836f-d53ef93ad5ec",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
-                            ],
-                            "DeliveryTime": 45,
-                            "DisplayName": "Ege Kumru, 13 Mart Mah.",
-                            "FlavourText": "8,0",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/egekumru_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,5",
-                            "SpeedText": "8,5",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/ege-kumru-13-mart-mah-mardin"
-                        },
-                        {
-                            "AvgPoint": "7,1",
-                            "CategoryName": "9768506a-9b5c-41e4-928f-a73303215620",
-                            "CuisineNameList": [
+                                "Döner",
                                 "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Meşhur Adana Kebapçısı Celal Usta, 13 Mart Mah.",
-                            "FlavourText": "7,1",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/meshuradanakebapcisicelalusta_big.gif",
-                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
-                            "MainCuisineName": "Kebap & Türk Mutfağı",
-                            "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "6,8",
-                            "SpeedText": "7,3",
-                            "WorkHoursText": "10:00-23:00",
-                            "href": "/meshur-adana-kebapcisi-celal-usta-13-mart-mah-mardin"
+                            "DisplayName": "Ehli Döner, 13 Mart Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/ehli-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,1",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "10:30-22:00",
+                            "href": "/ehli-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "5,8",
+                            "CategoryName": "73a3b99d-4c81-4358-9e59-f311593fb785",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Gözde Cafe Fast Food & Pizza, Yenişehir (Merkez)",
+                            "FlavourText": "5,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/gozdecafefastfood_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "5,7",
+                            "SpeedText": "5,9",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/gozde-cafe-fast-food-pizza-yenisehir-merkez-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "c6f8033b-d841-4622-8bb9-4ade3d6c4a56",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, 13 Mart Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "65d37edf-e0b0-43ca-936d-a1699d8eef35",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,9",
+                            "CategoryName": "b2cfc497-e41e-4730-9f14-97f82be3a0cd",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Meşhur Adıyaman Çiğ Köftecisi Ömer Aybak, 13 Mart Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/meshur-adiyaman-cigkoftecisi-omer-aybak_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "9,3",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "12:00-23:59",
+                            "href": "/meshur-adiyaman-cig-koftecisi-omer-aybak-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "c6163805-6d21-4ae3-8041-8435b5f215ae",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Serdar Döner, 13 Mart Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/serdadoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/serdar-doner-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,4",
                             "CategoryName": "87649db7-139f-4397-b8fb-8b365cdb45bb",
                             "CuisineNameList": [
                                 "Döner"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "SR Döner, 13 Mart Mah.",
-                            "FlavourText": "7,4",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/sr_doner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,8",
-                            "SpeedText": "7,8",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,2",
                             "WorkHoursText": "08:30-23:00",
                             "href": "/sr-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,4",
                             "CategoryName": "34bb7362-08c9-4cf5-9633-ff30a6f222a8",
                             "CuisineNameList": [
                                 "Döner",
@@ -678,13 +1172,13 @@
                             ],
                             "DeliveryTime": 40,
                             "DisplayName": "Yaprak Döner, 13 Mart Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,0",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/yaprakdoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,0",
+                            "ServingText": "7,2",
+                            "SpeedText": "8,1",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/yaprak-doner-13-mart-mah-mardin"
                         }
@@ -697,23 +1191,23 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "6,1",
-                            "CategoryName": "f71426bf-a344-443f-baee-19ca36a333b8",
+                            "AvgPoint": "7,7",
+                            "CategoryName": "ef7c17cf-9eae-44d7-929b-f16a5e781733",
                             "CuisineNameList": [
-                                "Pide",
-                                "Kebap & Türk Mutfağı"
+                                "Pizza & İtalyan",
+                                "Fast Food & Sandwich"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Çardak Restoran, Kızıltepe (Merkez)",
-                            "FlavourText": "6,3",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/cardakrestoranlogo_big.gif",
-                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
-                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "DisplayName": "American Pizza House, Kızıltepe (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/americanpizzahouse2_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "4,8",
-                            "SpeedText": "7,3",
-                            "WorkHoursText": "07:00-21:00",
-                            "href": "/cardak-restoran-kiziltepe-merkez-mardin"
+                            "ServingText": "7,8",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/american-pizza-house-kiziltepe-merkez-mardin"
                         }
                     ]
                 }
@@ -724,39 +1218,39 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "6,1",
-                            "CategoryName": "f71426bf-a344-443f-baee-19ca36a333b8",
+                            "AvgPoint": "7,7",
+                            "CategoryName": "ef7c17cf-9eae-44d7-929b-f16a5e781733",
                             "CuisineNameList": [
-                                "Pide",
-                                "Kebap & Türk Mutfağı"
+                                "Pizza & İtalyan",
+                                "Fast Food & Sandwich"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Çardak Restoran, Kızıltepe (Merkez)",
-                            "FlavourText": "6,3",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/cardakrestoranlogo_big.gif",
-                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
-                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "DisplayName": "American Pizza House, Kızıltepe (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/americanpizzahouse2_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
                             "MinimumDeliveryPrice": 30.0,
-                            "ServingText": "4,8",
-                            "SpeedText": "7,3",
-                            "WorkHoursText": "07:00-21:00",
-                            "href": "/cardak-restoran-kiziltepe-merkez-mardin"
+                            "ServingText": "7,8",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/american-pizza-house-kiziltepe-merkez-mardin"
                         },
                         {
-                            "AvgPoint": "-",
+                            "AvgPoint": "7,4",
                             "CategoryName": "e4f32ec9-e872-4af5-9f9d-366d28a57afb",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "İzmir Kumrucusu, Kızıltepe (TOKİ)",
-                            "FlavourText": "-",
+                            "FlavourText": "7,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/izmirkumrulogo_big.gif",
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 0,
-                            "ServingText": "-",
-                            "SpeedText": "-",
+                            "ServingText": "7,8",
+                            "SpeedText": "7,2",
                             "WorkHoursText": "09:00-23:59",
                             "href": "/izmir-kumrucusu-kiziltepe-toki-mardin"
                         }
@@ -769,7 +1263,7 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "5,9",
                             "CategoryName": "cbaf35dc-c34e-4bab-b8ea-b78338cf2e1f",
                             "CuisineNameList": [
                                 "Döner",
@@ -777,72 +1271,148 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Arya Döner & Çiğ Köfte, 13 Mart Mah.",
-                            "FlavourText": "6,8",
+                            "FlavourText": "6,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/aryadoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 20.0,
-                            "ServingText": "6,1",
-                            "SpeedText": "7,3",
+                            "ServingText": "5,0",
+                            "SpeedText": "6,7",
                             "WorkHoursText": "10:00-21:00",
                             "href": "/arya-doner-cig-kofte-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "8,0",
-                            "CategoryName": "83c7bab6-1e53-4170-8e5f-788a29a0e17b",
+                            "AvgPoint": "6,3",
+                            "CategoryName": "ad70fd3e-f8de-4f89-836f-d53ef93ad5ec",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
-                            ],
-                            "DeliveryTime": 45,
-                            "DisplayName": "Ege Kumru, 13 Mart Mah.",
-                            "FlavourText": "8,0",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/egekumru_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 25.0,
-                            "ServingText": "7,5",
-                            "SpeedText": "8,5",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/ege-kumru-13-mart-mah-mardin"
-                        },
-                        {
-                            "AvgPoint": "7,1",
-                            "CategoryName": "9768506a-9b5c-41e4-928f-a73303215620",
-                            "CuisineNameList": [
+                                "Döner",
                                 "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Meşhur Adana Kebapçısı Celal Usta, 13 Mart Mah.",
-                            "FlavourText": "7,1",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/meshuradanakebapcisicelalusta_big.gif",
-                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
-                            "MainCuisineName": "Kebap & Türk Mutfağı",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "6,8",
-                            "SpeedText": "7,3",
-                            "WorkHoursText": "10:00-23:00",
-                            "href": "/meshur-adana-kebapcisi-celal-usta-13-mart-mah-mardin"
+                            "DisplayName": "Ehli Döner, 13 Mart Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/ehli-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,1",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "10:30-22:00",
+                            "href": "/ehli-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "5,8",
+                            "CategoryName": "73a3b99d-4c81-4358-9e59-f311593fb785",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Gözde Cafe Fast Food & Pizza, Yenişehir (Merkez)",
+                            "FlavourText": "5,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/gozdecafefastfood_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "5,7",
+                            "SpeedText": "5,9",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/gozde-cafe-fast-food-pizza-yenisehir-merkez-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "c6f8033b-d841-4622-8bb9-4ade3d6c4a56",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, 13 Mart Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "65d37edf-e0b0-43ca-936d-a1699d8eef35",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,9",
+                            "CategoryName": "b2cfc497-e41e-4730-9f14-97f82be3a0cd",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Meşhur Adıyaman Çiğ Köftecisi Ömer Aybak, 13 Mart Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/meshur-adiyaman-cigkoftecisi-omer-aybak_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "9,3",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "12:00-23:59",
+                            "href": "/meshur-adiyaman-cig-koftecisi-omer-aybak-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "c6163805-6d21-4ae3-8041-8435b5f215ae",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Serdar Döner, 13 Mart Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/serdadoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/serdar-doner-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,4",
                             "CategoryName": "87649db7-139f-4397-b8fb-8b365cdb45bb",
                             "CuisineNameList": [
                                 "Döner"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "SR Döner, 13 Mart Mah.",
-                            "FlavourText": "7,4",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/sr_doner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
-                            "MinimumDeliveryPrice": 30.0,
-                            "ServingText": "7,8",
-                            "SpeedText": "7,8",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,2",
                             "WorkHoursText": "08:30-23:00",
                             "href": "/sr-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,4",
                             "CategoryName": "34bb7362-08c9-4cf5-9633-ff30a6f222a8",
                             "CuisineNameList": [
                                 "Döner",
@@ -850,13 +1420,13 @@
                             ],
                             "DeliveryTime": 40,
                             "DisplayName": "Yaprak Döner, 13 Mart Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,0",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/yaprakdoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 20.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,0",
+                            "ServingText": "7,2",
+                            "SpeedText": "8,1",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/yaprak-doner-13-mart-mah-mardin"
                         }
@@ -869,61 +1439,118 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "8,0",
-                            "CategoryName": "83c7bab6-1e53-4170-8e5f-788a29a0e17b",
+                            "AvgPoint": "5,8",
+                            "CategoryName": "73a3b99d-4c81-4358-9e59-f311593fb785",
                             "CuisineNameList": [
+                                "Pizza & İtalyan",
                                 "Fast Food & Sandwich"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Ege Kumru, 13 Mart Mah.",
-                            "FlavourText": "8,0",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/egekumru_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 30.0,
-                            "ServingText": "7,5",
-                            "SpeedText": "8,5",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/ege-kumru-13-mart-mah-mardin"
+                            "DisplayName": "Gözde Cafe Fast Food & Pizza, Yenişehir (Merkez)",
+                            "FlavourText": "5,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/gozdecafefastfood_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "5,7",
+                            "SpeedText": "5,9",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/gozde-cafe-fast-food-pizza-yenisehir-merkez-mardin"
                         },
                         {
-                            "AvgPoint": "7,1",
-                            "CategoryName": "9768506a-9b5c-41e4-928f-a73303215620",
+                            "AvgPoint": "8,0",
+                            "CategoryName": "c6f8033b-d841-4622-8bb9-4ade3d6c4a56",
                             "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, 13 Mart Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "65d37edf-e0b0-43ca-936d-a1699d8eef35",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 12.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,9",
+                            "CategoryName": "b2cfc497-e41e-4730-9f14-97f82be3a0cd",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
                                 "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Meşhur Adana Kebapçısı Celal Usta, 13 Mart Mah.",
-                            "FlavourText": "7,1",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/meshuradanakebapcisicelalusta_big.gif",
-                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
-                            "MainCuisineName": "Kebap & Türk Mutfağı",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "6,8",
-                            "SpeedText": "7,3",
-                            "WorkHoursText": "10:00-23:00",
-                            "href": "/meshur-adana-kebapcisi-celal-usta-13-mart-mah-mardin"
+                            "DisplayName": "Meşhur Adıyaman Çiğ Köftecisi Ömer Aybak, 13 Mart Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/meshur-adiyaman-cigkoftecisi-omer-aybak_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "9,3",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "12:00-23:59",
+                            "href": "/meshur-adiyaman-cig-koftecisi-omer-aybak-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,9",
+                            "CategoryName": "c6163805-6d21-4ae3-8041-8435b5f215ae",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Serdar Döner, 13 Mart Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/serdadoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/serdar-doner-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,4",
                             "CategoryName": "87649db7-139f-4397-b8fb-8b365cdb45bb",
                             "CuisineNameList": [
                                 "Döner"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "SR Döner, 13 Mart Mah.",
-                            "FlavourText": "7,4",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/sr_doner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
-                            "MinimumDeliveryPrice": 30.0,
-                            "ServingText": "7,8",
-                            "SpeedText": "7,8",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,2",
                             "WorkHoursText": "08:30-23:00",
                             "href": "/sr-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,4",
                             "CategoryName": "34bb7362-08c9-4cf5-9633-ff30a6f222a8",
                             "CuisineNameList": [
                                 "Döner",
@@ -931,13 +1558,13 @@
                             ],
                             "DeliveryTime": 40,
                             "DisplayName": "Yaprak Döner, 13 Mart Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,0",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/yaprakdoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 30.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,0",
+                            "ServingText": "7,2",
+                            "SpeedText": "8,1",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/yaprak-doner-13-mart-mah-mardin"
                         }
@@ -950,7 +1577,7 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "5,9",
                             "CategoryName": "cbaf35dc-c34e-4bab-b8ea-b78338cf2e1f",
                             "CuisineNameList": [
                                 "Döner",
@@ -958,18 +1585,38 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Arya Döner & Çiğ Köfte, 13 Mart Mah.",
-                            "FlavourText": "6,8",
+                            "FlavourText": "6,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/aryadoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 20.0,
-                            "ServingText": "6,1",
-                            "SpeedText": "7,3",
+                            "ServingText": "5,0",
+                            "SpeedText": "6,7",
                             "WorkHoursText": "10:00-21:00",
                             "href": "/arya-doner-cig-kofte-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "6,0",
+                            "AvgPoint": "7,5",
+                            "CategoryName": "5182dd8d-3abe-4a37-9bbd-08357d8ccbc5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Burger King, Yenişehir (Merkez)",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "5ff90da3-9772-49c8-a4b3-e50d53768149",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-yenisehir-merkez-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,0",
                             "CategoryName": "99fb20ec-8796-4fd1-98f6-3aaa499a232f",
                             "CuisineNameList": [
                                 "Pizza & İtalyan",
@@ -977,72 +1624,148 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "Domino's Pizza, 13 Mart Mah.",
-                            "FlavourText": "5,8",
+                            "FlavourText": "6,8",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
                             "MainCuisineId": "790dca09-063e-4b0e-8bf8-d5b720cd60c3",
                             "MainCuisineName": "Domino's Pizza",
                             "MinimumDeliveryPrice": 12.9,
-                            "ServingText": "5,7",
-                            "SpeedText": "6,5",
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-01:00",
                             "href": "/dominos-pizza-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "8,0",
-                            "CategoryName": "83c7bab6-1e53-4170-8e5f-788a29a0e17b",
+                            "AvgPoint": "6,3",
+                            "CategoryName": "ad70fd3e-f8de-4f89-836f-d53ef93ad5ec",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
-                            ],
-                            "DeliveryTime": 45,
-                            "DisplayName": "Ege Kumru, 13 Mart Mah.",
-                            "FlavourText": "8,0",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/egekumru_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 30.0,
-                            "ServingText": "7,5",
-                            "SpeedText": "8,5",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/ege-kumru-13-mart-mah-mardin"
-                        },
-                        {
-                            "AvgPoint": "7,1",
-                            "CategoryName": "9768506a-9b5c-41e4-928f-a73303215620",
-                            "CuisineNameList": [
+                                "Döner",
                                 "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Meşhur Adana Kebapçısı Celal Usta, 13 Mart Mah.",
-                            "FlavourText": "7,1",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/meshuradanakebapcisicelalusta_big.gif",
-                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
-                            "MainCuisineName": "Kebap & Türk Mutfağı",
-                            "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "6,8",
-                            "SpeedText": "7,3",
-                            "WorkHoursText": "10:00-23:00",
-                            "href": "/meshur-adana-kebapcisi-celal-usta-13-mart-mah-mardin"
+                            "DisplayName": "Ehli Döner, 13 Mart Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/ehli-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,1",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "10:30-22:00",
+                            "href": "/ehli-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "5,8",
+                            "CategoryName": "73a3b99d-4c81-4358-9e59-f311593fb785",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Gözde Cafe Fast Food & Pizza, Yenişehir (Merkez)",
+                            "FlavourText": "5,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/gozdecafefastfood_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "5,7",
+                            "SpeedText": "5,9",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/gozde-cafe-fast-food-pizza-yenisehir-merkez-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "c6f8033b-d841-4622-8bb9-4ade3d6c4a56",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, 13 Mart Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "65d37edf-e0b0-43ca-936d-a1699d8eef35",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,9",
+                            "CategoryName": "b2cfc497-e41e-4730-9f14-97f82be3a0cd",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Meşhur Adıyaman Çiğ Köftecisi Ömer Aybak, 13 Mart Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/meshur-adiyaman-cigkoftecisi-omer-aybak_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "9,3",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "12:00-23:59",
+                            "href": "/meshur-adiyaman-cig-koftecisi-omer-aybak-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "c6163805-6d21-4ae3-8041-8435b5f215ae",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Serdar Döner, 13 Mart Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/serdadoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/serdar-doner-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,4",
                             "CategoryName": "87649db7-139f-4397-b8fb-8b365cdb45bb",
                             "CuisineNameList": [
                                 "Döner"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "SR Döner, 13 Mart Mah.",
-                            "FlavourText": "7,4",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/sr_doner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
-                            "MinimumDeliveryPrice": 20.0,
-                            "ServingText": "7,8",
-                            "SpeedText": "7,8",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,2",
                             "WorkHoursText": "08:30-23:00",
                             "href": "/sr-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,4",
                             "CategoryName": "34bb7362-08c9-4cf5-9633-ff30a6f222a8",
                             "CuisineNameList": [
                                 "Döner",
@@ -1050,13 +1773,13 @@
                             ],
                             "DeliveryTime": 40,
                             "DisplayName": "Yaprak Döner, 13 Mart Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,0",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/yaprakdoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 20.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,0",
+                            "ServingText": "7,2",
+                            "SpeedText": "8,1",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/yaprak-doner-13-mart-mah-mardin"
                         }
@@ -1069,7 +1792,25 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "6,7",
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "5,9",
                             "CategoryName": "cbaf35dc-c34e-4bab-b8ea-b78338cf2e1f",
                             "CuisineNameList": [
                                 "Döner",
@@ -1077,18 +1818,38 @@
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "Arya Döner & Çiğ Köfte, 13 Mart Mah.",
-                            "FlavourText": "6,8",
+                            "FlavourText": "6,2",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/aryadoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 20.0,
-                            "ServingText": "6,1",
-                            "SpeedText": "7,3",
+                            "ServingText": "5,0",
+                            "SpeedText": "6,7",
                             "WorkHoursText": "10:00-21:00",
                             "href": "/arya-doner-cig-kofte-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "6,0",
+                            "AvgPoint": "7,5",
+                            "CategoryName": "5182dd8d-3abe-4a37-9bbd-08357d8ccbc5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Burger King, Yenişehir (Merkez)",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "5ff90da3-9772-49c8-a4b3-e50d53768149",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-yenisehir-merkez-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,0",
                             "CategoryName": "99fb20ec-8796-4fd1-98f6-3aaa499a232f",
                             "CuisineNameList": [
                                 "Pizza & İtalyan",
@@ -1096,72 +1857,148 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "Domino's Pizza, 13 Mart Mah.",
-                            "FlavourText": "5,8",
+                            "FlavourText": "6,8",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
                             "MainCuisineId": "790dca09-063e-4b0e-8bf8-d5b720cd60c3",
                             "MainCuisineName": "Domino's Pizza",
                             "MinimumDeliveryPrice": 12.9,
-                            "ServingText": "5,7",
-                            "SpeedText": "6,5",
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-01:00",
                             "href": "/dominos-pizza-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "8,0",
-                            "CategoryName": "83c7bab6-1e53-4170-8e5f-788a29a0e17b",
+                            "AvgPoint": "6,3",
+                            "CategoryName": "ad70fd3e-f8de-4f89-836f-d53ef93ad5ec",
                             "CuisineNameList": [
-                                "Fast Food & Sandwich"
-                            ],
-                            "DeliveryTime": 45,
-                            "DisplayName": "Ege Kumru, 13 Mart Mah.",
-                            "FlavourText": "8,0",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_MARDIN/egekumru_big.gif",
-                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
-                            "MainCuisineName": "Fast Food & Sandwich",
-                            "MinimumDeliveryPrice": 25.0,
-                            "ServingText": "7,5",
-                            "SpeedText": "8,5",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/ege-kumru-13-mart-mah-mardin"
-                        },
-                        {
-                            "AvgPoint": "7,1",
-                            "CategoryName": "9768506a-9b5c-41e4-928f-a73303215620",
-                            "CuisineNameList": [
+                                "Döner",
                                 "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Meşhur Adana Kebapçısı Celal Usta, 13 Mart Mah.",
-                            "FlavourText": "7,1",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/meshuradanakebapcisicelalusta_big.gif",
-                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
-                            "MainCuisineName": "Kebap & Türk Mutfağı",
-                            "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "6,8",
-                            "SpeedText": "7,3",
-                            "WorkHoursText": "10:00-23:00",
-                            "href": "/meshur-adana-kebapcisi-celal-usta-13-mart-mah-mardin"
+                            "DisplayName": "Ehli Döner, 13 Mart Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/ehli-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,1",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "10:30-22:00",
+                            "href": "/ehli-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "5,8",
+                            "CategoryName": "73a3b99d-4c81-4358-9e59-f311593fb785",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Gözde Cafe Fast Food & Pizza, Yenişehir (Merkez)",
+                            "FlavourText": "5,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/gozdecafefastfood_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "5,7",
+                            "SpeedText": "5,9",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/gozde-cafe-fast-food-pizza-yenisehir-merkez-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "c6f8033b-d841-4622-8bb9-4ade3d6c4a56",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, 13 Mart Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "65d37edf-e0b0-43ca-936d-a1699d8eef35",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,9",
+                            "CategoryName": "b2cfc497-e41e-4730-9f14-97f82be3a0cd",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Meşhur Adıyaman Çiğ Köftecisi Ömer Aybak, 13 Mart Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/meshur-adiyaman-cigkoftecisi-omer-aybak_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "9,3",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "12:00-23:59",
+                            "href": "/meshur-adiyaman-cig-koftecisi-omer-aybak-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,9",
+                            "CategoryName": "c6163805-6d21-4ae3-8041-8435b5f215ae",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Serdar Döner, 13 Mart Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/serdadoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/serdar-doner-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,4",
                             "CategoryName": "87649db7-139f-4397-b8fb-8b365cdb45bb",
                             "CuisineNameList": [
                                 "Döner"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "SR Döner, 13 Mart Mah.",
-                            "FlavourText": "7,4",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/sr_doner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,8",
-                            "SpeedText": "7,8",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,2",
                             "WorkHoursText": "08:30-23:00",
                             "href": "/sr-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,4",
                             "CategoryName": "34bb7362-08c9-4cf5-9633-ff30a6f222a8",
                             "CuisineNameList": [
                                 "Döner",
@@ -1169,13 +2006,13 @@
                             ],
                             "DeliveryTime": 40,
                             "DisplayName": "Yaprak Döner, 13 Mart Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,0",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/yaprakdoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,0",
+                            "ServingText": "7,2",
+                            "SpeedText": "8,1",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/yaprak-doner-13-mart-mah-mardin"
                         }
@@ -1188,7 +2025,65 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "6,0",
+                            "AvgPoint": "7,5",
+                            "CategoryName": "5182dd8d-3abe-4a37-9bbd-08357d8ccbc5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Burger King, Yenişehir (Merkez)",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "5ff90da3-9772-49c8-a4b3-e50d53768149",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,6",
+                            "SpeedText": "7,5",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-yenisehir-merkez-mardin"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "73a3b99d-4c81-4358-9e59-f311593fb785",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Gözde Cafe Fast Food & Pizza, Yenişehir (Merkez)",
+                            "FlavourText": "5,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/gozdecafefastfood_big.gif",
+                            "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
+                            "MainCuisineName": "Pizza & İtalyan",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "5,7",
+                            "SpeedText": "5,9",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/gozde-cafe-fast-food-pizza-yenisehir-merkez-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "c6f8033b-d841-4622-8bb9-4ade3d6c4a56",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, 13 Mart Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "65d37edf-e0b0-43ca-936d-a1699d8eef35",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "8,0",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,0",
                             "CategoryName": "99fb20ec-8796-4fd1-98f6-3aaa499a232f",
                             "CuisineNameList": [
                                 "Pizza & İtalyan",
@@ -1196,54 +2091,91 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "Domino's Pizza, 13 Mart Mah.",
-                            "FlavourText": "5,8",
+                            "FlavourText": "6,8",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
                             "MainCuisineId": "790dca09-063e-4b0e-8bf8-d5b720cd60c3",
                             "MainCuisineName": "Domino's Pizza",
                             "MinimumDeliveryPrice": 12.9,
-                            "ServingText": "5,7",
-                            "SpeedText": "6,5",
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-01:00",
                             "href": "/dominos-pizza-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,1",
-                            "CategoryName": "9768506a-9b5c-41e4-928f-a73303215620",
+                            "AvgPoint": "8,7",
+                            "CategoryName": "0162952d-cc3f-4fe6-af96-ef3ed4c1ee1e",
                             "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Mersin Tantuni, 13 Mart Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/mersintantuni_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 24.0,
+                            "ServingText": "8,7",
+                            "SpeedText": "9,2",
+                            "WorkHoursText": "11:00-23:59",
+                            "href": "/mersin-tantuni-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "8,9",
+                            "CategoryName": "b2cfc497-e41e-4730-9f14-97f82be3a0cd",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
                                 "Kebap & Türk Mutfağı"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Meşhur Adana Kebapçısı Celal Usta, 13 Mart Mah.",
-                            "FlavourText": "7,1",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/meshuradanakebapcisicelalusta_big.gif",
-                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
-                            "MainCuisineName": "Kebap & Türk Mutfağı",
-                            "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "6,8",
-                            "SpeedText": "7,3",
-                            "WorkHoursText": "10:00-23:00",
-                            "href": "/meshur-adana-kebapcisi-celal-usta-13-mart-mah-mardin"
+                            "DisplayName": "Meşhur Adıyaman Çiğ Köftecisi Ömer Aybak, 13 Mart Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/meshur-adiyaman-cigkoftecisi-omer-aybak_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "9,3",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "12:00-23:59",
+                            "href": "/meshur-adiyaman-cig-koftecisi-omer-aybak-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,9",
+                            "CategoryName": "c6163805-6d21-4ae3-8041-8435b5f215ae",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Serdar Döner, 13 Mart Mah.",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/serdadoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "11:00-21:00",
+                            "href": "/serdar-doner-13-mart-mah-mardin"
+                        },
+                        {
+                            "AvgPoint": "7,4",
                             "CategoryName": "87649db7-139f-4397-b8fb-8b365cdb45bb",
                             "CuisineNameList": [
                                 "Döner"
                             ],
                             "DeliveryTime": 45,
                             "DisplayName": "SR Döner, 13 Mart Mah.",
-                            "FlavourText": "7,4",
+                            "FlavourText": "7,5",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/sr_doner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
-                            "MinimumDeliveryPrice": 20.0,
-                            "ServingText": "7,8",
-                            "SpeedText": "7,8",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,2",
                             "WorkHoursText": "08:30-23:00",
                             "href": "/sr-doner-13-mart-mah-mardin"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,4",
                             "CategoryName": "34bb7362-08c9-4cf5-9633-ff30a6f222a8",
                             "CuisineNameList": [
                                 "Döner",
@@ -1251,13 +2183,13 @@
                             ],
                             "DeliveryTime": 40,
                             "DisplayName": "Yaprak Döner, 13 Mart Mah.",
-                            "FlavourText": "7,6",
+                            "FlavourText": "7,0",
                             "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_MARDIN/yaprakdoner_big.gif",
                             "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
                             "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 20.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,0",
+                            "ServingText": "7,2",
+                            "SpeedText": "8,1",
                             "WorkHoursText": "09:00-23:00",
                             "href": "/yaprak-doner-13-mart-mah-mardin"
                         }

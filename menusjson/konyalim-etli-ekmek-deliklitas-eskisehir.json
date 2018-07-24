@@ -1,0 +1,607 @@
+{
+    "comment": [
+        {
+            "Comment": "Plastik tabakta gelmesi tabak icinde sallantıdan birbirlerine karişmislar.",
+            "Date": "2018-07-23",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız süper tadida güzel yalnız birazcik kalın daha ince olabilir.",
+            "Date": "2018-07-17",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her şey mükemmel. Teşekkürler.",
+            "Date": "2018-07-17",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Guzel ama porsiyonlari az.",
+            "Date": "2018-07-15",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Porsiyon küçük ama lezzet mükemmel. Puan kırılmaz küçüklüğüne. Kalite et kalite hamur. Çok beğendim.",
+            "Date": "2018-07-15",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Servis çok hızlıydı ama porsiyon biraz küçük geldi bize.",
+            "Date": "2018-07-11",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzeldi ama küçüktü biraz etli ekmek diyince uzunca büyük beklenti vardı ama küçük geldi tad konusunda güzel.",
+            "Date": "2018-07-11",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet güzel teşekkürler.",
+            "Date": "2018-07-11",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İdare eder.",
+            "Date": "2018-07-11",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "10"
+        },
+        {
+            "Comment": "15 dakikada gelen mükemmel lezzet. Çıtır çıtır, dayanılmaz lezzet. Eskişehirde daha iyisini yemedim. Bu verdiğim 5 ya da 6. Siparisimdi. Ciginizi ve kalitenizi hiç bozmadiginiz için teşekkürler.",
+            "Date": "2018-07-09",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok güzeldi elinize emeğinize sağlık.",
+            "Date": "2018-07-09",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harikasınız tek kelıme.",
+            "Date": "2018-07-09",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzet olarak düşüşte iç malzemesi giderek azalıyor dikkate alırsanız sevinirim.",
+            "Date": "2018-07-09",
+            "Flavour": "6",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper.",
+            "Date": "2018-07-07",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-07-07",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Salata bozuktu. Künefede fıstık yoktu. Mevlana iyiydi ama bozuk salatayla tadı bozuldu tabi.",
+            "Date": "2018-07-05",
+            "Flavour": "2",
+            "Serving": "3",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-07-05",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Guzel.",
+            "Date": "2018-06-30",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Harika.",
+            "Date": "2018-06-30",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İç malzemesi azdı.",
+            "Date": "2018-06-29",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet başarılı.",
+            "Date": "2018-06-29",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "10.",
+            "Date": "2018-06-27",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ramazan dolayısı ile geç siğariş verdim 10 dakika sonra geldi mükemmel lezzette iyiydi aklımın ucunda sipariş verirken hep varsın.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İlk defa etli ekmek yedim tadı güzel ama benim damak zevkim değil gayet hızlı ulaştı teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "1. 5 porsiyon soyledik baska yerin 1 porsiyonuna ancak denk gelir ya ona gore fazla soyleyin ya da ac kalin.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "3",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok iyi.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çatal yok tuz yok bıçak yok. Yeşili koru tikli olmadığı halde getirilmemiş. Lezzet harika ama porsiyonlar gerçekten çok ufak. Porsiyona göre fiyat fazla pahalı.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "1",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İyiydi ellerinize sağlık.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Elinize şağlık çok güzeldi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Etli etmeğini beğendim tavsiye ederim lezzet, hız güzel yeniden sipariş edicem bugün.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Porsiyonları çok küçüktü tokluk hissi yaratmamasını geçtim, yedikten sonra açlığımız arttı. Özellikle belirttiğimiz halde nakit para üstü gelmemişti.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Baya uzak bi mesafeye 20 dakika gibi imkansız bi sürede getirdiler şok olduk ailecek :d gerçekten aşmış adamlar bu durumu ama porsiyonlar biraz küçük o yüzden açsanız eğer 1. 5 porsiyon söylemeniz iyi olacaktır.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "1. 5 porsiyon söyledim çok azdı.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzet olarak muhteşem 10 numara. Fakat getirirken plastik çatal bıçak mendil koymak bence sizin gibi bir müesseseye yakışanıdır. Künefesi sağlam, etli ekmeği zaten müthiş.. Kolay gelsin. Porsiyon göze küçük geliyor fakat doyurucu.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Başarılı.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Oldukça hızlı geldi. Çok lezzetliydi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok kötü.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Herşey on numara ama bi peçete tuz vs eksik.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "1",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bi tık daha doyurucu olsa on numara olcak.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bu adamlar bu işi biliyor, elinize emeğinize sağlık.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Karışık pide söyledim. Sıcak geldi, tadı da gayet güzeldi, 1 porsiyondu ve gayet güzel doyurdu.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zaman sıcak lezzetli kredi kartıyla alışveriş mutlakaa gelmeli.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel güzel.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli hızlı gayet güzel bir de kredi kartıyla alışveriş seçeneği eklense tam olacak.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızli ve lezzetli tavsiye ederim.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pideler birzdaha az yaglı olabilirse.",
+            "Date": "2018-05-25",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İyi ve güzel bir tat.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Biraz fazla yağlı ve prosiyonlar küçüktü.",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Etli ekmegi bırakamaz olduk, müthis lezzet, müthis hız..",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hersey cok guzeldi lezzet hiz.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzetli ve doyurucuydu teşekkürler.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey çok güzeldi. Porsiyonlar biraz daha büyük olursa tadından yenmez.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok sıcak ve hızlı geldi ama porsiyonu az doymadım.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kaliteli ürün hızlı servis. Porsiyon biraz daha büyük olabilir.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezizzz.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Maaşı karışık pideye basar olduk tehlikeli olmaya başladı bu iş :d.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Etli Ekmek",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bıçak Arası",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kaşar peyniri",
+            "ItemName": "Mevlana Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Bıçak Arası",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Kuşbaşı, kıyma, kaşar peyniri",
+            "ItemName": "Karışık Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Etli Ekmek + Künefe + Kutu İçecek",
+            "ItemName": "Menü 1",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Bıçak Arası + Künefe + Kutu İçecek",
+            "ItemName": "Menü 2",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz Pide + Künefe + Kutu İçecek",
+            "ItemName": "Menü 3",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bıçak Arası",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Etli Ekmek",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kaşar peyniri",
+            "ItemName": "Mevlana Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kuşbaşı, kıyma, kaşar peyniri",
+            "ItemName": "Karışık Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Bıçak Arası",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Yumurtalı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kuşbaşı, kaşar peyniri, yumurta",
+            "ItemName": "Atom",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı",
+            "ItemName": "Şalgam Suyu (25 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Üzüm Şırası (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütaş Ayran (20 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Su (25 cl.)",
+            "ItemPrice": "1,00 TL"
+        }
+    ]
+}

@@ -1,0 +1,928 @@
+{
+    "comment": [
+        {
+            "Comment": "Kaliteli ve lezzetli yemekler. Ancak salata servisi için bir kase bulmalısınız.",
+            "Date": "2018-07-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çocukluğumdan beri kalitesi değişmemiş, ailemizin restaurantı.",
+            "Date": "2018-07-14",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzeti, taze malzemeleri çok güzeldi salatanın ama kasapların kullandığı dikdörtgen köpük tabakta salata sunumu böyle bir yere yakışmamış.",
+            "Date": "2018-07-05",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Köfte biraz lastik gibiydi.",
+            "Date": "2018-07-03",
+            "Flavour": "5",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Miktarı ve lezzeti gayet güzel ancak dün akşam aldığım salatanın sosu çok azdı, salatada biraz daha bol sos kullanmanızı rica ederim. Teşekkürler.",
+            "Date": "2018-07-03",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzetli ve hızlıydı, ancak paket servis içerisinde peçete çatal bıçak gönderilmesi gerekmiyor mu?",
+            "Date": "2018-06-26",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hizli geldi. Servis herhangi bir bufe ayarinda. Veriginiz parayi haketmiyor. Strafor tabak uzerine strec film sarilmis. Catal kasik ekmek vs yok. Asil onemli olan lezzetler buyuk hayalkirikligi.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "4",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Uzun yıllardır hem giderek hem sipariş ile yediğimiz bir resraurant. Son siparişimiz hem geç geldi, hem servis kötüydü hem de yemekler özensizdi. Umayım istisnai bir durumdur.",
+            "Date": "2018-06-24",
+            "Flavour": "5",
+            "Serving": "2",
+            "Speed": "2"
+        },
+        {
+            "Comment": "200 metre mesafeye 45 dakikada geldi 1 porsiyon iskender.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Salatanın ya sosu yoktu ya da çok azdı, malzemeleri güzeldi.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Fiyatlar biraz fazla.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Mükemmel her bakımdan.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Cok lezzetliydi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok iyi köfte ve piyaztereyağlı pilav nefis.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yıllardır hep çok iyi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mükemmel.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Süper.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Zaten piyasaya göre pahalı olan köftelerine 10-15 arası zam yapmalarını doğru bulmuyorum.",
+            "Date": "2018-04-25",
+            "Flavour": "5",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Herzamanki gibi mükemmel.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yediğim en kötü iskenderdi. Hana yakıştıramadım.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "4",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her zamanki gibi lezzet super.. Çok hızlı geldi..",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herzaman güzel geliyor inşallah bozulmaz.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her zaman aile ortamı gibi ve yemekleri hem güzel hem temiz.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sıcak gelse çok iyi olucak ama maalesef buz gibi geldi güzelim döner buna bi çözüm bulun.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hayatimda yedigim acik ara en kotu krepti. Ayran da sulu yogurttu tadi tuzu hicbir seyi yoktu. Bu kadar pahali olup bu kadar kotu olmayi nasil basariyorsunuz.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "3",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yediğim en kötü penne arrabiatta sanırım. Sosu kuruydu püremsi bir kıvamı vardı makarnalar fazla haşlanmıştı hamur gibiydi ve artabiattada dilim siyeh zeytin olur normalde burası bütün zeytinin çekirdeğini çıkarıp içine atmıştı. Arrabiatta dışında her şeye benziyodu yakıştıramadım.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Etli yaprak sarmayı begenmedim ama begenen olur.. Benim damak tadima uygun degildi.. Ezogelincorbasi cok guzeldi.",
+            "Date": "2018-02-24",
+            "Flavour": "6",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Köftenin yanından acı sosu standart göndermeleri lazım. Her defasında not yazmak zorunda kalmamalıyız!",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Yaprak sarma harika sevgiler.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Notumuzu dikkate aldığınız için öncelikle sağolun, lezzet her zamanki han kalitesi ancak, servis ettiğiniz alüminyum kapları değişseniz daha iyi olmaz mı sanki, teşekkürler.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Siparişimden sonra servisin gelmesi 1 saati geçti, bu sürede bir açıklama yapılsaydı anlayabilirdim ancak ben yazana kadar bilgilendirme de olmadı. Evden çıkmam gerektiği için siparişi iptal ettim. Oysa ki daha önceki deneyimlerimde lezzetten memnundum...",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "1"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "66. İnegöl Köfte",
+            "ItemPrice": "26,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "71. Et Döner Kebap",
+            "ItemPrice": "34,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "1. Ezogelin Çorbası",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "Kayseri usulü",
+            "ItemName": "80. Etli Yaprak Sarma",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "72. Pilav Üstü Et Döner",
+            "ItemPrice": "36,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "47. Piyaz",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "İnegöl Köfte + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (İnegöl Köfte)",
+            "ItemPrice": "30,60 TL"
+        },
+        {
+            "ItemInfo": "İskender (Et Dönerden) + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (İskender)",
+            "ItemPrice": "46,35 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "1. Ezogelin Çorbası",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "2. Közde Patlıcan",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "4. Chicken Poppers",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "5. Mozzarella Sticks",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "7. Soğan Halkaları",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Pesto sos ile",
+            "ItemName": "8. Izgara Hellim",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "9. Tereyağlı Pilav",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "10. Patates Kızartması",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Peynir, kıyma",
+            "ItemName": "11. Su Böreği",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Soya sosu ile",
+            "ItemName": "12. Sebzeli Çin Böreği",
+            "ItemPrice": "19,75 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, pul biber, sarımsak",
+            "ItemName": "13. Sarımsaklı Karides Güveç",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "Krem peyniri, kapari, karides, dereotu, pesto sos",
+            "ItemName": "14. Somon Füme Rulosu",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pesto sos ile lezzetlendirilmiş somon füme, roka, kırmızı soğan, kapari",
+            "ItemName": "15. Somon Marine",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Sote ıspanak, kaşar peyniri. Mevsim yeşillikleri ile",
+            "ItemName": "16. Ispanaklı Krep",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk göğüs eti, kaşar peyniri, mantar, krema sos. Mevsim yeşillikleri ile",
+            "ItemName": "17. Tavuklu Krep",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Bonfile dilimleri, mantar, arpacık soğan, kaşar peyniri, Demi-Glace sos ile",
+            "ItemName": "18. Steak Krep",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Somon fileto, mantar, arpacık soğan, kaşar peyniri, krema sos ile",
+            "ItemName": "19. Somonlu Krep",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Haşlanmış yumurta, bal, beyaz peynir, kaşar peyniri, tereyağı, zeytin, salatalık, domates",
+            "ItemName": "20. Kahvaltı Tabağı",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "21. Peynirli Omlet",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "22. Mantarlı Omlet",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Mevsim sebzeleri",
+            "ItemName": "23. Sebzeli Omlet",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "24. Patatesli Omlet",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "25. Menemen",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "66. İnegöl Köfte",
+            "ItemPrice": "26,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "67. Kaşarlı İnegöl Köfte",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "68. Acılı İnegöl Köfte",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "Soğan, sarımsak, acı yeşilbiber, maydanoz",
+            "ItemName": "69. Çoban Köfte",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "70. İskender (Kıymadan)",
+            "ItemPrice": "43,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "70. Patlıcanlı İskender (Kıymadan)",
+            "ItemPrice": "43,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "71. Et Döner Kebap",
+            "ItemPrice": "34,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "72. Pilav Üstü Et Döner",
+            "ItemPrice": "36,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "73. Kuzu Pirzola",
+            "ItemPrice": "48,00 TL"
+        },
+        {
+            "ItemInfo": "Patates püresi, sotelenmiş ıspanak, kuş üzümlü kekikli tereyağlı sos",
+            "ItemName": "74. Kuzu Sırtı",
+            "ItemPrice": "58,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş patlıcan, dana bonfile, pilav, patates kızartması ile",
+            "ItemName": "75. Külbastı",
+            "ItemPrice": "51,00 TL"
+        },
+        {
+            "ItemInfo": "Yoğurtlu pide üzerine baharatlı ızgara köfte, tereyağı, domates sos ile",
+            "ItemName": "76. Yoğurtlu Kebap",
+            "ItemPrice": "44,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "77. Kuzu Şiş",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Patlıcan beğendi, dana bonfile ve elma dilim patates kızartması ile",
+            "ItemName": "78. Beğendili Kebap",
+            "ItemPrice": "53,25 TL"
+        },
+        {
+            "ItemInfo": "Bonfile dilimleri, soğan, mantar, sivri biber, domates, patates kızartması ile",
+            "ItemName": "79. Çoban Kavurma",
+            "ItemPrice": "49,00 TL"
+        },
+        {
+            "ItemInfo": "Kayseri usulü",
+            "ItemName": "80. Etli Yaprak Sarma",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "Dilimlenmiş domates, kızartılmış soğan halkası, turşu, karamelize soğan, patates kızartması",
+            "ItemName": "81. Han Burger",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Dövülmemiş ızgara bonfile, patates kızartması, haşlanmış mevsim sebzeleri",
+            "ItemName": "82. Fransız Usulü Dana Bonfile",
+            "ItemPrice": "56,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim sebzeleri, patates püresi, mantarlı krema sos ile",
+            "ItemName": "83. Mantar Soslu Bonfile",
+            "ItemPrice": "56,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, Café de Paris sos",
+            "ItemName": "84. Steak Café de Paris",
+            "ItemPrice": "56,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim sebzeleri, patates püresi, kremalı rokfor sosu ile",
+            "ItemName": "85. Rokfor Soslu Bonfile",
+            "ItemPrice": "56,00 TL"
+        },
+        {
+            "ItemInfo": "Küp doğranmış bonfile, kurutulmuş domates, zeytin, mantar, arpacık soğan, Meksika fasulyesi, hafif acılı Demi Glace sos, patates kızartması",
+            "ItemName": "86. Steak Vitello",
+            "ItemPrice": "54,00 TL"
+        },
+        {
+            "ItemInfo": "Ispanak, patates püresi, granite hellim",
+            "ItemName": "87. Hellim Steak",
+            "ItemPrice": "56,00 TL"
+        },
+        {
+            "ItemInfo": "Patates püresi, mevsim sebzeleri, krema sos ile",
+            "ItemName": "88. Porçini Mantarlı Bonfile",
+            "ItemPrice": "56,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması ile",
+            "ItemName": "89. Beğendili Kuzu İncik",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Dana bonfile, renkli biberler, kuru soğan ile",
+            "ItemName": "90. Fajita (Et)",
+            "ItemPrice": "52,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "91. İnegöl Dürüm",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "92. Et Döner Dürüm",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Bonfile parçaları, mantar, renkli biberler, özel sos ile",
+            "ItemName": "93. Etli Mantarlı Dürüm",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk parçaları, mantar, renkli biberler, özel sos ile",
+            "ItemName": "94. Tavuklu Mantarlı Dürüm",
+            "ItemPrice": "23,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "95. Tombik Ekmek Arası Et Döner",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "96. Tombik Ekmek Arası Köfte",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "97. Tavuk Şiş",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, pilav ile",
+            "ItemName": "98. Piliç Pirzola",
+            "ItemPrice": "31,25 TL"
+        },
+        {
+            "ItemInfo": "Soğan, mantar, sivri biber, domates, patates kızartması",
+            "ItemName": "99. Piliç Sac Kavurma",
+            "ItemPrice": "32,50 TL"
+        },
+        {
+            "ItemInfo": "Mevsim sebzeleri, patates kızartması ile",
+            "ItemName": "100. Tavuk Izgara",
+            "ItemPrice": "30,50 TL"
+        },
+        {
+            "ItemInfo": "Izgara piliç pirzola, patates kızartması, Paris sos",
+            "ItemName": "101. Chicken Paris",
+            "ItemPrice": "32,50 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk, mevsim sebzeleri, patates kızartması, krema sos",
+            "ItemName": "102. Mantar Soslu Tavuk",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk, mevsim sebzeleri, patates kızartması, köri sos",
+            "ItemName": "103. Köri Soslu Piliç",
+            "ItemPrice": "32,50 TL"
+        },
+        {
+            "ItemInfo": "Küp doğranmış piliç gögüs, mantar, Meksika fasulyesi, arpacık soğan, kajun baharatları, kurutulmuş domates, kızarmış patates, acılı Demi Glace sos",
+            "ItemName": "104. Meksika Usulü Piliç",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim sebzeleri, patates kızartması, napolitan sos, parmesan peyniri ile",
+            "ItemName": "105. Chicken Napoliten",
+            "ItemPrice": "32,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk göğüs eti, renkli biberler, kuru soğan",
+            "ItemName": "106. Fajita (Tavuk)",
+            "ItemPrice": "39,25 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, mevsim sebzeleri ile",
+            "ItemName": "107. Piliç Schnitzel",
+            "ItemPrice": "31,50 TL"
+        },
+        {
+            "ItemInfo": "Sote ıspanak, patates püresi, teriyaki sos ile",
+            "ItemName": "108. Somon Izgara",
+            "ItemPrice": "48,50 TL"
+        },
+        {
+            "ItemInfo": "Balsamik soslu roka, kırmızı soğan, limon ile",
+            "ItemName": "109. Buharda Somon",
+            "ItemPrice": "48,50 TL"
+        },
+        {
+            "ItemInfo": "Tereyağlı közlenmiş patlıcan, patates püresi, roka, kırmızı soğan ile",
+            "ItemName": "110. Izgara Levrek",
+            "ItemPrice": "44,00 TL"
+        },
+        {
+            "ItemInfo": "Parmesan peyniri, zeytin, sarımsak, acı domates sos",
+            "ItemName": "51. Penne Arrabbiata",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim sebzeleri, granite tulum peyniri",
+            "ItemName": "52. Tulum Peynirli Penne",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "Sarımsak, parmesan peyniri, krema domates sos",
+            "ItemName": "53. Tortellini Pomodoro",
+            "ItemPrice": "30,25 TL"
+        },
+        {
+            "ItemInfo": "Mevsim sebzeleri, tavuk, mantar, krema sos, parmesan peyniri",
+            "ItemName": "54. Tavuklu Fettuccine",
+            "ItemPrice": "31,50 TL"
+        },
+        {
+            "ItemInfo": "Sarımsak, parmesan peyniri, kıymalı domates sos",
+            "ItemName": "55. Spaghetti Bolognese",
+            "ItemPrice": "28,50 TL"
+        },
+        {
+            "ItemInfo": "Somon fileto, mantar, parmesan peyniri, krema sos",
+            "ItemName": "57. Somonlu Fettuccine",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Kremalı rokfor sosu ve parmesan peyniri",
+            "ItemName": "58. Rokfor Peynirli Tortellini",
+            "ItemPrice": "30,25 TL"
+        },
+        {
+            "ItemInfo": "Sarımsak, parmesan peyniri, fesleğenli domates sos",
+            "ItemName": "59. Ravioli",
+            "ItemPrice": "30,25 TL"
+        },
+        {
+            "ItemInfo": "Parmesan peyniri, krema sos",
+            "ItemName": "60. Üç Renkli Tortellini",
+            "ItemPrice": "30,25 TL"
+        },
+        {
+            "ItemInfo": "Parmesan peyniri, ıspanak, fesleğenli krema sos",
+            "ItemName": "61. Ricotta Peynirli Ravioli",
+            "ItemPrice": "31,50 TL"
+        },
+        {
+            "ItemInfo": "Parmesan peyniri, krema sos",
+            "ItemName": "62. Tortellini Quattro Formaggi",
+            "ItemPrice": "30,25 TL"
+        },
+        {
+            "ItemInfo": "Parmesan peyniri, pestolu krema sos",
+            "ItemName": "63. Tortellini Pesto",
+            "ItemPrice": "30,25 TL"
+        },
+        {
+            "ItemInfo": "Özel ev yapımı",
+            "ItemName": "65. Mantı",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, ton balığı, yumurta, kapari, közlenmiş kırmızıbiber, mısır, kuşkonmaz, hardal sos, isteğe göre soğan",
+            "ItemName": "26. Tuna Salata",
+            "ItemPrice": "30,50 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, Manyas peyniri, biber, mısır, ceviz, zeytinyağı, limon sos, isteğe göre soğan",
+            "ItemName": "27. Akdeniz Salatası",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, roka, ceviz, turşu, domates, turp, mısır, rendelenmiş beyaz peynir, sarımsak, yağ, limon sos",
+            "ItemName": "28. Sarımsaklı Special Salata",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, kapari, közlenmiş kırmızıbiber, kuşkonmaz, mısır, cherry domates, zeytinyağı, limon sos, isteğe göre soğan",
+            "ItemName": "29. Sıcak Somon Salata",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, ızgara bonfile dilimleri, havuç, kırmızı lahana, mısır, cherry domates, turşu, parmesan peyniri, Café de Paris sos",
+            "ItemName": "30. Steak Café de Paris Salata",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, roka, mısır, cherry domates, közlenmiş kırmızıbiber, ceviz, zeytin, kırmızı soğan, yağ, limon sos",
+            "ItemName": "31. Keçi Peynirli Salata",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, roka, mısır, cherry domates, közlenmiş kırmızıbiber, ceviz, granite tulum peyniri, sarımsaklı sos",
+            "ItemName": "32. Tulum Peynirli Salata",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, roka, mısır, közlenmiş kırmızıbiber, turşu, beyaz peynir, kaşar peyniri, tulum peyniri, limon sos ile",
+            "ItemName": "33. Çiftlik Salata",
+            "ItemPrice": "28,50 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, kruton ekmek, kurutulmuş domates, ızgara tavuk dilimleri, Sezar sos ile",
+            "ItemName": "34. Sezar Salata",
+            "ItemPrice": "29,75 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, kruton ekmek, kurutulmuş domates, ızgara bonfile dilimleri, Sezar sos ile",
+            "ItemName": "35. Han Sezar Salata",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, mevsim sebzeleri, mısır, balsamik sos ile",
+            "ItemName": "36. Hellim Peynirli Salata",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, cajun baharatlı bonfile dilimleri, Manyas peyniri, biber, soğan, mısır, ceviz, zeytinyağı, limon sos",
+            "ItemName": "37. Cajun Salata (Et)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, cajun baharatlı tavuk dilimleri, Manyas peyniri, biber, soğan, mısır, ceviz, zeytinyağı, limon sos",
+            "ItemName": "37. Cajun Salata (Tavuk)",
+            "ItemPrice": "30,50 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, cherry domates, mısır, zeytin, ceviz içi, közlenmiş kırmızıbiber, taco sos",
+            "ItemName": "38. Çıtır Tavuk Salata",
+            "ItemPrice": "30,50 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, kuskus makarna, kuş üzümü, közlenmiş kırmızıbiber, dolmalık fıstık, mısır, ızgara tavuk dilimleri, zeytinyağı, limon sos",
+            "ItemName": "39. Fas Usulü Tavuklu Salata",
+            "ItemPrice": "30,50 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, roka, mısır, Manyas peyniri, tatlı hardal sos",
+            "ItemName": "40. Köfteli Medusa Salata",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Bonfile dilimleri, közlenmiş kırmızıbiber, mısır, cherry domates, ceviz, parmesan peyniri, balsamik sos",
+            "ItemName": "41. Steak Roka Salatası",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, mısır, cherry domates, közlenmiş kırmızıbiber, tatlı ekşi sos",
+            "ItemName": "42. Karides Salatası",
+            "ItemPrice": "36,50 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, roka, mısır, cherry domates, közlenmiş kırmızıbiber, ceviz, zeytin, kırmızı soğan, zeytinyağı, limon sos",
+            "ItemName": "43. Somon Füme Salata",
+            "ItemPrice": "38,50 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, kırmızılahana, mısır, havuç, zeytin, turp, nar ekşisi, zeytinyağı, limon sos",
+            "ItemName": "44. Mevsim Salata",
+            "ItemPrice": "14,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "45. Gavurdağı Salatası",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "46. Çoban Salata",
+            "ItemPrice": "14,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "47. Piyaz",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "48. Cacık",
+            "ItemPrice": "13,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "49. Yoğurt",
+            "ItemPrice": "13,25 TL"
+        },
+        {
+            "ItemInfo": "Özel Kayseri ev turşusu",
+            "ItemName": "50. Turşu",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "111. Sütlü Cevizli Tel Kadayıf",
+            "ItemPrice": "13,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "112. Kemalpaşa Peynir Tatlısı",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "113. Portakallı Kabak Tatlısı",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "114. Mozaik Pasta",
+            "ItemPrice": "17,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "115. Çikolatalı Sufle",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz sos ile",
+            "ItemName": "116. Creme Brule",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz malzeme ile",
+            "ItemName": "117. Dondurma (1 Top)",
+            "ItemPrice": "5,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "118. Coca-Cola (33 cl.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "118. Coca-Cola Light (33 cl.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "118. Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "118. Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "119. Fanta (33 cl.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "120. Sprite (33 cl.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "121. Schweppes (25 cl.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "122. Fuse Tea (33 cl.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "123. Ayran",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "124 Taze Sıkılmış Portakal Suyu",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "125. Taze Sıkılmış Nar Suyu",
+            "ItemPrice": "12,25 TL"
+        },
+        {
+            "ItemInfo": "Portakal, nar",
+            "ItemName": "126. Taze Sıkılmış Karışık Meyve Suyu",
+            "ItemPrice": "12,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "127. Limonata",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "128. Kızılay Soda",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "128. Uludağ Premium Soda",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "128. Sırma Soda",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "129. Su (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "129. Su (75 cl.)",
+            "ItemPrice": "7,50 TL"
+        }
+    ]
+}

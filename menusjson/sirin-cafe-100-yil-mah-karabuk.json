@@ -1,0 +1,363 @@
+{
+    "comment": [
+        {
+            "Comment": "Ayran eksikti.",
+            "Date": "2018-07-23",
+            "Flavour": "8",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Mantı güzel. Hız yavaş.",
+            "Date": "2018-07-13",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Pilav istedim kalmadı ama beklerseniz hemen yapiveririm dedi bildiğin benim için pilav yaptı ellerine sağlık melek abla serviste gayet düzgün ve hızlı herşey için teşekkür ederim :).",
+            "Date": "2018-07-13",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tat felan bahsetmeyeceğim hiç ama paket dağılmış gitmiş poşete akmış ölyle geldi. Dikkat edin lütfen.",
+            "Date": "2018-07-08",
+            "Flavour": "7",
+            "Serving": "4",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Patsonun içinde garip bir şekilde az patates var.",
+            "Date": "2018-06-28",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Mantı mükemmel :).",
+            "Date": "2018-06-28",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çatal kaşık koyulmuyor.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sıcak ve lezzetli.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Menemenin yanında ekmek getirmemek mantıklı mı :) çatal kaşığı söylemiyorum kürdan koymuşlar zor oldu yemesi ama :).",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "1",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Mantı güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Eh işte.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Gayet geçirli lezzeti ve hizmeti.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mantı süper porsiyonda çok büyük.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kocaman ekmeğin içine incecik bir elin parmaği kadar sucuk parçasi koyup kuru kuru tost diye boş ekmek yedirdiniz. İlk ve sondu :).",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "100. Yılda ilk defa patsosu gayet doyurucu ve güzel olan biryer. Ayrıca gözlemeyi paketleme şekilleri siparişi getiren arkadaşın içtenliği gayet 10 numara 5 yıldız işletme olduğu belli. Denemenizi şiddetle tavsiye ederim.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Patso lezzetli ve doyurucu.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Melek Abla'nın Mantısı",
+            "ItemPrice": "12,90 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, sosis, salatalık turşusu, ketçap, mayonez",
+            "ItemName": "Patso Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Gözleme",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, patates kızartması ve isteğe göre soğan",
+            "ItemName": "Şirin Köfte Burger",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması ile",
+            "ItemName": "Bazlama Ekmeğine Sucuklu Tost",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patatesli Gözleme",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Köfte Dürüm (Domates, biber, patates kızartması ve isteğe göre soğan) + Coca-Cola (20 cl.)",
+            "ItemName": "Köfte Dürüm Menü",
+            "ItemPrice": "13,90 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner Dürüm + Coca-Cola (20 cl.)",
+            "ItemName": "Tavuk Döner Dürüm Menü",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "Izgara Köfte (Pilav, salata, patates kızartması) + Coca-Cola (20 cl.)",
+            "ItemName": "Izgara Köfte Menü",
+            "ItemPrice": "19,90 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Schnitzel (Pilav, patates kızartması, soğan halkası, salata) + Coca-Cola (20 cl.)",
+            "ItemName": "Tavuk Schnitzel Menü",
+            "ItemPrice": "19,90 TL"
+        },
+        {
+            "ItemInfo": "Mantı + Coca-Cola (20 cl.)",
+            "ItemName": "Mantı Menü",
+            "ItemPrice": "14,90 TL"
+        },
+        {
+            "ItemInfo": "Combo Tabağı (8 adet sigara böreği, 2 adet tavuk nugget, 2 adet sosis) + Coca-Cola (20 cl.)",
+            "ItemName": "Combo Tabağı Menü",
+            "ItemPrice": "12,90 TL"
+        },
+        {
+            "ItemInfo": "Kumru Sandviç + Coca-Cola (20 cl.)",
+            "ItemName": "Kumru Sandviç Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Ekmek Arası Kokoreç + Ayran (20 cl.)",
+            "ItemName": "Tavuk Kokoreç Menü",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "Tavuklu Pilav + Ayran (20 cl.)",
+            "ItemName": "Tavuklu Pilav Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Pirzola (1 adet) + Salata + Pilav + Ayran (20 cl.)",
+            "ItemName": "Tavuk Pirzola Menü",
+            "ItemPrice": "14,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması ile",
+            "ItemName": "Bazlama Ekmeğine Kaşarlı Tost",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması ile",
+            "ItemName": "Bazlama Ekmeğine Sucuklu Tost",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patatesli Gözleme",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Peynirli Gözleme",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Gözleme",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, sosis, salatalık turşusu, ketçap, mayonez",
+            "ItemName": "Patso Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk köftesi, domates, marul, turşu",
+            "ItemName": "Tavuk Burger",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger köftesi, domates, marul, turşu",
+            "ItemName": "Köfte Burger",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimek Çorbası",
+            "ItemPrice": "6,90 TL"
+        },
+        {
+            "ItemInfo": "Pilav, salata, patates kızartması",
+            "ItemName": "Izgara Köfte",
+            "ItemPrice": "19,90 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, soğan halkası, salata",
+            "ItemName": "Tavuk Schnitzel",
+            "ItemPrice": "19,90 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, patates kızartması ve isteğe göre soğan",
+            "ItemName": "Şirin Köfte Burger",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Ekmek arası tavuk döner, patates kızartması, marul, domates, salatalık turşusu",
+            "ItemName": "Şirin Tavuk Döner",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, patates kızartması ve isteğe göre soğan",
+            "ItemName": "Köfte Dürüm",
+            "ItemPrice": "13,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Döner Dürüm",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Tavuk Döner Dürüm",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Sosis, marul, tavuk döner, ketçap, mayonez, domates, salatalık turşusu",
+            "ItemName": "Sosisli Tavuk Döner Dürüm",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk döner, patates kızartması, marul, domates, özel salça sos",
+            "ItemName": "Hatay Usulü Tavuk Döner Dürüm",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Melek Abla'nın Mantısı",
+            "ItemPrice": "12,90 TL"
+        },
+        {
+            "ItemInfo": "8 adet sigara böreği, 2 adet tavuk nugget, 2 adet sosis",
+            "ItemName": "Combo Tabağı",
+            "ItemPrice": "12,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "4,00 TL"
+        }
+    ]
+}

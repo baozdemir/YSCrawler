@@ -1,0 +1,616 @@
+{
+    "comment": [
+        {
+            "Comment": "Cok hizli geldi ve tadi harikaydi calisanlari cok kibar bu yuzden tercihimiz herzaman yildizevler komagene.",
+            "Date": "2018-07-17",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Verdiğimiz siparişte iceceklerimiz gelmemesine rağmen ücretinin alındığını fark ettik ve ayrıca çiğ köfte dürümlerde hiç siparişlere göre yapılmamıştı. Hic memnun değiliz.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kayseriye yeni tasindik. Yakinimizda boyle bi cihkofteci olduguna sevindim. Hizli getirdiler ve getiren abi cok kibardi. Tesekkurler hizmet icin.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cok hizli ve iydi.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Miss.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Teşekkürler, hem personel hemde ürün çok güzel.. Özellikle haydari çok hoşuma gitti..",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gayet guzel.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Guzeldi.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Oldukça kibar çalısanlar bu işi zirveye çıkarmış.. Lezzet on numara servis aynı şekilde... Böyle devam etsin lütfen.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı servis, temiz sunum, süper lezzet...",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Çiğ Köfte Dürüm + Komagene Ayran (20 cl.)",
+            "ItemName": "Dürüm Menü",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "Üç çeyrek göbek marul, limon, 6 adet lavaş, 3 adet çiğ köfte sosu",
+            "ItemName": "Çiğ Köfte (600 gr.)",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Yarım göbek marul, limon, 4 adet lavaş, 2 adet çiğ köfte sosu",
+            "ItemName": "Çiğ Köfte (400 gr.)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Mega Çiğ Köfte Dürüm + Komagene Ayran (30 cl.)",
+            "ItemName": "Mega Dürüm Menü",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "125 gr. çiğ köfte, çift lavaş",
+            "ItemName": "Mega Çiğ Köfte Dürüm",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "90 gr. çiğ köfte, tek lavaş",
+            "ItemName": "Çiğ Köfte Dürüm",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "Mega Çiğ Köfte Dürüm + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Mega Çiğ Köfte Dürüm)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (200 gr.) + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Çiğ Köfte 200 gr.)",
+            "ItemPrice": "9,95 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Mega Çiğ Köfte Dürüm + 2 Adet Komagene Ayran (30 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (2 Mega Dürüm)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Mega Çiğ Köfte Dürüm + Komagene Ayran (30 cl.) (Maximum Menü indirimi, Maximum özellikli tüm kredi kartları ve İş Bankası Bankamatik Kartları ile yapılacak online ödemelerde ödeme anında uygulanacaktır.)",
+            "ItemName": "Maximum Menü (Mega Çiğ Köfte Dürüm)",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (400 gr.) + 2 Adet Komagene Ayran (30 cl.) (Maximum Menü indirimi, Maximum özellikli tüm kredi kartları ve İş Bankası Bankamatik Kartları ile yapılacak online ödemelerde ödeme anında uygulanacaktır.)",
+            "ItemName": "Maximum Menü (Çiğ Köfte 400 gr.)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte Dürüm + Komagene Ayran (20 cl.)",
+            "ItemName": "Dürüm Menü",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte Dürüm + Seçeceğiniz Tatlı (120 gr.) + Komagene Ayran (30 cl.)",
+            "ItemName": "Genç Menü 1",
+            "ItemPrice": "8,75 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte Dürüm + Şekerpare + Komagene Ayran (30 cl.)",
+            "ItemName": "Genç Menü 2",
+            "ItemPrice": "11,75 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte Dürüm + Eti Puf + Komagene Ayran (30 cl.)",
+            "ItemName": "Genç Menü 3",
+            "ItemPrice": "6,75 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte Dürüm + Zeytinyağlı Yaprak Sarma (250 gr.) + Komagene Ayran (30 cl.)",
+            "ItemName": "Genç Menü 4",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mega Çiğ Köfte Dürüm + Komagene Ayran (30 cl.)",
+            "ItemName": "Mega Dürüm Menü",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Ultra Mega Dürüm + Komagene Ayran (30 cl.)",
+            "ItemName": "Ultra Mega Dürüm Menü",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Mega Çiğ Köfte Dürüm + Şam Tatlısı + Komagene Ayran (30 cl.)",
+            "ItemName": "Acıktım Menü 1",
+            "ItemPrice": "10,75 TL"
+        },
+        {
+            "ItemInfo": "Mega Çiğ Köfte Dürüm + Kazandibi + Komagene Ayran (30 cl.)",
+            "ItemName": "Acıktım Menü 2",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Mega Çiğ Köfte Dürüm + İçli Köfte (2 Adet) + Komagene Ayran (30 cl.)",
+            "ItemName": "Acıktım Menü 3",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mega Çiğ Köfte Dürüm + Zeytinyağlı Yaprak Sarma (250 gr.) + Komagene Ayran (30 cl.)",
+            "ItemName": "Acıktım Menü 4",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Çiğ Köfte Dürüm + 2 Adet Komagene Ayran (20 cl.)",
+            "ItemName": "2'li Dürüm Menü",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Çiğ Köfte Dürüm + Şam Tatlısı (2 Adet) + 2 Adet Komagene Ayran (30 cl.)",
+            "ItemName": "Kanka Menü 1",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Çiğ Köfte Dürüm + İçli Köfte (2 Adet) + 2 Adet Komagene Ayran (30 cl.)",
+            "ItemName": "Kanka Menü 2",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "3 Adet Mega Çiğ Köfte Dürüm + İçecek (1 L.)",
+            "ItemName": "3'lü Mega Dürüm Menü",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Mega Çiğ Köfte Dürüm + Şam Tatlısı (2 Adet) + 2 Adet Komagene Ayran (30 cl.)",
+            "ItemName": "2'li Mega Dürüm Menü",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (800 gr.) + Komagene Ayran (1 L.)",
+            "ItemName": "Efsane Futbol Menüsü",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (200 gr.) + Seçeceğiniz Tatlı (120 gr.) + Komagene Ayran (30 cl.)",
+            "ItemName": "Çiğ Köfte Menü (200 gr.)",
+            "ItemPrice": "12,25 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (200 gr.) + Zeytinyağlı Yaprak Sarma (100 gr.) + Komagene Ayran (1 L.)",
+            "ItemName": "Hafif Menü 1",
+            "ItemPrice": "15,75 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (200 gr.) + İçli Köfte (2 Adet) + Komagene Ayran (1 L.)",
+            "ItemName": "Hafif Menü 2",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (400 gr.) + Şam Tatlısı (2 Adet) + Komagene Ayran (1 L.)",
+            "ItemName": "Açız Menü 1",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (400 gr.) + İçli Köfte (2 Adet) + Komagene Ayran (1 L.)",
+            "ItemName": "Açız Menü 2",
+            "ItemPrice": "28,50 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (600 gr.) + Komagene Ayran (1 L.)",
+            "ItemName": "3 Adam Menü 1",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (600 gr.) + İçli Köfte (4 Adet) + Komagene Ayran (1 L.)",
+            "ItemName": "3 Adam Menü 2",
+            "ItemPrice": "44,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (600 gr.) + 3 Adet Komagene Ayran (30 cl.)",
+            "ItemName": "3 Adam Menü 3",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (800 gr.) + İçli Köfte (4 Adet) + Komagene Ayran (1 L.)",
+            "ItemName": "4 x 4 Menü",
+            "ItemPrice": "51,50 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (1 kg.) + Komagene Ayran (1 L.)",
+            "ItemName": "Aile Menü 1",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (1 kg.) + Yaprak Sarma (500 gr.) + İçecek (1 L.)",
+            "ItemName": "Aile Menü 2",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuklu Pilav (300 gr.) + Komagene Ayran (30 cl.)",
+            "ItemName": "Sıcak Sıcak Menü 1",
+            "ItemPrice": "9,25 TL"
+        },
+        {
+            "ItemInfo": "Tavuklu Pilav (300 gr.) + Eti Puf + Komagene Ayran (30 cl.)",
+            "ItemName": "Sıcak Sıcak Menü 3",
+            "ItemPrice": "9,75 TL"
+        },
+        {
+            "ItemInfo": "Tavuklu Pilav (500 gr.) + Komagene Ayran (30 cl.)",
+            "ItemName": "Sıcak Sıcak Menü 5",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Yaprak Sarma (300 gr.) + Haydari + Amerikan Salatası",
+            "ItemName": "Misafir Menü 1",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Çeyrek göbek marul, limon, 2 adet lavaş, 1 adet çiğ köfte sosu",
+            "ItemName": "Çiğ Köfte (200 gr.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Yarım göbek marul, limon, 4 adet lavaş, 2 adet çiğ köfte sosu",
+            "ItemName": "Çiğ Köfte (400 gr.)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Üç çeyrek göbek marul, limon, 6 adet lavaş, 3 adet çiğ köfte sosu",
+            "ItemName": "Çiğ Köfte (600 gr.)",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "1 adet göbek marul, limon, 8 adet lavaş, 4 adet çiğ köfte sosu",
+            "ItemName": "Çiğ Köfte (800 gr.)",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "5 çeyrek göbek marul, limon, 10 adet lavaş, 5 adet çiğ köfte sosu",
+            "ItemName": "Çiğ Köfte (1 kg.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "90 gr. çiğ köfte, tek lavaş",
+            "ItemName": "Çiğ Köfte Dürüm",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "125 gr. çiğ köfte, çift lavaş",
+            "ItemName": "Mega Çiğ Köfte Dürüm",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Bol çiğ köfteli. 150 gr. çiğ köfte, çift lavaş",
+            "ItemName": "Ultra Mega Dürüm",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Çok bol çiğ köfteli. 175 gr. çiğ köfte, çift lavaş",
+            "ItemName": "Double Dürüm",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "İçli köfte, göbek marul, domates, turşu, roka, nane, maydanoz",
+            "ItemName": "İçli Köfte Dürüm",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "60 gr. dana eti, göbek marul, domates, turşu",
+            "ItemName": "Et Dürüm",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "6'lı İçli Köfte (Tam)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "10'lu İçli Köfte (Yarım)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Antep Kuru Patlıcan Dolma (250 gr.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Antep Kuru Biber Dolması (250 gr.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soya Soslu Tavuk (250 gr.)",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Köri Soslu Tavuk (250 gr.)",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "250 gr. pilav, 50 gr. tavuk",
+            "ItemName": "Tavuklu Pilav (300 gr.) (Sıcak)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Amerikan Salatası (250 gr.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ev Tipi Yaprak Sarma (300 gr.)",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Haydari (250 gr.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patlıcan Salatası (250 gr.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şakşuka (250 gr.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Zeytinyağlı Yaprak Sarma (250 gr.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Afrika Ateşi Sosu (Küçük)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Burger Sosu (Küçük)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çiğ Köfte Sosu",
+            "ItemPrice": "0,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lavaş (2 Adet)",
+            "ItemPrice": "0,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Paket Nar Ekşisi (15 gr.)",
+            "ItemPrice": "0,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yeşillik (Büyük)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yeşillik (Küçük)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Höşmerim (120 gr.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Höşmerim (500 gr.)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "İrmik Helvası (120 gr.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kalburabastı",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kazandibi",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şam Tatlısı (Adet)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şekerpare",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tepside Şam Tatlısı (15 Adet)",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Niğde Gazozu (25 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Zencefilli Beyoğlu Gazozu (25 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Komagene Ayran (20 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Komagene Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Organik Şalgam Suyu (25 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Osmanlı Konak Şerbeti (25 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Osmanlı Saray Şerbeti (25 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bardak Limonata",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şıra (25 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda (20 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Su (50 cl.)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Komagene Ayran (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Organik Şalgam Suyu (1 L.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Osmanlı Konak Şerbeti (1 L.)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Osmanlı Saray Şerbeti (1 L.)",
+            "ItemPrice": "7,50 TL"
+        }
+    ]
+}

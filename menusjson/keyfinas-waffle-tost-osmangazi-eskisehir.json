@@ -1,0 +1,906 @@
+{
+    "comment": [
+        {
+            "Comment": "Küçücük bazlama ekmeğine tost 7. 5tl öğrenciler uzak dursun.",
+            "Date": "2018-07-22",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Duble waffleı pek beğenmedim. Normal söyleyin. Gayet başarılı.",
+            "Date": "2018-07-22",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-07-22",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Sipariş 1 saat 20 dk geldi. Getiren arkdaş güler yüzlü ve kibardı. O bekleme süresine lezzeti deymez.",
+            "Date": "2018-07-21",
+            "Flavour": "7",
+            "Serving": "6",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Joker de olmasa ağzımıza süremicez. Pahalı ama güzel.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Joker olmasına rağmen hiç bir eksiği yoktu. Ellerine sağlık.",
+            "Date": "2018-07-19",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hayatımda çok farklı yerlerden waffle yedim nasıl bu kadar kötü waffle yapılır hayretler içerisindeyim. Herkes bildiği işi yapsın bu işi bırakmalısınız bence.",
+            "Date": "2018-07-18",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Yumurtalı tost lezzetli.",
+            "Date": "2018-07-17",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Wafflenin lezzetli oluşu ve güler yüzünüze bin teşekkür :).",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Waffle bana hitap etmedi ama denemenizi tavsiye ederim. Kurye bey efsane :d.",
+            "Date": "2018-07-09",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bu bölgedeki wafflelara göre iyi ama hindistan cevizini biraz abartmışsınız.",
+            "Date": "2018-07-09",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kuryeciniz ne tatlı ne tatlı.",
+            "Date": "2018-07-07",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hız servis mütiş. Tostlar standart gözleme eh ama bu fiyata bu mantı harika.",
+            "Date": "2018-07-06",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Malzeme seçeneğini artırsalar çok daha güzel olur mesela antep fıstığı ve bitter çikolata sosu kesinlikle olmalı. Servis güleryüzlüydü hız da fena sayılmaz.",
+            "Date": "2018-07-06",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hem waffle hem tost gercekten cok lezzetliydi.",
+            "Date": "2018-07-04",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Son derece lezzetli idi. Ayrıca yağmur sonrasında siparişi getiren güler yüzlü abi çamura saplanmıştı, hakkını helal etsin bize. Elinize sağlık.",
+            "Date": "2018-06-27",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Waffle üzerine ekstra istemiş olduğum coco pops bayattı.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Bence güzel waffle ama azcık daha hızlı olsa super olur.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Efso.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hamuru biraz sertti bıçakla zor kesildi ama lezzeti yerinde süperdi.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kuryeniz cok sempatik biri. Ozellikle icecekleri montun cebinden cikarmasi komedi..",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Paketçi abi on numara beş yıldız. Şekerlemeler rezalet.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Bayılıyorum sizin wafflelarınıza, tek geçerim(bir de hızlı getirseniz süper olur).",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Süper lezzetli bir waffle yedik umarım diğer mekanlar gibi sonradan bozulmaz.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hayatimda gördüğüm en marjinal kuryeydi. Tesekkur ederiz...",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Epey kötüydü. Ayni paraya efsane waffle yapan çok bilindik bi yer var. Yakin diye mecburen buradan aldim daha soylemem. Ucuz ve basit ve soguktu. Kusura bakmayin.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Lezzetliydi çok teşekkürler.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Beklentilerimi karşılamadı.",
+            "Date": "2018-05-25",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Hayatımda yediğim en kötü tosttu. Sucukların tavuk etinden olduğunu belirtinde biz de ona göre sipariş verelim. Tostun içinden sucukları çıkarttım kızartayım dedim sucuk kızarmıyo. Aç aç beklediğim zamana mı yanayım verdiğim paraya mı yanayım yazıklar olsun başka bir şey demiyorum.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Vizyon sahibiler...",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kuryenize çok teşekkür ederiz. Her şey çok güzeldi. Çok memnun kaldım.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kuryeye 10 diye servise 10 verdim waffle iyi de değil kötü de hamuru kalın nutellalı istemiştim ama asla nutella değildi meyveler boldu ama ananasla pörsmüştü öyle yani düzelin.",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "10",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Tostlarda hiç lezzet yok. Sucuklar da sıkıntılı gibi geldi bana.",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Tostta sucuklar tam pişmemişti ona rağmen doyurucuydu yine de dikkate alınmasını rica ediyorum ve hayatımda gördüğüm en samimi kuryeye sahipsiniz şaşırmadan edemedim :d.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Waffle lezzteliydi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Waffle bol meyveliydi harikaydı lütfen çizginizden ayrılmayın.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Waffle çooook güzeldi. Kurye de çok iyi birisiydi kapıda sohbet bile ettik. Bol kazançlar.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet güzel.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Makarna ve waffle çok güzeldi fakat tostta salçanın tuzu ve miktarı fazla gibiydi ona dikkat ederseniz daha güzel olur.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzeldi elinize sağlık.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Bazlama tostları harika.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hayatımda yediğim en kötü waffledi. Meyveleri hamuru sosları tam bir hayal kırıklığıydı.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Waffle söyledim çok iyi e dostta çok iyi daha nediyim abi kaliteli esnafsınız.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Krep ve pişiler o fiyata göre biraz küçük değil mi sizce de? Tostları güzeldi.",
+            "Date": "2018-04-25",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güler yüzlü oluşunuz, paketin gecikmemesi ve lezzetinizden dolayı teşekkürler. :).",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bu sefer malzemeden biraz kısmışız :).",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok lezzetlidiydi. Teşekkürler.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İşini düzgün yapan çok kibar, nazik ve efendi bir adama niye yorumlarda laf etmişler cidden anlam veremedim.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet bol malzemeli ve hızlı geldi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bi tık daha hızlı olabilir, malum hamur soğuyor ).",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Wafle gercek guzeldi sekere bogmamislar meyveler lezzetli ve malzemesi boldu.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Bu sefer idare ettik.",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Waffle fena değildi. Makarnanın hiç tadı yoktu ama tost güzeldi.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Waffle beğenemedim üzgünüm hız servis sıkıntılı değil, servis elemanı değişik, iyi veya kötü değil değişik sadece.",
+            "Date": "2018-03-26",
+            "Flavour": "2",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Klasik ekler istedik damla sakızlı geldi. Müşteriye bu tip durumlarda bilgi vermelisiniz.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "O kuryeyi eskiden tanırım 10 numara saygılı adam tost waffle yine 10 numara.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Waffle hamuru gerçekten çok lezzetli ama kullanılan meyveler çok ince dilimlenmişti. Ayrıca servis için çatal ve bıçak konulmamıştı. İş yerinde olmasaydı sanırım yiyemeyecektim.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "4",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Hersey guzeldi malzemesi dedikleri kadar coktu ama hamurda bir lastikiyet var bu duzeltilirse gercekten cok iyi olur. Elinize saglik.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Paketçiye laf yapan kişiler olmuş sanırım günlük hayatında insanlarla konuşmaya utanan, korkan kişiler onlar çünkü paketçi gayet güler yüzlü ve samimi davranmaya çalışıyo ve çok da iyi yapıyo keşke her restoranın paketçisi böyle olabilseydi.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ben beğendim lezzetli.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Soğuk geldi.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "4",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Cok iyi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Paketçi çok tatlı biriydi konuşması her şeyi waffle da beklediğimden çok çok daha güzeldi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ekler çok taze ve lezzetliydi. Tavsiye ederim.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Paketçi arkadaş hakkında o kadar çok yorum yazılmış ki waffledan önce paketçi arkadaşı merak ettim. Yazılanın aksine gayet normal biri, sadece işini seviyor bence. Wafflea gelince hamuru dışında her şeyi çok beğendim. İçi istemediğiniz kadar dolu. Meyvesi, şekerlemesi efsane.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Tostu yaparken sanırım kaşar ve sucuğu aynı anda atıp ekmeği kapatıp ısıtıyorsunuz. Sucukta otomatikmen pişmemiş ısınmış oluyor. Ya yanlış yapıyorsunuz yada tost yapım tarzımız farklı. Çiğ sucuk hoş değildi. Lütfen dikkate alınız.",
+            "Date": "2018-03-26",
+            "Flavour": "4",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Malzemesi bol ama istediğim malzemelerin çoğunun yerine sevmediğim malzemeler koyulmuş. Muz seçmemiştim hepsini çıkarmak zorunda kaldım. Bitter çikolata yerine de beyaz çikolata seçmiştim. Hızı normaldi, yarım saatte geldi.",
+            "Date": "2018-03-26",
+            "Flavour": "2",
+            "Serving": "4",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Tayyip in geldiği gün her yer polistr afik olmasına rağmen güzel hızlı plastik çatal bıçak daha kaliteli olmalı kırılıyor hemen nutella yerine çoko krem sürdüğünüz de çok belli.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mikemmeldi.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lezzetli.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Idare ederdi.",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Paketçi arkadaş bi garip tavırda anlam veremedim muhtemelen bir daha sipariş vermeyeceğim. Saygısızlığın sebebini anlamadım.",
+            "Date": "2018-03-26",
+            "Flavour": "2",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "İyidi.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Waffle gayet başarılı hızınız için de teşekkür ederim. Yalnız plastik çatal bıçak bıraz sıkıntılı :).",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kemer sokağa hızlıca geldi dün gece 2 karışık.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mikkkemelll daha anlatmaya gerek yok mikkkkeeemeelll.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Waffle gayet başarılı.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok hızlı geldi. Waffle her zamanki gibi çok güzeldi. Sadece eklerin hamuru bu sefer biraz hoşuma gitmedi o kadar. Kurye abimiz her zamanki gibi çok kibardı ona da ayrıca teşekkür ederim.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Waffle pek güzel değildi. Kendinizi geliştirin. Tostta iyi değildi. Daha iyisi olabilir.",
+            "Date": "2018-02-24",
+            "Flavour": "2",
+            "Serving": "5",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Paketçi abimiz bir numara. Waffle gayet güzeldi. Daha yüksek puanları hak ediyor.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Bence diğer işletmelerin sizden öğreneceği çok şey var. Hız lezzet eskişehirde teksiniz.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Diğer yorumlara okuduktan sonra biraz ön yargım oldu ama aksine paket muazzam biri bu arada tekrardan geçmiş olsun.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Malzemeler cidden bol, şaşırmadım desem yalan olur :) inşallah bozmazsınız.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hayatımda yediğim en kötü waffledı ben böyle bişey görmedim tek güzel tarafı ilginç paketçiydi.",
+            "Date": "2018-02-24",
+            "Flavour": "3",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Ellerinize sağlık, tadı gayet yerinde.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Buradan waffle söylemeyin. Tadı da servis şekli de tam bir felaket, kullandıkları şuruplar su gibi, meyvelerin dahi tadı yok. Ayrıca dağılmış olarak geldi. Paket servis elemanı da çok laubaliydi.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Waffleda haşhaşlı hamurunuza bayıldım çıtır çıtırdı... Harika!",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Seçeceğiniz malzemeler ile",
+            "ItemName": "Açık Waffle",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre salça, acı salça, ketçap, mayonez",
+            "ItemName": "Bazlama Ekmeğine Sucuklu Kaşarlı Tost",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz malzemeler ile",
+            "ItemName": "Sandviç Waffle",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, isteğe göre salça, acı salça, ketçap, mayonez",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz malzemeler ile",
+            "ItemName": "Double Waffle",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, patates kızartması, isteğe göre ketçap, mayonez, acı sos, salça sos",
+            "ItemName": "Patatesli Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bazlama Ekmeği (Adet)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mısır Ekmeği (Adet)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, patates kızartması, isteğe göre ketçap, mayonez, acı sos, salça sos",
+            "ItemName": "Patatesli Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, isteğe göre salça, acı salça, ketçap, mayonez",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, isteğe göre salça, acı salça, ketçap, mayonez",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Beyaz Peynirli Domatesli Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre salça, acı salça, ketçap, mayonez",
+            "ItemName": "Bazlama Ekmeğine Kaşarlı Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre salça, acı salça, ketçap, mayonez",
+            "ItemName": "Bazlama Ekmeğine Çift Kaşarlı Tost",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre salça, acı salça, ketçap, mayonez",
+            "ItemName": "Bazlama Ekmeğine Sucuklu Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre salça, acı salça, ketçap, mayonez",
+            "ItemName": "Bazlama Ekmeğine Duble Sucuklu Tost",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre salça, acı salça, ketçap, mayonez",
+            "ItemName": "Bazlama Ekmeğine Sucuklu Kaşarlı Tost",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk döner, isteğe göre domates, soğan",
+            "ItemName": "Bazlama Ekmeğine Tavuk Dönerli Tost",
+            "ItemPrice": "7,90 TL"
+        },
+        {
+            "ItemInfo": "Mantar kavurma",
+            "ItemName": "Bazlama Ekmeğine Mantarlı Tost",
+            "ItemPrice": "8,90 TL"
+        },
+        {
+            "ItemInfo": "Tavuk burger köftesi, kaşar peyniri, domates, salatalık turşusu",
+            "ItemName": "Bazlama Ekmeğine Burger Köfteli Tost",
+            "ItemPrice": "8,90 TL"
+        },
+        {
+            "ItemInfo": "Sahanda yumurta, sucuk, kaşar peyniri, domates, salatalık turşusu",
+            "ItemName": "Bazlama Ekmeğine Yumurtalı Tost",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre salça, acı salça, ketçap, mayonez, acı biber turşusu",
+            "ItemName": "Bazlama Ekmeğine Domatesli Beyaz Peynirli Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Peynirli Gözleme",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Peynirli Yumurtalı Gözleme",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patatesli Gözleme",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patatesli Yumurtalı Gözleme",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Gözleme",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Yumurtalı Gözleme",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mantarlı Gözleme",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Sucuklu Gözleme",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Sucuklu & Yumurtalı Gözleme",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurt Soslu Makarna",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Salça Soslu Makarna",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Mantı",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimekli Mantı",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz çikolata, kivi, ananas, elma, yer fıstığı, damla çikolata, beyaz sos",
+            "ItemName": "Vanilyalı Hamur",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Bitter çikolata, beyaz çikolata, muz, çilek, ananas, parça fıstık, bitter damla çikolata, fıstık krokan, beyaz çikolata sos",
+            "ItemName": "Fıstık Parçacıklı Hamur",
+            "ItemPrice": "16,90 TL"
+        },
+        {
+            "ItemInfo": "Sütlü çikolata, beyaz çikolata, muz, çilek, ananas, parça fındık, pirinç patlağı",
+            "ItemName": "Fındık Parçacıklı Hamur",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Beyaz çikolata, karamel çikolata, muz, ananas, kestane şekeri, coco pops, elma, portakal, Hindistan cevizi, çikolata çubuk granül, karamel sos",
+            "ItemName": "Hindistan Cevizli Hamur",
+            "ItemPrice": "19,90 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz malzemeler ile",
+            "ItemName": "Sandviç Waffle",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz malzemeler ile",
+            "ItemName": "Açık Waffle",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz malzemeler ile",
+            "ItemName": "Double Waffle",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Niğde Gazozu (25 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy Limonata (Karton Bardakta)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy Limonata (1 L.)",
+            "ItemPrice": "5,00 TL"
+        }
+    ]
+}

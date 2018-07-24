@@ -1,0 +1,382 @@
+{
+    "comment": [
+        {
+            "Comment": "Bir önerim var. Malzemelerini bizim seçebileceğimiz bir kumpir olmalı. Örneğin 5-7 malzeme eklenebilecek olsun ve biz seçelim. Kumpiri güzel, servis düzgün ve hızlı. Teşekkürler.",
+            "Date": "2018-07-22",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cok kotuydu.",
+            "Date": "2018-07-18",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hizli servis. Gozlemeler guzeldi.",
+            "Date": "2018-07-18",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetine doyamadık bir daha sipariş veriyoruz... Wrap efsane çökertmenin patatesi biraz az :).",
+            "Date": "2018-07-13",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İçeceğim yine gelmedi :(.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Deneyimli bir kumpirci olarak hakkınızı teslim etmek gerek. Hız çok iyi. Lezzet malzeme kaşar ve patatesin güzel vurulması başarılı. Kaşarın eriyerek kıvama gelmesi başarılı. Küçük bir öneri. Özel kumpir kapları var ona koyup sonra folyoya sararsanız daha şık bir görüntü elde edersiniz. Teşekkürler.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok iyiydi.",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İçeceğimi de getirseniz iyi olurdu :) gözlemeyi de karışık istemiştim peynirli geldi. Kumpirin malzemeleri eksik olmasına rağmen sıcak ve lezzetliydi. Yine de otantiği seviyoruz paket servise devam.",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "5",
+            "Speed": "7"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Tereyağı, kaşar peyniri, sosis, Rus salatası, turşu, zeytin, mısır",
+            "ItemName": "Otantik Classic Kumpir",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Otantik Classic Kumpir + Kutu İçecek",
+            "ItemName": "Otantik Classic Kumpir Menü",
+            "ItemPrice": "21,90 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, kaşar peyniri, kıtır tavuk, turşu, zeytin, mısır",
+            "ItemName": "Kıtır Tavuklu Kumpir",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, salam, kaşar peyniri",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "Rus salatası, BBQ tavuk, iceberg marul, turşu, ketçap, mayonez",
+            "ItemName": "BBQ Tavuklu Sandviç",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, kaşar peyniri, turşu, zeytin, mısır",
+            "ItemName": "Sade Kumpir",
+            "ItemPrice": "14,90 TL"
+        },
+        {
+            "ItemInfo": "Mini Kumpir (Kaşar peyniri, sosis, mısır, zeytin, yoğurtlu meze, havuç, patlıcan ezme) + Ayran (30 cl.) + Oyuncak",
+            "ItemName": "Mini Menü",
+            "ItemPrice": "22,90 TL"
+        },
+        {
+            "ItemInfo": "Ton Balıklı Sandviç + Kutu İçecek",
+            "ItemName": "Ton Balıklı Sandviç Menü",
+            "ItemPrice": "15,90 TL"
+        },
+        {
+            "ItemInfo": "Otantik Classic Kumpir + Kutu İçecek",
+            "ItemName": "Otantik Classic Kumpir Menü",
+            "ItemPrice": "21,90 TL"
+        },
+        {
+            "ItemInfo": "Soya Soslu Tavuk + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Soya Soslu Tavuk Menü",
+            "ItemPrice": "19,90 TL"
+        },
+        {
+            "ItemInfo": "Siyah zeytin, yeşil zeytin, kaşar peyniri, beyaz peynir, tereyağı, bal veya reçel, çay veya kahve",
+            "ItemName": "Hızlı Kahvaltı Tabağı",
+            "ItemPrice": "14,90 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, domates, biber",
+            "ItemName": "Karışık Gözleme",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Gözleme",
+            "ItemPrice": "12,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patatesli Gözleme",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sade Gözleme",
+            "ItemPrice": "8,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Gözleme",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Beyaz Peynirli Gözleme",
+            "ItemPrice": "8,90 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, salam, kaşar peyniri",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "10,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Tost",
+            "ItemPrice": "10,90 TL"
+        },
+        {
+            "ItemInfo": "Ayvalık ekmeği, Rus salatası, kaşar peyniri, sucuk, salam, iceberg marul, domates, turşu, ketçap, mayonez",
+            "ItemName": "Otantik Tost",
+            "ItemPrice": "13,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Salamlı Tost",
+            "ItemPrice": "10,90 TL"
+        },
+        {
+            "ItemInfo": "Rus salatası, kaşar peyniri, domates, iceberg marul, turşu, zeytin, ketçap, mayonez",
+            "ItemName": "Veggie Sandviç",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "Rus salatası, kaşar peyniri, turşu, domates, iceberg marul, yeşil zeytin",
+            "ItemName": "Kaşarlı Sandviç",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "Rus salatası, sosis, turşu, ketçap, mayonez",
+            "ItemName": "Sosisli Sandviç",
+            "ItemPrice": "10,90 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, cheddar peyniri, jambon, salam, turşu, yeşil zeytin, domates, iceberg marul, ketçap, mayonez",
+            "ItemName": "Karışık Sandviç",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "Rus salatası, BBQ tavuk, iceberg marul, turşu, ketçap, mayonez",
+            "ItemName": "BBQ Tavuklu Sandviç",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "Rus salatası, kıtır tavuk, iceberg marul, turşu, ketçap, mayonez",
+            "ItemName": "Kıtır Tavuklu Sandviç",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "Rus salatası, ton balığı, iceberg marul, roka, domates, turşu, mısır",
+            "ItemName": "Ton Balıklı Sandviç",
+            "ItemPrice": "12,90 TL"
+        },
+        {
+            "ItemInfo": "Rus salatası, salam, yeşil zeytin, domates, iceberg marul, turşu, ketçap, mayonez",
+            "ItemName": "Salamlı Sandviç",
+            "ItemPrice": "11,90 TL"
+        },
+        {
+            "ItemInfo": "Hamburger (Hamburger köftesi, iceberg marul, turşu, ketçap, mayonez) + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Hamburger Menü",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Cheeseburger (Hamburger köftesi, cheddar peyniri, iceberg marul, dilim turşu, domates) + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Cheeseburger Menü",
+            "ItemPrice": "18,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dağ Kekikli Tavuk",
+            "ItemPrice": "16,90 TL"
+        },
+        {
+            "ItemInfo": "Dolmalık biber, kuru soğan, mantar, acı sos, fesleğenli sos ile sotelenmiş tavuk parçaları, Akdeniz yeşillikleri, elma dilim patates kızartması",
+            "ItemName": "Fesleğenli Tavuk",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Süzme yoğurt yatağında kibrit patates üzerinde tavada sotelenmiş tavuk parçaları, tereyağlı domates sosu",
+            "ItemName": "Tavuk Çökertme Kebabı",
+            "ItemPrice": "19,90 TL"
+        },
+        {
+            "ItemInfo": "Dolmalık biber, kırmızı soğan, mantar, BBQ sos ile sotelenmiş tavuk parçaları, Akdeniz yeşillikleri, elma dilim patates kızartması",
+            "ItemName": "BBQ Soslu Tavuk",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Baharatlar ile marine edilmiş mantarlı, kör soslu, kremalı tavuk parçaları, Akdeniz yeşillikleri, patates kızartması",
+            "ItemName": "Köri Soslu Tavuk",
+            "ItemPrice": "16,90 TL"
+        },
+        {
+            "ItemInfo": "Marine edilmiş soya soslu tavuk parçaları, Akdeniz yeşillikleri, patates kızartması",
+            "ItemName": "Soya Soslu Tavuk",
+            "ItemPrice": "16,90 TL"
+        },
+        {
+            "ItemInfo": "Kırmız soğan ile sotelenmiş tavuk dilimleri, teriyaki sos, Akdeniz yeşillikleri, elma dilim patates kızartması",
+            "ItemName": "Teriyaki Soslu Tavuk",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Izgara Köfte",
+            "ItemPrice": "18,90 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, kaşar peyniri, ton balığı, turşu, zeytin, mısır",
+            "ItemName": "Ton Balıklı Kumpir",
+            "ItemPrice": "19,90 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, kaşar peyniri, turşu, zeytin, mısır",
+            "ItemName": "Sade Kumpir",
+            "ItemPrice": "14,90 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, kaşar peyniri, mevsim sebzeleri, turşu, zeytin, mısır",
+            "ItemName": "Veggie Kumpir",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, kaşar peyniri, sosis, Rus salatası, turşu, zeytin, mısır",
+            "ItemName": "Otantik Classic Kumpir",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, kaşar peyniri, BBQ tavuk, turşu, zeytin, mısır",
+            "ItemName": "BBQ Tavuklu Kumpir",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, kaşar peyniri, kıtır tavuk, turşu, zeytin, mısır",
+            "ItemName": "Kıtır Tavuklu Kumpir",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, kaşar peyniri, misket köfte, Rus salatası, turşu, zeytin, mısır",
+            "ItemName": "Misket Köfteli Kumpir",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Tereyağı, kaşar peyniri, kavrulmuş acılı kıyma, taco, turşu, jalapeno biber, zeytin, mısır, Meksika fasulyesi",
+            "ItemName": "Mexican Kumpir",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Tavuk parçaları, sotelenmiş mevsim sebzeleri",
+            "ItemName": "Tavuklu Wrap",
+            "ItemPrice": "16,90 TL"
+        },
+        {
+            "ItemInfo": "Mini köfteler, sotelenmiş mevsim sebzeleri",
+            "ItemName": "Albondigas Wrap",
+            "ItemPrice": "16,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates Kızartması",
+            "ItemPrice": "6,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "5,90 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, kırmızı soğan, baby mısır, Akdeniz yeşillikleri",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "17,90 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, BBQ tavuk parçaları, cherry domates, baby mısır",
+            "ItemName": "BBQ Tavuklu Salata",
+            "ItemPrice": "14,90 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk parçaları, parmesan peyniri, Sezar soslu Akdeniz yeşillikleri",
+            "ItemName": "Klasik Tavuklu Sezar Salata",
+            "ItemPrice": "15,90 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, mevsim sebzeleri",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "12,90 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşiillikleri, kıtır tavuk parçaları, cherry domates, baby mısır",
+            "ItemName": "Kıtır Tavuklu Salata",
+            "ItemPrice": "15,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Light (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Max (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        }
+    ]
+}

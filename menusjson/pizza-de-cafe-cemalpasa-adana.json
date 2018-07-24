@@ -1,0 +1,415 @@
+{
+    "comment": [
+        {
+            "Comment": "Lezzet hiç fena değil ancak jumbo boy pizzanın çapı 34 cm kadar. Öyle büyük birşey beklemeyin.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yeni açılmasına rağmen gayet başarılı.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizzamin icinden plastik catal parcasi cikti nasil oraya girdi anlamadim.",
+            "Date": "2018-05-25",
+            "Flavour": "7",
+            "Serving": "5",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Gayet iyi biraz daha mozarella alır pizza.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yeni açıldığı için başta tereddütle yaklaşsam da pizzaları lezzetli olan restoran.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mükemmelsiniz.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harikaydı hem malzemeleri bol hemde uygun fiyatlı favori mekanım oldu, ellerinize sağlık.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sosis, salam, sucuk, mantar, yeşilbiber, mısır, domates",
+            "ItemName": "De Cafe Pizza (Orta)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sosis, salam, sucuk, mantar, yeşilbiber, mısır, domates",
+            "ItemName": "De Cafe Pizza (Büyük)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sosis, salam, sucuk, mantar, yeşilbiber, mısır, domates",
+            "ItemName": "De Cafe Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sosis, salam, sucuk, mantar, yeşilbiber, mısır, domates",
+            "ItemName": "De Cafe Pizza (Küçük)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, jülyen tavuk göğüs, kırmızıbiber, yeşilbiber, mısır, cajun baharatı",
+            "ItemName": "Tavuklu Pizza (Orta)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, jülyen tavuk göğüs, kırmızıbiber, yeşilbiber, mısır, cajun baharatı",
+            "ItemName": "Tavuklu Pizza (Küçük)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Simit arası çift kaşar peyniri, domates, salatalık, siyah zeytin",
+            "ItemName": "Hızlı Kahvaltı",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, çubuk peynir, kaşar peyniri, keçi peyniri, tulum peyniri, domates, salatalık, siyah zeytin, haşlanmış yumurta, çilek reçeli, tahin & pekmez, bal & kaymak, tereyağı",
+            "ItemName": "Kahvaltı Tabağı",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, zeytin ile",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk. Domates, salatalık ile",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, patates kızartması ile",
+            "ItemName": "Yengen Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Salam, kaşar peyniri, domates, salatalık",
+            "ItemName": "Soğuk Sandviç",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, turşu, göbek marul",
+            "ItemName": "Ton Balıklı Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sosis, salam, sucuk, mantar, yeşilbiber, mısır, domates",
+            "ItemName": "De Cafe Pizza (Küçük)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mısır, soğan, kekik, ton balığı, pul biber",
+            "ItemName": "Ton Balıklı Pizza (Küçük)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mevsim sebzeleri",
+            "ItemName": "Sebzeli Pizza (Küçük)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, jülyen tavuk göğüs, kırmızıbiber, yeşilbiber, mısır, cajun baharatı",
+            "ItemName": "Tavuklu Pizza (Küçük)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, dana eti, kapya biberi, yeşilbiber, kekik, pul biber, mantar",
+            "ItemName": "Kavurmalı Pizza (Küçük)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sucuk, Meksika biberi, kekik",
+            "ItemName": "Pepperoni Pizza (Küçük)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sosis, mantar, domates, siyah zeytin",
+            "ItemName": "Sosisli Pizza (Küçük)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sucuk, biber, kekik",
+            "ItemName": "Sucuklu Pizza (Küçük)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mantar, sucuk, jambon, mısır, yeşilbiber, taco",
+            "ItemName": "Taco Pizza (Küçük)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mantar, mısır",
+            "ItemName": "Funghi Pizza (Küçük)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, domates, fesleğen",
+            "ItemName": "Margherita Pizza (Küçük)",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sosis, salam, sucuk, mantar, yeşilbiber, mısır, domates",
+            "ItemName": "De Cafe Pizza (Orta)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mısır, soğan, kekik, ton balığı, pul biber",
+            "ItemName": "Ton Balıklı Pizza (Orta)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mevsim sebzeleri",
+            "ItemName": "Sebzeli Pizza (Orta)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, jülyen tavuk göğüs, kırmızıbiber, yeşilbiber, mısır, cajun baharatı",
+            "ItemName": "Tavuklu Pizza (Orta)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, dana eti, kapya biberi, yeşilbiber, kekik, pul biber, mantar",
+            "ItemName": "Kavurmalı Pizza (Orta)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sucuk, Meksika biberi, kekik",
+            "ItemName": "Pepperoni Pizza (Orta)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sosis, mantar, domates, siyah zeytin",
+            "ItemName": "Sosisli Pizza (Orta)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sucuk, biber, kekik",
+            "ItemName": "Sucuklu Pizza (Orta)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mantar, sucuk, jambon, mısır, yeşilbiber, taco",
+            "ItemName": "Taco Pizza (Orta)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mantar, mısır",
+            "ItemName": "Funghi Pizza (Orta)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, domates, fesleğen",
+            "ItemName": "Margherita Pizza (Orta)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sosis, salam, sucuk, mantar, yeşilbiber, mısır, domates",
+            "ItemName": "De Cafe Pizza (Büyük)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mısır, soğan, kekik, ton balığı, pul biber",
+            "ItemName": "Ton Balıklı Pizza (Büyük)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mevsim sebzeleri",
+            "ItemName": "Sebzeli Pizza (Büyük)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, jülyen tavuk göğüs, kırmızıbiber, yeşilbiber, mısır, cajun baharatı",
+            "ItemName": "Tavuklu Pizza (Büyük)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, dana eti, kapya biberi, yeşilbiber, kekik, pul biber, mantar",
+            "ItemName": "Kavurmalı Pizza (Büyük)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sucuk, Meksika biberi, kekik",
+            "ItemName": "Pepperoni Pizza (Büyük)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sosis, mantar, domates, siyah zeytin",
+            "ItemName": "Sosisli Pizza (Büyük)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sucuk, biber, kekik",
+            "ItemName": "Sucuklu Pizza (Büyük)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mantar, sucuk, jambon, mısır, yeşilbiber, taco",
+            "ItemName": "Taco Pizza (Büyük)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mantar, mısır",
+            "ItemName": "Funghi Pizza (Büyük)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, domates, fesleğen",
+            "ItemName": "Margherita Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sosis, salam, sucuk, mantar, yeşilbiber, mısır, domates",
+            "ItemName": "De Cafe Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mısır, soğan, kekik, ton balığı, pul biber",
+            "ItemName": "Ton Balıklı Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mevsim sebzeleri",
+            "ItemName": "Sebzeli Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, jülyen tavuk göğüs, kırmızıbiber, yeşilbiber, mısır, cajun baharatı",
+            "ItemName": "Tavuklu Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, dana eti, kapya biberi, yeşilbiber, kekik, pul biber, mantar",
+            "ItemName": "Kavurmalı Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sucuk, Meksika biberi, kekik",
+            "ItemName": "Pepperoni Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sosis, mantar, domates, siyah zeytin",
+            "ItemName": "Sosisli Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, sucuk, biber, kekik",
+            "ItemName": "Sucuklu Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mantar, sucuk, jambon, mısır, yeşilbiber, taco",
+            "ItemName": "Taco Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, mantar, mısır",
+            "ItemName": "Funghi Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kaşar peyniri, domates, fesleğen",
+            "ItemName": "Margherita Pizza (Jumbo)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Ev yapımı hamburger köftesi, domates, salatalık, patates kızartması, göbek marul, turşu, ketçap, mayonez",
+            "ItemName": "Hamburger",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Ev yapımı hamburger köftesi, kaşar peyniri, göbek marul, turşu, domates, salatalık, patates kızartması, ketçap, mayonez",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates Kızartması",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık ile",
+            "ItemName": "Sigara Böreği (7 Adet)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık ile",
+            "ItemName": "Tavuk Nugget (7 Adet)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        }
+    ]
+}

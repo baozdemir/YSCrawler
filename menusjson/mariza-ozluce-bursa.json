@@ -1,0 +1,515 @@
+{
+    "comment": [
+        {
+            "Comment": "Dürüm ekmeği ıslanıyor parçalanıyor çift lavaş seçeneği olmalı.",
+            "Date": "2018-07-04",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Değişmeyen adresimiz.",
+            "Date": "2018-06-27",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Başarılı.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Soğuktu.",
+            "Date": "2018-06-24",
+            "Flavour": "4",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzel di.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Tereyağı biraz daha bol olabilirdi gerisi gayet güzel tesekkürler.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı geldi. Sıcacıkdi. Pizza efsane. Yapanın ellerine sağlık. Arabayla getirilmesi de hoş bir ayrıntıydı :).",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Rezalett rezalet içine koydukları rus salatası diye geçen seye anlam veremedim.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Herşey çok güzeldi ama biraz soğuktu yoksa lezzetli kötü değildi sıcak olsa süper olur kolay gelsin iyi çalışmalar.",
+            "Date": "2018-04-25",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı ve lezzetli daima!",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tek kelimeyle harika.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Dönerin gramajı çok azdı ve salatası çok kötüydü tostta kaşar meredeyse hiç yoktu.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Elinize emeğinize sağlık ya. Vallaha billaha içten teşekkür ediyorum size. Lezzet, hız ve servis. Restorantınıza gelip yesem ancak bu kadar lezzetli ve hızlı olabilirdi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız ve servis iyi ancak lezzet orta hele tatlı çok çok kötü.",
+            "Date": "2018-03-26",
+            "Flavour": "5",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Et soğuktu lakin lezzetini sevdim.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Çok aşırı hızlı geldi şaşırdım cidden ilk siprişim olmasına ragmen gerçektende cok lezzetliydi döneriniz ancak şöyle bi tavsiyem var hamburgere aşırı rus salatası koyulmuş tamam tadı güzel ama hamburgerin tadını biraz öldürüyo gibi o yüzden biraz az tutarsınız ve dönerlere gramaj ekleyin lütfen.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tertemiz ve lezzetli.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Et döner, Rus salatası, turşu, göbek marul, sos",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı atom ekmeği, et döner, Rus salatası, turşu, göbek marul, sos",
+            "ItemName": "Atom Ekmek Arası Et Döner",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Et döner, Rus salatası, turşu, göbek marul, sos",
+            "ItemName": "Tombik Ekmek Arası Et Döner",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Et döner, Rus salatası, turşu, göbek marul, sos",
+            "ItemName": "Kayhan Pide Arası Et Döner",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Et döner, kaşar peyniri, Rus salatası, turşu, göbek marul, sos",
+            "ItemName": "Kaşarlı Et Döner Dürüm",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı atom ekmeği, patates kızartması, ketçap, mayonez",
+            "ItemName": "Atom Patso Sandviç",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Atom Ekmek Arası Et Döner + Patates Kızartması + Ayran (30 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Atom Ekmek Arası Et Döner)",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Üç dilim kare tost ekmeği arası kaşar peyniri",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı atom ekmeği arası kaşar peyniri",
+            "ItemName": "Atom Kaşarlı Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Üç dilim kare tost ekmeği arası sucuk",
+            "ItemName": "Sucuklu Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı atom ekmeği arası sucuk",
+            "ItemName": "Atom Sucuklu Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Üç dilim kare tost ekmeği arası sucuk, kaşar peyniri",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı atom ekmeği arası sucuk, kaşar peyniri",
+            "ItemName": "Atom Karışık Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı atom ekmeği, salam, sucuk, sosis, kaşar peyniri, Rus salatası, patates kızartması, turşu",
+            "ItemName": "Atom Kumru Sandviç",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı atom ekmeği, patates kızartması, ketçap, mayonez",
+            "ItemName": "Atom Patso Sandviç",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı atom ekmeği, salam, kaşar peyniri, domates, biber",
+            "ItemName": "Atom Soğuk Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı atom ekmeği, kasap sucuk, domates, közlenmiş biber, göbek marul",
+            "ItemName": "Atom Sucuk Sandviç",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı atom ekmeği, tavuk pane, Rus salatası, göbek marul, turşu",
+            "ItemName": "Atom Tavuk Pane Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Kayhan usulü pide, salam, sucuk, sosis, kaşar peyniri, Rus salatası, patates kızartması, turşu",
+            "ItemName": "Kayhan Kumru Sandviç",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Kayhan usulü pide, tavuk pane, Rus salatası, göbek marul, turşu",
+            "ItemName": "Kayhan Tavuk Pane Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Sandviç ekmeği, sosis, Rus salatası, turşu, sos",
+            "ItemName": "Sosisli Sandviç",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Sandviç ekmeği, tavuk pane, turşu, sos",
+            "ItemName": "Tavuk Pane Sandviç",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Tombik ekmek, salam, sucuk, sosis, kaşar peyniri, Rus salatası, patates kızartması, turşu",
+            "ItemName": "Tombik Kumru Sandviç",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Tombik ekmek, tavuk pane, Rus salatası, göbek marul, turşu",
+            "ItemName": "Tombik Tavuk Pane Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı hamburger ekmeği, 45 gr. hamburger köftesi, domates, turşu, ketçap, mayonez",
+            "ItemName": "Hamburger",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı hamburger ekmeği, 45 gr. hamburger köftesi, Rus salatası, domates, turşu, ketçap, mayonez",
+            "ItemName": "Mariza Burger",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı hamburger ekmeği, 45 gr. hamburger köftesi, kaşar peyniri, domates, turşu, ketçap, mayonez",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı hamburger ekmeği, 70 gr. tavuk pane, domates, turşu, ketçap, mayonez",
+            "ItemName": "Tavuk Pane Burger",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı hamburger ekmeği, 70 gr. tavuk pane, kaşar peyniri, domates, turşu, ketçap, mayonez",
+            "ItemName": "Tavuk Pane Cheeseburger",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, sucuk, salam, sosis, çarliston biber, mısır, siyah zeytin, yeşil zeytin",
+            "ItemName": "Karışık Pizza",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, kaşar peyniri, domates",
+            "ItemName": "Margherita Pizza",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Et döner, hamburger köftesi, sosis, patates kızartması, domates, turşu, kızarmış atom ekmeği",
+            "ItemName": "Mariza Special",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Dilimlenmiş pide üzerine ızgara köfte, sos, domates, turşu, yoğurt, tereyağı",
+            "ItemName": "Pideli Köfte",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk pane, Rus salatası, turşu, domates, göbek marul, patates kızartması, acı biber, kaşar peyniri, kızarmış atom ekmeği",
+            "ItemName": "Tavuk Pane",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk kroket, Rus salatası, turşu, domates, göbek marul, patates kızartması, acı biber, kaşar peyniri, kızarmış atom ekmeği",
+            "ItemName": "Tavuk Kroket",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara sosis, Rus salatası, turşu, domates, göbek marul, patates kızartması, acı biber, kaşar peyniri, kızarmış atom ekmeği",
+            "ItemName": "Izgara Sosis",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Salam, sucuk, sosis, Rus salatası, turşu, domates, patates kızartması, acı biber, kaşar peyniri, kızarmış atom ekmeği",
+            "ItemName": "Kumru",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Et döner, sos, tereyağı, pide, domates, közlenmiş biber, turşu, yoğurt",
+            "ItemName": "Bursa Kebabı (Et Dönerden)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, közlenmiş biber, patates kızartması, turşu, kızarmış pide ekmeği",
+            "ItemName": "Et Döner",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Et döner, Rus salatası, turşu, göbek marul, sos",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Et döner, kaşar peyniri, Rus salatası, turşu, göbek marul, sos",
+            "ItemName": "Kaşarlı Et Döner Dürüm",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Susamlı atom ekmeği, et döner, Rus salatası, turşu, göbek marul, sos",
+            "ItemName": "Atom Ekmek Arası Et Döner",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Et döner, Rus salatası, turşu, göbek marul, sos",
+            "ItemName": "Tombik Ekmek Arası Et Döner",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Et döner, Rus salatası, turşu, göbek marul, sos",
+            "ItemName": "Kayhan Pide Arası Et Döner",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Et döner, turşu, sos",
+            "ItemName": "Et Döner Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Klasik Mantı",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bohça Mantı",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kızarmış Mantı",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaşılı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mantarlı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kuşbaşı, kaşar peyniri",
+            "ItemName": "Karışık Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Cantık",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Cantık",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaş��lı Cantık",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kuşbaşı, kaşar peyniri",
+            "ItemName": "Karışık Cantık",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Salam, sucuk, sosis, kaşar peyniri, Rus salatası, patates kızartması, turşu",
+            "ItemName": "Kumru Dürüm",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk pane, Rus salatası, göbek marul, turşu",
+            "ItemName": "Tavuk Pane Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates Kızartması",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soğan Halkası (10 Adet)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Havuç, turşu, bezelye, patates, mayonez",
+            "ItemName": "Rus Salatası",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Supangle",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Profiterol",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şıra (25 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        }
+    ]
+}

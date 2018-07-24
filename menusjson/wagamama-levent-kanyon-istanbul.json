@@ -1,0 +1,998 @@
+{
+    "comment": [
+        {
+            "Comment": "Gyozalar sossus geldi. Bir anlamı kalmadı.",
+            "Date": "2018-07-22",
+            "Flavour": "9",
+            "Serving": "4",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Chicken katsu curry herzamanki gibi nefis.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Son derece kotu bir servis lezzet ve yaklasik 1 saatte geldi. Gidin yerinde yiyin servisleri rezalet.",
+            "Date": "2018-07-19",
+            "Flavour": "3",
+            "Serving": "5",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Basarılı.",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok kötüydü.",
+            "Date": "2018-07-13",
+            "Flavour": "1",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İyiydi.",
+            "Date": "2018-07-09",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "1 saat 5 dakikada geldi ve restorandaki porsiyonla alakasi yoktu. Icinde 2-3 parca et ya var ya yoktu. Bir daha siparis vermeyi dusunmuyorum.",
+            "Date": "2018-07-07",
+            "Flavour": "4",
+            "Serving": "8",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Cha han siparis etmistim, tursular gonderilmedi.",
+            "Date": "2018-07-06",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Etler cok sertti orada olsak geri gonderirdik.",
+            "Date": "2018-07-02",
+            "Flavour": "5",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Servis personeli çok kibardı.",
+            "Date": "2018-06-29",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Average.",
+            "Date": "2018-06-29",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Pakette hız ve servis dışında vasat malesef. Yerinde yemek lazım.",
+            "Date": "2018-06-28",
+            "Flavour": "6",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yorumlari okuyunca cok korktum gelmeyecek diye ama 25 dakikada elimdeydi. Lezetti ayni restaurant kalitesinde.",
+            "Date": "2018-06-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Pilav sertti.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "9",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Siparis ettigim duck wrap cok kuruydu ve urun bilgisinde olan hoisin sosta unutulmustu!..",
+            "Date": "2018-06-24",
+            "Flavour": "2",
+            "Serving": "9",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Salata istemistim, resmen marullar siyahti. Ayrica hic bir zaman soya sosu koymuyorsunuz.",
+            "Date": "2018-06-24",
+            "Flavour": "2",
+            "Serving": "4",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Önceden severek yiodk fakat son 3 sipariş rezalet lapa tatsız bir noodle ceyrek porsiyon ortalamanınn altında baştan sağma.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Ne ordege sos geldi nede gyozaya. Yorumalarda yazilmasina ragmen bari hatalarinizi duzeltmek icin caba sarf etseydiniz.",
+            "Date": "2018-06-24",
+            "Flavour": "3",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Oldjkca basarili.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yediğim en kötü noodle idi, içinde olduğu sözlenenlerde bir tek et ve soya fasulyesi ile içi geçmiş kişniş vardı. Makarna ve altında kalmış etler vardı. Soya sosu bile göndermemişlerdi.",
+            "Date": "2018-05-25",
+            "Flavour": "3",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Siparisi dogru getiremediler.",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Guzeeel.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişin çok geç gelmesinin yanında, hayatımda yediğim en lezzetsiz nigiriydi. Levrek diye üzerine kağıt gibi incecik birşey koymuşlar. Ne bir tadı vardı ne de sunumu özenliydi. Fakat dana etli gyozası her zamanki gibi çok güzeldi.",
+            "Date": "2018-05-25",
+            "Flavour": "3",
+            "Serving": "3",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Sosları unutmuşlar, gyozalar yavan kaldı.",
+            "Date": "2018-05-25",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Taze ve lezzetli.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Çok iyi.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Porsşyon biraz kuculus ama lezzet yer, nde.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Puani niçin bu kadar düsmüs anlam veremedim, gayet lezzetli, sicacik servis yapildi, kurye oldukça güleryüzlü, beklenen sürede teslimat yapildi. Sadece uzun zamandir siparis vermemistik, fiyatlar çok artmis maalesef.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Miso çorbasında tofuyu ara ki bulasın.",
+            "Date": "2018-04-25",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her sey mukemmeldi! Firecracker ve duck wrap denemeye deger.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Noodle çok kötüydü, yapışmış hamur olmuştu.",
+            "Date": "2018-03-26",
+            "Flavour": "2",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Sadece lezzeti sevdiğimiz için sipariş veriyoruz, yoksa teslim süresi hep uzun, gelmediği bile oldu.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "4",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yemek geldikten 15 dakika sonra yiyebildiğimiz için geç farkettik. Başkasının siparişi bize gelmiş. Gelen yemek lezzetliydi neyse ki:).",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Iki gun art arda ayni yemegi soyledim, sos oranlari farkliydi. Bu fiyatlara standardi devam ettirmek beklenir. Ama lezzetine diyecek lafim yok, hizli da geldi.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişle beraber soya sos koyulmamıştı, soya sosu seven biri olarak biraz üzdü.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Siparişim 1 saat 20 dakikada geldi. Tek kurye çalışıyormuş. Elemanların suçu değil, daha fazla eleman almaları gerekiyor. Bir daha asla sipariş vermem.",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Seviyoruzz.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetliydi ancak porsiyonlar çok küçük olmasına rağmen çok pahalı.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Porsiyon çok azdı.",
+            "Date": "2018-02-24",
+            "Flavour": "2",
+            "Serving": "2",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Her zaman süper, biraz daha hızlı gelirse daha süper olucak :).",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İlk göktürkde tanıştığım bu lezzet hiç bir zaman değışmedi bütün emeğı geçenlerin eline sağlık, iyi çalışmalar.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Wagamama tadina bayiliyorum ama cok yavas geldi (1, 5 saatte) e tabi soguktu...",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Yedigim en kotu chicken katsu oldu...",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Salata sossuz geldi. Yemekler yağ içinde yüzüyor ve lezzetsiz.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Hayatimda yedigim en tatsiz tuzsuz yagsiz yemekti. Icine 2 damla sos veya yag koysalardi keske. Udon noodle siparisi verdim, icine zencefil basilmis tatsiz ve kuru yemek denilen birseye 35 tl vermek istiyorsaniz wagamama dogru adres rezillik.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Sipariş içine yazdığım not okunmamış sanırım, soğanları ayıklarken yemek soğudu. Bunun dışında lezzet gayet iyiydi. Teşekkürler.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "6",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hız biraz yavaştı servis ve lezzet her zamanki gibi mükemmel.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Yemeğim çok geç geldi ve bu arada soğumuştu.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "4",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Normalden kotuydu.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Geçen sefer çok gecikmesinden dolayı siparişimizi iptal etmek zorunda kaldığımız wagamama, bu sefer bizi üzmedi, 17 dakikada siparişimiz elimizdeydi, teşekkür ederiz.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Turta diye bir dilim cheesecake yedim teşekkürler!",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "9"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Panko ekmek kırıntıları ile panelenip kızartılmış tavuk fileto, köri sosu ve Japon pilavı, Akdeniz yeşillikleri ve karışık Japon turşusu",
+            "ItemName": "71. Chicken Katsu Curry",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Teppanda pişirilen soba noodle, marine edilmiş biftek, mevsim yeşillikleri, kırmızı soğan, soya filizleri, fasulye, zencefil püresi, taze soğan, chili biberi, sarımsak ve teriyaki sos üzerinde susam ",
+            "ItemName": "90. Teriyaki Steak Soba",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Wokta pişirilmiş soba noodle, teriyaki ve acı sos ile sotelenmiş tavuk ve biftek parçaları, mevsim yeşillikleri, kırmızı soğan, kırmızıbiber, sarımsak soya filizi, pırasa üzerinde susam, kırmızı zencefil turşusu ve tavuk suyu sos",
+            "ItemName": "92. Wagamama Teriyaki",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Wok tavasında teriyaki sos ile sotelenmiş tavuk parçaları, chili biberi, kırmızıbiber, yeşilbiber, fasulye, yeşilsoğan, beyaz soğan, schimi, susam taneleri, lime ve yasemin pilavı",
+            "ItemName": "87. Firecracker Chicken",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Taze baharatlarla marine edilmiş ızgara somon, wok tavasında pişirilmiş sultani bezelye, havuç, taze kabak, kapya biberi, brokoli ve beyaz mantar, susamlı teriyaki sos ",
+            "ItemName": "98- Sesame Salmon",
+            "ItemPrice": "44,00 TL"
+        },
+        {
+            "ItemInfo": "Yağda kızartılmış ördekli ve pırasalı Japon böreği, baharatlı hoisin sos",
+            "ItemName": "99. Duck Gyoza (5'li Porsiyon)",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Yağda kızartılmış ördekli ve pırasalı Japon böreği, baharatlı hoisin sos",
+            "ItemName": "199. Duck Gyoza (3'lü Porsiyon)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Yağda kızartılmış ördekli ve pırasalı Japon böreği, baharatlı hoisin sos",
+            "ItemName": "99. Duck Gyoza (5'li Porsiyon)",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Yağda pişirilip ızgarada kızartılmış tavuk, lahana ve su kestanesi ile doldurulmuş Japon börekleri, baharatlı sarımsaklı soya sos",
+            "ItemName": "100. Gyoza (3'lü Porsiyon)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Yağda pişirilip ızgarada kızartılmış tavuk, lahana ve su kestanesi ile doldurulmuş Japon börekleri, baharatlı sarımsaklı soya sos",
+            "ItemName": "1100. Gyoza (5'li Porsiyon)",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Yağda kızartılmış ve doğranmış karides, ıspanak, taze soğan ve karidesle doldurulmuş Japon börekleri baharatlı sarımsaklı soya sos",
+            "ItemName": "1102. Ebi Gyoza (3'lü Porsiyon)",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Yağda kızartılmış ve doğranmış karides, ıspanak, taze soğan ve karidesle doldurulmuş Japon börekleri baharatlı sarımsaklı soya sos",
+            "ItemName": "102. Ebi Gyoza (5'li Porsiyon)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Panko ekmek kırıntısı ile panelenip yağda kızartılmış karides, chili katsu sos ve limon dilimi",
+            "ItemName": "103. Ebi Katsu",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "(Vejetaryenlere özel) Taze olarak haşlanan ve üzerine tuz serpilerek servis edilen soya fasulyesi",
+            "ItemName": "104. Edamame",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı sarımsak soslu; dana kıyma, pırasa ve havuç ile doldurulmuş Japon mantısı. İsteğe göre yağda kızartılmış veya buharda pişirilmiş.",
+            "ItemName": "1107. Beef Gyoza (3'lü)",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı sarımsak soslu; dana kıyma, pırasa ve havuç ile doldurulmuş Japon mantısı. İsteğe göre yağda kızartılmış veya buharda pişirilmiş.",
+            "ItemName": "107. Beef Gyoza (5'li)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Kara age sos ile marine edilip, yağda kızartılmış tavuk budu parçaları gyoza sos ve limon dilimi ",
+            "ItemName": "108. Tori Kara Age",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "(Vejetaryenlere özel) Özel salata soslu Akdeniz yeşillikleri, kırmızı soğan, taze soğan, havuç ve turp rendesi",
+            "ItemName": "109. Raw Salad",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "(Vejetaryenlere özel) Japon miso çorbası, wakame, tofu, taze soğan ve özel turşular",
+            "ItemName": "110. Miso Soup & Pickles",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Yağda kızartılmış hafif acılı kalamarlar, baharatlı sirke sos",
+            "ItemName": "111. Chili Squit",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Yağda kızartılmış ördek but, taze soğan, salatalık, tortilla ekmeği, hoisin sosu",
+            "ItemName": "112. Duck Wraps",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Teppanda pişirilen soba noodle, tavuk, karides, biber, beyaz soğan, taze soğan, soya filizleri, Waga soya sosu ve çırpılmış yumurta, üzerinde susam ve kırmızı zencefil turşusu ",
+            "ItemName": "40. Yaki Soba",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "(Vejetaryenlere özel) Teppanda pişirilen kepekli soba noodle, biber, beyaz soğan, taze soğan, mantar, sarımsak, havuç, soya filizleri, Waga soya sosu ve çırpılmış yumurta, üzerinde susam, kırmızı zencefil turşusu ve yasai yaki soba sirkesi",
+            "ItemName": "41. Yasai Yaki Soba",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Teppanda pişirilen udon noodle, tavuk, pırasa, biber, karides, mantar, soya filizleri, köri yağı, Waga soya sosu ve çırpılmış yumurta, üzerinde balık baharatı, susam ve kırmızı zencefil turşusu",
+            "ItemName": "42. Yaki Udon",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Teppanda pişirilmiş rice noodle, karides, kalamar, yeşilsoğan, soya filizi, yumurta, amai sos üzerinde kişniş, kırmızı soğan ve çekilmiş fıstık",
+            "ItemName": "45. Seafood Menrui",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Tepanda pişirilen rice noodle, yeşilsoğan, kırmızı soğan, soya filizi, çırpılmış yumurta, amai sos, taze kişniş, lime dilimi ve fıstık",
+            "ItemName": "46. Tavuk Menrui",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Teppanda pişirilen soba noodle, marine edilmiş biftek, mevsim yeşillikleri, kırmızı soğan, soya filizleri, fasulye, zencefil püresi, taze soğan, chili biberi, sarımsak ve teriyaki sos üzerinde susam ",
+            "ItemName": "90. Teriyaki Steak Soba",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Teppanda pişirilen soba noodle, marine edilmiş somon balığı filetosu, mevsim yeşillikleri, kırmızı soğan, soya filizleri, fasulye, zencefil püresi, taze soğan, chili biberi, sarımsak suyu ve teriyaki sos üzerinde susam",
+            "ItemName": "91. Teriyaki Salmon Soba",
+            "ItemPrice": "43,00 TL"
+        },
+        {
+            "ItemInfo": "Wokta pişirilmiş soba noodle, teriyaki ve acı sos ile sotelenmiş tavuk ve biftek parçaları, mevsim yeşillikleri, kırmızı soğan, kırmızıbiber, sarımsak soya filizi, pırasa üzerinde susam, kırmızı zencefil turşusu ve tavuk suyu sos",
+            "ItemName": "92. Wagamama Teriyaki",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Wok tavasında teriyaki sos ile pişirilen tavuk parçaları ve kırmızı soğan, Japon pilavı, mevsim yeşillikleri, özel salata sosu ve susam taneleri",
+            "ItemName": "93. Teriyaki Chikinraisu",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Teppanda pişirilen soba noodle, marine edilmiş tavuk but, mevsim yeşillikleri, kırmızı soğan, soya filizleri, fasulye, zencefil püresi, taze soğan, chili biberi, sarımsak ve teriyaki sos üzerinde susam",
+            "ItemName": "96. Teriyaki Chicken Soba",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Panko ekmek kırıntıları ile panelenip kızartılmış tavuk fileto, köri sosu ve Japon pilavı, Akdeniz yeşillikleri ve karışık Japon turşusu",
+            "ItemName": "71. Chicken Katsu Curry",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "(Vejetaryenlere özel) Panko ekmek kırıntıları ile panelenip, kızartılmış mevsim sebzeleri, köri sosu ve Japon pilavı, Akdeniz yeşillikleri ve karışık Japon turşusu",
+            "ItemName": "72. Yasai Katsu Curry",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Wok tavasında chili yağı ile sotelenmiş sarımsaklı ve zencefilli tavuk parçaları, kabak, kırmızı soğan, chili biberi, taze nane, reyhan, kişniş, lime dilimi ve yasemin pilavı",
+            "ItemName": "73. Koumi Chicken",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Wok tavasında cha han sosu ile pişirilmiş yasemin pilavı, tavuk, çırpılmış yumurta, karides, kızarmış tofu, havuç, mısır, mantar ve taze soğan, miso çorbası ve özel Japon turşuları",
+            "ItemName": "77. Cha Han",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "(Vejetaryenlere özel) Wok tavasında cha han sosu ile pişirilmiş yasemin pilavı, çırpılmış yumurta, sultani bezelye , kızarmış tofu, havuç, mısır, mantar ve taze soğan, miso çorbası ve özel Japon turşuları",
+            "ItemName": "78. Yasai Cha Han",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Wok tavasında özel tatlı acı sos ile sotelenmiş ördeki eti parçaları, kırmızı soğan, sultani bezelye, tatlı patates, salatalık, havuç, yeşilsoğan. Japon pilavı ile",
+            "ItemName": "81, Duck Donbiri",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "Wok tavasında teriyaki sos ile sotelenmiş tavuk parçaları, chili biberi, kırmızıbiber, yeşilbiber, fasulye, yeşilsoğan, beyaz soğan, schimi, susam taneleri, lime ve yasemin pilavı",
+            "ItemName": "87. Firecracker Chicken",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Wok tavasında özel tatlı acı sos ile sotelenmiş karidesler, chili biberi, kırmızıbiber, yeşilbiber, fasulye, yeşilsoğan, beyaz soğan, schimi, susam taneleri, lime ve yasemin pilavı",
+            "ItemName": "88. Firecracker Ebi",
+            "ItemPrice": "41,00 TL"
+        },
+        {
+            "ItemInfo": "Wok tavasında özel tatlı acı sos ile sotelenmiş biftek parçaları, chili biberi, kırmızıbiber, yeşilbiber, fasulye, yeşilsoğan, beyaz soğan, schimi, susam taneleri, lime ve yasemin pilavı",
+            "ItemName": "89. Firecracker Biftek",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Taze baharatlarla marine edilmiş ızgara bonfile, wok tavasında pişirilmiş sultani bezelye, havuç, taze kabak, kapya biberi, brokoli ve beyaz mantar, susamlı teriyaki sos ",
+            "ItemName": "95- Sesame Bonfile",
+            "ItemPrice": "57,00 TL"
+        },
+        {
+            "ItemInfo": "Taze baharatlarla marine edilmiş ızgara tavuk but, wok tavasında pişirilmiş sultani bezelye, havuç, taze kabak, kapya biberi, brokoli ve beyaz mantar, susamlı teriyaki sos ",
+            "ItemName": "97- Sasame Chicken",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Taze baharatlarla marine edilmiş ızgara somon, wok tavasında pişirilmiş sultani bezelye, havuç, taze kabak, kapya biberi, brokoli ve beyaz mantar, susamlı teriyaki sos ",
+            "ItemName": "98- Sesame Salmon",
+            "ItemPrice": "44,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, haşlanmış tavuk, nane, fesleğen, fasulye, taze soğan, portakal dilimleri ve karamelize kırmızı soğan üzerinde portakallı ve susamlı salata sosu",
+            "ItemName": "60. Orange & Sesame Chicken Salad (Tam)",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Özel tatlı acı sos ile tadlandırılmış Akdeniz yeşillikleri, wok tavasında sotelenmiş tavuk but, kapya biberi, sultani bezelye, buharda pişirilmiş brokoli, kırmızı soğan, chili biberi, yeşilsoğan",
+            "ItemName": "61. Warm Chili Chicken Salad",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara somon, baby roka, havuç, yeşilsoğan, bezelye, wakame, susam, özel miso mayonez sos",
+            "ItemName": "62. Salmon Miso Salad",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, lahana, havuç, beyaz turp, salatalık, chili biber, mango, kişniş, kurutulmuş soğan, Wagamama salata sosu",
+            "ItemName": "63. Super Salad Tavuk",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, lahana, havuç, beyaz turp, salatalık, chili biber, mango, kişniş, kurutulmuş soğan, Wagamama salata sosu",
+            "ItemName": "64. Super Salad Karides",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, lahana, havuç, beyaz turp, salatalık, chili biber, mango, kişniş, kurutulmuş soğan, Wagamama salata sosu",
+            "ItemName": "65. Super Salad Bonfile",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Galeta unu ile kızartılmış tavuk fileto, Japon pilavı, salatalık ve baharatlı köri sos ile",
+            "ItemName": "83. Mini Chicken Katsu",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Galeta unu ile panelenip, yağda kızartılmış karides, Japon pilavı, salatalık ve amai sos ile",
+            "ItemName": "85. Mini Ebi Rice",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "86. Mini Teriyaki Chicken",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "300. Japon Pilavı",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "301. Sade Noodle",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "302. Buharda Yasemin Pilavı",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "303. Acı Sivri Biber",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "304. Japon Turşusu",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "305. Udon Noodle",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "306. Ramen Tavuğu",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "307. Sriracha Acı Sos",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "Ebi tempura roll, sake kawa roll, dragon roll, waga roll ",
+            "ItemName": "Waga Set 1 (18 Adet)",
+            "ItemPrice": "90,00 TL"
+        },
+        {
+            "ItemInfo": "Alaska roll, sake nigiri, avokado maki, California roll, Boston roll, ebi nigiri ",
+            "ItemName": "Waga Set 2 (22 Adet)",
+            "ItemPrice": "86,00 TL"
+        },
+        {
+            "ItemInfo": "Maguro nigiri, ebi nigiri, sake nigiri, unagi nigiri, kani nigiri, suzuki nigiri",
+            "ItemName": "Nigiri Set (6 Adet)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Krem peynir, domates, salatalık, somon füme ",
+            "ItemName": "200- Boston Roll",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç, avokado, salatalık, susam, havyar ",
+            "ItemName": "201- California Roll",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Somon veya ton balığı, salatalık, acı sos, susam ",
+            "ItemName": "202- Spicy Sake Roll",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Karides, levrek, ton balığı, somon, avokado, salatalık, yengeç, susam",
+            "ItemName": "203- Rainbow Roll",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Çıtır tavuk, salatalık, susam, özel tatlı acı sos",
+            "ItemName": "204- Chicken Katsu Roll",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Karides, krem peynir, salatalık, avokado, susam, mayonez",
+            "ItemName": "205- Ebi Ebi Roll",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Somon",
+            "ItemName": "210- Sake Maki",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Avokado, susam",
+            "ItemName": "211- Avokado Maki",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı",
+            "ItemName": "212- Tekka Maki",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış somon derisi, susam",
+            "ItemName": "213- Sake Kawa Maki",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç ",
+            "ItemName": "214- Kani Maki",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Somon, avokado",
+            "ItemName": "215- Sake Avokado Maki",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Salatalık, avokado",
+            "ItemName": "216- Kappa Maki",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Somon veya füme somon",
+            "ItemName": "220- Sake Nigiri",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı",
+            "ItemName": "221- Maguro Nigiri",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Haşlanmış karides",
+            "ItemName": "222- Ebi Nigiri",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç",
+            "ItemName": "223- Kani Nigiri",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Levrek ",
+            "ItemName": "224- Suzuki Nigiri",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Yılan balığı",
+            "ItemName": "226- Unagi Nigiri",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış yengeç",
+            "ItemName": "227- Kaniten Nigiri",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış karides, salatalık, havyar, susam",
+            "ItemName": "230- Ebi Tempura Roll",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Yılan balığı, avokado, salatalık, yılan balığı sosu, susam",
+            "ItemName": "231- Unagi Crispy Roll",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "Krem peynir, salatalık, avokado, yengeç, somon",
+            "ItemName": "232- Alaska Roll",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Yılan balığı, avokado, salatalık, susam, yılan balığı sosu",
+            "ItemName": "233- Dragon Roll",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Karides, yılan balığı, avokado, yılan balığı sosu, susam",
+            "ItemName": "234- Waga Roll",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış karides, avokado, salatalık, somon",
+            "ItemName": "235- Chef Special Roll",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç eti, salatalık, avokado, yılan balığı, susam, yılan balığı sosu",
+            "ItemName": "236- Yahata Roll",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış karides, havyar, salatalık, susam",
+            "ItemName": "240- Ebi Tempura Temaki",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Yengeç, avokado, susam, havyar",
+            "ItemName": "241- California Temaki",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Yılan balığı, salatalık, avokado, susam",
+            "ItemName": "242- Unagi Temaki",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, salatalık, acı biber sos",
+            "ItemName": "243- Spicy Tuna Temaki",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Somon, salatalık, susam, acı biber sos",
+            "ItemName": "244- Spicy Sake Temaki",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış karides, yılan balığı, avokado, susam",
+            "ItemName": "245- Wagamama Temaki",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "Uçan balık yumurtası",
+            "ItemName": "250- Tobiko Gunkan",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Somon, taze soğan, susam, susam yağı",
+            "ItemName": "251- Tataki Gunkan",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Somon",
+            "ItemName": "260- Sake Sashimi (5 Adet)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı",
+            "ItemName": "261- Maguro Sashimi (5 Adet)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Levrek",
+            "ItemName": "262- Suzuki Sashimi (5 Adet)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Levrek, somon, ton balığı",
+            "ItemName": "263- Sashimi Mariause (9 Adet)",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "Taze sıkılmış ananas, ıspanak, salatalık, elma, lime",
+            "ItemName": "1. Positive",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Pancar, elma, portakal",
+            "ItemName": "2. Kırmızı Pancar Suyu",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Taze sıkılmış",
+            "ItemName": "3. Portakal Suyu",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Taze sıkılmış havuç suyu ve taze zencefil karışımı",
+            "ItemName": "4. Havuç Suyu",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Taze sıkılmış elma ve portakal karışımı",
+            "ItemName": "5. Elma & Portakal Suyu",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Taze sıkılmış elma ve limon karışımı",
+            "ItemName": "6. Elma & Limon Suyu",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Taze sıkılmış elma, kereviz ve nane karışımı",
+            "ItemName": "7. Elma & Kereviz Suyu",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Taze sıkılmış elma, ıspanak, taze zencefil",
+            "ItemName": "8. Power",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Taze sıkılmış havuç, salatalık, domates, portakal ve elma karışımı",
+            "ItemName": "9. Karışık Meyve Suyu",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Salatalık, domates, portakal, elma suyu",
+            "ItemName": "10. Zesty Green",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "701. Su (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "706. Pepsi Light (33 cl.)",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "707. Fruko (33 cl.)",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "708. Yedigün (33 cl.)",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "709. Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "720, Su (75 cl.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "721. Soda (25 cl.)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "722. Soda (75 cl.)",
+            "ItemPrice": "12,00 TL"
+        }
+    ]
+}

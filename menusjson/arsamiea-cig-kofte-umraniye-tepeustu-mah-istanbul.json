@@ -1,0 +1,823 @@
+{
+    "comment": [
+        {
+            "Comment": "İyi lezzet.",
+            "Date": "2018-07-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi değil.",
+            "Date": "2018-07-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Çiğ köftesi çok kötüydü belki hayatımda yediğim en kötü çiğ köfteydi gecenin bir yarısı şipariş verdiğim için olabilir diye inanmak istiyorum.",
+            "Date": "2018-07-21",
+            "Flavour": "1",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Mükemmel.",
+            "Date": "2018-07-21",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yakın olmasına rağmen hep yavaş geliyor onun dışında sipariş eksiksiz teşekkürler.",
+            "Date": "2018-07-21",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Midye dolma bayattı pirinçler taş gibiydi böyle rezil bi midye hayatımda yemedim dönerde ekmekler bayattı cidden kusma noktasına geldim kesinlikle tavsiye etmiyorum.",
+            "Date": "2018-07-21",
+            "Flavour": "1",
+            "Serving": "6",
+            "Speed": "4"
+        },
+        {
+            "Comment": "İlk siparişimdi çiğköfte dürümü beğendim güzeldi ellerinize sağlık.",
+            "Date": "2018-07-21",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çikolatalı turta istedim profiterollü pasta geldi keske arayıp baska ürün göndereceginizi haber verdeydiniz ve pasta kac günlük bilmiyorum ama resmen kreması ekşimişti pek memnun kalmadım.",
+            "Date": "2018-07-20",
+            "Flavour": "6",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çiğ köfte başarılııı.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-07-18",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Son derece iyi :).",
+            "Date": "2018-07-17",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok kötü bir döneri var 8tl verdiğime acıdım küçücük ekmek.",
+            "Date": "2018-07-17",
+            "Flavour": "5",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her şey harika.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-07-14",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Basarili.",
+            "Date": "2018-07-11",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-07-11",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyiydi.",
+            "Date": "2018-07-11",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hersey gayet iyiydi sunum lezzet hız 10 ğuan.",
+            "Date": "2018-07-11",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Favorimiz.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tşk.",
+            "Date": "2018-07-10",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Herşey iyi hız yerinde.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çiğ köfte normalden acı geldi tostları gerçekten güzeldi tost işine ekmek çeşitliligi getirilirse daha iyi olur.",
+            "Date": "2018-07-10",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Hızlı, servisi güzel ve gayet lezzetliydi.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlıydı ve servis temiz düzenli güzeldi fakat çiğköftesinin salçası ve baharat yoğunluğu biraz fazlaydı.",
+            "Date": "2018-07-09",
+            "Flavour": "5",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lavaş getirneyi unutmuslardı ben geri dönüş yapmadan anında getirdiler cok hızlı ve lezzetliydi teşekkürler.",
+            "Date": "2018-07-09",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper.",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı güzel temiz.",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İlk defa sipariş verdim ve cok cok guzel buldum bu kadar mi güzel olur. Hic bitmesin diye baktim resmen. Yaninda gelen malzemeler de çok güzeldi. Bundan sonra sık sık sipariş vereceğim. Hep böyle devam edin. Ellerinize sağlık müthiş.",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "10 liralık çiğ köfte dürümün 5 likten farkı sadece çift lavaş olması idi.",
+            "Date": "2018-07-07",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Harika!",
+            "Date": "2018-07-06",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Geliitirilebilir.",
+            "Date": "2018-07-06",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Guzel ama dıyer cigköftelerle kıyasladıgın znm daha az geldı bana tadı guzel almak isteyenler için onerırım dedigim gibi 15 liraya az gelmiş.",
+            "Date": "2018-07-03",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli, fiyat yükselmiş ama çiğköftesi bol.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "350 gr çiğköfte yerine 250 gr çiğköfte geldi. Bu markanın müdavini olarak bu beni üzdü.",
+            "Date": "2018-07-02",
+            "Flavour": "9",
+            "Serving": "1",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Çok yavaş, 1 saat bekletti.",
+            "Date": "2018-07-02",
+            "Flavour": "5",
+            "Serving": "2",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Acı sos ve nar ekşi sos unutmuşlar koymayı limona dayanarak yedik yinede elinize sağlık güzel yedik.",
+            "Date": "2018-07-02",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bu soğukta getiren kardeşime teşeklğrler.",
+            "Date": "2018-07-02",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "10 puan.",
+            "Date": "2018-06-29",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kusursuz bu yüzden tercih ediyorum.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ellerinize sağlık.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Biraz daha hızlı gelirse süper olur ama bu hızlı olmadıkları anlamına gelmiyor. Optimum bir süre içerisinde getiriyorlar.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Göbek marul, maydanoz, nar ekşisi, acı sos, limon",
+            "ItemName": "Çiğ Köfte Dürüm",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Midye Dolma (Adet)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "5 adet lavaş ekmeği, 2 adet nar ekşisi, 2 adet acı sos, maydanoz, göbek marul, limon",
+            "ItemName": "Çiğ Köfte (500 gr.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Çift lavaş ekmeği, göbek marul, maydanoz, nar ekşisi, limon",
+            "ItemName": "Double Çiğ Köfte Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, göbek marul, isteğe göre ketçap, mayonez",
+            "ItemName": "Yarım Ekmek Arası Tavuk Döner",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet lavaş ekmeği, 1 adet nar ekşisi, 1 adet acı sos, maydanoz, göbek marul, limon",
+            "ItemName": "Çiğ Köfte (200 gr.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Duble Çiğ Köfte Dürüm + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Duble Çiğ Köfte Dürüm)",
+            "ItemPrice": "15,25 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (500 gr.) + Coca-Cola (1 L.)",
+            "ItemName": "Seçilmiş Menü (Çiğ Köfte - 500 gr.)",
+            "ItemPrice": "28,25 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (400 gr.) + Coca-Cola (1 L.)",
+            "ItemName": "Seçilmiş Menü (Çiğ Köfte - 400 gr.)",
+            "ItemPrice": "25,20 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (350 gr.) + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Çiğ Köfte - 350 gr.)",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (1 kg.) + İçecek (1 L.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Çiğ Köfte - 1 kg.)",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte Dürüm + Midye Dolma (2 Adet) + Ayran (18 cl.)",
+            "ItemName": "Çiğ Köfte Dürüm Menü",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Double Çiğ Köfte Dürüm + Midye Dolma (2 Adet) + Ayran (18 cl.)",
+            "ItemName": "Double Çiğ Köfte Dürüm Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (200 gr.) + Midye Dolma (3 Adet) + Kutu İçecek",
+            "ItemName": "Çiğ Köfte (200 gr.) Menü",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (250 gr.) + Midye Dolma (3 Adet) + Kutu İçecek",
+            "ItemName": "Çiğ Köfte (250 gr.) Menü",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (400 gr.) + Midye Dolma (6 Adet) + İçecek (1 L.)",
+            "ItemName": "Çiğ Köfte (400 gr.) Menü",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (500 gr.) + Midye Dolma (8 Adet) + İçecek (1 L.)",
+            "ItemName": "Çiğ Köfte (500 gr.) Menü",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (800 gr.) + Midye Dolma (10 Adet) + İçecek (1 L.)",
+            "ItemName": "Çiğ Köfte (800 gr.) Menü",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte (1 kg.) + Midye Dolma (10 Adet) + İçecek (1 L.)",
+            "ItemName": "Çiğ Köfte (1 kg.) Menü",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, maydanoz, nar ekşisi, acı sos, limon",
+            "ItemName": "Çiğ Köfte Dürüm",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Çift lavaş ekmeği, göbek marul, maydanoz, nar ekşisi, limon",
+            "ItemName": "Double Çiğ Köfte Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet lavaş ekmeği, 1 adet nar ekşisi, 1 adet acı sos, maydanoz, göbek marul, limon",
+            "ItemName": "Çiğ Köfte (200 gr.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Lavaşa sarılı 200 gr. çiğ köfte, göbek marul, maydanoz, nar ekşisi, limon",
+            "ItemName": "Çiğ Köfte (200 gr.) (Dilimlenmiş)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet lavaş ekmeği, nar ekşisi, acı sos, maydanoz, göbek marul, limon",
+            "ItemName": "Çiğ Köfte (250 gr.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "3 adet lavaş ekmeği, nar ekşisi, acı sos, maydanoz, göbek marul, limon",
+            "ItemName": "Çiğ Köfte (350 gr.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "4 adet lavaş ekmeği, 1 adet nar ekşisi, 1 adet acı sos, maydanoz, göbek marul, limon",
+            "ItemName": "Çiğ Köfte (400 gr.)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "5 adet lavaş ekmeği, 2 adet nar ekşisi, 2 adet acı sos, maydanoz, göbek marul, limon",
+            "ItemName": "Çiğ Köfte (500 gr.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "6 adet lavaş ekmeği, göbek marul, maydanoz, limon, nar ekşisi, acı sos",
+            "ItemName": "Çiğ Köfte (600 gr.)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "8 adet lavaş ekmeği, 2 adet nar ekşisi, 2 adet acı sos, maydanoz, göbek marul, limon",
+            "ItemName": "Çiğ Köfte (800 gr.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "7 adet lavaş ekmeği, göbek marul, maydanoz, limon, nar ekşisi, acı sos",
+            "ItemName": "Çiğ Köfte (750 gr.)",
+            "ItemPrice": "28,50 TL"
+        },
+        {
+            "ItemInfo": "9 adet lavaş ekmeği, 2 adet nar ekşisi, 2 adet acı sos, maydanoz, göbek marul, limon",
+            "ItemName": "Çiğ Köfte (900 gr.)",
+            "ItemPrice": "32,50 TL"
+        },
+        {
+            "ItemInfo": "10 adet lavaş ekmeği, 3 adet nar ekşisi, 2 adet acı sos, maydanoz, göbek marul, limon",
+            "ItemName": "Çiğ Köfte (1 kg.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çiğ Köfte (1 kg.) (Garnitürsüz)",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çiğ Köfte (2 kg.) (Garnitürsüz)",
+            "ItemPrice": "56,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çiğ Köfte (3 kg.) (Garnitürsüz)",
+            "ItemPrice": "80,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çiğ Köfte (5 kg.) (Garnitürsüz)",
+            "ItemPrice": "130,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, göbek marul, isteğe göre ketçap, mayonez",
+            "ItemName": "Yarım Ekmek Arası Tavuk Döner",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, göbek marul, isteğe göre ketçap, mayonez",
+            "ItemName": "Tavuk Döner Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz malzemeler ile",
+            "ItemName": "Bardak Mısır",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Midye Dolma (Adet)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "1 adet limon ile",
+            "ItemName": "Midye Dolma (20 Adet)",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "1,5 adet limon ile",
+            "ItemName": "Midye Dolma (30 Adet)",
+            "ItemPrice": "43,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet limon ile",
+            "ItemName": "Midye Dolma (50 Adet)",
+            "ItemPrice": "70,00 TL"
+        },
+        {
+            "ItemInfo": "3 adet limon ile",
+            "ItemName": "Midye Dolma (100 Adet)",
+            "ItemPrice": "135,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lavaş Ekmeği (Adet)",
+            "ItemPrice": "0,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kızartma İçli Köfte (Adet)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kızartma İçli Köfte (3 Adet)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kızartma İçli Köfte (5 Adet)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kızartma İçli Köfte (10 Adet)",
+            "ItemPrice": "62,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Salatalık Turşusu (400 gr.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Çeyrek göbek marul, 1/2 limon, roka, maydanoz, turşu, domates, acı süs biber",
+            "ItemName": "Yeşillik Tabağı (Küçük)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Yarım göbek marul, limon, roka, maydanoz, turşu, domates, acı süs biber",
+            "ItemName": "Yeşillik Tabağı (Orta)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Tam göbek marul, 2 adet limon, roka, maydanoz, turşu, domates, acı süs biber",
+            "ItemName": "Yeşillik Tabağı (Büyük)",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limon (Adet)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Göbek Marul (Tam)",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Göbek Marul (Yarım)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, turşu, acı biber turşusu",
+            "ItemName": "Söğüş Tabağı",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Acı Sos (20 cc.)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Nar Ekşisi (1 L.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Nar Ekşisi (20 cc.)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolatalı, beyaz çikolatalı",
+            "ItemName": "Çalıkoğlu Çikolatalı Ekler (Adet)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Çikolatalı Ekler (250 gr.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Çikolatalı Ekler (500 gr.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Çikolatalı Ekler (1 kg.)",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Alman Pastası (Adet)",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Çikolatalı Rulo Pasta (Adet)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Çikolatalı Pasta (1 Kişilik)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Büyük Boy Çikolatalı Ekler (Adet)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Islak Kek (Dilim)",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Çikolatalı Turta (4 - 5 Kişilik)",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Frambuazlı Turta (4 - 5 Kişilik)",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Muzlu Turta (4 - 5 Kişilik)",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Tahinli Çörek",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Tatlı & Tuzlu Kurabiye (250 gr.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Tatlı & Tuzlu Kurabiye (500 gr.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Tatlı & Tuzlu Kurabiye (1 kg.)",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Beyaz Çikolatalı Ekler (Adet)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Beyaz Çikolatalı Ekler (250 gr.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Beyaz Çikolatalı Ekler (500 gr.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Beyaz Çikolatalı Ekler (1 kg.)",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çalıkoğlu Büyük Boy Beyaz Çikolatalı Ekler (Adet)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Külah (Adet)",
+            "ItemPrice": "0,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Maraş Dondurması (250 gr.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Maraş Dondurması (500 gr.)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Maraş Dondurması (750 gr.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Maraş Dondurması (1 kg.)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Doğanay Limonata (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (30 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (18 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (1 L.)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (1 L.)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (1 L.)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (1 L.)",
+            "ItemPrice": "6,50 TL"
+        }
+    ]
+}

@@ -1,0 +1,918 @@
+{
+    "comment": [
+        {
+            "Comment": "Lezzetli ve doyurucu.",
+            "Date": "2018-07-22",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet hızlı ve lezzetliydi.",
+            "Date": "2018-07-21",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fena değil.",
+            "Date": "2018-07-20",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Tadı iyi değildi adana dürümün.",
+            "Date": "2018-07-20",
+            "Flavour": "3",
+            "Serving": "6",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Bu yorumları neye göre veriyorsunuz anlamış degilim lezzet gerçekten cok güzel ellerinize emeğinize saglık...",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız harika, patates boyutu olarak 7 numarayı tercih ederseniz harikulade olacaktır.",
+            "Date": "2018-07-18",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "İlk siparişim di gayet güzel ve lezzetliydi... Kuriye de çok nazik ve kibardı :).",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yorumlar niye böyle anlamış değilim, sipariş verirken tereddüt etmiştim ama pişman olmadım, tokiden selamlar :).",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tantuni lezzetli değildi belki gece geç sipariş verdiğim içindir.",
+            "Date": "2018-07-18",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Maydanozu aşırı fazla koymuşlar denilen vakitten biraz geç geldi turşusu güzeldi.",
+            "Date": "2018-07-15",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Cok güzeldi.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Geçikmeli.",
+            "Date": "2018-07-12",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Emeğine sağlık cok güzeldi.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Elinize salik cok güzeldi 100 puan.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kurye müşteri notunu kaale almıyor.",
+            "Date": "2018-07-11",
+            "Flavour": "2",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Menumde ayran olmasına rağmen ayrani getirmediler aradığım zaman yüzüme kapatildi yemek sepeti uzerinden canlı yardım yaptığım zaman ayranı getirdiler. Getirdiler ama özür dileyecegine üste çıkmaya çalıştılar saat gece 04. 30 diye bir de üste çıkmaya çalıştılar.",
+            "Date": "2018-07-11",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Kanat istemiştik ama sarma geldi. Ama olsun tadı servisi ve hızı bizi gayet memnun etti. Başka zaman da kanat yeriz :).",
+            "Date": "2018-07-11",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Good.",
+            "Date": "2018-07-11",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Çatal kaşık yok tu ama lezet güzel.",
+            "Date": "2018-07-10",
+            "Flavour": "8",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İlk defa böyle berbat bi lezzet berbat bi sunum gördüm çok kötüydü pişmanım.",
+            "Date": "2018-07-04",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Beğendim güzeldi.",
+            "Date": "2018-07-04",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ekmek arası ızgara köfte söyledim dün tavuk şiş dürüm geldi fazladan para alındı gece 1 saatte geldi normal ama ekmek arası ızgara yerine tavuk şiş iyi olmadı. Restorantı aradım açan da olmadı birdaha da yemem artık.",
+            "Date": "2018-07-03",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Anlatmaya gerek yok abi. Paraya değil emeğe alın terine saygı duyarsan müşterilerden de her zaman saygı ve kazanç görürsün. Nazik insanlar temiz insanlar güler yüzlü insanlar. Aldıkları para helal. Yeni keşfettim 1 haftadır hemen hemen 2 günde bir en az sipariş vermeye başladım. Emeklerinize sağlık.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Efsaneler.",
+            "Date": "2018-07-02",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Hız mükemmel yalnız tavuk tantuni biraz tatsız tuzsuz.",
+            "Date": "2018-07-02",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetine sözüm yok ama 1 saat bekledim rüya değil kabus gibiydi gerçekten ve çalışanlar çok laubaliler..",
+            "Date": "2018-06-29",
+            "Flavour": "9",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Tavuklar bayattı soğuktu bu nasıl tantuni.",
+            "Date": "2018-06-29",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Guzel.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Her şey iyiydi, elinize sağlık.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Beklediğimden daha hizli geldi, tadi da güzeldi valla, elinize sağlık.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Yemek 50 dakika da geldi ekmek buz gibiydi ve içi bomboştu.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Fena degildi. Söylenir.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hizmet kötü.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Hersey cok baharatliydi ve et tadi gelmiyordu ruya degil kabus gibiydi.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Tantunisi çok kötü. Kuru ve kalın lavaş kullanılmış. Tantuni değil de tavuk dürüm gibiydi.",
+            "Date": "2018-06-24",
+            "Flavour": "2",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Midem bozuldu.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Geç gelmesine rağmen lezzetı ıle sınıfı geçti.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Adana dürüm tam pişmemiş. Çorba dökülmüş.. Biraz daha özenli olursa fena olmaz.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Eh.",
+            "Date": "2018-06-24",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Tavuğu güzeldi fakat kebap için aynı şeyi söyleyemiyeceğim. Umarım geçicidir.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Tavuk sarma istedim hem geç geldi hem de resmen karışık tavuk yollamışlar. Bi daha sipariş vermeye tenezzül etmem.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tad guzel fakat doyurucu değil.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Tavuk şiş on numara.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fena değil.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Önceden yaptıgınız gibi tavukları soslarsanız tekrardan daha iyi olur böyle cok özensiz ve tatsız...",
+            "Date": "2018-06-24",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Adana dürüm ve yoğurtlu tavuk tantuni istedik. İkisi de gerçekten lezzetiydi. Ama adana dürümün içine biraz daha salata konulabilir ve yanına da ufak mezeler veya yeşillik servis edilebilir. Getiren abiye de ayrıca teşekkürler :).",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Tavuk sarma on numara pilavi da bol.. Yalniz ci hali 500 gr arkadaslar.. Pişince 350 gr oluyo.. Sporcu olunca hepsini hesapliyosunuz :)).",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tam vaktinde yetiştiniz ancak yemek soğumuştu :(.",
+            "Date": "2018-06-24",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gelen tavuklari tekrar pisirdik.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "2",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Acayip hızlı geldi servis ama nedense soğuktu dürüm.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lavaş büyük ama içi boş :).",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Dürüm baya inceydi doyurmadı ama lezzet güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Pilavı güzeldi ve bol koymuşlardı tavuklar biraz daha iyi pişebilirdi.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Tebrikler. Tam iftarda elimizde oldu:) bir sonraki sipariş için ilk adresim burası. İyi çalışmalar...",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kesinlikle tavsiye ederim.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Allah yukarida biliyor yani bu işi harbiden iyi yapiyorsunuz elinize ayaginiza kolunuza sağlık hayirli işler bol kazanclar tavuk şiş derim başka birsey demem.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tavuk sotesi çok güzeldi gayet beğendim.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hocam yemekleriniz cok super olmus ellerinize saglik bu modifiyeli motorla gelen kurye abi cok sempatik ve cok sakaci kurye abıyr burdan selamlar sızı sevıyoruz ellerınıze saglık boyle elemanlar calıstırdıgınız ıcın gurur duymalısınız... Ellerınıze saglık kurye abı motorun cok guzel olmus :).",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet hızlı ve lezzetliydi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Geçenki gibi gelirse sevinirim çok güzel ve hızlı geldi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişim tam 1 saat 36 dk da geldi. Köfte soğuk ve ekmeğin içi gerçekten çok boştu. Kuryeci abinin de post makinesinde arıza vardı 10 dakika işlem yapılmasını bekledik. Ve de işin en üzücü tarafı imsak vaktine çok yakın gelmesiydi. Mağdur olduk işin doğrusu iyi çalışmalar.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "İnanılmaz sıcak geldi tadı da fena değildi teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet hızlı ve lezzetliydi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "11 puan verebiliyozmu?",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Anlatmaya gerek yok görüyorsunuz 10 numara 5 yıldız.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ben hayatimda bu kadar guler yuzlu bir servis gorevlisi gormedim. Gercekten gecenin o saatinde o guler yuzlu beyefendiye tesekkur ediyorum.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ramazan menunuzde güzeldı.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gecenin o saati 20 dakikada elimdeydi sipariş.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tavsiye ederim çok güzeldi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her yönden mükemmele yakın bir restorant kesinlikle tavsiye ederim.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Paketimiz cok hızlı bir şekilde geldi servis cok güzeldi lezzete diycek bisey bulamıyorum.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İşinizin hakkini veriyorsunuz lezzetli ve hizli geldi. Bundan sonra tek adres rüya durum.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Tantuniyi buradan yiyin gençler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hocam cok lezzetliydi ayrica kanatlatiniza bayildim cok super olmus harikaaaa 1 kilo kanat i tek yedim superdi tavsiye ederim herkeze mukemmel anlatmaya gerek yok.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşeyiyle mukkemdi anlatmaya gerek yok görüyoruz :) hihihaha.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Görüyorsunuz mükemmel.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Son zamanlarda yediğim en lezzetli sarmaydi fiyatlarida oldukca uygun öğrenci dostu umdugumdan hızlı geldi elinize sağlık insallah böyle bozmadan devam edersiniz selamlar.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet mükemmel öğrenci için uygunda teşekkürler her şey için :).",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ayranlar biraz kötüydü dürümde fena değil.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Erdal ustam sen bu işi biliyorsun. Ellerine sağlık.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yoğurtlu tantuni ile normal tantuni arasında 5 tl olması saçmalığı niye bu kayseride her yerde mevcut?",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çabuk gelir.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetler cok güzeldi cok memnun kaldim. Servisler sıcak geldi kuryeler güler yüzlüydü. Artık devamlı buradan sipariş vericem.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cok guzeldi elinize saglık güzel olmus usta.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Erdal abiye çok teşekkür ediyorum. Gerçekten bu işi ustalıkla yapıyorlar. Sipariş 15 dakika gibi kısa bi sürede elime ulaştı. Sıcakti ve oldukça lezzetliydi. Herkese tavsiye ederim. Böyle devam.. :).",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "2 ayran yerine 1geldi.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Çok geç geldi, 3 siparistir maydonozsuz yazmama ragmen maydonozlu geliyor ve aşırı kuruydu.",
+            "Date": "2018-06-24",
+            "Flavour": "3",
+            "Serving": "2",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Pilav biraz lapaydı onun haricinde herşey gercekten fazlasıyla doyurucu ve lezzetli.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Gece söylediğimden geç gelmiş olabilir ama tavuk saçı muhteşem.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "5"
+        },
+        {
+            "Comment": "İdare eder.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Açık ve net konuşayım, köftenizi beğenmedik ayrıca menüde görünen içecek siparişle birlikte gelmedi.",
+            "Date": "2018-06-24",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lezzetli güzeldi. Fakat tavuk sarma 500 gr içeriğinde 1 litre cola eksikti. Diğer siparişimde telafi edersiniz umarım.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Salatalık turşusu, cin biber ile",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Salatalık turşusu, cin biber ile",
+            "ItemName": "Tavuk Tantuni Dürüm",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Tantuni Dürüm + Salatalık Turşusu & Cin Biber + Patates Kızartması + Ayran (17 cl.)",
+            "ItemName": "Tavuk Tantuni Dürüm Menü",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Sarma (500 gr.) (Pilav, salata, turşu, közlenmiş biber, turşu ile) + Coca-Cola (1 L.)",
+            "ItemName": "Tavuk Sarma (500 gr.) Menü",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Salatalık turşusu, cin biber ile",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "4 adet ızgara köfte, domates, maydanoz, isteğe göre soğan. Salatalık turşusu, cin biber ile",
+            "ItemName": "Ekmek Arası Izgara Köfte",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Tantuni Dürüm + Salatalık Turşusu & Cin Biber + Patates Kızartması + Ayran (17 cl.)",
+            "ItemName": "Tavuk Tantuni Dürüm Menü",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Et Tantuni Dürüm + Salatalık Turşusu & Cin Biber + Patates Kızartması + Ayran (17 cl.)",
+            "ItemName": "Et Tantuni Dürüm Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Ekmek Arası Izgara Köfte (4 Adet Köfte) + Salatalık Turşusu & Cin Biber + Patates Kızartması + Ayran (17 cl.)",
+            "ItemName": "Ekmek Arası Izgara Köfte Menü",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Sarma (500 gr.) (Pilav, salata, turşu, közlenmiş biber, turşu ile) + Coca-Cola (1 L.)",
+            "ItemName": "Tavuk Sarma (500 gr.) Menü",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Sarma (1 kg.) (Pilav, salata, turşu, közlenmiş biber, turşu ile) + Coca-Cola (1 L.)",
+            "ItemName": "Tavuk Sarma (1 kg.) Menü",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Kanat (500 gr.) (Pilav, salata, turşu, közlenmiş biber, turşu ile) + Coca-Cola (1 L.)",
+            "ItemName": "Tavuk Kanat (500 gr.) Menü",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Kanat (1 kg.) (Pilav, salata, turşu, közlenmiş biber, turşu ile) + Coca-Cola (1 L.)",
+            "ItemName": "Tavuk Kanat (1 kg.) Menü",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Yoğurtlu Tavuk Tantuni (2 Porsiyon) (İsteğe göre tereyağlı) + Coca-Cola (1 L.)",
+            "ItemName": "Yoğurtlu Tavuk Tantuni (2 Porsiyon) Menü",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Yoğurtlu EtTantuni (2 Porsiyon) (İsteğe göre tereyağlı) + Coca-Cola (1 L.)",
+            "ItemName": "Yoğurtlu Et Tantuni (2 Porsiyon) Menü",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara Köfte (500 gr.) (Pilav, salata, turşu, közlenmiş biber, turşu ile) + Coca-Cola (1 L.)",
+            "ItemName": "Izgara Köfte (500 gr.) Menü",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Şiş (Pilav, salata, turşu, közlenmiş biber, turşu ile) + Ayran (17 cl.)",
+            "ItemName": "Tavuk Şiş Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Sac Tava (Pilav, salata, turşu, közlenmiş biber, turşu ile) + Ayran (17 cl.)",
+            "ItemName": "Tavuk Sac Tava Menü",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Sac Tava (1,5 Porsiyon) (Pilav, salata, turşu, közlenmiş biber, turşu ile) + Ayran (17 cl.)",
+            "ItemName": "Tavuk Sac Tava (1,5 Porsiyon) Menü",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara Köfte (Pilav, salata, turşu, közlenmiş biber, turşu ile) + Ayran (17 cl.)",
+            "ItemName": "Izgara Köfte Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara Köfte (1,5 Porsiyon) (Pilav, salata, turşu, közlenmiş biber, turşu ile) + Ayran (17 cl.)",
+            "ItemName": "Izgara Köfte (1,5 Porsiyon) Menü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Adana Kebap (1 Şiş) (Pilav, salata, turşu, közlenmiş biber, turşu ile) + Şalgam Suyu (30 cl.)",
+            "ItemName": "Adana Kebap (1 Şiş) Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Adana Kebap (2 Şiş) (Pilav, salata, turşu, közlenmiş biber, turşu ile) + Şalgam Suyu (30 cl.)",
+            "ItemName": "Adana Kebap (2 Şiş) Menü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Salatalık turşusu, cin biber ile",
+            "ItemName": "Tavuk Tantuni Dürüm",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurtlu Tavuk Tantuni",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Salatalık turşusu, cin biber ile",
+            "ItemName": "Et Tantuni Dürüm",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurtlu Et Tantuni",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "4 adet ızgara köfte, domates, maydanoz, isteğe göre soğan. Salatalık turşusu, cin biber ile",
+            "ItemName": "Ekmek Arası Izgara Köfte",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Salatalık turşusu, cin biber ile",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Salatalık turşusu, cin biber ile",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Salatalık turşusu, cin biber ile",
+            "ItemName": "Tavuk Sac Tava Dürüm",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Salatalık turşusu, cin biber ile",
+            "ItemName": "Et Sac Tava Dürüm",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (30 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (33 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (17 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (2,5 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (2,5 L.)",
+            "ItemPrice": "5,50 TL"
+        }
+    ]
+}

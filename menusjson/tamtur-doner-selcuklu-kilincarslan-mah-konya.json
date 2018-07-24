@@ -1,0 +1,557 @@
+{
+    "comment": [
+        {
+            "Comment": "Çok acı ve yağlı gece uyuyamadım.",
+            "Date": "2018-07-21",
+            "Flavour": "5",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gayet güzeldi. Tavsiye ederim.",
+            "Date": "2018-07-17",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Tavuksuz tavuk döner göndermeye başladı. Bir daha sipariş vermem.",
+            "Date": "2018-07-16",
+            "Flavour": "1",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hızlı geldi. Klasik döner. Lezzetliydi. Tavsiye ederim.",
+            "Date": "2018-07-12",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sipariş hızlı geldi, lezzet ve servis iyiydi.",
+            "Date": "2018-07-10",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sipariş söylenilen zamanda geldi anacak 45 dk yerine 30 dk olsa daha iyi olur. Lezzet olarak iyiydi.",
+            "Date": "2018-07-09",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hızlı, sıcak ve mis gibiydi.",
+            "Date": "2018-07-07",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ekmek bayattı neden?",
+            "Date": "2018-07-04",
+            "Flavour": "1",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Dürümleriniz çok acı. Ama bu kadar hızlısını görmedim. Tebrikler.",
+            "Date": "2018-07-04",
+            "Flavour": "9",
+            "Serving": "6",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sonuna kadar hak etti 10 puanı.. Biraz daha hızlı gelirseniz sadece tek eksik buydu bence ama lezzet fiyat gayet başarılı. Savarma biraz acı olmuş ama harikaydı acı sevenler denemeli.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Köfte siparişi verdim. Tat olarak fena değildi normal bir köfte. Ancak ekmeğin içinde köfteyi aramak zorunda kaldık. 4 tane köfte vardı ufak ufak. Bence 4 köfte yerine 6 köfte koyun fiyatını artırın. Servise hıza diyecek bişey yok.",
+            "Date": "2018-06-30",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gayet iyi.",
+            "Date": "2018-06-29",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Güzeldi teşekkür ederiz..",
+            "Date": "2018-06-29",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Köftenin lezzeti mükemmel gerçekten dana etinden kendileri hazırlıyormus ondan sanırım. Servis de hizli ve sicak geldi teşekkurler.",
+            "Date": "2018-06-28",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hijyen benim için çok önemli. Mekanı görmeden hiçbir şey yiyemem hele de mutfak ve tuvaleti. Burayı da gördüm çok temiz çalışıyorlar gönül rahatlığıyla yiyorum tesekkür ederim. Temizliğe dikkat edenlere tavsiyemdir.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Kesinlikle tavsiye ediyorum 4 4lük bir işletme herşeyiyle lezzet paket servisi mükemmel.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Şavarmanın sosu çok lezzetliydi. Döneri de bol koyuyorlar sıcak ve lezzetli geldi teşekkür ederim.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sicak ve soguk urunlerin bir araya koymak gercekten hayret verici urunleri kagida sarmak yerine plastik kutulara koymaniz tostun kagida yapismamasini saglayabilir lezzet olarak iyiydi hakkini vermek gerek servis de ozenle daha iyi olabilir.",
+            "Date": "2018-06-23",
+            "Flavour": "7",
+            "Serving": "1",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Şavarma dönerin özelliği yoğurtlu sosu ve acı sosu ama kocaman ekmeğe 1 er kaşık sos koyulmuş. Soslar ise kenara konulduğunu için ekmeğe yayılmamış. Dönerin fazla kızarttıkları için yanmış döneri de eklemişler.",
+            "Date": "2018-06-23",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Savarmayi sevmedim kofteyide az koyuyorlar.",
+            "Date": "2018-06-23",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Harika.",
+            "Date": "2018-05-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzetini begenmedim.",
+            "Date": "2018-05-24",
+            "Flavour": "1",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Gayet güzel kurye arkadaş da güler yüzlü.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli hızlı ve sıcak geldi cok tsk ederim.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet lezzetli hızlı ve sıcak geldi cok tsk ederim ayrıca 100 tl verdim bozdurmak içinaşagıya indi gayet güvenilir.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kueyeci abime çok teşekkür ediyorum ilgi ve alakası için. Orta lezzetliydi dürümler. Şavarma ve tavuk döner biraz daha geliştirilebilir.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yanında turşu getirmemişler ve döner deriliydi.",
+            "Date": "2018-04-24",
+            "Flavour": "2",
+            "Serving": "3",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Güleryüzlü personel hoş lezeet :).",
+            "Date": "2018-04-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyiydi.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Soguk ve lezzetsizdi icinde tavuklar tüm tüm duruyordu döner gibi degildi.",
+            "Date": "2018-04-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mükemmel.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet hızlı geldi ve lezzetliydi.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Başarılar güzel.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fena değil ama geç geldi..",
+            "Date": "2018-04-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "4"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Tavuk döner, domates, göbek marul, yoğurt sos, turşu, isteğe göre soğan",
+            "ItemName": "Şavarma Dürüm",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk döner, domates, göbek marul, turşu, isteğe göre soğan",
+            "ItemName": "Ekmek Arası Tavuk Döner",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Ekmek Arası Tavuk Döner + Patates Kızartması + Ayran (20 cl.)",
+            "ItemName": "Menü 1",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner Dürüm (Domates, göbek marul, patates kızartması, isteğe göre soğan) + Ayran (20 cl.)",
+            "ItemName": "Menü 9",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Köfte, domates, göbek marul, turşu, isteğe göre soğan",
+            "ItemName": "Ekmek Arası Köfte",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez ile",
+            "ItemName": "Ekmek Arası Patates Kızartması",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "Ekmek Arası Tavuk Döner + Patates Kızartması + Ayran (20 cl.)",
+            "ItemName": "Menü 1",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Ekmek Arası Tavuk Döner + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Menü 2",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Ekmek Arası Köfte + Patates Kızartması + Ayran (20 cl.)",
+            "ItemName": "Menü 3",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "Ekmek Arası Köfte + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Menü 4",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Patates Kızartması + Ayran (20 cl.)",
+            "ItemName": "Menü 5",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Menü 6",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz Tost + Ayran (20 cl.)",
+            "ItemName": "Menü 7",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz Tost + Kutu İçecek",
+            "ItemName": "Menü 8",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner Dürüm (Domates, göbek marul, patates kızartması, isteğe göre soğan) + Ayran (20 cl.)",
+            "ItemName": "Menü 9",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner Dürüm (Domates, göbek marul, patates kızartması, isteğe göre soğan) + Kutu İçecek",
+            "ItemName": "Menü 10",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Ekmek Arası Kaşarlı Köfte + Patates Kızartması + Ayran (20 cl.)",
+            "ItemName": "Menü 11",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Ekmek Arası Kaşarlı Köfte + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Menü 12",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, domates, biber",
+            "ItemName": "Sebzeli Kaşarlı Tost",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk, domates, biber",
+            "ItemName": "Sebzeli Karışık Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Tost ekmeği, kaşar peyniri",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "Tost ekmeği, kaşar peyniri, sucuk",
+            "ItemName": "KarışıkTost",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Tost ekmeği, kaşar peyniri, sucuk, domates, biber",
+            "ItemName": "Sebzeli Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger köftesi, domates, göbek marul, turşu, isteğe göre soğan",
+            "ItemName": "Hamburger",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk döner, domates, göbek marul, turşu, isteğe göre soğan",
+            "ItemName": "Ekmek Arası Tavuk Döner",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk döner, domates, göbek marul, yoğurt sos, turşu, isteğe göre soğan",
+            "ItemName": "Şavarma Dürüm",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Köfte, domates, göbek marul, turşu, isteğe göre soğan",
+            "ItemName": "Ekmek Arası Köfte",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Ketçap, mayonez ile",
+            "ItemName": "Ekmek Arası Patates Kızartması",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "Köfte, domates, göbek marul, turşu, isteğe göre soğan",
+            "ItemName": "Ekmek Arası Kaşarlı Köfte",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Light (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Twist (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Max (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tropicana (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Didi (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (30 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bravo Badem",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Roko Çikolata",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "Kakao, vanilya",
+            "ItemName": "Golf Cup",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "Patlayan şekerli",
+            "ItemName": "Golf Roket",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Golf Matrax ( Ananas & Çilek & Limon)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Golf Matrax (Vişne & Vanilya)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Golf Matrax",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Golf Fantasia Choco Ring",
+            "ItemPrice": "3,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Golf Yogo Cup Sade Bal Badem",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Golf Lungo (Antep & Vanilya)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Golf Lungo (Çilek Vanilya)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Golf Lungo (Kakao & Vanilya",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "Vanilya",
+            "ItemName": "Golf Lungo",
+            "ItemPrice": "1,50 TL"
+        }
+    ]
+}

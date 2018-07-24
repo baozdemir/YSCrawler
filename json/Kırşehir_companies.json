@@ -5,6 +5,24 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "735672e6-1ce1-4051-a105-b594f2d786ac",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Aşçıoğlu Kebap, Medrese Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ascioglukebap2_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 11.25,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "10:45-23:45",
+                            "href": "/ascioglu-kebap-medrese-mah-kirsehir"
+                        },
+                        {
                             "AvgPoint": "8,2",
                             "CategoryName": "ddef8b89-5c30-43ae-93ab-e067a6eaf8d4",
                             "CuisineNameList": [
@@ -17,13 +35,32 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 9.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "25d9682a-a682-44bb-8d0b-8fde409dc8fd",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Kuşdili Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "579cffb5-5c8b-4c7e-bee6-f32b67301383",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/dominos-pizza-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,5",
                             "CategoryName": "5706978e-c958-4c04-9147-3415c99f09ab",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -31,53 +68,129 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "İlmare Pizza, Ahievran Mah.",
-                            "FlavourText": "7,9",
+                            "FlavourText": "7,6",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/ilmare-pizza_big.gif",
                             "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
                             "MainCuisineName": "Pizza & İtalyan",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,7",
-                            "SpeedText": "7,6",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-23:59",
                             "href": "/ilmare-pizza-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
+                            "AvgPoint": "7,9",
+                            "CategoryName": "2808fcd8-8c28-4668-88a8-ae29e3e65894",
                             "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 15.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Ahievran Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
-                            "CategoryName": "6dd4165a-eddd-491d-ae05-56666959cad1",
+                            "AvgPoint": "8,6",
+                            "CategoryName": "2249d024-bc26-4c29-9361-c53e5dc4122e",
                             "CuisineNameList": [
-                                "Pide"
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mevlana Pide & Lahmacun, Ahievran Mah.",
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,5",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "10:45-02:00",
+                            "href": "/komagene-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "6cf408ac-5469-4b7c-a547-c745e97ccd0b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Köftedokya Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/koftedokya_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/koftedokya-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "25438440-7f4c-4dfb-bbbb-77ec278844a5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "McDonald's"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "McDonald's, Kuşdili Mah.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mcdonalds_6_big.gif",
+                            "MainCuisineId": "1dc69d26-678e-4b2a-b259-500f4914dc80",
+                            "MainCuisineName": "McDonald's",
+                            "MinimumDeliveryPrice": 9.25,
+                            "ServingText": "8,7",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/mcdonalds-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "2e877e22-02e7-443f-a7e3-f49f3657c097",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Şef Döner, Kuşdili Mah.",
                             "FlavourText": "7,5",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/mevlana-pide-lahmacun_big.gif",
-                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
-                            "MainCuisineName": "Pide",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,1",
-                            "WorkHoursText": "07:00-23:45",
-                            "href": "/mevlana-pide-lahmacun-ahievran-mah-kirsehir"
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/sefdoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/sef-doner-kusdili-mah-kirsehir"
                         }
                     ]
                 }
@@ -87,6 +200,24 @@
             "Aşıkpaşa Mah.": [
                 {
                     "comps": [
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "735672e6-1ce1-4051-a105-b594f2d786ac",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Aşçıoğlu Kebap, Medrese Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ascioglukebap2_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 14.0,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "10:45-23:45",
+                            "href": "/ascioglu-kebap-medrese-mah-kirsehir"
+                        },
                         {
                             "AvgPoint": "8,2",
                             "CategoryName": "ddef8b89-5c30-43ae-93ab-e067a6eaf8d4",
@@ -100,13 +231,32 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 4.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "25d9682a-a682-44bb-8d0b-8fde409dc8fd",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Kuşdili Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "579cffb5-5c8b-4c7e-bee6-f32b67301383",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/dominos-pizza-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,5",
                             "CategoryName": "5706978e-c958-4c04-9147-3415c99f09ab",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -114,53 +264,129 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "İlmare Pizza, Ahievran Mah.",
-                            "FlavourText": "7,9",
+                            "FlavourText": "7,6",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/ilmare-pizza_big.gif",
                             "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
                             "MainCuisineName": "Pizza & İtalyan",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,7",
-                            "SpeedText": "7,6",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-23:59",
                             "href": "/ilmare-pizza-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
+                            "AvgPoint": "7,9",
+                            "CategoryName": "2808fcd8-8c28-4668-88a8-ae29e3e65894",
                             "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Ahievran Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
-                            "CategoryName": "6dd4165a-eddd-491d-ae05-56666959cad1",
+                            "AvgPoint": "8,6",
+                            "CategoryName": "2249d024-bc26-4c29-9361-c53e5dc4122e",
                             "CuisineNameList": [
-                                "Pide"
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mevlana Pide & Lahmacun, Ahievran Mah.",
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 7.5,
+                            "ServingText": "8,5",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "10:45-02:00",
+                            "href": "/komagene-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "6cf408ac-5469-4b7c-a547-c745e97ccd0b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Köftedokya Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/koftedokya_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/koftedokya-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "25438440-7f4c-4dfb-bbbb-77ec278844a5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "McDonald's"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "McDonald's, Kuşdili Mah.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mcdonalds_6_big.gif",
+                            "MainCuisineId": "1dc69d26-678e-4b2a-b259-500f4914dc80",
+                            "MainCuisineName": "McDonald's",
+                            "MinimumDeliveryPrice": 9.25,
+                            "ServingText": "8,7",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/mcdonalds-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "2e877e22-02e7-443f-a7e3-f49f3657c097",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Şef Döner, Kuşdili Mah.",
                             "FlavourText": "7,5",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/mevlana-pide-lahmacun_big.gif",
-                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
-                            "MainCuisineName": "Pide",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,1",
-                            "WorkHoursText": "07:00-23:45",
-                            "href": "/mevlana-pide-lahmacun-ahievran-mah-kirsehir"
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/sefdoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/sef-doner-kusdili-mah-kirsehir"
                         }
                     ]
                 }
@@ -171,6 +397,24 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "735672e6-1ce1-4051-a105-b594f2d786ac",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Aşçıoğlu Kebap, Medrese Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ascioglukebap2_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 16.5,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "10:45-23:45",
+                            "href": "/ascioglu-kebap-medrese-mah-kirsehir"
+                        },
+                        {
                             "AvgPoint": "8,2",
                             "CategoryName": "ddef8b89-5c30-43ae-93ab-e067a6eaf8d4",
                             "CuisineNameList": [
@@ -183,13 +427,32 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 13.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "25d9682a-a682-44bb-8d0b-8fde409dc8fd",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Kuşdili Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "579cffb5-5c8b-4c7e-bee6-f32b67301383",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/dominos-pizza-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,5",
                             "CategoryName": "5706978e-c958-4c04-9147-3415c99f09ab",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -197,53 +460,109 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "İlmare Pizza, Ahievran Mah.",
-                            "FlavourText": "7,9",
+                            "FlavourText": "7,6",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/ilmare-pizza_big.gif",
                             "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
                             "MainCuisineName": "Pizza & İtalyan",
                             "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,7",
-                            "SpeedText": "7,6",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-23:59",
                             "href": "/ilmare-pizza-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
+                            "AvgPoint": "8,6",
+                            "CategoryName": "2249d024-bc26-4c29-9361-c53e5dc4122e",
                             "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "8,5",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "10:45-02:00",
+                            "href": "/komagene-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
-                            "CategoryName": "6dd4165a-eddd-491d-ae05-56666959cad1",
+                            "AvgPoint": "-",
+                            "CategoryName": "6cf408ac-5469-4b7c-a547-c745e97ccd0b",
                             "CuisineNameList": [
-                                "Pide"
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mevlana Pide & Lahmacun, Ahievran Mah.",
-                            "FlavourText": "7,5",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/mevlana-pide-lahmacun_big.gif",
-                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
-                            "MainCuisineName": "Pide",
+                            "DisplayName": "Köftedokya Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/koftedokya_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/koftedokya-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "25438440-7f4c-4dfb-bbbb-77ec278844a5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "McDonald's"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "McDonald's, Kuşdili Mah.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mcdonalds_6_big.gif",
+                            "MainCuisineId": "1dc69d26-678e-4b2a-b259-500f4914dc80",
+                            "MainCuisineName": "McDonald's",
+                            "MinimumDeliveryPrice": 9.25,
+                            "ServingText": "8,7",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/mcdonalds-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 15.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,1",
-                            "WorkHoursText": "07:00-23:45",
-                            "href": "/mevlana-pide-lahmacun-ahievran-mah-kirsehir"
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "2e877e22-02e7-443f-a7e3-f49f3657c097",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Şef Döner, Kuşdili Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/sefdoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/sef-doner-kusdili-mah-kirsehir"
                         }
                     ]
                 }
@@ -254,6 +573,24 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "735672e6-1ce1-4051-a105-b594f2d786ac",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Aşçıoğlu Kebap, Medrese Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ascioglukebap2_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 16.5,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "10:45-23:45",
+                            "href": "/ascioglu-kebap-medrese-mah-kirsehir"
+                        },
+                        {
                             "AvgPoint": "8,2",
                             "CategoryName": "ddef8b89-5c30-43ae-93ab-e067a6eaf8d4",
                             "CuisineNameList": [
@@ -266,13 +603,32 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 13.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "25d9682a-a682-44bb-8d0b-8fde409dc8fd",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Kuşdili Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "579cffb5-5c8b-4c7e-bee6-f32b67301383",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/dominos-pizza-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,5",
                             "CategoryName": "5706978e-c958-4c04-9147-3415c99f09ab",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -280,53 +636,109 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "İlmare Pizza, Ahievran Mah.",
-                            "FlavourText": "7,9",
+                            "FlavourText": "7,6",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/ilmare-pizza_big.gif",
                             "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
                             "MainCuisineName": "Pizza & İtalyan",
                             "MinimumDeliveryPrice": 25.0,
-                            "ServingText": "7,7",
-                            "SpeedText": "7,6",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-23:59",
                             "href": "/ilmare-pizza-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
+                            "AvgPoint": "8,6",
+                            "CategoryName": "2249d024-bc26-4c29-9361-c53e5dc4122e",
                             "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "8,5",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "10:45-02:00",
+                            "href": "/komagene-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
-                            "CategoryName": "6dd4165a-eddd-491d-ae05-56666959cad1",
+                            "AvgPoint": "-",
+                            "CategoryName": "6cf408ac-5469-4b7c-a547-c745e97ccd0b",
                             "CuisineNameList": [
-                                "Pide"
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mevlana Pide & Lahmacun, Ahievran Mah.",
+                            "DisplayName": "Köftedokya Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/koftedokya_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/koftedokya-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "25438440-7f4c-4dfb-bbbb-77ec278844a5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "McDonald's"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "McDonald's, Kuşdili Mah.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mcdonalds_6_big.gif",
+                            "MainCuisineId": "1dc69d26-678e-4b2a-b259-500f4914dc80",
+                            "MainCuisineName": "McDonald's",
+                            "MinimumDeliveryPrice": 9.25,
+                            "ServingText": "8,7",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/mcdonalds-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "2e877e22-02e7-443f-a7e3-f49f3657c097",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Şef Döner, Kuşdili Mah.",
                             "FlavourText": "7,5",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/mevlana-pide-lahmacun_big.gif",
-                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
-                            "MainCuisineName": "Pide",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,1",
-                            "WorkHoursText": "07:00-23:45",
-                            "href": "/mevlana-pide-lahmacun-ahievran-mah-kirsehir"
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/sefdoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/sef-doner-kusdili-mah-kirsehir"
                         }
                     ]
                 }
@@ -337,6 +749,24 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "735672e6-1ce1-4051-a105-b594f2d786ac",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Aşçıoğlu Kebap, Medrese Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ascioglukebap2_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 16.5,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "10:45-23:45",
+                            "href": "/ascioglu-kebap-medrese-mah-kirsehir"
+                        },
+                        {
                             "AvgPoint": "8,2",
                             "CategoryName": "ddef8b89-5c30-43ae-93ab-e067a6eaf8d4",
                             "CuisineNameList": [
@@ -349,48 +779,123 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 13.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "25d9682a-a682-44bb-8d0b-8fde409dc8fd",
                             "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
                             ],
-                            "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Kuşdili Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "579cffb5-5c8b-4c7e-bee6-f32b67301383",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/dominos-pizza-kusdili-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
-                            "CategoryName": "6dd4165a-eddd-491d-ae05-56666959cad1",
+                            "AvgPoint": "8,6",
+                            "CategoryName": "2249d024-bc26-4c29-9361-c53e5dc4122e",
                             "CuisineNameList": [
-                                "Pide"
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mevlana Pide & Lahmacun, Ahievran Mah.",
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "8,5",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "10:45-02:00",
+                            "href": "/komagene-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "6cf408ac-5469-4b7c-a547-c745e97ccd0b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Köftedokya Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/koftedokya_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/koftedokya-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "25438440-7f4c-4dfb-bbbb-77ec278844a5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "McDonald's"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "McDonald's, Kuşdili Mah.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mcdonalds_6_big.gif",
+                            "MainCuisineId": "1dc69d26-678e-4b2a-b259-500f4914dc80",
+                            "MainCuisineName": "McDonald's",
+                            "MinimumDeliveryPrice": 9.25,
+                            "ServingText": "8,7",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/mcdonalds-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "2e877e22-02e7-443f-a7e3-f49f3657c097",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Şef Döner, Kuşdili Mah.",
                             "FlavourText": "7,5",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/mevlana-pide-lahmacun_big.gif",
-                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
-                            "MainCuisineName": "Pide",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,1",
-                            "WorkHoursText": "07:00-23:45",
-                            "href": "/mevlana-pide-lahmacun-ahievran-mah-kirsehir"
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/sefdoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/sef-doner-kusdili-mah-kirsehir"
                         }
                     ]
                 }
@@ -413,48 +918,104 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 13.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "25d9682a-a682-44bb-8d0b-8fde409dc8fd",
                             "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
                             ],
-                            "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Kuşdili Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "579cffb5-5c8b-4c7e-bee6-f32b67301383",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/dominos-pizza-kusdili-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
-                            "CategoryName": "6dd4165a-eddd-491d-ae05-56666959cad1",
+                            "AvgPoint": "8,6",
+                            "CategoryName": "2249d024-bc26-4c29-9361-c53e5dc4122e",
                             "CuisineNameList": [
-                                "Pide"
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mevlana Pide & Lahmacun, Ahievran Mah.",
-                            "FlavourText": "7,5",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/mevlana-pide-lahmacun_big.gif",
-                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
-                            "MainCuisineName": "Pide",
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
                             "MinimumDeliveryPrice": 35.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,1",
-                            "WorkHoursText": "07:00-23:45",
-                            "href": "/mevlana-pide-lahmacun-ahievran-mah-kirsehir"
+                            "ServingText": "8,5",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "10:45-02:00",
+                            "href": "/komagene-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "6cf408ac-5469-4b7c-a547-c745e97ccd0b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Köftedokya Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/koftedokya_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/koftedokya-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "2e877e22-02e7-443f-a7e3-f49f3657c097",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Şef Döner, Kuşdili Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/sefdoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/sef-doner-kusdili-mah-kirsehir"
                         }
                     ]
                 }
@@ -465,6 +1026,24 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "735672e6-1ce1-4051-a105-b594f2d786ac",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Aşçıoğlu Kebap, Medrese Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ascioglukebap2_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 16.5,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "10:45-23:45",
+                            "href": "/ascioglu-kebap-medrese-mah-kirsehir"
+                        },
+                        {
                             "AvgPoint": "8,2",
                             "CategoryName": "ddef8b89-5c30-43ae-93ab-e067a6eaf8d4",
                             "CuisineNameList": [
@@ -477,48 +1056,123 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 13.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "25d9682a-a682-44bb-8d0b-8fde409dc8fd",
                             "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
                             ],
-                            "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Kuşdili Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "579cffb5-5c8b-4c7e-bee6-f32b67301383",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/dominos-pizza-kusdili-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
-                            "CategoryName": "6dd4165a-eddd-491d-ae05-56666959cad1",
+                            "AvgPoint": "8,6",
+                            "CategoryName": "2249d024-bc26-4c29-9361-c53e5dc4122e",
                             "CuisineNameList": [
-                                "Pide"
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mevlana Pide & Lahmacun, Ahievran Mah.",
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "8,5",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "10:45-02:00",
+                            "href": "/komagene-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "6cf408ac-5469-4b7c-a547-c745e97ccd0b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Köftedokya Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/koftedokya_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/koftedokya-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "25438440-7f4c-4dfb-bbbb-77ec278844a5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "McDonald's"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "McDonald's, Kuşdili Mah.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mcdonalds_6_big.gif",
+                            "MainCuisineId": "1dc69d26-678e-4b2a-b259-500f4914dc80",
+                            "MainCuisineName": "McDonald's",
+                            "MinimumDeliveryPrice": 9.25,
+                            "ServingText": "8,7",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/mcdonalds-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "2e877e22-02e7-443f-a7e3-f49f3657c097",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Şef Döner, Kuşdili Mah.",
                             "FlavourText": "7,5",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/mevlana-pide-lahmacun_big.gif",
-                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
-                            "MainCuisineName": "Pide",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,1",
-                            "WorkHoursText": "07:00-23:45",
-                            "href": "/mevlana-pide-lahmacun-ahievran-mah-kirsehir"
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/sefdoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/sef-doner-kusdili-mah-kirsehir"
                         }
                     ]
                 }
@@ -529,6 +1183,24 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "735672e6-1ce1-4051-a105-b594f2d786ac",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Aşçıoğlu Kebap, Medrese Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ascioglukebap2_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 11.25,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "10:45-23:45",
+                            "href": "/ascioglu-kebap-medrese-mah-kirsehir"
+                        },
+                        {
                             "AvgPoint": "8,2",
                             "CategoryName": "ddef8b89-5c30-43ae-93ab-e067a6eaf8d4",
                             "CuisineNameList": [
@@ -541,13 +1213,32 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 13.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "25d9682a-a682-44bb-8d0b-8fde409dc8fd",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Kuşdili Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "579cffb5-5c8b-4c7e-bee6-f32b67301383",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/dominos-pizza-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,5",
                             "CategoryName": "5706978e-c958-4c04-9147-3415c99f09ab",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -555,53 +1246,129 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "İlmare Pizza, Ahievran Mah.",
-                            "FlavourText": "7,9",
+                            "FlavourText": "7,6",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/ilmare-pizza_big.gif",
                             "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
                             "MainCuisineName": "Pizza & İtalyan",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,7",
-                            "SpeedText": "7,6",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-23:59",
                             "href": "/ilmare-pizza-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
+                            "AvgPoint": "7,9",
+                            "CategoryName": "2808fcd8-8c28-4668-88a8-ae29e3e65894",
                             "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Ahievran Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 22.5,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
-                            "CategoryName": "6dd4165a-eddd-491d-ae05-56666959cad1",
+                            "AvgPoint": "8,6",
+                            "CategoryName": "2249d024-bc26-4c29-9361-c53e5dc4122e",
                             "CuisineNameList": [
-                                "Pide"
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mevlana Pide & Lahmacun, Ahievran Mah.",
-                            "FlavourText": "7,5",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/mevlana-pide-lahmacun_big.gif",
-                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
-                            "MainCuisineName": "Pide",
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
                             "MinimumDeliveryPrice": 15.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,1",
-                            "WorkHoursText": "07:00-23:45",
-                            "href": "/mevlana-pide-lahmacun-ahievran-mah-kirsehir"
+                            "ServingText": "8,5",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "10:45-02:00",
+                            "href": "/komagene-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "6cf408ac-5469-4b7c-a547-c745e97ccd0b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Köftedokya Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/koftedokya_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/koftedokya-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "25438440-7f4c-4dfb-bbbb-77ec278844a5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "McDonald's"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "McDonald's, Kuşdili Mah.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mcdonalds_6_big.gif",
+                            "MainCuisineId": "1dc69d26-678e-4b2a-b259-500f4914dc80",
+                            "MainCuisineName": "McDonald's",
+                            "MinimumDeliveryPrice": 9.25,
+                            "ServingText": "8,7",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/mcdonalds-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "2e877e22-02e7-443f-a7e3-f49f3657c097",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Şef Döner, Kuşdili Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/sefdoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/sef-doner-kusdili-mah-kirsehir"
                         }
                     ]
                 }
@@ -612,6 +1379,24 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "735672e6-1ce1-4051-a105-b594f2d786ac",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Aşçıoğlu Kebap, Medrese Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ascioglukebap2_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 16.5,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "10:45-23:45",
+                            "href": "/ascioglu-kebap-medrese-mah-kirsehir"
+                        },
+                        {
                             "AvgPoint": "8,2",
                             "CategoryName": "ddef8b89-5c30-43ae-93ab-e067a6eaf8d4",
                             "CuisineNameList": [
@@ -624,13 +1409,32 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 13.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "25d9682a-a682-44bb-8d0b-8fde409dc8fd",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Kuşdili Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "579cffb5-5c8b-4c7e-bee6-f32b67301383",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/dominos-pizza-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,5",
                             "CategoryName": "5706978e-c958-4c04-9147-3415c99f09ab",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -638,53 +1442,172 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "İlmare Pizza, Ahievran Mah.",
-                            "FlavourText": "7,9",
+                            "FlavourText": "7,6",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/ilmare-pizza_big.gif",
                             "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
                             "MainCuisineName": "Pizza & İtalyan",
                             "MinimumDeliveryPrice": 15.0,
-                            "ServingText": "7,7",
-                            "SpeedText": "7,6",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-23:59",
                             "href": "/ilmare-pizza-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
+                            "AvgPoint": "7,9",
+                            "CategoryName": "2808fcd8-8c28-4668-88a8-ae29e3e65894",
                             "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Ahievran Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 45.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
-                            "CategoryName": "6dd4165a-eddd-491d-ae05-56666959cad1",
+                            "AvgPoint": "8,6",
+                            "CategoryName": "2249d024-bc26-4c29-9361-c53e5dc4122e",
                             "CuisineNameList": [
-                                "Pide"
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mevlana Pide & Lahmacun, Ahievran Mah.",
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "8,5",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "10:45-02:00",
+                            "href": "/komagene-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "6cf408ac-5469-4b7c-a547-c745e97ccd0b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Köftedokya Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/koftedokya_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/koftedokya-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "2e877e22-02e7-443f-a7e3-f49f3657c097",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Şef Döner, Kuşdili Mah.",
                             "FlavourText": "7,5",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/mevlana-pide-lahmacun_big.gif",
-                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
-                            "MainCuisineName": "Pide",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,1",
-                            "WorkHoursText": "07:00-23:45",
-                            "href": "/mevlana-pide-lahmacun-ahievran-mah-kirsehir"
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/sefdoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/sef-doner-kusdili-mah-kirsehir"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Kındam Mah.": [
+                {
+                    "comps": [
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "735672e6-1ce1-4051-a105-b594f2d786ac",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Aşçıoğlu Kebap, Medrese Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ascioglukebap2_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 45.0,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "10:45-23:45",
+                            "href": "/ascioglu-kebap-medrese-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "ddef8b89-5c30-43ae-93ab-e067a6eaf8d4",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çifte Kumrucu, Aşıkpaşa Mah.",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ciftekumrucu_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "08:00-23:00",
+                            "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
                         }
                     ]
                 }
@@ -695,6 +1618,24 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "735672e6-1ce1-4051-a105-b594f2d786ac",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Aşçıoğlu Kebap, Medrese Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ascioglukebap2_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.5,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "10:45-23:45",
+                            "href": "/ascioglu-kebap-medrese-mah-kirsehir"
+                        },
+                        {
                             "AvgPoint": "8,2",
                             "CategoryName": "ddef8b89-5c30-43ae-93ab-e067a6eaf8d4",
                             "CuisineNameList": [
@@ -707,13 +1648,32 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "25d9682a-a682-44bb-8d0b-8fde409dc8fd",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Kuşdili Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "579cffb5-5c8b-4c7e-bee6-f32b67301383",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/dominos-pizza-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,5",
                             "CategoryName": "5706978e-c958-4c04-9147-3415c99f09ab",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -721,53 +1681,129 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "İlmare Pizza, Ahievran Mah.",
-                            "FlavourText": "7,9",
+                            "FlavourText": "7,6",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/ilmare-pizza_big.gif",
                             "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
                             "MainCuisineName": "Pizza & İtalyan",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,7",
-                            "SpeedText": "7,6",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-23:59",
                             "href": "/ilmare-pizza-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
+                            "AvgPoint": "7,9",
+                            "CategoryName": "2808fcd8-8c28-4668-88a8-ae29e3e65894",
                             "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Ahievran Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
-                            "CategoryName": "6dd4165a-eddd-491d-ae05-56666959cad1",
+                            "AvgPoint": "8,6",
+                            "CategoryName": "2249d024-bc26-4c29-9361-c53e5dc4122e",
                             "CuisineNameList": [
-                                "Pide"
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mevlana Pide & Lahmacun, Ahievran Mah.",
-                            "FlavourText": "7,5",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/mevlana-pide-lahmacun_big.gif",
-                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
-                            "MainCuisineName": "Pide",
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 0,
+                            "ServingText": "8,5",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "10:45-02:00",
+                            "href": "/komagene-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "6cf408ac-5469-4b7c-a547-c745e97ccd0b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Köftedokya Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/koftedokya_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 8.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/koftedokya-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "25438440-7f4c-4dfb-bbbb-77ec278844a5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "McDonald's"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "McDonald's, Kuşdili Mah.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mcdonalds_6_big.gif",
+                            "MainCuisineId": "1dc69d26-678e-4b2a-b259-500f4914dc80",
+                            "MainCuisineName": "McDonald's",
+                            "MinimumDeliveryPrice": 9.25,
+                            "ServingText": "8,7",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/mcdonalds-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,1",
-                            "WorkHoursText": "07:00-23:45",
-                            "href": "/mevlana-pide-lahmacun-ahievran-mah-kirsehir"
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "2e877e22-02e7-443f-a7e3-f49f3657c097",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Şef Döner, Kuşdili Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/sefdoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/sef-doner-kusdili-mah-kirsehir"
                         }
                     ]
                 }
@@ -777,6 +1813,24 @@
             "Kuşdili Mah.": [
                 {
                     "comps": [
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "735672e6-1ce1-4051-a105-b594f2d786ac",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Aşçıoğlu Kebap, Medrese Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ascioglukebap2_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 16.5,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "10:45-23:45",
+                            "href": "/ascioglu-kebap-medrese-mah-kirsehir"
+                        },
                         {
                             "AvgPoint": "8,2",
                             "CategoryName": "ddef8b89-5c30-43ae-93ab-e067a6eaf8d4",
@@ -790,13 +1844,32 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 13.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "25d9682a-a682-44bb-8d0b-8fde409dc8fd",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Kuşdili Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "579cffb5-5c8b-4c7e-bee6-f32b67301383",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/dominos-pizza-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,5",
                             "CategoryName": "5706978e-c958-4c04-9147-3415c99f09ab",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -804,53 +1877,109 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "İlmare Pizza, Ahievran Mah.",
-                            "FlavourText": "7,9",
+                            "FlavourText": "7,6",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/ilmare-pizza_big.gif",
                             "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
                             "MainCuisineName": "Pizza & İtalyan",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,7",
-                            "SpeedText": "7,6",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-23:59",
                             "href": "/ilmare-pizza-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
+                            "AvgPoint": "8,6",
+                            "CategoryName": "2249d024-bc26-4c29-9361-c53e5dc4122e",
                             "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "8,5",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "10:45-02:00",
+                            "href": "/komagene-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
-                            "CategoryName": "6dd4165a-eddd-491d-ae05-56666959cad1",
+                            "AvgPoint": "-",
+                            "CategoryName": "6cf408ac-5469-4b7c-a547-c745e97ccd0b",
                             "CuisineNameList": [
-                                "Pide"
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mevlana Pide & Lahmacun, Ahievran Mah.",
+                            "DisplayName": "Köftedokya Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/koftedokya_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/koftedokya-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "25438440-7f4c-4dfb-bbbb-77ec278844a5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "McDonald's"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "McDonald's, Kuşdili Mah.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mcdonalds_6_big.gif",
+                            "MainCuisineId": "1dc69d26-678e-4b2a-b259-500f4914dc80",
+                            "MainCuisineName": "McDonald's",
+                            "MinimumDeliveryPrice": 9.25,
+                            "ServingText": "8,7",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/mcdonalds-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "2e877e22-02e7-443f-a7e3-f49f3657c097",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Şef Döner, Kuşdili Mah.",
                             "FlavourText": "7,5",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/mevlana-pide-lahmacun_big.gif",
-                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
-                            "MainCuisineName": "Pide",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/sefdoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,1",
-                            "WorkHoursText": "07:00-23:45",
-                            "href": "/mevlana-pide-lahmacun-ahievran-mah-kirsehir"
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/sef-doner-kusdili-mah-kirsehir"
                         }
                     ]
                 }
@@ -860,6 +1989,24 @@
             "Medrese Mah.": [
                 {
                     "comps": [
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "735672e6-1ce1-4051-a105-b594f2d786ac",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Aşçıoğlu Kebap, Medrese Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ascioglukebap2_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 0,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "10:45-23:45",
+                            "href": "/ascioglu-kebap-medrese-mah-kirsehir"
+                        },
                         {
                             "AvgPoint": "8,2",
                             "CategoryName": "ddef8b89-5c30-43ae-93ab-e067a6eaf8d4",
@@ -873,13 +2020,32 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 6.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "25d9682a-a682-44bb-8d0b-8fde409dc8fd",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Kuşdili Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "579cffb5-5c8b-4c7e-bee6-f32b67301383",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/dominos-pizza-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,5",
                             "CategoryName": "5706978e-c958-4c04-9147-3415c99f09ab",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -887,53 +2053,129 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "İlmare Pizza, Ahievran Mah.",
-                            "FlavourText": "7,9",
+                            "FlavourText": "7,6",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/ilmare-pizza_big.gif",
                             "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
                             "MainCuisineName": "Pizza & İtalyan",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,7",
-                            "SpeedText": "7,6",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-23:59",
                             "href": "/ilmare-pizza-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
+                            "AvgPoint": "7,9",
+                            "CategoryName": "2808fcd8-8c28-4668-88a8-ae29e3e65894",
                             "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Ahievran Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
-                            "CategoryName": "6dd4165a-eddd-491d-ae05-56666959cad1",
+                            "AvgPoint": "8,6",
+                            "CategoryName": "2249d024-bc26-4c29-9361-c53e5dc4122e",
                             "CuisineNameList": [
-                                "Pide"
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mevlana Pide & Lahmacun, Ahievran Mah.",
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 7.5,
+                            "ServingText": "8,5",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "10:45-02:00",
+                            "href": "/komagene-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "6cf408ac-5469-4b7c-a547-c745e97ccd0b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Köftedokya Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/koftedokya_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/koftedokya-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "25438440-7f4c-4dfb-bbbb-77ec278844a5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "McDonald's"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "McDonald's, Kuşdili Mah.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mcdonalds_6_big.gif",
+                            "MainCuisineId": "1dc69d26-678e-4b2a-b259-500f4914dc80",
+                            "MainCuisineName": "McDonald's",
+                            "MinimumDeliveryPrice": 9.25,
+                            "ServingText": "8,7",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/mcdonalds-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "2e877e22-02e7-443f-a7e3-f49f3657c097",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Şef Döner, Kuşdili Mah.",
                             "FlavourText": "7,5",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/mevlana-pide-lahmacun_big.gif",
-                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
-                            "MainCuisineName": "Pide",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,1",
-                            "WorkHoursText": "07:00-23:45",
-                            "href": "/mevlana-pide-lahmacun-ahievran-mah-kirsehir"
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/sefdoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/sef-doner-kusdili-mah-kirsehir"
                         }
                     ]
                 }
@@ -943,6 +2185,24 @@
             "Nasuhdede Mah.": [
                 {
                     "comps": [
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "735672e6-1ce1-4051-a105-b594f2d786ac",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Aşçıoğlu Kebap, Medrese Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ascioglukebap2_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 11.25,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "10:45-23:45",
+                            "href": "/ascioglu-kebap-medrese-mah-kirsehir"
+                        },
                         {
                             "AvgPoint": "8,2",
                             "CategoryName": "ddef8b89-5c30-43ae-93ab-e067a6eaf8d4",
@@ -956,13 +2216,32 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "25d9682a-a682-44bb-8d0b-8fde409dc8fd",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Kuşdili Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "579cffb5-5c8b-4c7e-bee6-f32b67301383",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/dominos-pizza-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,5",
                             "CategoryName": "5706978e-c958-4c04-9147-3415c99f09ab",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -970,53 +2249,129 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "İlmare Pizza, Ahievran Mah.",
-                            "FlavourText": "7,9",
+                            "FlavourText": "7,6",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/ilmare-pizza_big.gif",
                             "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
                             "MainCuisineName": "Pizza & İtalyan",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,7",
-                            "SpeedText": "7,6",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-23:59",
                             "href": "/ilmare-pizza-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
+                            "AvgPoint": "7,9",
+                            "CategoryName": "2808fcd8-8c28-4668-88a8-ae29e3e65894",
                             "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 15.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Ahievran Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 11.0,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
-                            "CategoryName": "6dd4165a-eddd-491d-ae05-56666959cad1",
+                            "AvgPoint": "8,6",
+                            "CategoryName": "2249d024-bc26-4c29-9361-c53e5dc4122e",
                             "CuisineNameList": [
-                                "Pide"
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mevlana Pide & Lahmacun, Ahievran Mah.",
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 7.5,
+                            "ServingText": "8,5",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "10:45-02:00",
+                            "href": "/komagene-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "6cf408ac-5469-4b7c-a547-c745e97ccd0b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Köftedokya Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/koftedokya_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/koftedokya-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "25438440-7f4c-4dfb-bbbb-77ec278844a5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "McDonald's"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "McDonald's, Kuşdili Mah.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mcdonalds_6_big.gif",
+                            "MainCuisineId": "1dc69d26-678e-4b2a-b259-500f4914dc80",
+                            "MainCuisineName": "McDonald's",
+                            "MinimumDeliveryPrice": 9.25,
+                            "ServingText": "8,7",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/mcdonalds-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "2e877e22-02e7-443f-a7e3-f49f3657c097",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Şef Döner, Kuşdili Mah.",
                             "FlavourText": "7,5",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/mevlana-pide-lahmacun_big.gif",
-                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
-                            "MainCuisineName": "Pide",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,1",
-                            "WorkHoursText": "07:00-23:45",
-                            "href": "/mevlana-pide-lahmacun-ahievran-mah-kirsehir"
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/sefdoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/sef-doner-kusdili-mah-kirsehir"
                         }
                     ]
                 }
@@ -1039,30 +2394,10 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 9.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
-                        },
-                        {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
-                            "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
-                            ],
-                            "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
                         }
                     ]
                 }
@@ -1072,6 +2407,24 @@
             "Yenice Mah.": [
                 {
                     "comps": [
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "735672e6-1ce1-4051-a105-b594f2d786ac",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Aşçıoğlu Kebap, Medrese Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ascioglukebap2_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 11.25,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "10:45-23:45",
+                            "href": "/ascioglu-kebap-medrese-mah-kirsehir"
+                        },
                         {
                             "AvgPoint": "8,2",
                             "CategoryName": "ddef8b89-5c30-43ae-93ab-e067a6eaf8d4",
@@ -1085,13 +2438,32 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 9.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "7,8",
+                            "CategoryName": "25d9682a-a682-44bb-8d0b-8fde409dc8fd",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Kuşdili Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "579cffb5-5c8b-4c7e-bee6-f32b67301383",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/dominos-pizza-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,5",
                             "CategoryName": "5706978e-c958-4c04-9147-3415c99f09ab",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -1099,53 +2471,129 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "İlmare Pizza, Ahievran Mah.",
-                            "FlavourText": "7,9",
+                            "FlavourText": "7,6",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/ilmare-pizza_big.gif",
                             "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
                             "MainCuisineName": "Pizza & İtalyan",
                             "MinimumDeliveryPrice": 5.0,
-                            "ServingText": "7,7",
-                            "SpeedText": "7,6",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-23:59",
                             "href": "/ilmare-pizza-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
+                            "AvgPoint": "7,9",
+                            "CategoryName": "2808fcd8-8c28-4668-88a8-ae29e3e65894",
                             "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Ahievran Mah.",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 16.5,
+                            "ServingText": "7,7",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
-                            "CategoryName": "6dd4165a-eddd-491d-ae05-56666959cad1",
+                            "AvgPoint": "8,6",
+                            "CategoryName": "2249d024-bc26-4c29-9361-c53e5dc4122e",
                             "CuisineNameList": [
-                                "Pide"
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı",
+                                "Komagene Etsiz Çiğ Köfte"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mevlana Pide & Lahmacun, Ahievran Mah.",
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 7.5,
+                            "ServingText": "8,5",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "10:45-02:00",
+                            "href": "/komagene-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "6cf408ac-5469-4b7c-a547-c745e97ccd0b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Köftedokya Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/koftedokya_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/koftedokya-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "25438440-7f4c-4dfb-bbbb-77ec278844a5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "McDonald's"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "McDonald's, Kuşdili Mah.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mcdonalds_6_big.gif",
+                            "MainCuisineId": "1dc69d26-678e-4b2a-b259-500f4914dc80",
+                            "MainCuisineName": "McDonald's",
+                            "MinimumDeliveryPrice": 9.25,
+                            "ServingText": "8,7",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/mcdonalds-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "2e877e22-02e7-443f-a7e3-f49f3657c097",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Şef Döner, Kuşdili Mah.",
                             "FlavourText": "7,5",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/mevlana-pide-lahmacun_big.gif",
-                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
-                            "MainCuisineName": "Pide",
-                            "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,1",
-                            "WorkHoursText": "07:00-23:45",
-                            "href": "/mevlana-pide-lahmacun-ahievran-mah-kirsehir"
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/sefdoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/sef-doner-kusdili-mah-kirsehir"
                         }
                     ]
                 }
@@ -1155,6 +2603,45 @@
             "Ahi Evran Üniversitesi - Bağbaşı Kampüsü": [
                 {
                     "comps": [
+                        {
+                            "AvgPoint": "8,6",
+                            "CategoryName": "2249d024-bc26-4c29-9361-c53e5dc4122e",
+                            "CuisineNameList": [
+                                "Çiğ Köfte",
+                                "Kebap & Türk Mutfağı",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "d1fa6d1d-4dc2-482c-b965-46b0bd8ea23c",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "8,5",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "10:45-02:00",
+                            "href": "/komagene-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "25438440-7f4c-4dfb-bbbb-77ec278844a5",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "McDonald's"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "McDonald's, Kuşdili Mah.",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mcdonalds_6_big.gif",
+                            "MainCuisineId": "1dc69d26-678e-4b2a-b259-500f4914dc80",
+                            "MainCuisineName": "McDonald's",
+                            "MinimumDeliveryPrice": 9.25,
+                            "ServingText": "8,7",
+                            "SpeedText": "8,8",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/mcdonalds-kusdili-mah-kirsehir"
+                        },
                         {
                             "AvgPoint": "8,2",
                             "CategoryName": "ddef8b89-5c30-43ae-93ab-e067a6eaf8d4",
@@ -1168,13 +2655,87 @@
                             "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
                             "MainCuisineName": "Fast Food & Sandwich",
                             "MinimumDeliveryPrice": 13.0,
-                            "ServingText": "8,1",
-                            "SpeedText": "8,3",
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
                             "WorkHoursText": "08:00-23:00",
                             "href": "/cifte-kumrucu-asikpasa-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "7,7",
+                            "AvgPoint": "-",
+                            "CategoryName": "6cf408ac-5469-4b7c-a547-c745e97ccd0b",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Köftedokya Etsiz Çiğ Köfte, Kırşehir (Merkez)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/koftedokya_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/koftedokya-etsiz-cig-kofte-kirsehir-merkez-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,3",
+                            "CategoryName": "2e877e22-02e7-443f-a7e3-f49f3657c097",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Şef Döner, Kuşdili Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/sefdoner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/sef-doner-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "735672e6-1ce1-4051-a105-b594f2d786ac",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Aşçıoğlu Kebap, Medrese Mah.",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_KIRSEHIR/ascioglukebap2_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 16.5,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "10:45-23:45",
+                            "href": "/ascioglu-kebap-medrese-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,8",
+                            "CategoryName": "25d9682a-a682-44bb-8d0b-8fde409dc8fd",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Kuşdili Mah.",
+                            "FlavourText": "7,7",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "579cffb5-5c8b-4c7e-bee6-f32b67301383",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,8",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "10:30-23:59",
+                            "href": "/dominos-pizza-kusdili-mah-kirsehir"
+                        },
+                        {
+                            "AvgPoint": "7,5",
                             "CategoryName": "5706978e-c958-4c04-9147-3415c99f09ab",
                             "CuisineNameList": [
                                 "Fast Food & Sandwich",
@@ -1182,53 +2743,33 @@
                             ],
                             "DeliveryTime": 30,
                             "DisplayName": "İlmare Pizza, Ahievran Mah.",
-                            "FlavourText": "7,9",
+                            "FlavourText": "7,6",
                             "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/ilmare-pizza_big.gif",
                             "MainCuisineId": "4b884bcc-73d3-4b67-8949-676f16b9b5ad",
                             "MainCuisineName": "Pizza & İtalyan",
                             "MinimumDeliveryPrice": 10.0,
-                            "ServingText": "7,7",
-                            "SpeedText": "7,6",
+                            "ServingText": "7,5",
+                            "SpeedText": "7,4",
                             "WorkHoursText": "10:00-23:59",
                             "href": "/ilmare-pizza-ahievran-mah-kirsehir"
                         },
                         {
-                            "AvgPoint": "6,3",
-                            "CategoryName": "d69a283d-35c7-4db2-8fce-0c8e676e6c37",
+                            "AvgPoint": "5,1",
+                            "CategoryName": "2ebc3803-27fe-4573-b442-e771ddca31b0",
                             "CuisineNameList": [
-                                "Cafe",
-                                "Dondurma",
-                                "Pasta & Tatlı"
+                                "Döner"
                             ],
                             "DeliveryTime": 45,
-                            "DisplayName": "Mado, Nasuhdede Mah.",
-                            "FlavourText": "6,7",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/mado_2_big.gif",
-                            "MainCuisineId": "96f07b33-348d-4848-b428-005cf224f9c3",
-                            "MainCuisineName": "Pasta & Tatlı",
-                            "MinimumDeliveryPrice": 40.0,
-                            "ServingText": "5,3",
-                            "SpeedText": "6,8",
-                            "WorkHoursText": "09:00-22:00",
-                            "href": "/mado-nasuhdede-mah-kirsehir"
-                        },
-                        {
-                            "AvgPoint": "7,7",
-                            "CategoryName": "6dd4165a-eddd-491d-ae05-56666959cad1",
-                            "CuisineNameList": [
-                                "Pide"
-                            ],
-                            "DeliveryTime": 45,
-                            "DisplayName": "Mevlana Pide & Lahmacun, Ahievran Mah.",
-                            "FlavourText": "7,5",
-                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRSEHIR/mevlana-pide-lahmacun_big.gif",
-                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
-                            "MainCuisineName": "Pide",
+                            "DisplayName": "Öncü Döner, Kuşdili Mah.",
+                            "FlavourText": "5,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ANKARA/oncu_durum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
                             "MinimumDeliveryPrice": 15.0,
-                            "ServingText": "7,4",
-                            "SpeedText": "8,1",
-                            "WorkHoursText": "07:00-23:45",
-                            "href": "/mevlana-pide-lahmacun-ahievran-mah-kirsehir"
+                            "ServingText": "5,2",
+                            "SpeedText": "4,7",
+                            "WorkHoursText": "10:30-23:30",
+                            "href": "/oncu-doner-kusdili-mah-kirsehir"
                         }
                     ]
                 }

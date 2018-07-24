@@ -1,0 +1,728 @@
+{
+    "comment": [
+        {
+            "Comment": "Her şey 10 numara.",
+            "Date": "2018-07-15",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sadece yavaş geldi ama sıcaktı, lezzetliydi.",
+            "Date": "2018-07-11",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Civardaki en başarılı balıkçı. İkramları da cabası...",
+            "Date": "2018-07-11",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Son zamanlarda yediğim en iyi balıktı harika teşekkürler iskele balık.",
+            "Date": "2018-07-09",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Balıklar taze ve lezzetli, mezeler süper. Sigara böreği süper.",
+            "Date": "2018-06-30",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Balıkları da mezeleri de çok lezzetli. Üstelik ikram konusunda çok cömert bir restoran. İnşallah hiç bozmazlar.",
+            "Date": "2018-06-29",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkür ederiz, levrek menu guzeldi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Very good. Will order again.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zaman aynı kalite ve lezzet.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Levrek ve çipura güzeldi ancak somon bayattı. Yiyen kişinin midesi rahatsızlandı.",
+            "Date": "2018-06-24",
+            "Flavour": "5",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Mezeler ve ikram gerçekten ince düşünülmüş fakat buradan 4. Siparişim hala balıklarda yorumda yazan lezzeti bulamadım. Kalamarlar çok yumuşak ve az pişmiş gibiydi, çipura da ortalamaydı yani kötü değil ama puanı kadar da iyi değil maalesef.",
+            "Date": "2018-06-24",
+            "Flavour": "5",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Her açıdan harika hizmet. Hediyeleriniz için teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Diyecek hicbir sey yok, buranin en kral isletmesi. Gerek doyurucu menusu, gerek ikramlari, gerek hizi, gerekse saygilari. Tam anlamiyla gercek esnaf.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tekir tava ve levrek marinin ikisi de güzeldi. Belki levrek bir tık daha lezzetli olsa daha güzel olabilirdi. Patlıcan ve tatlı hediyelerinize de çok teşekkür ederim. Onları görünce bir mutlu oldum ve 22 dakikada geldi. Gerçekten çok başarılı.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey başarılı, en nezih restaurant.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hepsi mukemmeldi ellerinize sağlık.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çipura harikaydı. Yanında getirdiğiniz ikramlar ve bol porsiyon için teşekkürler. Restoranda yesem anca bu kadar güzel olurdu.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Efsan e.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mevsim salataları orada burada 20-30 lira verip aldığım salataların hepsine bin basar. Taptaze ve çok güzel.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İskele restaurant siz benim icin vazgecilmezsiniz.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Birkaç defa sipariş verdim, gerçekten hep aynı güzel lezzet, servis hızlı, gelen ikramlar oldukça yeterli. Kuryeler çok kibar. Ve beni etkileyen, 2 kişilik menü söyleyip, min sipariş tutarı dolsun diye 1 midye söylemiştik. 2 midye göndermişlerdi. Hayat kurtarıyor, fiyatları da oldukça uygun.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ya balık güzeldi ama balık çorbanızda kılçıklı balık koymanız çok saçma bence. Ayrıca tadıda çok kötüydü kaşıkta koymamışsınız burası güzel bir yer ama malesef bu sefer ki çok başarısızdı.",
+            "Date": "2018-04-25",
+            "Flavour": "3",
+            "Serving": "1",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Balik corbasi cok kilcikliydi.",
+            "Date": "2018-04-25",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hamsi mukemmeldi gelen meze ikramlari icinde tesekkurler gozunuz kapali siparis verebilirsiniz uzakta olmasina ragmen sicacik geldi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zaman lezzetli ve taze.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Dört dörtlük himet ve lezzet!",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Balıklar ve mezeler çok lezzetliydi, kurye ağabey de çok nazikti, herkese tavsiye ederim, ikramlar için de teşekkürler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Porsiyonlar göze hitap etse de lezzetsizdi ve özellikle yan ürünler taze ve temiz değildi. Kullandıkları yağ muhtemelen kalitesiz ve tekrar tekrar kullanıldığını düşünüyorum. Bir daha asla sipariş vermeyeceğim.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Siparişimin yanında gönderilenler bitiremeyeceğim kadar fazlaydı. Levrek marin ve dil balığı çok lezzetliydi. Çok teşekkürler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gerçekten bu kadar lezzetli mezeler tam damak tadımıza göre hepsi harikaydı balıklar sıcacık geldi tatlılarda mükemmeldi öok teşekkürler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet lezzetli ve sıcak geldi. İlk siparişim diye biraz korkmuştum ama her şey çok güzeldi. Porsiyonlar bol ve hepsinden fazla fazla koymuşlar. Balığın yanında tam tatlı bir şeyler ararken bir de baktım istememe rağmen tatlı yollamışlar. Çok teşekkürler, ellerinize sağlık.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşeyiyle on numaraydı. Servis harikaydı ve çok hızlı geldi. Balıklar taptaze ve sıcacıktı. Kurye arkadaş çok kibardı. Tansiyon rahatsızlığından dolayı balıkları tuzsuz gönderin dedim, buna da dikkat etmişler. En kısa zamanda mekanı da ziyaret edeceğim.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harikasiniz.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zamanki kalite, çok hızlı ve düzgün geldi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Efsane.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gönülleri zengin balıkları lezzetli ve notlara çok dikkat ediliyor senelerdir aynı güzellikte.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "1 saatten fazla sürede geldi balık. Ne balıkta be salata da tat vardı. Bugün gelen balık da taze değildi. Buradan hep sipariş veririm ama ilk kez böyle bir şeyle karşılaştım ve bu beni üzdü.",
+            "Date": "2018-04-25",
+            "Flavour": "4",
+            "Serving": "8",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Paketleme konusunda çok başarılı.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Nice.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper mükemmel her şeyi efsane.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mükemmel.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mükemmel.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sizi hak edecek ne sevap işlemiş olabiliriz.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Muazzam.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Karides guvec, kalamar ve midye tava soyledim hepsinin tadi cok guzeldi. Ozellikle karides guvec gibi paket serviste zor olan bir urun bile sicacik ve gayet bol malzemeli geldi. 4 tane ikram meze ve 2 ikram tatli yollamislardi. Cok tesekkurler kesinlikle tekrar siparis verilir.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Mukemmeldi tek kelimeyle.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok lezzetli.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Elimize sağlık. Yine çok iyiydi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Servis cok efsaneydi, bu cevrede boyle guzel balık yiyebilecegim bir yer oldugunu bilmek hosuma gitti.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "2. Siparişim balıklar yine çok taze ve lezzetliydi gönül rahatlığıyla tavsiye edebilirim.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok başarılı işletme!",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Söylenebilecek tek şey mükkemmel.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İkramlar için çok teşekkür ederiz. Her şey çok lezzetliydi elinize sağlık. Güler yüzlü kuryemize mahçup olduk, bir dahaki sefere telafi edeceğiz mutlaka ) tekrar görüşmek üzere...",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Dil cok yagliydi yiyemedik.",
+            "Date": "2018-03-26",
+            "Flavour": "6",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hem lezzetli hem hızlı hem de ikramlar çok bol ve doyurucu. Çok başarılı.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çatal bıçak yoktu.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Levrek somon mezeler salata harika ve sıcacıktı elerinize sağlık bir tek midye dolma hoşumuza gitmedi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Müthişiyi ki böyle bir restaurant var.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gec saatte yedigim icin ne yazik ki midem bozuldu ama sag olsunlar cok bonkor davrandilar. 1 midye istedigimde 2 mide dolma verdiler. Ayrica 25 dakikada geldi. Dedigim gibi midem bozuldu ama kesinlikle cok begendim : ).",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok iyiydi.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Levrek marinde sikinti var gibi digerleri iyiydi.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her sey mukkemeldi yaninda gonderdiginiz mezelerde harikaydi her sey icin tessekurler.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Cok iyi bir yer, baliklar da mezeler de gayet lezzetli ve uygub fiyatli. Hediye tatli ve mezeniz icin de tesekkur ederiz!",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Efsane bir şey. Salatası mezesi midyesi balığı ile cok başarılısınız.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her seyini cok severek yiyorum fakat ilk defa dil baligim yanik geldi. Cok sasirdim ama ona ragmen 10 puani hak eden tek yer.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok teşekkür ediyorum çok taze ve lezzetliydi.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Elimize sağlık.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok iyi herzaman.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey mükemmel teşekkürler.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet lezzetli dusunmeden siparis verebilirsiniz.. Ayrica ikramlariniz icin de cok cok tesekkur ederiz, ellerinize saglik.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Yıllardır yemek sepetinden sipariş veririm ilk defa ailece çok ama çok begendiğimiz bir yemek yedik. Mükemmeldi ellerinize saglık!",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Adet",
+            "ItemName": "Midye Dolma",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Levrek Izgara",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salatası (1 Kişilik)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Midye Tava",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dil Şiş Izgara",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "350 - 450 gr. ",
+            "ItemName": "Izgara Deniz Levreği (Yarım)",
+            "ItemPrice": "51,00 TL"
+        },
+        {
+            "ItemInfo": "Hamsi Tava + Salata + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Hamsi Tava)",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Levrek veya Çipura + Mevsim Salatası (Duble)",
+            "ItemName": "Ekonomik Menü (2 Kişilik)",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz 2 Adet Balık + 2 Kişilik Mevsim Salata + Közde Patlıcan + Acılı Ezme",
+            "ItemName": "Balık Menü",
+            "ItemPrice": "59,00 TL"
+        },
+        {
+            "ItemInfo": "Çipura + Mevsim Salatası (1 Kişilik) + Kutu İçecek",
+            "ItemName": "Çipura Menü",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Levrek + Mevsim Salatası (1 Kişilik) + Kutu İçecek",
+            "ItemName": "Levrek Menü",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Dil Parmak + Mevsim Salatası (1 Kişilik) + Kutu İçecek",
+            "ItemName": "Dil Parmak Menü",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Midye Tava",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sigara Böreği",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tekir Tava",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dil Parmak Tava",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çipura Izgara",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Levrek Izgara",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "350 - 450 gr. ",
+            "ItemName": "Izgara Deniz Levreği (Yarım)",
+            "ItemPrice": "51,00 TL"
+        },
+        {
+            "ItemInfo": "350 - 450 gr.",
+            "ItemName": "Deniz Çipurası (Yarım)",
+            "ItemPrice": "51,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dil Şiş Izgara",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dil Izgara (Tam)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Adet",
+            "ItemName": "Midye Dolma",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Közde Patlıcan",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Tava",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Haydari",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kısır",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Humus",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patlıcan Şakşuka",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Humus",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salatası (1 Kişilik)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salatası (1 Kişilik)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salatası (2 Kişilik)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salatası (2 Kişilik)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salatası (Duble)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salatası (Duble)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Örgü Ev Tatlısı (2 Adet)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        }
+    ]
+}

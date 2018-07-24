@@ -1,0 +1,635 @@
+{
+    "comment": [
+        {
+            "Comment": "Fiş getirilmedi muhasebe ile yine papaz olduk... 250 liralık alışveriş fiş gönderilmemesi kötü izlenim.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "İki meyvesuyu parası ödedim 1 tane meyvesuyu çıktı.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "",
+            "Speed": ""
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Beyaz peynir, kaşar peyniri, karper peynir, burgu peynir, yeşil zeytin, siyah zeytin, salam, sosis, sigara böreği, yeşillik, patates kızartması, bal, reçel, Nutella, yumurta",
+            "ItemName": "Kahvaltı Tabağı",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kahvaltı Tabağı",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Domates Çorbası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimek Çorbası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ezogelin Çorbası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Haşlanmış lahana, kırmızıbiber, yeşilbiber, havuç, tavuk",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Pastırma, kaşar peyniri, kırmızıbiber, yeşilbiber",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri. Patates kızartması ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk. Patates kızartması ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk. Patates kızartması ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, domates. Patates kızartması ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, kaşar peyniri, cheddar peyniri. Patates kızartması ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Jambon, kaşar peyniri, domates, kornişon turşu, tavuk",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, domates, salatalık, göbek marul",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, salam, dana jambon, domates, salatalık",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, domates, kornişon turşu, halka soğan",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk, cheddar peyniri, kornişon turşu, domates",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Köfte, cheddar peyniri, kornişon turşu, domates",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, ketçap, mayonez ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, ketçap, mayonez ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, ketçap, mayonez ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Antrikot, mantar, California biber, yoğurt, kibrit patates",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "32,50 TL"
+        },
+        {
+            "ItemInfo": "Bonfile, bal, közlenmiş patlıcan, haşlanmış mevsim sebzeleri, mevsim yeşillikleri",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, elma dilim patates kızartması ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, elma dilim patates kızartması ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Köfte, makarna, patates kızartması, turşu, mevsim yeşillikleri",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen tavuk göğüs eti, haşlanmış mevsim sebzeleri, yoğurt",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, elma dilim patates kızartması ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, elma dilim patates kızartması ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, elma dilim patates kızartması ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Mevsim yeşillikleri, elma dilim patates kızartması ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Marine edilmiş ıspanak, tagliatelle, mevsim yeşillikleri",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, sosis, domates, zeytin, mısır, biber, mantar",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, yeşil zeytin, siyah zeytin, mısır, mantar, biber, domates",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Krema sosu, fesleğen",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Krema sosu, fesleğen, ızgara tavuk",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, fesleğen, kıyma",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, fesleğen",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, fesleğen, jalapeno biber",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Acı sos, yoğurt, jalapeno biber, tortilla ekmeği, et",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "28,50 TL"
+        },
+        {
+            "ItemInfo": "Acı sos, yoğurt, jalapeno biber, tortilla ekmeği, tavuk",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "Acı sos, yoğurt, jalapeno biber, tortilla ekmeği, et, tavuk",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Özel baharatlarla marine edilmiş et",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Özel baharatlarla marine edilmiş tavuk",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "Özel baharatlarla marine edilmiş et, tavuk",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, göbek marul, beyaz peynir, cherry domates, zeytin, nar ekşisi",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, cherry domates, mısır, hellim peyniri",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk, göbek marul, Sezar sos, parmesan peyniri",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, ceviz, tulum peyniri",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, ton balığı, göbek marul, mısır",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara et parçaları, ızgara tavuk parçaları, Akdeniz yeşillikleri, göbek marul, Sezar sos, parmesan peyniri, mısır, zeytin",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz çikolata ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz çikolata ve meyve ile",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Bütün Antep fıstığı, çikolata",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Frambuaz, karadut",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kremalı Mantar Çorbası",
+            "ItemPrice": "11,00 TL"
+        }
+    ]
+}

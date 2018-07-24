@@ -1,0 +1,458 @@
+{
+    "comment": [
+        {
+            "Comment": "Hızlı.",
+            "Date": "2018-07-22",
+            "Flavour": "6",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Soğuk geldi sipariş.",
+            "Date": "2018-07-18",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Hep siparis ediyorum ama iskender bu sefer kötüydü malesef.",
+            "Date": "2018-07-13",
+            "Flavour": "3",
+            "Serving": "4",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Et döner sipariş etmiştik çok yağlı olmuş. Patatesler de fresh değildi muhtemelen.",
+            "Date": "2018-07-09",
+            "Flavour": "5",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hız süperdi fakat nedense bu sefer dönerin yagından mı nedir mideme dokundu. Onun dışında bir sorun yok.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kötü.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Kuru döner geldi hatay usuluyle alakası yoktu.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Memnunum.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İskender çok lezzetliydi. Denemeye değer bir restoran.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kesinlikle tavsiye ederim.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Siparişi teslim eden arkadaşın bozuk parası olmaması nedeniyle 4 lira fazladan aldı bir sonraki siparişte hallederiz dedi. Sonraki siparişimde biz bilmeyiz deyip artistlik yapıyorlar. Çalışanlarınızın sadakatsizliği bizim problemimiz değil.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "1",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lezzetli.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Fena değil.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İndirimli ürünler biraz az gönderiliyor. Büyük boy iskender istedik orta boy geldi resmen.",
+            "Date": "2018-02-24",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hazır köfte alıp pişirip servis ediyorsunuz. Hiç beğenmedim damak tadınız sıfır. İlk ve son siparişim idi.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "6",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Köfte ekmek çok küçük içinde 4 tane ufak köfte var iskenderi en büyüğünde söyledik ufacık bir şey geldi 80 gr et yoktu adanası idare eder ama onunda tadı kötü.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Kötüydü.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Joker indirimi kazandığım için iki adet büyük iskender söyledim. İskender yerine iki tane dürüm geldi. Canlı yardım yoluyla değişim gerçekleşti fakat paketler açılıp poşede dökülmüş durumda ve buz gibi geldi. Büyük boy yazmasına rağmen miktar olarak çok azdı. Gram doymadık.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Güzeldi. Hemde bayağı bi güzel. Elinize sağlık.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zamanki gibi çok lezzetliydi. Vaktinde geldi. Tesekkurler.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Guzedi.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Göbek marul, domates, patates kızartması, isteğe göre soğan, ketçap, mayonez.",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay Usulü Tavuk Döner Dürüm + Ayran (20 cl.)",
+            "ItemName": "Hatay Usulü Tavuk Döner Dürüm Menü",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, patates kızartması, isteğe göre soğan, ketçap, mayonez",
+            "ItemName": "Tavuk Döner Dürüm",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Tereyağlı ekmek, yoğurt, közlenmiş domates, biber",
+            "ItemName": "İskender (Et Dönerden) (Büyük)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, patates kızartması, isteğe göre soğan, ketçap, mayonez",
+            "ItemName": "Yarım Ekmek Arası Tavuk Döner",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner Dürüm + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Tavuk Döner Dürüm)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner Dürüm + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Tavuk Döner Dürüm)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Et Döner + Patates Kızartması + İçecek",
+            "ItemName": "Et Döner Menü",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Et Döner Dürüm + Patates Kızartması + İçecek",
+            "ItemName": "Et Döner Dürüm Menü",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner + Patates Kızartması + İçecek",
+            "ItemName": "Tavuk Döner Menü",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner Dürüm + Patates Kızartması + İçecek",
+            "ItemName": "Tavuk Döner Dürüm Menü",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay Usulü Et Döner Dürüm + Coca-Cola (20 cl.)",
+            "ItemName": "Hatay Usulü Et Döner Dürüm Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Hatay Usulü Tavuk Döner Dürüm + Ayran (20 cl.)",
+            "ItemName": "Hatay Usulü Tavuk Döner Dürüm Menü",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşarlı Et Döner Dürüm + Patates Kızartması + İçecek",
+            "ItemName": "Kaşarlı Et Döner Dürüm Menü",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşarlı Tavuk Döner Dürüm + Patates Kızartması + İçecek",
+            "ItemName": "Kaşarlı Tavuk Döner Dürüm Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "İskender (Et Dönerden) (Büyük) + Salata + İçecek",
+            "ItemName": "İskender (Et Dönerden) Menü",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "İskender (Et Dönerden) (Orta) + Salata + İçecek",
+            "ItemName": "Et İskender Salata Menü",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "İskender (Tavuk Dönerden) + Salata + İçecek",
+            "ItemName": "İskender (Tavuk Dönerden) Menü",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav Üstü Et Döner + Patates Kızartması + İçecek",
+            "ItemName": "Pilav Üstü Et Döner Menü",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav Üstü Et Döner + Salata + İçecek",
+            "ItemName": "Pilav Üstü Et Döner Salata Menü",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav Üstü Tavuk Döner + Patates Kızartması + İçecek",
+            "ItemName": "Pilav Üstü Tavuk Döner Menü",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav Üstü Tavuk Döner + Salata + İçecek",
+            "ItemName": "Pilav Üstü Tavuk Döner Salata Menü",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Tereyağlı ekmek, yoğurt, közlenmiş domates, biber",
+            "ItemName": "İskender (Et Dönerden) (Orta)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Tereyağlı ekmek, yoğurt, közlenmiş domates, biber",
+            "ItemName": "İskender (Et Dönerden) (Büyük)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, Hatay usulü sos, salatalık turşusu, göbek marul, domates, soğan, ketçap, mayonez",
+            "ItemName": "Hatay Usulü Et Döner Dürüm",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, patates kızartması, soğan, ketçap, mayonez",
+            "ItemName": "Et Döner",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, patates kızartması, soğan, ketçap, mayonez",
+            "ItemName": "Kaşarlı Et Döner",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, patates kızartması, soğan, ketçap, mayonez",
+            "ItemName": "Pilav Üstü Et Döner",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, patates kızartması, isteğe göre soğan, ketçap, mayonez",
+            "ItemName": "Et Döner Sandviç",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, patates kızartması, isteğe göre soğan, ketçap, mayonez",
+            "ItemName": "Yarım Ekmek Arası Et Döner",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, patates kızartması, isteğe göre soğan, ketçap, mayonez.",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Et döner, tavuk döner. Pilav, mevsim salata, patates kızartması ile",
+            "ItemName": "Karışık Döner",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Tereyağlı ekmek, yoğurt, közlenmiş domates, biber",
+            "ItemName": "İskender (Tavuk Dönerden)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, Hatay usulü sos, salatalık turşusu, göbek marul, domates, soğan, ketçap, mayonez",
+            "ItemName": "Hatay Usulü Tavuk Döner Dürüm",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, patates kızartması, soğan, ketçap, mayonez",
+            "ItemName": "Tavuk Döner",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, patates kızartması, soğan, ketçap, mayonez",
+            "ItemName": "Kaşarlı Tavuk Döner",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, patates kızartması, soğan, ketçap, mayonez",
+            "ItemName": "Pilav Üstü Tavuk Döner",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, patates kızartması, isteğe göre soğan, ketçap, mayonez",
+            "ItemName": "Yarım Ekmek Arası Tavuk Döner",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, patates kızartması, isteğe göre soğan, ketçap, mayonez",
+            "ItemName": "Tavuk Döner Sandviç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, patates kızartması, isteğe göre soğan, ketçap, mayonez",
+            "ItemName": "Tavuk Döner Dürüm",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, mevsim salata, patates kızartması ile",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, mevsim salata, patates kızartması ile",
+            "ItemName": "Beyti Kebap",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, mevsim salata, patates kızartması ile",
+            "ItemName": "Izgara Köfte",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Et döner, yoğurt, salçalı sos. Közlenmiş domates, közlenmiş biber ile",
+            "ItemName": "Bursa Kebabı (Double)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, isteğe göre soğan, ketçap, mayonez",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, domates, isteğe göre soğan, ketçap, mayonez",
+            "ItemName": "Yarım Ekmek Arası Izgara Köfte",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurt",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (20 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (20 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "1,00 TL"
+        }
+    ]
+}

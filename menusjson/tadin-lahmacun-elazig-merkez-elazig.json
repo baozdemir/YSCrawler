@@ -1,0 +1,339 @@
+{
+    "comment": [
+        {
+            "Comment": "Porsiyonu bol ve lezzetli.",
+            "Date": "2018-07-22",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İyidi.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yemek sıcacıktı ve kurye güleryüzlüydü.",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ben muhtarınız olarak kaşarlı pidesini tavsiye ederim.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kaşarlı pidesi güzel öneririm gayette hızlılar.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fiyatları arttırarak kötü yapmışsınız.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "2",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Pide söyledik çorba seklinde geldi.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Kuşbaşılısı süper.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yemek çok lezzetli. Kurye çok samimi ve güleryüzlü.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Eski lezzetini arıyorum.",
+            "Date": "2018-05-25",
+            "Flavour": "3",
+            "Serving": "3",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Lahmacunlarindan koku geliyor cok kotu.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Herşey 10 numara.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet lezzetliydi.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "6",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Süperrdi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tavsiye ederim. Hızlıydı.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pidesi doyurucu ve lezzetli.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzet ve servis harikaydı.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Süperdi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Mikemmel. Anlatmaya gerek yok.",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lahmacunun en güzel sadece burada mutlaka antep lahmacun yemelisiniz arkadaşlar.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok güzeldi.",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Çok güzel yapıyorlar pideyi.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Notu dıkkate almıyorsunuz acılı dedık acısız geldi o yüz kotu puan.",
+            "Date": "2018-02-24",
+            "Flavour": "3",
+            "Serving": "1",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Urfa Lahmacun",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Sarımsaklı Antep Lahmacun",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kıymalı Kaşarlı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kuşbaşı, kaşar peyniri, mevsim salatası ile",
+            "ItemName": "Karışık Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Sucuklu Kaşarlı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Urfa Lahmacun",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Sarımsaklı Antep Lahmacun",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Peymacun",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kuşbaşılı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Kıymalı Kaşarlı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Sucuklu Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Sucuklu Kaşarlı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Mantarlı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Mantarlı Kaşarlı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, kuşbaşı, kaşar peyniri, mevsim salatası ile",
+            "ItemName": "Karışık Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Tavuk Kanat",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası ile",
+            "ItemName": "Dana Kuşbaşı",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "İskender (Et Dönerden)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, acı biber, közlenmiş biber",
+            "ItemName": "Et Döner",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fıstıklı Künefe",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tamek (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        }
+    ]
+}

@@ -1,0 +1,332 @@
+{
+    "comment": [
+        {
+            "Comment": "Hasta oldum at mı kestınız?",
+            "Date": "2018-07-07",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Eh iste.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Aradan 2 saat gecmiş ben gelemem oraya diyor.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Fiyatıyla da lezzetiyle de sevisiyle de 10 numara 5 yıldız mekan. İskenderundaki tek tercihim vazgecilmezim.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Notu ve zamanı dikkata almayan döner etinin bir bölümü yoldaki cakıldan farksız.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Gayet güzeldi sipariş notum dikkate alınsa daha iyi olabilirdi :).",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Et güzel evet ama dürümde sadece ekmek yedim. Dürümü saran usta bir tarafı kalın ekmek tabakasıyla sarmış.",
+            "Date": "2018-03-26",
+            "Flavour": "3",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Eskı tadı kalmamıs.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Tadı güzel geç geldi.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Güzel ve lezzetliydi ama servis parçaları unutulmuştu.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "3",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Porsiyonlar az ve ciğer yerine mantar sote gönderilmişti.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Elinize sağlık.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Döner ayran 7 lira diye insanları kandırıp dönerle ayran göndermiyorlar döner de berbat zaten asla önermiyorum.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Tavuk Döner Dürüm + Açık Ayran (33 cl.)",
+            "ItemName": "Tavuk Döner Dürüm Menü",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pilav",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, közlenmiş soğan",
+            "ItemName": "İskender (Et Dönerden)",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Maydanoz, domates, biber, isteğe göre soğan",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimek Çorbası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Maydanoz, domates, biber, isteğe göre soğan",
+            "ItemName": "Kuzu Kuşbaşı Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner Dürüm + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Tavuk Döner Dürüm)",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner Dürüm (2 Adet) + Kutu İçecek (2 Adet) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (2'li Tavuk Döner Dürüm)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner Dürüm + Açık Ayran (33 cl.)",
+            "ItemName": "Tavuk Döner Dürüm Menü",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner Dürüm (1,5 Porsiyon) + Açık Ayran (33 cl.)",
+            "ItemName": "Tavuk Döner Dürüm (1,5 Porsiyon) Menü",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimek Çorbası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yayla Çorbası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Çorbası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, közlenmiş soğan",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, közlenmiş soğan",
+            "ItemName": "Patlıcanlı Kebap",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, közlenmiş soğan",
+            "ItemName": "Beyti Kebap",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, közlenmiş soğan",
+            "ItemName": "Beyti Sarma Kebap",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, közlenmiş soğan",
+            "ItemName": "Kuşbaşı Kebap",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, közlenmiş soğan",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, közlenmiş soğan",
+            "ItemName": "Tavuk Kanat",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, közlenmiş soğan",
+            "ItemName": "İskender (Et Dönerden)",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, közlenmiş soğan",
+            "ItemName": "Et Döner",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, közlenmiş soğan",
+            "ItemName": "Pilav Üstü Et Döner",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillik, domates, sos, isteğe göre soğan",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, közlenmiş soğan",
+            "ItemName": "İskender (Tavuk Dönerden)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, közlenmiş soğan",
+            "ItemName": "Tavuk Döner",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş biber, közlenmiş soğan",
+            "ItemName": "Pilav Üstü Tavuk Döner",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillik, domates, sos, isteğe göre soğan",
+            "ItemName": "Tavuk Döner Dürüm",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Maydanoz, domates, biber, isteğe göre soğan",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Maydanoz, domates, biber, isteğe göre soğan",
+            "ItemName": "Kuzu Kuşbaşı Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Maydanoz, domates, biber, isteğe göre soğan",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pilav",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuru Fasulye",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cacık",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurt",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Light (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "7UP (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Açık Ayran (33 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Açık Ayran (33 cl.)",
+            "ItemPrice": "1,00 TL"
+        }
+    ]
+}

@@ -1,0 +1,413 @@
+{
+    "comment": [
+        {
+            "Comment": "Hayatimda boyle berbat bir et doner gormedim daha helal olsun.",
+            "Date": "2018-07-21",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Tesekurler elinize sağlık.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparisim 40 dakkada geldi gelen cocukta bozuk yoktu gitti 20 dakka sonra geri geldi evimle restorant arasi 200 mt fln bu kadar gec kalmasi ilgisizliktenmi yogunluktanmi anlamadim brosurlerinde uzerinde cep numarasi yazmisiniz ordan siparis verilmiorsa neden yaziosunuz bide brosure wtsp resmi konmus.",
+            "Date": "2018-06-25",
+            "Flavour": "9",
+            "Serving": "3",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Muazzam lezzetler deneyın pısman olmazsınız.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her defasinda siparis veriyorum onaylaniyo daha sonra restorant kapaniyo.",
+            "Date": "2018-06-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Cok iyisiniz herseyiniz ile ama gecen siparis verdim unutmussunuz ac kalsakda sizinleyiz elinize saglik.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Berbat.",
+            "Date": "2018-05-24",
+            "Flavour": "2",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Bir buçuk söyledim bir geldi parasını verdim halde 1 saate gelmesi ayrı birşey online ödeyip getirmenin ayriyeten para istemesi daha değişik bir durum.",
+            "Date": "2018-04-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Elinize sağlık.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-03-25",
+            "Flavour": "8",
+            "Serving": "6",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzel hızlı ve lezzetliydi tesekkurler.",
+            "Date": "2018-03-25",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "9"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Antakya ekmeği, patates kızartması, turşu, ketçap, mayonez, Antakya sos, salça sos",
+            "ItemName": "Antakya Usulü Tavuk Döner",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, turşu, ketçap, mayonez, marul salatası, domates, sos",
+            "ItemName": "Ekstra Tavuk Döner Dürüm",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, turşu, ketçap, mayonez, marul salatası, domates, sos",
+            "ItemName": "Ekstra Et Döner Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Dana sucuk, dana salam, kaşar peyniri, domates",
+            "ItemName": "Yengen Tost",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Dana sucuk, dana salam, kaşar peyniri, domates, dana sosis, kornişon turşu, ketçap, mayonez",
+            "ItemName": "Kumru Sandviç",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner Dürüm + Patates Kızartması (Orta Boy) + Suphi Limonata",
+            "ItemName": "Tavuk Döner Dürüm Menü",
+            "ItemPrice": "9,95 TL"
+        },
+        {
+            "ItemInfo": "Donat's Tavuk Döner (Jumbo) + Şalgam Suyu (33 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Donat's Tavuk Döner)",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Antakya Usulü Tavuk Döner (Jumbo) + Şalgam Suyu (33 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Antakya Usulü Tavuk Döner)",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Tavuk Burger + Double Patates Kızartması + İçecek (1 L.)",
+            "ItemName": "Hamburger & Tavuk Burger Menü",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Döner Dürüm + Patates Kızartması (Orta Boy) + Suphi Limonata",
+            "ItemName": "Tavuk Döner Dürüm Menü",
+            "ItemPrice": "9,95 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, turşu, ketçap, mayonez, marul salatası, domates, sos",
+            "ItemName": "Ekstra Et Döner Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "İskenderun ekmeği, marul salatası, domates, patates kızartması, turşu, ketçap, mayonez, İskenderun sos, salça sos",
+            "ItemName": "Donnat's Et Döner",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Harbiye ekmeği, maydanoz, soğan, domates, Harbiye sos, salça sos",
+            "ItemName": "Harbiye Usulü Et Döner",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Antakya ekmeği, patates kızartması, turşu, ketçap, mayonez, Antakya sos, salça sos",
+            "ItemName": "Antakya Usulü Et Döner",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, soslu ekmek",
+            "ItemName": "Et Döner",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, soslu ekmek",
+            "ItemName": "Pilav Üstü Et Döner",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ekmek, soslu ekmek, süzme yoğurt",
+            "ItemName": "İskender (Et Dönerden)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, turşu, ketçap, mayonez, marul salatası, domates, sos",
+            "ItemName": "Ekstra Tavuk Döner Dürüm",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "İskenderun ekmeği, marul salatası, domates, patates kızartması, turşu, ketçap, mayonez, İskenderun sos, salça sos",
+            "ItemName": "Donnat's Tavuk Döner",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Harbiye ekmeği, maydanoz, soğan, domates, Harbiye sos, salça sos",
+            "ItemName": "Harbiye Usulü Tavuk Döner",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Antakya ekmeği, patates kızartması, turşu, ketçap, mayonez, Antakya sos, salça sos",
+            "ItemName": "Antakya Usulü Tavuk Döner",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, soslu ekmek",
+            "ItemName": "Tavuk Döner",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, soslu ekmek",
+            "ItemName": "Pilav Üstü Tavuk Döner",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, soslu ekmek",
+            "ItemName": "İskender (Tavuk Dönerden)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Dana sucuk",
+            "ItemName": "Sucuklu Tost",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Dana salam",
+            "ItemName": "Salamlı Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Dana salam",
+            "ItemName": "Salamlı Kaşarlı Tost",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Dana sucuk",
+            "ItemName": "Sucuklu Kaşarlı Tost",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Dana sucuk, dana salam, kaşar peyniri, domates",
+            "ItemName": "Yengen Tost",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, kaşar peyniri, domates",
+            "ItemName": "Soğuk Sandviç",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Dana sucuk, dana salam, kaşar peyniri, domates, dana sosis, kornişon turşu, ketçap, mayonez",
+            "ItemName": "Kumru Sandviç",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Duble dana sosis, domates, turşu, ketçap, mayonez, sos",
+            "ItemName": "Sosisli Sandviç",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Ev yapımı burger köftesi, marul, turşu, domates",
+            "ItemName": "Steak Burger",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Ev yapımı burger köftesi, kaşar peyniri, marul, turşu, domates",
+            "ItemName": "Steak Cheddar Burger",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Duble tavuk burger köftesi, marul, turşu, domates",
+            "ItemName": "Chicken Burger",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Duble tavuk burger köftesi, kaşar peyniri, marul, turşu, domates",
+            "ItemName": "Chicken Cheeseburger",
+            "ItemPrice": "10,50 TL"
+        },
+        {
+            "ItemInfo": "Çıtır tavuk köfte, marul, soğan, sumak, domates, ketçap, mayonez",
+            "ItemName": "Ekmek Arası Tavuk Köfte",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Ev yapımı dana köfte, yeşillik, domates, soğan, sumak, ketçap, mayonez",
+            "ItemName": "Ekmek Arası Köfte",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Max (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea Şeftali (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tropicana Şeftali (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fruko (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Suphi Şalgam Suyu (33 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Açık Ayran (27 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Açık Ayran (33 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Suphi Şalgam Suyu (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Açık Ayran (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Suphi Şalgam Suyu (2 L.)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Suphi Şalgam Suyu (5 L.)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ev Yapımı Turp Taneli Suphi Şalgam Suyu (5 L.)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Portakal Suyu",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Havuç Suyu",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Greyfurt Suyu",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Üzüm, üzüm sosu",
+            "ItemName": "Taze Sıkma Üzüm Suyu",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "Çilek, bal",
+            "ItemName": "Taze Sıkma Çilek Suyu",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Portakal, havuç",
+            "ItemName": "Taze Sıkma Kokteyl",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "Süt, avokado, muz, çikolata, Hindistan cevizi, bal, Antep fıstığı, çilek",
+            "ItemName": "Atom",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Muz, süt, bal",
+            "ItemName": "Muzlu Süt",
+            "ItemPrice": "3,00 TL"
+        }
+    ]
+}

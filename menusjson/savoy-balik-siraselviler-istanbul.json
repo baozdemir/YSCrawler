@@ -1,0 +1,548 @@
+{
+    "comment": [
+        {
+            "Comment": "The calamari is expensive but worth every penny. They deliver promptly and everything is always hot.",
+            "Date": "2018-07-09",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kaliteden ödün vermiyor. Hiç şüphe etmeden sipariş verdiğim bir yer.",
+            "Date": "2018-07-06",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Normalde not falan yazmazdım ama cidden verdiğimiz paraya yazık. Lastik gibi kalamar tava, tatsız bir levrek marin ve hayatımda tattığım en kötü balık çorbasıyla bu notu hak ettiler. Bir daha asla.",
+            "Date": "2018-07-06",
+            "Flavour": "1",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Bütün mezeler çok lezzetliydi ellerinize sağlık.",
+            "Date": "2018-07-05",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İkinci siparisi verirken belirtince ekstra koymus olsalar da kavun fiyat/miktar orani baya uzucuydu..",
+            "Date": "2018-07-02",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fener sis cok lezzetliydi. Roka salatasini da cok begendim.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Best calamari in ıstanbul. Loved the levrek şiş.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kalamar ve ahtapot hayal kirikligiydi, tereyaginda karides cok guzeldi. Kalamar lastik gibiydi, ahtapot gercekten uzucuydu, asla pisirilmemisti.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Pastanedeki kaliteyi arayanlar buyursun..",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Muazzam lezzet, sıcak servis ve kaliteli hizmet! Balıkların tazeliğine diyecek bir şey zaten yok.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Super hiz super lezzet cihangirde balik denildiğinde akla ilk savoy gelir asla yaniltmaz, her zamanki gibi harika paketleme hiz ve sicacik gelen siparislerim icin tesekkur ederim:) benim vazgecilmezim levrek izgara siddetle tavsiye ediyorum!",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gorgeus thanks!",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Harika ellerinize sağlık.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Cihangirde balik ve balik mezesinde acik ara en iyisi. Her seferinde ayni kaliye :).",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Balık ızgarada kısmi yanmıştı.",
+            "Date": "2018-05-25",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Şahaneydi. Ellerinize sağlık.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tek kelimeyle harika. Ozellikle de fener kavurma ve ikramlari.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Baba yadigarıdır dedik, bir fırsat daha verdik, ama bu sondu. Ahtapot ızgara nın yağı posetten taşmıştı. Lastik ciğnedik... Kendi kocaman(! ), buna paralel fiyatı da kocaman ahtapot ızgaranın yanında bibardak su yollayaydınız bari garnitür namına... Valla bravo! Keske fotoğrafli yorum yapabilseydik.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Geçen aydan kalmış midyeler hadi neyse de, tahinli helva hakkında, direk alminyum pakette pişirmişsiniz sonra paket yanmış, tatlının içine o alüminyum küller düşmüş, bu aşırııı sağlıksız bişey, çok tehlikeli, biri yese yutsa ölse falan? Ben 20 tl çöpe atmış oldum, no problem fakat başka kapta pişirin.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Dondurma lezzetliydi.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Midye Dolma (Adet)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "Levrek Izgara",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre soğan ile",
+            "ItemName": "Roka & Domates Salatası",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "Somon Izgara",
+            "ItemPrice": "37,50 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "Levrek Şiş",
+            "ItemPrice": "37,50 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "Çipura Izgara",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara Levrek + Mevsim Salata + Kutu İçecek",
+            "ItemName": "Izgara Levrek Menü",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "İstavrit Tava + Mevsim Salata + Kutu İçecek",
+            "ItemName": "İstavrit Tava Menü",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara Uskumru + Mevsim Salata + Kutu İçecek",
+            "ItemName": "Izgara Uskumru Menü",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Mezgit Tava + Mevsim Salata + Kutu İçecek",
+            "ItemName": "Mezgit Tava Menü",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ahtapot Izgara",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Balık Böreği",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Beyaz Peynir",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kalamar Tava",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Karides Güveç",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Karides Tereyağında",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Paçanga Böreği",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yaprak Ciğer",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pastırmalı Humus",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Balık Çorbası",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "Uskumru Izgara",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "İstavrit Tava",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "Levrek Izgara",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "Çipura Izgara",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "Somon Izgara",
+            "ItemPrice": "37,50 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "Levrek Şiş",
+            "ItemPrice": "37,50 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "Kağıtta Somon",
+            "ItemPrice": "42,50 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "Kağıtta Levrek",
+            "ItemPrice": "37,50 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "Sebzeli Levrek",
+            "ItemPrice": "37,50 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "Fener Kavurma",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "Barbun Tava",
+            "ItemPrice": "75,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, turp ve isteğe göre soğan ile",
+            "ItemName": "Minekop Izgara",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimek Köfte",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ahtapot Salatası (250 gr.)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Atom (250 gr.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cacık (250 gr.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fava (250 gr.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Girit Ezmesi (250 gr.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Havuç Tarama (250 gr.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Haydari (250 gr.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Humus",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Karides Söğüş (6 - 8 Adet)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavun (Dilim)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuru Börülce",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Levrek Marin (250 gr.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Midye Dolma (Adet)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ordövr Tabağı",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patlıcan Ezme (250 gr.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Peynir (Adet)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Semizotu (250 gr.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Uskumru Turşusu (250 gr.)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yaprak Dolma (5 Adet)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Zeytinyağlı Pilaki (250 gr.)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Izgara Köfte",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bonfile",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sebzeli Mantar Sote",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Bonfile",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çöp Şiş",
+            "ItemPrice": "32,50 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre soğan ile",
+            "ItemName": "Gavurdağı Salatası",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre soğan ile",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre soğan ile",
+            "ItemName": "Çoban Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşil salata üzerinde beyaz peynir, karides, ton balığı, isteğe göre soğan ile",
+            "ItemName": "Savoy Salata",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre soğan ile",
+            "ItemName": "Roka & Domates Salatası",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre soğan ile",
+            "ItemName": "Yeşil Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dondurmalı İrmik Tatlısı",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sıcak Helva",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Parfe",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kayısı Tatlısı",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "İncir Tatlısı",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Portakal Suyu",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (1 L.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, roka, turp, isteğe göre soğan",
+            "ItemName": "Deniz Levreği (1000 - 1250 gr.)",
+            "ItemPrice": "125,00 TL"
+        }
+    ]
+}

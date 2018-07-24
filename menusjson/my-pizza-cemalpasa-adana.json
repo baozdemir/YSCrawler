@@ -1,0 +1,839 @@
+{
+    "comment": [
+        {
+            "Comment": "Her şey güzeldi.",
+            "Date": "2018-06-27",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gercekten cok severek soyluyorum ama her seferinde malzeme hatasi yapiyorsunuz. Not yaziyoruz siparisleri alan arkadas sanirim okumuyo notlari. Biraz daha dikkat lutfen.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Cok cok kotu.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Gayet normal, standart lezzetli.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzet siyah zeytinleri çıkarınca iyiydi, ama bozuk ve çürümüş siyah zeytin koyacağınıza hiç koymayın lüten... İyi çalışmalar.",
+            "Date": "2018-05-25",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Guzeldi.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Tavuklu pizzaniz gusel bozmayin yeter:).",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kumpiri gayet iyi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Bir kurumun müşterilerine saygısı olmalı en azından onun için yenecek şekilde olmalı, o kadar ekşiydi ki kumpir midemi ağrıttı. Ya turşu ya mayonezden kaynaklı ekşimiş bişey vardı.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Cokk tskler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişlerimi gayet hızlı getiren restoran.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kumpir patatesleriniz yanmış ve taze patetes değildi bu sadece 1 kere başımıza geldi lütfen dikkat edin biz sizin kumpirlerinizi seviyoruz 3.",
+            "Date": "2018-03-26",
+            "Flavour": "6",
+            "Serving": "5",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Jumbo pizzalar kare şeklinde hazırlanmaktadır. Yazdığı halde pizzam yuvarlak geldi. Kızartma yumuşamış durumdaydı.",
+            "Date": "2018-03-26",
+            "Flavour": "4",
+            "Serving": "3",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Rus salatasını beğenmedim bu sefer kumpirin patatesi de lezzetli değildi.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Karışık Pizza (Orta Boy) + Patates Kızartması + Kutu İçecek ",
+            "ItemName": "Menü 2",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, salam, sucuk, sosis, mantar, domates, mısır, yeşilbiber",
+            "ItemName": "My Special Pizza (Orta)",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Karışık Pizza (Büy Boy) + Patates Kızartması + Kutu İçecek ",
+            "ItemName": "Menü 3",
+            "ItemPrice": "31,50 TL"
+        },
+        {
+            "ItemInfo": "90 gr. et köfte",
+            "ItemName": "Hamburger + Patates Kızartması + Kutu İçecek",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, tavuk, mantar, domates, sarımsak, pul biber, yeşilbiber",
+            "ItemName": "Tavuklu Pizza (Orta)",
+            "ItemPrice": "26,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Normal Dilim Patates",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Küçük Boy Karışık Pizza + Pepsi (1 L.)",
+            "ItemName": "Teklif 1 Menü",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Orta Boy Karışık Pizza + Patates Kızartması + Pepsi (1 L.)",
+            "ItemName": "Teklif 2 Menü",
+            "ItemPrice": "46,50 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Büyük Boy Karışık Pizza + Pepsi (1 L.)",
+            "ItemName": "Teklif 3 Menü",
+            "ItemPrice": "53,00 TL"
+        },
+        {
+            "ItemInfo": "Jumbo Boy Karışık Pizza + Tavuk Nugget + Patates Kızartması + Pepsi (1 L.)",
+            "ItemName": "Teklif 4 Menü",
+            "ItemPrice": "51,00 TL"
+        },
+        {
+            "ItemInfo": "3 Adet Orta Boy Karışık Pizza + Pepsi (1 L.)",
+            "ItemName": "3'lü Orta Boy Pizza Menü",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Küçük Boy Pizza (Özel sos, mozzarella peyniri, salam, sucuk, sosis, mantar, mısır, domates, yeşilbiber) + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Menü 1",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Pizza (Orta Boy) + Patates Kızartması + Kutu İçecek ",
+            "ItemName": "Menü 2",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Pizza (Büy Boy) + Patates Kızartması + Kutu İçecek ",
+            "ItemName": "Menü 3",
+            "ItemPrice": "31,50 TL"
+        },
+        {
+            "ItemInfo": "Karışık Pizza (Jumbo Boy) + Patates Kızartması + Kutu İçecek ",
+            "ItemName": "Menü 4",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "90 gr. et köfte",
+            "ItemName": "Hamburger + Patates Kızartması + Kutu İçecek",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "90 gr. et köfte",
+            "ItemName": "Cheeseburger+ Patates Kızartması + Kutu İçecek",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Chicken Burger + Patates Kızartması + Kutu İçecek",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Double Burger + Patates Kızartması + Kutu İçecek",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Double Cheeseburger+ Patates Kızartması + Kutu İçecek",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Big Burger + Patates Kızartması + Kutu İçecek",
+            "ItemPrice": "22,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Beyaz Peynirli Sandviç + Patates Kızartması + Kutu İçecek",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Sandviç + Patates Kızartması + Kutu İçecek",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sosisli Sandviç + Patates Kızartması + Kutu İçecek",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Salamlı Sandviç + Patates Kızartması + Kutu İçecek",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuklu Sandviç + Patates Kızartması + Kutu İçecek",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ton Balıklı Sandviç + Patates Kızartması + Kutu İçecek",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kumru Sandviç + Patates Kızartması + Kutu İçecek",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, salam, sucuk, sosis, mantar, domates, mısır, yeşilbiber",
+            "ItemName": "My Special Pizza (Küçük)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, tavuk, mantar, domates, sarımsak, pul biber, yeşilbiber",
+            "ItemName": "Tavuklu Pizza (Küçük)",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, ton balığı, mantar, domates, mısır, yeşilbiber",
+            "ItemName": "Ton Balıklı Pizza (Küçük)",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, karides, mantar, domates, yeşilbiber",
+            "ItemName": "Karidesli Pizza (Küçük)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, bonfile et, mantar, domates, biber",
+            "ItemName": "Bonfile Pizza (Küçük)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, pastırma, domates, yeşilbiber",
+            "ItemName": "Pastırmalı Pizza (Küçük)",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, jambon, mantar, yeşilbiber",
+            "ItemName": "Jambonlu Pizza (Küçük)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, mantar, domates, yeşilbiber, yeşil zeytin, siyah zeytin, beyaz peynir, kekik",
+            "ItemName": "Akdeniz Pizza (Küçük)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, mantar, domates, mısır, yeşilbiber, yeşil zeytin",
+            "ItemName": "Vejetaryen Pizza (Küçük)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, domates",
+            "ItemName": "Margaritha Pizza (Küçük)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, köy sucuğu, pastırma, domates, yeşilbiber, pul biber",
+            "ItemName": "Anatolia Pizza (Küçük)",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, köy sucuğu, domates, yeşilbiber",
+            "ItemName": "Köy Sucuklu Pizza (Küçük)",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri",
+            "ItemName": "Dream Pizza (Küçük)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, ton balığı, tavuk, salam, sosis, mantar, domates, mısır, yeşilbiber, siyah zeytin, kekik, soğan, kekik, pul biber ve sarımsak",
+            "ItemName": "Your Special Pizza (Küçük)",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, salam, sucuk, sosis, mantar, domates, mısır, yeşilbiber",
+            "ItemName": "My Special Pizza (Orta)",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, tavuk, mantar, domates, sarımsak, pul biber, yeşilbiber",
+            "ItemName": "Tavuklu Pizza (Orta)",
+            "ItemPrice": "26,50 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, ton balığı, mantar, domates, mısır, yeşilbiber",
+            "ItemName": "Ton Balıklı Pizza (Orta)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, karides, mantar, domates, yeşilbiber",
+            "ItemName": "Karidesli Pizza (Orta)",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, bonfile et, mantar, domates, biber",
+            "ItemName": "Bonfile Pizza (Orta)",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, pastırma, domates, yeşilbiber",
+            "ItemName": "Pastırmalı Pizza (Orta)",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, jambon, mantar, yeşilbiber",
+            "ItemName": "Jambonlu Pizza (Orta)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, mantar, domates, yeşilbiber, yeşil zeytin, siyah zeytin, beyaz peynir, kekik",
+            "ItemName": "Akdeniz Pizza (Orta)",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, mantar, domates, mısır, yeşilbiber, yeşil zeytin",
+            "ItemName": "Vejetaryen Pizza (Orta)",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, kaşar peyniri, domates",
+            "ItemName": "Margaritha Pizza (Orta)",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, kaşar peyniri",
+            "ItemName": "Dream Pizza (Orta)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, köy sucuğu, pastırma, domates, yeşilbiber, pul biber",
+            "ItemName": "Anatolia Pizza (Orta)",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, köy sucuğu, domates, yeşilbiber",
+            "ItemName": "Köy Sucuklu Pizza (Orta)",
+            "ItemPrice": "26,50 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, ton balığı, tavuk, salam, sosis, mantar, domates, mısır, yeşilbiber, siyah zeytin, kekik, soğan, kekik, pul biber ve sarımsak",
+            "ItemName": "Your Special Pizza (Orta)",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, salam, sucuk, sosis, mantar, domates, mısır, yeşilbiber",
+            "ItemName": "My Special Pizza (Büyük)",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, tavuk, mantar, domates, sarımsak, pul biber, yeşilbiber",
+            "ItemName": "Tavuklu Pizza (Büyük)",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, ton balığı, mantar, domates, mısır, yeşilbiber",
+            "ItemName": "Ton Balıklı Pizza (Büyük)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, karides, mantar, domates, yeşilbiber",
+            "ItemName": "Karidesli Pizza (Büyük)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, bonfile et, mantar, domates, biber",
+            "ItemName": "Bonfile Pizza (Büyük)",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, pastırma, domates, yeşilbiber",
+            "ItemName": "Pastırmalı Pizza (Büyük)",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, jambon, mantar, yeşilbiber",
+            "ItemName": "Jambonlu Pizza (Büyük)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, mantar, domates, yeşilbiber, yeşil zeytin, siyah zeytin, beyaz peynir, kekik",
+            "ItemName": "Akdeniz Pizza (Büyük)",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, mantar, domates, mısır, yeşilbiber, yeşil zeytin",
+            "ItemName": "Vejetaryen Pizza (Büyük)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, kaşar peyniri, domates",
+            "ItemName": "Margaritha Pizza (Büyük)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, kaşar peyniri",
+            "ItemName": "Dream Pizza (Büyük)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, köy sucuğu, pastırma, domates, yeşilbiber, pul biber",
+            "ItemName": "Anatolia Pizza (Büyük)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, köy sucuğu, domates, yeşilbiber",
+            "ItemName": "Köy Sucuklu Pizza (Büyük)",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, ton balığı, tavuk, salam, sosis, mantar, domates, mısır, yeşilbiber, siyah zeytin, kekik, soğan, kekik, pul biber ve sarımsak",
+            "ItemName": "Your Special Pizza (Büyük)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, salam, sucuk, sosis, mantar, domates, mısır, yeşilbiber",
+            "ItemName": "My Special Pizza (Jumbo)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, tavuk, mantar, domates, sarımsak, pul biber, yeşilbiber",
+            "ItemName": "Tavuklu Pizza (Jumbo)",
+            "ItemPrice": "43,50 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, ton balığı, mantar, domates, mısır, yeşilbiber",
+            "ItemName": "Ton Balıklı Pizza (Jumbo)",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, karides, mantar, domates, yeşilbiber",
+            "ItemName": "Karidesli Pizza (Jumbo)",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, bonfile et, mantar, domates, biber",
+            "ItemName": "Bonfileli Pizza (Jumbo)",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, pastırma, domates, yeşilbiber",
+            "ItemName": "Pastırmalı Pizza (Jumbo)",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, jambon, mantar, yeşilbiber",
+            "ItemName": "Jambonlu Pizza (Jumbo)",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, mantar, domates, yeşilbiber, yeşil zeytin, siyah zeytin, beyaz peynir, kekik",
+            "ItemName": "Akdeniz Pizza (Jumbo)",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, mantar, domates, mısır, yeşilbiber, yeşil zeytin",
+            "ItemName": "Vejetaryen Pizza (Jumbo)",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, kaşar peyniri, domates",
+            "ItemName": "Margaritha Pizza (Jumbo)",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, kaşar peyniri",
+            "ItemName": "Dream Pizza (Jumbo)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, köy sucuğu, pastırma, domates, yeşilbiber, pul biber",
+            "ItemName": "Anatolia Pizza (Jumbo)",
+            "ItemPrice": "52,50 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, köy sucuğu, domates, yeşilbiber",
+            "ItemName": "Köy Sucuklu Pizza (Jumbo)",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, mozzarella peyniri, ton balığı, tavuk, salam, sosis, mantar, domates, mısır, yeşilbiber, siyah zeytin, kekik, soğan, kekik, pul biber ve sarımsak",
+            "ItemName": "Your Special Pizza (Jumbo)",
+            "ItemPrice": "46,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve patates kızartması ile",
+            "ItemName": "Kaşarlı Mantarlı Piliç Biftek",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve patates kızartması ile",
+            "ItemName": "Piliç Biftek",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve patates kızartması ile",
+            "ItemName": "Köri Soslu Tavuk",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve patates kızartması ile",
+            "ItemName": "Kadın Budu Köfte",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve patates kızartması ile",
+            "ItemName": "Kasap Köfte",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve patates kızartması ile",
+            "ItemName": "Çıtır Göğüs",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve patates kızartması ile",
+            "ItemName": "Çıtır Kanat",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve patates kızartması ile",
+            "ItemName": "Piliç Kroket",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve patates kızartması ile",
+            "ItemName": "Piliç Pane",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve patates kızartması ile",
+            "ItemName": "Tavuk Çöp Şiş",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Kiremitte",
+            "ItemName": "Kaşarlı Tavuk Sote",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Salata ve patates kızartması ile",
+            "ItemName": "Sosis Tabağı",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Yoğurt, sarımsak, sos ile",
+            "ItemName": "Mantı",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Şnitzel",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "İnegöl Köfte",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Domates soslu",
+            "ItemName": "Napoliten Makarna",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Soslu kıyma",
+            "ItemName": "Bolonez Soslu Makarna",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, krema, soğan, baharat",
+            "ItemName": "Ton Balıklı Makarna",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk, domates sos, krema sos",
+            "ItemName": "Tavuklu Makarna",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Köri, mantar, fesleğen, krema",
+            "ItemName": "Kremalı Mantarlı Makarna",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "90 gr. et köfte, marul, domates, turşu, ketçap, mayonez",
+            "ItemName": "Hamburger",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, domates, turşu, ketçap, mayonez",
+            "ItemName": "Salamburger",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "90 gr. et köfte, marul, domates, turşu, ketçap, mayonez, mozzarella peyniri",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Marul, domates, turşu, ketçap, mayonez",
+            "ItemName": "Chicken Burger",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Marul, domates, turşu, ketçap, mayonez",
+            "ItemName": "Double Burger",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Marul, domates, turşu, ketçap, mayonez, mozzarella peyniri",
+            "ItemName": "Double Cheeseburger",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Çift hamburger köftesi ile iki katlı burger\n, marul, domates, turşu, ketçap, mayonez",
+            "ItemName": "Big Burger",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Sosis, marul, turşu, özel sos",
+            "ItemName": "Sosisli Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Salam, marul, domates, salatalık",
+            "ItemName": "Salamlı Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, marul, domates, salatalık, turşu",
+            "ItemName": "Kaşar Peynirli Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, marul, domates, salatalık",
+            "ItemName": "Beyaz Peynirli Sandviç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk, marul, domates, salatalık, turşu",
+            "ItemName": "Tavuklu Sandviç",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, marul, domates, turşu",
+            "ItemName": "Ton Balıklı Sandviç",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "Sosis, salam, sucuk, kaşar peyniri, turşu, özel sos",
+            "ItemName": "Kumru Sandviç",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peynir, turşu, salam, maydanoz, rus salatası, yeşil zeytin, domates, marul",
+            "ItemName": "Karışık Sandviç",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, kaşar peyniri, Rus salatası, turşu, yeşil zeytin, siyah zeytin, ketçap, mayonez, mısır",
+            "ItemName": "Ton Balıklı Kumpir",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Sosisli Rus Salatalı Kumpir",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sosis, Rus salatası, turşu, yeşil zeytin, siyah zeytin, mısır, ketçap, mayonez",
+            "ItemName": "Tam Karışık Kumpir",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Normal Dilim Patates",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "8 adet",
+            "ItemName": "Piliç Nugget",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "6 adet",
+            "ItemName": "Sarımsaklı Ekmek",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "6 adet",
+            "ItemName": "Sigara Böreği",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "8 adet",
+            "ItemName": "Soğan Halkası",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası üzerine ton balığı",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası üzerine küp doğranmış beyaz peynir",
+            "ItemName": "Akdeniz Salata",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası üzerine ızgara tavuk parçaları",
+            "ItemName": "Tavuklu Salata",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salatası üzerine rus salatası",
+            "ItemName": "Karışık Salata",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, havuç, kırmızı lahana, turşu, mısır, salatalık, domates",
+            "ItemName": "Yeşil Mevsim Salata",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, tatlı soğan, biber, maydonoz",
+            "ItemName": "Çoban Salata",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Rus Salatası",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Max (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Seven Up (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tamek (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (30 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Su (0,5 L.)",
+            "ItemPrice": "1,50 TL"
+        }
+    ]
+}

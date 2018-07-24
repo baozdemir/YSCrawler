@@ -1,0 +1,365 @@
+{
+    "comment": [],
+    "menu": [
+        {
+            "ItemInfo": "Seçeceğiniz çeşit ile",
+            "ItemName": "Dondurma (Top)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "16. yüzyıldaki Fransız tarifine sadık kalınarak, bol kakaolu özel çikolata sosu ile hazırlanan lezzet",
+            "ItemName": "Profiterol",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Frambuazlı şurup ile nemlendirilmiş kakaolu kek katları arasında çikolatalı mus, frambuaz taneleri, parça çikolata ve özel Özsüt kreması",
+            "ItemName": "Karaorman Frambuaz (6 Kişilik)",
+            "ItemPrice": "71,00 TL"
+        },
+        {
+            "ItemInfo": "Çifte kavrulmuş bisküvi, bitter çikolatalı özel sos ve portakal parçaları",
+            "ItemName": "Mozaik Pasta (Adet)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kakaolu kek katları arasında bitter, sütlü ve fildişi çikolatalı 3 kat krema",
+            "ItemName": "Çikolatalı Trio (4 Kişilik)",
+            "ItemPrice": "57,00 TL"
+        },
+        {
+            "ItemInfo": "Frambuazlı şurup ile nemlendirilmiş kakaolu kek katları arasında çikolatalı mus, frambuaz taneleri, parça çikolata ve özel Özsüt kreması",
+            "ItemName": "Karaorman Frambuaz (Dilim)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Köfte Sandviç + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Köfte Sandviç)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Cheeseburger + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Cheeseburger)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Özsüt Burger + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Özsüt Burger)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Krem Peynirli Köfte Wrap + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Krem Peynirli Köfte Wrap)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Peynirli ve tereyağlı. Domates ve salatalık ile",
+            "ItemName": "Su Böreği",
+            "ItemPrice": "8,75 TL"
+        },
+        {
+            "ItemInfo": "Badem, süt, muskat, renkli karabiber ve kereviz sapı",
+            "ItemName": "Özsüt Sütlü Badem Çorbası",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Kırmızı mercimek, patates, kuru soğan, havuç ve zerdeçal",
+            "ItemName": "Zerdeçallı Mercimek Çorbası",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Havuç, çarliston biber,\nkırmızıbiber, domates suyu, taze soğan, kuru soğan, tavuk eti suyu ve taze nane",
+            "ItemName": "Özsüt Özel Domates Çorbası",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Özel hazırlanmış ıspanaklı peynirli karışım ve tortilla ekmeği",
+            "ItemName": "Ispanaklı Tortilla",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Köfteli Sandviç",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kepekli Peynirli Tortilla",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Özel hazırlanmış ıspanaklı kaşar peynirli karışım ve wrap ekmeği",
+            "ItemName": "Ispanaklı Peynirli Wrap",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk eti, cheddar peyniri, kaşar peyniri ve tortilla ekmeği",
+            "ItemName": "Tavuklu Peynirli Tortilla",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Özel hazırlanmış kıymalı karışım,\nkaşar peyniri ve tortilla ekmeği",
+            "ItemName": "Kıymalı Tortilla",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "Barbekü soslu tavuk eti, krem peyniri, roka,\ndomates, turşu, cheddar peyniri ve wrap ekmeği",
+            "ItemName": "Barbekü Tavuk Wrap",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara köfte, krem peyniri, domates, roka, turşu ve wrap ekmeği",
+            "ItemName": "Krem Peynirli Köfte Warp",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk bonfile, roka, maydanoz, nane, dereotu, cherry domates, kaşar peyniri ve zeytinyağı,\nbalsamik sirke, limon",
+            "ItemName": "Tavuklu Salata",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, marul, salatalık,\ndomates, kapari,\nmısır, nane, maydanoz\nve ton balığı",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, maydanoz, nane, dereotu, cherry domates,\nbonfile eti, kaşar peyniri ve zeytinyağı, balsamik sirke, limon",
+            "ItemName": "Bonfileli Salata",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Enginar, maydanoz, dereotu, roka, marul, mozzarella peyniri, fesleğenli sos ve\ncherry domates",
+            "ItemName": "Enginarlı Salata",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuklu Sezar Salata",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "4 Renkli Mercimek Salatası",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Günlük çiftlik sütü, sofra şekeri ve pirinç ile hazırlanan, üstünün hafifçe kızarması için fırınlanan lezzet",
+            "ItemName": "Fırın Sütlaç",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "Krema ve süt karışımıyla ıslatılmış, fındıklı özel kekin el yapımı karamel sosuyla lezzetlendirildiği bir Balkan tatlısı ",
+            "ItemName": "Karamelli Trileçe",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "16. yüzyıldaki Fransız tarifine sadık kalınarak, bol kakaolu özel çikolata sosu ile hazırlanan lezzet",
+            "ItemName": "Profiterol",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Pudra şekeri ve krema ile (3 TL'lik kap ücreti fiyata dahil edilmiştir. Kabın restorana geri iletilmesi halinde depozito ücreti tarafınıza iade edilecektir.)",
+            "ItemName": "Sufle",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Günlük çiftlik sütü, sofra şekeri ve tavuğun göğüs eti ile hazırlanan geleneksel lezzet",
+            "ItemName": "Tavukgöğsü",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "Tavukgöğsünün dibinin özel ocaklarda karamelize edilmesiyle hazırlanan geleneksel lezzet",
+            "ItemName": "Tavukgöğsü Kazandibi",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "Çifte kavrulmuş bisküvi, bitter çikolatalı özel sos ve portakal parçaları",
+            "ItemName": "Mozaik Pasta (Adet)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kakaolu kek, yaban mersinli özel mus, yaban mersini kreması ve şeftali parçaları",
+            "ItemName": "Özsütün Aynası (Adet)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Bitter çikolata ve bol vişne",
+            "ItemName": "Bavarua Vişne (Adet)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Çocuklar için; alt kısmında kakaolu kek, üzerine muzlu mus,\nüst kısımda kakaolu kek ile çikolatalı fındık krema ve çikolatalı mus",
+            "ItemName": "Gülücük (Adet)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Frambuazlı şurup ile nemlendirilmiş kakaolu kek katları arasında çikolatalı mus, frambuaz taneleri, parça çikolata ve özel Özsüt kreması",
+            "ItemName": "Karaorman Frambuaz (Dilim)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Bademli kıtır hamur üstünde özel krema ve enfes frambuaz sosu ile hazırlanmış Fransız usulü cheesecake",
+            "ItemName": "Frambuazlı Cheesecake (Dilim)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Bademli kıtır hamur üstünde özel krema ve enfes limon sosu ile hazırlanmış Fransız usulü cheesecake",
+            "ItemName": "Limonlu Cheesecake (Dilim)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kakaolu kek katları arasında bitter, sütlü ve fildişi çikolatalı 3 kat krema",
+            "ItemName": "Çikolatalı Trio (Dilim)",
+            "ItemPrice": "12,50 TL"
+        },
+        {
+            "ItemInfo": "Bademli kıtır hamur üstünde özel krema ve enfes vişne sosu ile hazırlanmış Fransız usulü cheesecake",
+            "ItemName": "Vişneli Cheesecake (Dilim)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kakaolu kek katları arasında yaban mersini ile hazırlanmış özel mus, yaban mersini kreması ve şeftali parçaları",
+            "ItemName": "Özsütün Aynası (Dilim)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Karamelli şurup ile nemlendirilmiş çikolatalı genoise kek katları arasında çikolatalı mus, el yapımı krokan, parça çikolata ve Özsüt kreması",
+            "ItemName": "Karaorman Krokan (Dilim)",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "Kakaolu kek katları arasında bitter, sütlü ve fildişi çikolatalı 3 kat krema",
+            "ItemName": "Çikolatalı Trio (4 Kişilik)",
+            "ItemPrice": "57,00 TL"
+        },
+        {
+            "ItemInfo": "Kakaolu kek katları arasında bitter, sütlü ve fildişi çikolatalı 3 kat krema",
+            "ItemName": "Çikolatalı Trio (6 Kişilik)",
+            "ItemPrice": "73,00 TL"
+        },
+        {
+            "ItemInfo": "Bademli kıtır hamur üstünde özel krema ve enfes frambuaz sosu ile hazırlanmış Fransız usulü cheesecake",
+            "ItemName": "Frambuazlı Cheesecake (6 Kişilik)",
+            "ItemPrice": "73,00 TL"
+        },
+        {
+            "ItemInfo": "Frambuazlı şurup ile nemlendirilmiş kakaolu kek katları arasında çikolatalı mus, frambuaz taneleri, parça çikolata ve özel Özsüt kreması",
+            "ItemName": "Karaorman Frambuaz (4 Kişilik)",
+            "ItemPrice": "57,00 TL"
+        },
+        {
+            "ItemInfo": "Frambuazlı şurup ile nemlendirilmiş kakaolu kek katları arasında çikolatalı mus, frambuaz taneleri, parça çikolata ve özel Özsüt kreması",
+            "ItemName": "Karaorman Frambuaz (6 Kişilik)",
+            "ItemPrice": "71,00 TL"
+        },
+        {
+            "ItemInfo": "Karamelli şurup ile nemlendirilmiş çikolatalı genoise kek katları arasında çikolatalı mus, el yapımı krokan, parça çikolata ve Özsüt kreması",
+            "ItemName": "Karaorman Krokan (6 Kişilik)",
+            "ItemPrice": "75,00 TL"
+        },
+        {
+            "ItemInfo": "Bademli kıtır hamur üstünde özel krema ve enfes limon sosu ile hazırlanmış Fransız usulü cheesecake",
+            "ItemName": "Limonlu Cheesecake (6 Kişilik)",
+            "ItemPrice": "73,00 TL"
+        },
+        {
+            "ItemInfo": "Kakaolu kek katları arasında yaban mersini ile hazırlanmış özel mus, yaban mersini kreması ve şeftali parçaları",
+            "ItemName": "Özsütün Aynası (4 Kişilik)",
+            "ItemPrice": "57,00 TL"
+        },
+        {
+            "ItemInfo": "Kakaolu kek katları arasında yaban mersini ile hazırlanmış özel mus, yaban mersini kreması ve şeftali parçaları",
+            "ItemName": "Özsütün Aynası (6 Kişilik)",
+            "ItemPrice": "73,00 TL"
+        },
+        {
+            "ItemInfo": "Bademli kıtır hamur üstünde özel krema ve enfes vişne sosu ile hazırlanmış Fransız usulü cheesecake",
+            "ItemName": "Vişneli Cheesecake (6 Kişilik)",
+            "ItemPrice": "73,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz çeşit ile",
+            "ItemName": "Dondurma (Top)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz çeşit ile",
+            "ItemName": "Dondurma (500 gr.)",
+            "ItemPrice": "23,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonata",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yaban Mersini Suyu",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Su Böreği (500 gr.)",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Mini Ekler (500 gr.)",
+            "ItemPrice": "26,00 TL"
+        }
+    ]
+}

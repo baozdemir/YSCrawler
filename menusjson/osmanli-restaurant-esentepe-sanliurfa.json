@@ -1,0 +1,320 @@
+{
+    "comment": [
+        {
+            "Comment": "Ne ürünlerden ne de gönderim hızından memnun kalmadım. Bir daha sipariş vermem.",
+            "Date": "2018-05-24",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Lezzetli ve harika.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sıcak ve lezzetliydi.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Her defasında meze eksik geliyor. Zero kola yerine normal kola getirdiler üstelik bu kez, pakette lokantada masaya gelen hiçbir meze ve biber de yoktu. Sadece normalde para almadıkları ama yemek sepeti üzerinden ücretli seçip ödediğimiz bir çeşit meze vardı. Etleri lezzetli ama servis çok kötü.",
+            "Date": "2018-04-24",
+            "Flavour": "7",
+            "Serving": "3",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Bir sipariş 2 saatte gelirse 1 puan bile fazla.",
+            "Date": "2018-03-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Sankı dünden kalma yemek söyledik bidaha sizden bişey söylemiyevegim.",
+            "Date": "2018-02-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Sadece soğan salatası kötü ama kebap nefisti.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "6",
+            "Speed": "4"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Terbiyesiz Tavuk (3/2 Porsiyon)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Terbiyeli Kuşbaşı Şiş (3/2 Porsiyon)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Terbiyesiz Tavuk",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salatası",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Terbiyeli Kuşbaşı Şiş",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Adana Kebap (3/2 Porsiyon)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Lahmacun + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (2 Lahmacun)",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Terbiyeli Kuşbaşılı Kebap veya Terbiyesiz Kuşbaşılı Kebap + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (1 Kişilik)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "6 Adet Lahmacun + Coca-Cola (1 L.)",
+            "ItemName": "Seçilmiş Menü (2 Kişilik)",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Terbiyeli Tavuk veya 2 Adet Terbiyesiz Tavuk + Coca-Cola (1 L.)",
+            "ItemName": "Seçilmiş Menü (3 Kişilik)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Urfa Kebap",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Patlıcanlı Kebap",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Domatesli Kebap",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Ciğer Kebabı",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Adana Kebap (3/2 Porsiyon)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Urfa Kebap (3/2 Porsiyon)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Patlıcanlı Kebap (3/2 Porsiyon)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Domatesli Kebap (3/2 Porsiyon)",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Ciğer Kebabı (3/2 Porsiyon)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Terbiyesiz Tavuk",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Terbiyeli Tavuk",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Terbiyesiz Kuşbaşı Şiş",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Terbiyeli Kuşbaşı Şiş",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Kuzu Kuşbaşı Şiş",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Tavuk Izgara",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Yürek Izgara",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Terbiyeli Tavuk (3/2 Porsiyon)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Terbiyesiz Kuşbaşı Şiş (3/2 Porsiyon)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Terbiyeli Kuşbaşı Şiş (3/2 Porsiyon)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Terbiyesiz Tavuk (3/2 Porsiyon)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Kuzu Kuşbaşı Şiş (3/2 Porsiyon)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Tavuk Izgara (3/2 Porsiyon)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Piyaz soğan, nane, maydanoz, limon",
+            "ItemName": "Yürek Izgara (3/2 Porsiyon)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kızartma İçli Köfte (Adet)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salatası",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soğan Salatası",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Zeytin Bostanası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lebeni",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Billuriye",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Susurluk Ayranı",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Su (1,5 L.)",
+            "ItemPrice": "3,00 TL"
+        }
+    ]
+}

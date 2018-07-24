@@ -1,0 +1,428 @@
+{
+    "comment": [
+        {
+            "Comment": "Etleri yedikten sonra ciddi karın ağrısı oluştu.",
+            "Date": "2018-07-02",
+            "Flavour": "3",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Abartı olmasın ama yediğim en lezzetli köfte vallaha bravo.",
+            "Date": "2018-06-27",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ramazan sonrası size kavuştuk. Çok teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok kötü bi muessese hiç birsey getirmiyorlar pilav bile yok aç kaldık gunah.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Muhteşem. Hızlı. Sıcak.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ürettikleri lahmacunun ekmeği çok kalın ve sert olduğundan mideme oturdu resmen. Bu firmayı yorumlara bakarak denemek istemiştim ama hayal kırıklığına uğradım.",
+            "Date": "2018-05-25",
+            "Flavour": "3",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Süper. Köftelerin boyutu biraz daha büyük olabilirdi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok lezzetli elinize sağlık.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok başarılı...",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "5 adet İnegöl köfte, 1 adet kasap köfte, 1 adet acılı köfte, 1 adet kaşarlı köfte, közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu, acı sos",
+            "ItemName": "Karışık Köfte",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "1 adet kuzu pirzola, 1 adet kuzu şiş, 1 adet tavuk şiş, 2 adet İnegöl köfte, 3 adet kasap köfte, közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu",
+            "ItemName": "Karışık Izgara",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pideli Köfte",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fırın Sütlaç",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu",
+            "ItemName": "Tavuk Bonfile",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Lahmacun + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (2 Lahmacun)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Kasap Köfte (1 Kg.) + Salata + 5 Adet Tırnaklı Pide + İçecek (1 L.)",
+            "ItemName": "Kasap Köfte Menü",
+            "ItemPrice": "75,00 TL"
+        },
+        {
+            "ItemInfo": "10 Adet Lahmacun + Salata + İçecek (1 L.)",
+            "ItemName": "Lahmacun Menü",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Ekmek Arası Köfte + Ayran (20 cl.)",
+            "ItemName": "Ekmek Arası Köfte Menü",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Lahmacun + Salata + Ayran (20 cl.)",
+            "ItemName": "2'li Lahmacun Menü",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Kıymalı Cantık veya 2 Adet Kaşarlı Cantık + Ayran (20 cl.)",
+            "ItemName": "Cantık Menü",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Şiş Dürüm + Ayran (20 cl.)",
+            "ItemName": "Tavuk Dürüm Menü",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ezogelin Çorbası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mercimek Çorbası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "İşkembe Çorbası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Domates Çorbası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sebze Çorbası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Etli Çorba",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu",
+            "ItemName": "Tavuk Bonfile",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu",
+            "ItemName": "Kuzu Şiş",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu",
+            "ItemName": "Kuzu Pirzola",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu",
+            "ItemName": "Kuzu Beyti",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu",
+            "ItemName": "Antrikot",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu",
+            "ItemName": "Bonfile",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu",
+            "ItemName": "Külbastı",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu",
+            "ItemName": "Izgara Sucuk",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "1 adet kuzu pirzola, 1 adet kuzu şiş, 1 adet tavuk şiş, 2 adet İnegöl köfte, 3 adet kasap köfte, közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu",
+            "ItemName": "Karışık Izgara",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu, acı sos",
+            "ItemName": "İnegöl Köfte",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu, acı sos",
+            "ItemName": "Kasap Köfte",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pideli Köfte",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "5 adet İnegöl köfte, 1 adet kasap köfte, 1 adet acılı köfte, 1 adet kaşarlı köfte, közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu, acı sos",
+            "ItemName": "Karışık Köfte",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Cantık",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Cantık",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaşılı Cantık",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Karışık Cantık",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaşılı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Pide",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Kaşarlı Pide",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Kuşbaşı, kıyma, kaşar peyniri",
+            "ItemName": "Karışık Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurt",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Piyaz",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, dereotu, maydanoz",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, biber, maydanoz, isteğe göre soğan",
+            "ItemName": "Çoban Salata",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kemalpaşa Tatlısı",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fırın Sütlaç",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ekmek Kadayıfı",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Uludağ Gazoz (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şıra",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu, acı sos",
+            "ItemName": "İnegöl Köfte (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "37,50 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu, acı sos",
+            "ItemName": "Kasap Köfte (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "37,50 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu, acı sos",
+            "ItemName": "Pideli Köfte (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "37,50 TL"
+        },
+        {
+            "ItemInfo": "125 gr. İnegöl köfte, 125 gr. kasap köfte, 125 gr. acılı köfte, 125 gr. kaşarlı köfte, közlenmiş biber, közlenmiş domates, acılı ezme, biber turşusu, acı sos",
+            "ItemName": "Karışık Köfte (500 gr.) (Pişirilmiş)",
+            "ItemPrice": "37,50 TL"
+        }
+    ]
+}

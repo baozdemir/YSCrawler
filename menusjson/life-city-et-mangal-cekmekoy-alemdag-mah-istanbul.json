@@ -1,0 +1,578 @@
+{
+    "comment": [
+        {
+            "Comment": "Tavuk kanatlar cok guzeldi. Garnitur olarak bi domates bi biber konulmustu, biraz daha cesit olabilir. Dana antrikot biraz kuru geldi. Notlara az pismis veya orta pismis diye belirtmekte fayda var:).",
+            "Date": "2018-07-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey güzeldi lezzetli fakat ekmek ve garnitür olarak pilav ile servis edilirse tek tercih edilecek bi restoran olabilir.",
+            "Date": "2018-07-18",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kuzu şiş, piyaz güzeldi. Ürünler arasına ekmek arası suçuk eklenebilir.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kokoreç daha iyi olabilir. Patates sosis ve tavuk şahaneydi.",
+            "Date": "2018-07-09",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Hem fiyat olsun hem lezzet olsun cevredeki en iyilerden biri ellerinize saglik hersey cok guzel.",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kötü.",
+            "Date": "2018-07-01",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "5"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Tavuk Göğüs Şiş (250 gr.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Izgara Köfte (250 gr.)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurtlu Patlıcan Salatası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Tavuk Kanat (250 gr.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, maydanoz, isteğe göre soğan",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Tavuk Pirzola (250 gr.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk Bonfile (250 gr.) + Ayran (30 cl.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Tavuk Bonfile)",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Patates Kızartması + İçecek",
+            "ItemName": "Hamburger Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sahanda Yumurta",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Omlet",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Beyaz Peynirli Omlet",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sade Omlet",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Yumurta",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Güveçte Menemen",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Tost",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, ketçap, mayonez",
+            "ItemName": "Patso Sandviç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, ketçap, mayonez, sosis",
+            "ItemName": "Sosisli Patso Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Sosis, ketçap, mayonez",
+            "ItemName": "Sosisli Sandviç",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, domates, salatalık, turşu, marul, salam",
+            "ItemName": "Soğuk Sandviç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Burger köftesi, domates, turşu, marul",
+            "ItemName": "Hamburger",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Tavuk Göğüs Şiş (250 gr.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Tavuk But (250 gr.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Tavuk Bonfile (250 gr.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Tavuk Pirzola (250 gr.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Tavuk Kanat (250 gr.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Yaprak Kanat (250 gr.)",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Dana Antrikot (250 gr.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Dana Biftek (250 gr.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Dana Şiş (250 gr.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Kuzu Pirzola (250 gr.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Kuzu Şiş (250 gr.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Kuzu Külbastı (250 gr.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Kuzu Lokum (250 gr.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Kasap Köfte (250 gr.)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Izgara Köfte (250 gr.)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşarlı köfte. Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Alemdağ Köfte (250 gr.)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Kasap Sucuk (250 gr.)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Özel Büyük Baton Sucuk (250 gr.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuzu Kokoreç",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, isteğe göre soğan",
+            "ItemName": "Yarım Ekmek Arası Kuzu Kokoreç",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, isteğe göre soğan",
+            "ItemName": "Çeyrek Ekmek Arası Kuzu Kokoreç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Acılı Ezme",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Amerikan Salatası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Haydari",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şakşuka",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurtlu Patlıcan Salatası",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurtlu Semizotu",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Zeytinyağlı Biber Dolma",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, maydanoz, isteğe göre soğan",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, maydanoz, isteğe göre soğan",
+            "ItemName": "Et Şiş Dürüm",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, maydanoz, isteğe göre soğan",
+            "ItemName": "Izgara Köfte Dürüm",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, maydanoz, isteğe göre soğan",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, maydanoz, isteğe göre soğan",
+            "ItemName": "Urfa Dürüm",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, maydanoz, isteğe göre soğan",
+            "ItemName": "Sucuk Dürüm",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, maydanoz, isteğe göre soğan",
+            "ItemName": "Ekmek Arası Büyük Baton Sucuk",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Güveçte Manda Yoğurdu",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sosis & Patates Kızartması",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pilav",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salata (Küçük)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salata (Büyük)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salata (Küçük)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salata (Büyük)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yumurtalı Piyaz",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fırın Sütlaç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dondurmalı Künefe",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sufle",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tiramisu",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Max (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fruko (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tropicana (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (1 L.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşarlı köfte. Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Alemdağ Köfte (1 kg.)",
+            "ItemPrice": "100,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Özel Büyük Baton Sucuk (1 kg.)",
+            "ItemPrice": "75,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Bonfile (1 kg.)",
+            "ItemPrice": "135,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Çıtır Tavuk Pirzola (1 kg.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Dana Antrikot (1 kg.)",
+            "ItemPrice": "110,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Dana Biftek (1 kg.)",
+            "ItemPrice": "110,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Dana Ciğer (1 kg.)",
+            "ItemPrice": "100,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Dana Şiş (1 kg.)",
+            "ItemPrice": "110,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Izgara Köfte (1 kg.)",
+            "ItemPrice": "65,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Kasap Köfte (1 kg.)",
+            "ItemPrice": "65,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Kasap Sucuk (1 kg.)",
+            "ItemPrice": "70,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Kuzu Ciğer (1 kg.)",
+            "ItemPrice": "100,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Kuzu Külbastı (1 kg.)",
+            "ItemPrice": "135,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Kuzu Küşleme (1 kg.)",
+            "ItemPrice": "140,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Kuzu Lokum (1 kg.)",
+            "ItemPrice": "140,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Kuzu Pirzola (1 kg.)",
+            "ItemPrice": "140,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Kuzu Şiş (1 kg.)",
+            "ItemPrice": "135,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Tavuk Bonfile (1 kg.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Tavuk But Şiş (1 kg.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Tavuk Göğüs Şiş (1 kg.)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Tavuk Kanat (1 kg.)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "Tavuk Yaprak Kanat (1 kg.)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş biber, közlenmiş domates ile",
+            "ItemName": "T-Bone (1 kg.)",
+            "ItemPrice": "120,00 TL"
+        }
+    ]
+}

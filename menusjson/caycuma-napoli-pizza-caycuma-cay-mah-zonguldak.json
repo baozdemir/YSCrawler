@@ -1,0 +1,598 @@
+{
+    "comment": [
+        {
+            "Comment": "Önceden menü daha bolken şimdi daha az ve paket dağanık.",
+            "Date": "2018-07-15",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Yeterince iyi.",
+            "Date": "2018-07-05",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Orta boy pizza biraz küçük ama tadı çok güzel. Tavuk ve patates kızartması da çok güzel. Fiyatlar da oldukça hesaplı.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bide malzeme biraz daha bol olsa tadından yenmez.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yahu orto boy istedik küçük boy geldi. Dominos a göre küçük boy napoli pizzada ortoboy olarak satılıyor anlaşılan. Neyse, lezzet servis ve hız harika.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı ve lezzetli ilgi ve alakanız için teşekkürler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hizmette on numara.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper görüyorsunuz bişi söylemeye gerek yok.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel ve hızlı.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Orta Boy Pizza Mista Pizza + Patates Kızartması + Çıtır Tavuk + İçecek (20 cl.)",
+            "ItemName": "Süper Menü",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Mista Pizza (4 Dilim) + Patates Kızartması + Çıtır Tavuk + Rus Salatası + İçecek (20 cl.)",
+            "ItemName": "Napoli Ekstra Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Burger köftesi, kıvırcık marul, domates, turşu, ketçap, mayonez",
+            "ItemName": "Hamburger",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Patates Kızartması + İçecek (20 cl.)",
+            "ItemName": "Hamburger Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Pizza (6 Kişilik) + Patates Kızartması + 6 Adet Çıtır Tavuk + Coca-Cola (1,5 L.)",
+            "ItemName": "6'lı Aile Boyu Menü",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Pizza (3 Kişilik) + Patates Kızartması + 3 Adet Çıtır Tavuk + İçecek (1 L.)",
+            "ItemName": "Aile Boyu Menü",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Orta Boy Pizza Mista Pizza + Patates Kızartması + Çıtır Tavuk + İçecek (20 cl.)",
+            "ItemName": "Süper Menü",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Karışık Pizza (3 Kişilik) + Patates Kızartması + 3 Adet Çıtır Tavuk + İçecek (1 L.)",
+            "ItemName": "Aile Boyu Menü",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Orta Boy Karışık Pizza + İçecek (1 L.)",
+            "ItemName": "Duble Menü",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Pizza (4 Kişilik) + Patates Kızartması + 4 Adet Çıtır Tavuk + İçecek (1 L.)",
+            "ItemName": "4'lü Aile Boyu Menü",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Pizza (6 Kişilik) + Patates Kızartması + 6 Adet Çıtır Tavuk + Coca-Cola (1,5 L.)",
+            "ItemName": "6'lı Aile Boyu Menü",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger + Patates Kızartması + İçecek (20 cl.)",
+            "ItemName": "Hamburger Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mista Pizza (4 Dilim) + Patates Kızartması + Sosis + İçecek (20 cl.)",
+            "ItemName": "Fix Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Mista Pizza (4 Dilim) + Patates Kızartması + Çıtır Tavuk + İçecek (20 cl.)",
+            "ItemName": "Napoli Menü",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Çıtır Tavuk + Sosis + Patates Kızartması + Domates + Salatalık + Ayran (20 cl.)",
+            "ItemName": "Mix Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mista Pizza (4 Dilim) + Patates Kızartması + Çıtır Tavuk + Rus Salatası + İçecek (20 cl.)",
+            "ItemName": "Napoli Ekstra Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mista Pizza (4 Dilim) + Patates Kızartması + İçecek (20 cl.)",
+            "ItemName": "Öğrenci Menü",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Mista Pizza (2 Dilim) + Patates Kızartması + Çıtır Tavuk + Cappy (20 cl.)",
+            "ItemName": "Junior Menü",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Çıtır Tavuk + Patates Kızartması + Ayran (20 cl.)",
+            "ItemName": "Chicken Menü",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, küp sucuk, mantar, jalapeno biber, kırmızı közlenmiş biber",
+            "ItemName": "Mexicano Pizza (Orta)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, küp sucuk, jambon, mısır",
+            "ItemName": "Jambon Pizza (Orta)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, mantar, sosis, zeytin, mısır, sucuk, domates, biber",
+            "ItemName": "Şef Pizza (Orta)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, mantar, domates, biber",
+            "ItemName": "Funghi Pizza (Orta)",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, tavuk döner, domates, biber",
+            "ItemName": "Tavuk Dönerli Pizza (Orta)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, mantar, sucuk, domates, biber",
+            "ItemName": "Mista Pizza (Orta)",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, pastırma, domates, biber",
+            "ItemName": "Pastırmalı Pizza (Orta)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, mantar, sosis, domates, biber",
+            "ItemName": "Milonez Pizza (Orta)",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, mantar, domates, biber",
+            "ItemName": "Romano Pizza (Orta)",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, domates, biber",
+            "ItemName": "Margherita Pizza (Orta)",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, ton balığı, domates, biber",
+            "ItemName": "Tonno Pizza (Orta)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, yumurta, domates, biber",
+            "ItemName": "Apollo Pizza (Orta)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, sucuk, domates, biber",
+            "ItemName": "Primavera Pizza (Orta)",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, mısır, bezelye, havuç, mantar, domates, biber",
+            "ItemName": "Sebzeli Pizza (Orta)",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, tavuk, salam, ton balığı, sucuk, domates, biber",
+            "ItemName": "Napoli Spesiyal Pizza (Orta)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Kara biber, Napoli kaşar peyniri",
+            "ItemName": "Napoli Pide (Orta)",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, küp sucuk, mantar, jalapeno biber, kırmızı közlenmiş biber",
+            "ItemName": "Mexicano Pizza (Büyük)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, küp sucuk, jambon, mısır",
+            "ItemName": "Jambon Pizza (Büyük)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, mantar, sosis, zeytin, mısır, sucuk, domates, biber",
+            "ItemName": "Şef Pizza (Büyük)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, mantar, domates, biber",
+            "ItemName": "Funghi Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, tavuk döner, domates, biber",
+            "ItemName": "Tavuk Dönerli Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, mantar, sucuk, domates, biber",
+            "ItemName": "Mista Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, pastırma, domates, biber",
+            "ItemName": "Pastırmalı Pizza (Büyük)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, mantar, sosis, domates, biber",
+            "ItemName": "Milonez Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, mantar, domates, biber",
+            "ItemName": "Romano Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, domates, biber",
+            "ItemName": "Margherita Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, ton balığı, domates, biber",
+            "ItemName": "Tonno Pizza (Büyük)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, yumurta, domates, biber",
+            "ItemName": "Apollo Pizza (Büyük)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, sucuk, domates, biber",
+            "ItemName": "Primavera Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, mısır, bezelye, havuç, mantar, domates, biber",
+            "ItemName": "Sebzeli Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, tavuk, salam, ton balığı, sucuk, domates, biber",
+            "ItemName": "Napoli Spesiyal Pizza (Büyük)",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Kara biber, Napoli kaşar peyniri",
+            "ItemName": "Napoli Pide (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, küp sucuk, mantar, jalapeno biber, kırmızı közlenmiş biber",
+            "ItemName": "Mexicano Pizza (Jumbo)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, küp sucuk, jambon, mısır",
+            "ItemName": "Jambon Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, mantar, sosis, zeytin, mısır, sucuk, domates, biber",
+            "ItemName": "Şef Pizza (Jumbo)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, mantar, domates, biber",
+            "ItemName": "Funghi Pizza (Jumbo)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, tavuk döner, domates, biber",
+            "ItemName": "Tavuk Dönerli Pizza (Jumbo)",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, mantar, sucuk, domates, biber",
+            "ItemName": "Mista Pizza (Jumbo)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, pastırma, domates, biber",
+            "ItemName": "Pastırmalı Pizza (Jumbo)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, mantar, sosis, domates, biber",
+            "ItemName": "Milonez Pizza (Jumbo)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, mantar, domates, biber",
+            "ItemName": "Romano Pizza (Jumbo)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, domates, biber",
+            "ItemName": "Margherita Pizza (Jumbo)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, ton balığı, domates, biber",
+            "ItemName": "Tonno Pizza (Jumbo)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, yumurta, domates, biber",
+            "ItemName": "Apollo Pizza (Jumbo)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, sucuk, domates, biber",
+            "ItemName": "Primavera Pizza (Jumbo)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, mısır, bezelye, havuç, mantar, domates, biber",
+            "ItemName": "Sebzeli Pizza (Jumbo)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, tavuk, salam, ton balığı, sucuk, domates, biber",
+            "ItemName": "Napoli Spesiyal Pizza (Jumbo)",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Kara biber, Napoli peyniri",
+            "ItemName": "Napoli Pide (Jumbo)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, küp sucuk, mantar, jalapeno biber, kırmızı közlenmiş biber",
+            "ItemName": "Mexicano Pizza (Ekstra Jumbo)",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, küp sucuk, jambon, mısır",
+            "ItemName": "Jambon Pizza (Ekstra Jumbo)",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, mantar, sosis, zeytin, mısır, sucuk, domates, biber",
+            "ItemName": "Şef Pizza (Ekstra Jumbo)",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, mantar, domates, biber",
+            "ItemName": "Funghi Pizza (Ekstra Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, tavuk döner, domates, biber",
+            "ItemName": "Tavuk Dönerli Pizza (Ekstra Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, mantar, sucuk, domates, biber",
+            "ItemName": "Mista Pizza (Ekstra Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, pastırma, domates, biber",
+            "ItemName": "Pastırmalı Pizza (Ekstra Jumbo)",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, mantar, sosis, domates, biber",
+            "ItemName": "Milonez Pizza (Ekstra Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, mantar, domates, biber",
+            "ItemName": "Romano Pizza (Ekstra Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, domates, biber",
+            "ItemName": "Margherita Pizza (Ekstra Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, ton balığı, domates, biber",
+            "ItemName": "Tonno Pizza (Ekstra Jumbo)",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, salam, yumurta, domates, biber",
+            "ItemName": "Apollo Pizza (Ekstra Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, sucuk, domates, biber",
+            "ItemName": "Primavera Pizza (Ekstra Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, mısır, bezelye, havuç, mantar, domates, biber",
+            "ItemName": "Sebzeli Pizza (Ekstra Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Napoli sosu, Napoli peyniri, tavuk, salam, ton balığı, sucuk, domates, biber",
+            "ItemName": "Napoli Spesiyal Pizza (Ekstra Jumbo)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Kara biber, Napoli peyniri",
+            "ItemName": "Napoli Pide (Ekstra Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Burger köftesi, kıvırcık marul, domates, turşu, ketçap, mayonez",
+            "ItemName": "Hamburger",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Burger köftesi, kıvırcık marul, cheddar peyniri, domates, turşu, ketçap, mayonez",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soğan Kroket (5 Adet)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Elma Dilim Patates Kızartması",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kroket (5 Adet)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sufle",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (20 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (20 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (1 L.)",
+            "ItemPrice": "4,00 TL"
+        }
+    ]
+}

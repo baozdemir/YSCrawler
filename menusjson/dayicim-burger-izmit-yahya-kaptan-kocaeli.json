@@ -1,0 +1,834 @@
+{
+    "comment": [
+        {
+            "Comment": "Hızlı servis için teşekkürler fakat hamburger lezzetinizin eskisi gibi kalmasını beklerdim. Çok yavan ve lezzet konusunda vasat olmuş.",
+            "Date": "2018-07-22",
+            "Flavour": "5",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Haftanın beş günü buradan sipariş veriyorum. Yenişehir e genelde 20 dakikada teslim ediyorlar. Hem hızlı hem gerçek dayıcım lezzeti. Açsanız ve canınız hamburger çekiyorsa başka bir seçenek düşünmeyin derim.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fiyatına göre bu puandan aşağısı verilmemeli.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-07-20",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Harika bi işletme kendilerini bu başarılarından dolayı tebrik ediyorum.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cok guzeldi ellerinize saglik ama köfte biraz kücüktü.",
+            "Date": "2018-07-17",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Islak mendilin kötü kokusu dışında hiçbir sıkıntı yok :) her şey harikaydı.",
+            "Date": "2018-07-17",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Köfteler gun geçtikçe küçüluyor ama hala lezzetli.",
+            "Date": "2018-07-16",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Sandviç ekmeğinin değiştirilmesi şart(yarım ekmek getirin). Doyurmuyor... Hizmetiniz çok güzel, hız olsun, davranışlarınız(ilgi, alaka) her şey çok güzel. Kullandığınız malzemeler de özellikle dikkatimi çekti kaliteli fakat sucuklu patsomun içinde neredeyse hiç sucuk yoktu. Lütfen bol bol koyun.",
+            "Date": "2018-07-16",
+            "Flavour": "5",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lezzetliydi restoran işini bilyor.",
+            "Date": "2018-07-13",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yediğim en güzel yemeklerden biriydi.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Büyük porsiyon hayal ettim ama çabuk geldi ve lezzet mükemmel.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Jet hızıyla geldi süperdi.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-07-12",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hamburger sosu oldukça lezzetli, servis oldukça hızlıydı.",
+            "Date": "2018-07-09",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı lezzetli ekonomik daha ne olsun.",
+            "Date": "2018-07-09",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İlk günden beri kendini hiç bozmayan yer. Seviyoruz.",
+            "Date": "2018-07-06",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-07-06",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Her sey cok guzel keske etini de biraz fazla koysaniz hamburgerin.",
+            "Date": "2018-07-05",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hamburger midemi bozdu. Daha önce çarşı şubesinden yediğimde de aynısı olmuştu. Bir daha sipariş vermeyi düşünmüyorum.",
+            "Date": "2018-07-05",
+            "Flavour": "3",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzet şahane.. Hamburger ve sosislide favorimsiniz.",
+            "Date": "2018-07-05",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hamburgerler cok lezzetli, kesinlikle basarili.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sosislisi gerçekten çok güzel biraz küçük sadece ama lezzet olarak perfect.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her xamanki gibi harika.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzwl.",
+            "Date": "2018-07-03",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hamburger güzel yazıyordu yorumlarda, bende sipariş ettim ancak köftesi çok kötüydü. Bir daha sipariş vermem.",
+            "Date": "2018-07-01",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "İzmitin lezzeti dayıcım yine harikasınız.",
+            "Date": "2018-07-01",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teslimat sorunsuzdu fakat cheeseburgerde bildiğimiz üstüne kaşar atılmıştı gerçek cheeseburger yiyeceğimi zannettim umarım bunları düzeltirsiniz ve servis için bir ton kağıt parçası hiç hoş değil kolay gelsin.",
+            "Date": "2018-06-25",
+            "Flavour": "2",
+            "Serving": "3",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ketçap mayonez yoktu. Kola yanlış gelmişti. Patsonun içinde sosis yoktu.",
+            "Date": "2018-06-25",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tam 10 dakikada geldi. Nasıl başardılar bilmiyorum, başkası geldi sandım :).",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sosisli çok iyi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Good.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İçeceği unutmuşlardı ama 5 dakika sonra getirdiler teşekkürler. Hamburger ve sosisli de lezzetliydi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Aşırı turşu vardı içinde tek eksik yanı bu :).",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyisiniz.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cheeseburger çok yağlıydı.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Good.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Siparişi getiren arkadaşın işi olmayan şeylere karışması hariç bir sorun yoktu ve ilk defa bu şekilde davranıldığını gördüm.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Good.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kaliteli.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zaman mükemmel, aynı lezzet. Herkesin eline koluna sağlık.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mukemmel bir tat ve lezzet kendi yerinde yer gibi sicacik geldi hamburger ve patates sadece harika sos tan biraz daha eklenebilir elinize saglik.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Dayıcımın fevziye cami karsısındaki yerinden beri devamlı nüdavimi olduğum lezzet servis hızı güzel tadıda elbette tavsiye edilir.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sürekli sipariş veridğim bir yer, çok uzak olmadıgım için siparişim 15dk da geldi. Su ana kadar memnun olmadıgım bi saparişim olmadı. Bugün notumda tursuyu biraz bol koymalarını istedim hamburgerlerimde de sandviçte de resmen tursular paketten tasmıstı o kadar mutlu oldum ki.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hiz ve servisleri cok iyi patatesleri ayri guzel lakin hamburger koftesi degisik geldi.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "40 dakikada gelmesine rağmen gayet sıcaktı ve lezzetliydi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hız ve hamburger lezzeti çok iyi, tek sorun patateslerin lezzetinde baharat tarzı birşeylerle patatese lezzet katılabilir :).",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Favorimizz.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Bukadar puan nasıl aldığını bilmiyorum çok zor geldi burgerler soğuk getirdi adres bulamıyor adam tadı yok paketleme kötü 25 tl boşuna vermiş oldum yiyemedim zaten çöpe gitti.",
+            "Date": "2018-06-24",
+            "Flavour": "2",
+            "Serving": "3",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Köfte ve sandviç başka bir isimde adalndırılmalı! Daha önce yedim ben çünkü köfte ve sandviç! Yazan ile gelen alakasız bambaşka şeyler.",
+            "Date": "2018-06-24",
+            "Flavour": "2",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Son derece lezzetli, ekonomik...",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ebatları biraz küçük olsa da güzel...",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hızlı / lezzetli / hesaplı teşekkürler dayıcım bir dayı sıcaklığında hizmetin için :).",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hersey mukemmel.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi insanlar.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Nasıl bu kadar 10 puan alır inanılır gibi değil. Hız olaral 35-40 dk sürdü. Servis olarak pazar poşetiyle getirmişlerdi. Lezzet olarakta hamburger değil bildiğin salçalı et yedim. Menemen tadı vardı. Çok kötü değildi tamam ama 10 falan olamaz yani. Hakikaten bu kadar fazla 10 olmasını anlayamadım.",
+            "Date": "2018-05-25",
+            "Flavour": "6",
+            "Serving": "3",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Çok güzeldi dayicimi seviyoruz.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "On numara.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hastasıyız.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kusursuz.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kağıda sarmak yerine düzgün bir paketleme olaa 10-10-10 verecektim.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Başarılı.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız, servis ve lezzeti tek. Hiç bir zaman gecikme yaşamadım. Tebrikler.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı geldi ve sıcaktı. Ayrıca çok doyurucuydu.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sosislisi güzeldi ama turşuyu çok basıyonuz içine.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Efso.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "On on on.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tahya kaptandasınız yuvam akarca konutları için 25 tl sipariş limiti vermişsiniz bu kadar kr odaklı olmayın yapon şunu 10 bilemedin 15 tl hergün sipariş verelim kaç kez sipariş versem 25 altı 17 19 olduğu için vazgeçiyorum.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Her zamankı gıbı fıber hızlı.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bu aralar yedigim en güzel hambürger yahya kaptanın gururu.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız, lezzet gene mükemmel lütfen bozmayın sürekliliği olsun.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Muazzam.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Super.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Duzgun is yapanin puani hep 10 dur elinize saglik.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cheeseburger 15 puan :).",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Muhtesem hızlı.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetliydi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Böyle bir işletmeye ne denebilirki sadece harika :) hem uygun hem cok lezzetli.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Son siparişimdi. Herşey çok güzeldi. Kendine iyi bak dayıcım burger...",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lifeexpress olarak sizi seviyoruz.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-05-25",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süperdi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet güzeldi. Her zaman aynı kalite.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Sürekli sipariş veriyorum ilk defa bu kadar soğuk bir yemek yedim maalesef..",
+            "Date": "2018-04-25",
+            "Flavour": "2",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hızlı ve lezzetli.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ha-lüki-lade.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Özel sos, patates kızartması, turşu ile",
+            "ItemName": "Hamburger",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Hamburger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Menü 2",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Sosis, patates kızartması Dayıcım sos",
+            "ItemName": "Sosisli Sandviç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, patates kızartması, kaşar peyniri (3 adet), hamburger köftesi (2 adet)",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, sos",
+            "ItemName": "Yengen Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Sosisli Sandviç + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Sosisli Sandviç)",
+            "ItemPrice": "14,40 TL"
+        },
+        {
+            "ItemInfo": "5 Adet Sucuklu Patso Sandviç + İçecek (1 L.) (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Sucuklu Patso Sandviç)",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "10 Adet Hamburger + 2 Adet Patates Kızartması + 2 Adet Coca-Cola (1 L.)",
+            "ItemName": "Menü 1",
+            "ItemPrice": "72,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Hamburger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Menü 2",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Cheeseburger + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Menü 3",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "4 Adet Hamburger + Patates Kızartması + Coca-Cola (1 L.)",
+            "ItemName": "Menü 4",
+            "ItemPrice": "31,50 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Hamburger + 2 Adet Sosisli Sandviç + 2 Adet Patates Kızartması + Coca-Cola (1 L.)",
+            "ItemName": "Menü 5",
+            "ItemPrice": "35,50 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, sos",
+            "ItemName": "Yengen Tost",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Patso Sandviç",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Patso Sandviç",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Sosis, patates kızartması Dayıcım sos",
+            "ItemName": "Sosisli Sandviç",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, ketçap, mayonez, isteğe göre turşu",
+            "ItemName": "Patso Sandviç",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, Dayıcım sos",
+            "ItemName": "Yengen Sandviç",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Rus Salatalı Sosisli Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, patates kızartması, turşu ile",
+            "ItemName": "Hamburger",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Özel sos, patates kızartması, kaşar peyniri (3 adet), hamburger köftesi (2 adet)",
+            "ItemName": "Cheeseburger",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Rus Salatalı Hamburger",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (20 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ev Yapımı Limonata",
+            "ItemPrice": "4,50 TL"
+        }
+    ]
+}

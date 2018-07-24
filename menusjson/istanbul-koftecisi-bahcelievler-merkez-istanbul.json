@@ -1,0 +1,830 @@
+{
+    "comment": [
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-07-21",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok guzeldi.",
+            "Date": "2018-07-18",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İdare.",
+            "Date": "2018-07-16",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Jokerden kofte ve tavuk sis menu siparisi verdim. Pılavı ve kofteyi ellerimle yiyecem herhalde. Catal gonderilmez mi? Jomerden siparis verince normal siparise gore malzeme daha az oluyor demekkki.",
+            "Date": "2018-07-14",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-07-14",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzet vasattı. Sipariş notumu dikkate almışlar bu iyiydi. Hız olarak vakitli geldi. Ama malesef eski lezzeti bulamadım.",
+            "Date": "2018-07-11",
+            "Flavour": "5",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İsminizden dolayi sadece kofteci gibi dursanizda. Corbalariniz kuzu sis ve diger urunlerde oldukca basarili.",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kurye arkadaşa teşekkür ederiz.",
+            "Date": "2018-07-07",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Biraz kuculmus sanki kofteler.",
+            "Date": "2018-07-06",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tesekkurler guzeldi.",
+            "Date": "2018-07-06",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey güzeldi.",
+            "Date": "2018-07-04",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "16 tl yarıma veriyoruz hem soğuk hem 3 tane köfte var içinde hiç bir tat yok :((.",
+            "Date": "2018-06-30",
+            "Flavour": "1",
+            "Serving": "3",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Köfteleri çok güzel, eski köfteler gibi et tadı ve kokusu alıyorsunuz.",
+            "Date": "2018-06-30",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çorba çok güzeldi ama enginar biraz fazla tuzlu geldi bana, ellerinize sağlık.",
+            "Date": "2018-06-30",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişim 10 dk içinde geldi. Çok açsanız burası tavsiyedir :d.",
+            "Date": "2018-06-30",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Joker diye özensiz değildi. Teşekkürler.",
+            "Date": "2018-06-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çiğ köfte.",
+            "Date": "2018-06-26",
+            "Flavour": "2",
+            "Serving": "4",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Herşey güzeldi.",
+            "Date": "2018-06-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper lezzet güler yüzlü hizmet hızlı gönderi tşk ederim daha ne olsun kesinlikle tavsiye ederim.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gerçekten deneyin güzel köftesi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Kral.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Servisi hiç beyenmedim cünkü corba istedim kaşık bile yoktu yanıda.",
+            "Date": "2018-06-24",
+            "Flavour": "5",
+            "Serving": "2",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Kofteler oldukca lezzetli fakat yaninda 2 adet biber tursusu ve patates puresi bana yetersiz geldi. Kofte olunca insan domates sogan ariyor.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "2. Siparişim ve çok memnunum.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hızına ve yıllardır koruduğu lezzetine diyecek söz yok. Servisi biraz daha özenli olabilir.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzet tartışılmaz, hız iyi, servis de güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok hızlı servis tebrikler.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "2 gun once verdigim puanlari geri aliyorum. Koftenin harcindan hep kikirdaklar cikti, 1, 5 porsiyon kofteye 1 tane minik kofte sosu yollamislar. İki gunde kalite duser mi arkadas?",
+            "Date": "2018-06-24",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kofteler guzelll ve sicakti.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Seviliyorsunuz :).",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yillardir burdan yemiyordum, bi deneyeyim dedim, eger hep boyle geliyorsa kofteler superdi. Etin lezzeti kalitesi cok iyiydi. Kofte sosuna kekik katma fikri cok iyiymis bu arada. Ellerinize saglik.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Notlara daha dikkat edilse güzel olur. Köftenin tadı güzeldi.",
+            "Date": "2018-05-25",
+            "Flavour": "7",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzeldi ama notlar dikkate alınmamış.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Çok güzeldi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Maalesef beklentiyi karşilayamadi.",
+            "Date": "2018-05-25",
+            "Flavour": "6",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Joker ve uygun menüler olduğu sürece kesinlikle tercih edilebilir, lezzet harika :).",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hiz ve servis muthisti, köfte ve çorbanin tadi da harikaydi ama pilav kötüydü. Genel olarak memnunum.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kesinlikle yenmiyecek ve çol ağır bir köfteniz var.",
+            "Date": "2018-05-25",
+            "Flavour": "3",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İlk siparişimdi. 1, 5 porsiyon karışık köfte sipariş ettim. Adet olarak gerçekten azdı. Buyüzden puan kırıyorum. Püre lezzetsizdi. Hız çok iyiydi gerçekten 15 dk sürdü veya sürmedi. Lezzetiniz güzeldi diğer yerlere göre. Ama porsiyondan kısmayın.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "20 yıldır kaliteyi bozmayan mekan helal olsun.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok iyi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı geldi fakat servis ve lezzet çok kötüydü.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "8"
+        },
+        {
+            "Comment": "10. 10. 10. Kesinlikle tavsiye ederim hızlı gönderi için ayrıca teşekkür ederim iyi ki varsınız.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı servis.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Acılı kasap köfte süperdi.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Tek kelime ile süper.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tşk.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Elinize sağlık.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız ve köfteler müthişti.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Daha ii beklerdim tatlılarını ama hayal kırıklığına uğradım.",
+            "Date": "2018-05-25",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzetlisin dostum.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bi onceki siparise gore eksik kofte vardi.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Köfte harika.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yanina yesillik de istedim ama patates puresiyle tursu gelmedi onun icin puanlari kirdim. Ilk sipariste bu pintiligi görünce vermem daha sipariş. Sirf kofte tadi icin 9 veriyorum lezzete de.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Güzel ama acı sos unutulmuş sanırım bir dahaki ne daha dikkatli olurasak sevinirim.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Köfteler az pişmişti.",
+            "Date": "2018-04-25",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Köftesi güzel ancak pilavı bulgur olarak isteme notum dikkate alınmadı.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Malzemesi bol ve gayet lezzetliydi teşekkürler istanbul köftecisi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetsiz bir püre dışında köftelerin yanında hiç birşey gelmedi. Bari soğan olsaydı.",
+            "Date": "2018-04-25",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzet süper fakat porsiyon az sanki.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İlk defa bir köfteyi lezzet alarak yedik uzun zaman sonra.. Teşekkürler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey çok güzeldi..",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Servis cok hızlı ve yemekler cok lezzetli.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok hızlılar... Ocaktan indirdikleri gibi getiriyorlar yemekleri...",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her açidan muhtesem lezzet deseniz ayrı servis ve hızı ayrı mükemmel istediginiz herseyi bulabileceğiz bir yer zeytinyaglilarida cok güzel yapıyorlar. Yemek seçen biri olarak etlerinin iyi pismesi ve koku olmamasi beni buraya bağlıyor.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Yediğim en şahane tavuktu gercekten ellerinize sağlık, siparişi tekrarlıyorum zira tadı damağımda kaldı :))).",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı servis ve lezzetli köfte.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İkidir köfte ekmeği soğanlı söylememe rağmen soğansız gönderiyorsunuz. Sizi çok seviyorum yapmayın öyle şeyler :(.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper bir köftesi var yiyen 1 yemeyen 1000 pişman.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Harıkaydı kendıne biraz gec geldi sadece.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Piyazda kullandığınız malzemelerin tadı yoktu. Muhtemelen farkındasınız zaten. Porsiyonlar normal. Hızlı servis.",
+            "Date": "2018-03-26",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Özellikle istanbul köftesini çok beğeniyoruz ama son siparişimizde köfteler iyi pişmemişti, içleri kırmızıydı.",
+            "Date": "2018-03-26",
+            "Flavour": "5",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Işık hızında servisleri var, köfteler çok lezzetli. Tebrikler.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok lezzetli.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Köfte harikaydı.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zamanki gibi severek yedik.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok iyi.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yediğim en iyi pideli köfteydi.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Domates, yeşillik ve isteğe göre soğan",
+            "ItemName": "Ekmek Arası Izgara Köfte",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Patates püresi, turşu ile",
+            "ItemName": "İstanbul Köfte",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Süzme Mercimek Çorbası",
+            "ItemName": "Günün Çorbası",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "İstanbul köfte, kasap köfte, kaşarlı köfte, satır köfte, patates püresi, turşu",
+            "ItemName": "Karışık Köfte",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Piyaz",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Patates püresi, domates, biber ile",
+            "ItemName": "Acılı Kasap Köfte",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Süzme Mercimek Çorbası",
+            "ItemName": "Günün Çorbası",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber ile",
+            "ItemName": "Antrikot",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Patlıcanlı yoğurt üzerine köfte, domates, biber ile",
+            "ItemName": "İsfendiyar",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "Patates püresi, turşu ile",
+            "ItemName": "İstanbul Köfte",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Antrikot, kuzu pirzola, tavuk pirzola, tavuk şiş, kuzu şiş, pilav, domates, biber",
+            "ItemName": "Karışık Izgara",
+            "ItemPrice": "52,00 TL"
+        },
+        {
+            "ItemInfo": "İstanbul köfte, kasap köfte, kaşarlı köfte, satır köfte, patates püresi, turşu",
+            "ItemName": "Karışık Köfte",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "Patates püresi, domates, biber ile",
+            "ItemName": "Acılı Kasap Köfte",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Patates püresi, turşu ile",
+            "ItemName": "Kaşarlı Köfte",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber ile",
+            "ItemName": "Kuzu Pirzola",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber ile",
+            "ItemName": "Kuzu Şiş",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Yoğurt, tereyağı, soslu pide",
+            "ItemName": "Pideli Köfte",
+            "ItemPrice": "27,50 TL"
+        },
+        {
+            "ItemInfo": "Patates püresi, domates, biber ile",
+            "ItemName": "Satır Köfte",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber ile",
+            "ItemName": "Tavuk Pirzola",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, domates, biber ile",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, yeşillik ve isteğe göre soğan",
+            "ItemName": "Ekmek Arası Izgara Köfte",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, yeşillik ve isteğe göre soğan",
+            "ItemName": "Ekmek Arası Tavuk Şiş",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, yeşillik ve isteğe göre soğan",
+            "ItemName": "Ekmek Arası Arnavut Ciğeri",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Arnavut Ciğeri",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Enginar",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Fasulye",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim sebzeleri ile",
+            "ItemName": "Kızartma",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soslu Patlıcan",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yoğurtlu Semizotu",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patlıcan Salatası",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pazı Kavurma",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pirinç Pilavı",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Piyaz",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salata",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "İrmik Helvası",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kemalpaşa Tatlısı",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fırın Sütlaç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        }
+    ]
+}

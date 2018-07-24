@@ -1,0 +1,834 @@
+{
+    "comment": [
+        {
+            "Comment": "Yediğim en iyi pizzalardandı efsanesiniz.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İzmirdeki bayiiye göre çok fark var.",
+            "Date": "2018-07-18",
+            "Flavour": "4",
+            "Serving": "2",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Pizzanın hamurunda hayal kırıklığı yaşadım ilk zamanlar ince ve iyi pişmiş servis alıyorduk son siparişimde resmen hamur olarak geldi umarım şikayetleri değerlendirmeye alarak hareket edersiniz.",
+            "Date": "2018-07-14",
+            "Flavour": "1",
+            "Serving": "5",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Hayatım da yediğim en kötü beyaz çikolataya sahip pizzaydı yani cikolata degildi o hatta kek harcını uzerine surmusler cikolata diye.. Meyveleri de cok kotuydu hamuruna gelicek olursak dolaptan cikardigin buzlu milföy gibiydi 0 pişmiş ve buzzz gibiydi bidaha asla!",
+            "Date": "2018-07-11",
+            "Flavour": "1",
+            "Serving": "4",
+            "Speed": "7"
+        },
+        {
+            "Comment": "İlk defa bu kadar yavaş gönderildi 1 saat 15 dakika donra sonra geldi ve buz gibiydi hamur kayış gibi olmuştu umarım tekrar düşük puan vermek zorunda kalmam.",
+            "Date": "2018-07-05",
+            "Flavour": "8",
+            "Serving": "6",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Kurye evi bulana pizza buz gibi oldu söyleme değmez.",
+            "Date": "2018-07-05",
+            "Flavour": "1",
+            "Serving": "3",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Hızlıydı lezzet aman aman değil fakat servisi beğenmedim.",
+            "Date": "2018-06-28",
+            "Flavour": "7",
+            "Serving": "3",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Menüde yazıyor olmasına rağmen haftalardır tedarik edemediğiniz somon yüzünden servisinize 1!",
+            "Date": "2018-06-27",
+            "Flavour": "10",
+            "Serving": "1",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Meso pizza cok lezzetlıydı herkese tavsiye ederım sadece tuz fazlalıgı problemı var. Salataya ve tatlıya da bayıldık.",
+            "Date": "2018-06-27",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "On numara, jokerle yiyince daha da iyi oldu.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Söze gerek yok efsanesiniz.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzet fevkalade ilk defa yedim be yemeye devam edicem teşekkürler bu güzel lezzet için.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "En kaliteli pizza vede hizmet.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey güzel süper ama çok erken kapanıyor 21:30 da sipariş veremiyoruz çok üzücü..",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kaburgalı pizza çok yağlıydı malesef ama lezzeti güzeldi.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gözümüz kapalı sipariş veriyoruz. Malzemeyi öyle bol kullanıyorlar ki, kenarda bile boş yer bırakmıyorlar :).",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Servisi geliştirmeleri lazzım pizza dağılıyor kutuya yapışıyor falan ortasına bi plastik koyabilirsiniz.",
+            "Date": "2018-06-24",
+            "Flavour": "4",
+            "Serving": "1",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Salatalar muhteşem. Pizzaları tavsiye etmiyorum. Her seferinde çatal, servis göndermeyi unutup, tonla reklam vs koyuyorlar.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Pizza darmadağın ve çok geç geldi. Pizzanın bütün malzemesi kutunun kapağına yapışmıştı birde servis yapanların navigasyon sistemi olsa dön dolaş pizza buz gibi geldi.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "4",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Pizza hamurundan lezzetine kadar herşey şahane. Kurye de oldukça nazik ve güleryüzlü.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Salaya avokado konulmamıştı.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "6",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Elinize sağlık. Lezzetliydi hizliydi siparis.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Acıdan başka sos yokmu sizde arkadaş.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Muhteşemdi herkese tavsiye ederim.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Füme kaburga mükemmel kelimesinin sözlük anlamı.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cok iyi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Fiyatına göre kalitesi çok düşük.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Kusadasinda yedigim en guzel pizza olabilir. Ancak cok yagli yapiyorsunuz yagi biraz daha az olsa super olacaktir. Allah bol kazanclar versin :).",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Adanın en güzel pizzacısı ama joker dışında azıcık pahalı.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harikaaa.. Hayatımda yediğim en lezzetli pizza.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mukemmel! Asiri hizli ve lezzetliler fume kaburga favorim.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Enfes.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet ıyı.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Olmayan ürün için beni arayıp siparişin gecikmemesi için çaba sarf eden ekibe teşekkürler. Siparişim hız olarak fena gelmedi ama daha sıcak olsaydı çok daha lezzetli olacağına eminim.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Her zamanki gibi herşey çok güzeldi, nacizhane tavsiyem yan ürün eklemeniz iyi çalışmalar.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Üzülerek söylüyorum ki pizza locale eski kalitesinden çok geriye düşmüş. Muhtemelen franchiser ürünlerin oldukça maliyetli olduğuna kanaat getirmiş olmalı ki malzeme kalitesini baya bir aşağıya çekmişler. Toplasan 20 gr peynir ve kurumuş ufalanmış somonlar ve kel bir pizza.",
+            "Date": "2018-05-25",
+            "Flavour": "4",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizzalar güzel...",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey güzeldi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Peynirin kalitesi bozulmuş eskisi gibi değil onun dışında kuşadasında yiyebileceğiniz tek gerçek pizza.",
+            "Date": "2018-04-25",
+            "Flavour": "6",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Mükemmel.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "0 puan olsaydı verecektim hem pizza hem yanmış hem lezzetsiz hem soğuk geldi birdaha asla burdan yemek istemem.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Pizzalar cidden güzel.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper çok hızlı çok lezzetli kesinlikle deneyiniz.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok beğendim.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süpppperrrr öteesi tatlıları kesin deneyin.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zaman ki gibi mükemmel..",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Şuana kadar yediklerim pizza değilmiş.. Resmen harika umarım böyle devam eder ellerinize sağlık.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Daha once restorantinizda da pizza yedim gayet lezzetli ve gorsel olarak doyurucuydu fakat eve siparis ettigim pizzanin kenarlarindaki hamur alani cok fazlaydi malzeme hamurun ortasina yogunlasmis kenarlarinda neredeyse 3 santimlik boşluk vardi. Fiyat ve kalite dengesi iyi degildi.",
+            "Date": "2018-04-25",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Pizzayı çok seven biri olarak hayatımın en güzel pizzasını yedim pizza locale kuşadasının en güzel pizza yapan restoranıdır şüphesiz :).",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Yaptıkları hatayı telafi etmesini bildiler, müşteri memnuniyetini önemseyen ve bu konuda doğru stratejiler kullanan bir işletme.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hizmet ve yemek kalitesi gerçekten mükemmel.. Nutella pizzayi denemenizi tavsiye ederim :).",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bayılıyorum pizza local cok iyi en sevdiklerim patlıcanlı nutellalı mm kabaklı v cikolata caldezone muzlu bunlar efsooo kesin yiyin personel de cok iyi servis cok hızlı süper işte fav pizzacı.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizzayı tam keserek yolladığınız için tepetaklak olmuş kutuyu açınca hiç hoş bir görüntüyle karşılaşmadım. Hamur kalitenizi de biraz bozmussunuz ilk açıldığında yediğimde çok daha lezzetliydi.. Sipariş hızlı geldi.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişi getiren arkadaş çok güleryüzlü.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Pizzaların hepsi üstüste birbirne girmişti.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "1",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Orta boy pizzanin icerisine ancak kucuk boy pizzaya yetecek kadar malzeme vardi.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Biraz daha pişmiş olsa kömür gelecekmiş kuru ve birazda tuzluydu.",
+            "Date": "2018-02-24",
+            "Flavour": "2",
+            "Serving": "4",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Füme etli pizza oldukça tuzluydu.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kavurmalı pizza harika.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Büyük boy pizza bize orta boyun bir üstü gibi geldi, bi de ince/kalın hamur tercihi yapabilmeliyiz bence:) çok lezzetli pizzaydı o ayrı çok teşekkürler.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Füme kaburga pizzanın lezzeti muhteşemdi. Kenarları yanmasa mükemmel olacakmış. Soslardaki cömertlik için teşekkürler ve rokaların körpeliği için tebrikler. Ayrıca güleryüzlü kurye dostumuza teşekkürler. Hayırlı işler, bol bereketler dilerim.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok başarılı...",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Birtane çikolatalı calzone ve nutellali pide söyledim enkazdı. Bedava verseler yemem artık o kadar kötüydü.",
+            "Date": "2018-02-24",
+            "Flavour": "1",
+            "Serving": "2",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Avacadolu somon füme salata efsane.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, mantar, mısır, salam, sucuk, cherry domates, zeytin",
+            "ItemName": "Karışık Pizza (Orta)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, mantar, mısır, salam, sucuk, cherry domates, zeytin",
+            "ItemName": "Karışık Pizza (Küçük)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, füme kaburga, roka, parmesan peyniri",
+            "ItemName": "Füme Kaburga Pizza (Orta)",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, fesleğen, cherry domates",
+            "ItemName": "Margherita Pizza (Küçük)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Nutella & M&M's Pizza",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, salam, pepperoni, sucuk, pastırma, kavurma, mısır, zeytin",
+            "ItemName": "Şarküteri Pizza (Orta)",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, parmesan peyniri, rokfor peyniri, süzme beyaz peynir, pesto sos",
+            "ItemName": "4 Peynirli Pizza (Küçük)",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, cheddar dolgulu sosis, kırmızıbiber, parmesan peyniri, roka",
+            "ItemName": "Cheddar Dolgulu Sosisli Pizza (Küçük)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, tavuk dilimleri, bbq sos, mısır",
+            "ItemName": "BBQ Soslu Tavuk Pizza (Küçük)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, enginar kalbi, közlenmiş soğan, pesto sos",
+            "ItemName": "Enginarlı Pizza (Küçük)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, füme kaburga, roka, parmesan peyniri",
+            "ItemName": "Füme Kaburga Pizza (Küçük)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sosu, fesleğen, kurutulmuş domates, avokado",
+            "ItemName": "Green Margherita Pizza (Küçük)",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, ıspanak, ricotta",
+            "ItemName": "Ispanak Ricotta Pizza (Küçük)",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, marine kabak, ricotta peyniri, cherry domates, parmesan peyniri",
+            "ItemName": "Kabaklı Pizza (Küçük)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, karides, parmesan peyniri, kapari, siyah zeytin",
+            "ItemName": "Karidesli Pizza (Küçük)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, mantar, mısır, salam, sucuk, cherry domates, zeytin",
+            "ItemName": "Karışık Pizza (Küçük)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, kavurma, roka, fırın biber, parmesan peyniri",
+            "ItemName": "Kavurmalı Pizza (Küçük)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, kültür mantarı, trüf mantarı yağı",
+            "ItemName": "Mantarlı Pizza (Küçük)",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, fesleğen, cherry domates",
+            "ItemName": "Margherita Pizza (Küçük)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, pastırma, roka",
+            "ItemName": "Pastırmalı Pizza (Küçük)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, marine patlıcan, ricotta peyniri, parmesan peyniri",
+            "ItemName": "Patlıcanlı Pizza (Küçük)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, ricotta peyniri, parmesan peyniri, cherry domates, roka",
+            "ItemName": "Ricotta Pizza (Küçük)",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, salam, pepperoni, sucuk, pastırma, kavurma, mısır, zeytin",
+            "ItemName": "Şarküteri Pizza (Küçük)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, dana sosis, yeşilbiber, siyah zeytin",
+            "ItemName": "Sosisli Pizza (Küçük)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, sucuk, mantar, biber turşusu",
+            "ItemName": "Sucuklu Pizza (Küçük)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, tavuk dilimleri, Sezar sos (marul), parmesan peyniri",
+            "ItemName": "Tavuk Sezar Pizza (Küçük)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, tavuk dilimleri, teriyaki sos",
+            "ItemName": "Teriyaki Soslu Tavuklu Pizza (Küçük)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, patlıcan, enginar, kırmızıbiber, mısır, mantar",
+            "ItemName": "Vegan Pizza (Küçük)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, parmesan peyniri, rokfor peyniri, süzme beyaz peynir, pesto sos",
+            "ItemName": "4 Peynirli Pizza (Orta)",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, cheddar dolgulu sosis, kırmızıbiber, parmesan peyniri, roka",
+            "ItemName": "Cheddar Dolgulu Sosisli Pizza (Orta)",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, tavuk dilimleri, bbq sos, mısır",
+            "ItemName": "BBQ Soslu Tavuk Pizza (Orta)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, enginar kalbi, közlenmiş soğan, pesto sos",
+            "ItemName": "Enginarlı Pizza (Orta)",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, füme kaburga, roka, parmesan peyniri",
+            "ItemName": "Füme Kaburga Pizza (Orta)",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sosu, fesleğen, kurutulmuş domates, avokado",
+            "ItemName": "Green Margherita Pizza (Orta)",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, ıspanak, ricotta",
+            "ItemName": "Ispanak Ricotta Pizza (Orta)",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, marine kabak, ricotta peyniri, cherry domates, parmesan peyniri",
+            "ItemName": "Kabaklı Pizza (Orta)",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, karides, parmesan peyniri, kapari, siyah zeytin",
+            "ItemName": "Karidesli Pizza (Orta)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, mantar, mısır, salam, sucuk, cherry domates, zeytin",
+            "ItemName": "Karışık Pizza (Orta)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, kavurma, roka, fırın biber, parmesan peyniri",
+            "ItemName": "Kavurmalı Pizza (Orta)",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, kültür mantarı, trüf mantarı yağı",
+            "ItemName": "Mantarlı Pizza (Orta)",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, fesleğen, cherry domates",
+            "ItemName": "Margherita Pizza (Orta)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, pastırma, roka",
+            "ItemName": "Pastırmalı Pizza (Orta)",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, marine patlıcan, ricotta peyniri, parmesan peyniri",
+            "ItemName": "Patlıcanlı Pizza (Orta)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, ricotta peyniri, parmesan peyniri, cherry domates, roka",
+            "ItemName": "Ricotta Pizza (Orta)",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, salam, pepperoni, sucuk, pastırma, kavurma, mısır, zeytin",
+            "ItemName": "Şarküteri Pizza (Orta)",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, dana sosis, yeşilbiber, siyah zeytin",
+            "ItemName": "Sosisli Pizza (Orta)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, sucuk, mantar, biber turşusu",
+            "ItemName": "Sucuklu Pizza (Orta)",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Buffalo mozzarella peyniri, domates sos, fesleğen",
+            "ItemName": "Süper Margherita Pizza (Orta)",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, şerit kesilmiş dana sosis (500 gr.), cheddar peyniri",
+            "ItemName": "Süper Sosisli Pizza (Orta)",
+            "ItemPrice": "52,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, sucuk (300 gr.), mantar, mısır, siyah zeytin, parmesan peyniri",
+            "ItemName": "Süper Sucuklu Pizza (Orta)",
+            "ItemPrice": "52,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, tavuk dilimleri, Sezar sos (marul), parmesan peyniri",
+            "ItemName": "Tavuk Sezar Pizza (Orta)",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, tavuk dilimleri, teriyaki sos",
+            "ItemName": "Teriyaki Soslu Tavuklu Pizza (Orta)",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, patlıcan, enginar, kırmızıbiber, mısır, mantar",
+            "ItemName": "Vegan Pizza (Orta)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates sos, kavurma, roka, fırın biber, parmesan peyniri",
+            "ItemName": "Kavurmalı Pizza (Büyük)",
+            "ItemPrice": "47,00 TL"
+        },
+        {
+            "ItemInfo": "Lolorosso, endivyen, roka, mısır, beyaz peynir, dereotu, domates, zeytinyağı",
+            "ItemName": "Beyaz Peynirli Salata",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Lolorosso, rende havuç, enginar, taze soğan, dereotu, pesto sos, parmesan peyniri, zeytinyağı",
+            "ItemName": "Enginar Salatası",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, mozzarella peyniri, cherry domates, avokado, ceviz, zeytinyağı",
+            "ItemName": "Mozzarella Peynirli Salata",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Kapalı pizza içerisinde bitter çikolata ve muz",
+            "ItemName": "Bitter Calzone",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Kapalı pizza içerisinde çikolata ve muz",
+            "ItemName": "Çikolata Calzone",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Nutella & M&M's Pizza",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütlü Çikolata Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy %100 Portakal Suyu (25 cl.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (25 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Niğde Gazozu (20 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Damla Soda",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "San Pellegrino (25 cl.)",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Jalapeno Sos",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tatlı Ekşi Sos",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Teriyaki Sos",
+            "ItemPrice": "1,50 TL"
+        }
+    ]
+}

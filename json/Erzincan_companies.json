@@ -3,126 +3,1838 @@
         {
             "13 Şubat Caddesi": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "32e0461c-e2de-4aeb-923d-90d3739c32e0",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Dois Döner, Ordu Caddesi",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRIKKALE/dois-doner-yahsihan_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "6,4",
+                            "WorkHoursText": "11:00-23:45",
+                            "href": "/dois-doner-ordu-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "45b49e23-f633-452d-bc81-36fe47e3445b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Fevzi Paşa Caddesi",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "6e235db9-2c55-47bc-b432-b5c05eac97e2",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,8",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "11:00-00:40",
+                            "href": "/dominos-pizza-fevzi-pasa-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "8dbab28e-46ad-480e-9c1d-292660e9d4c6",
+                            "CuisineNameList": [
+                                "Tavuk",
+                                "Fast Food & Sandwich",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Popeyes, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "39755463-7327-40fe-9c66-5c25a58f5bbc",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,2",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/popeyes-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Akşemsettin Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 18.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "32e0461c-e2de-4aeb-923d-90d3739c32e0",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Dois Döner, Ordu Caddesi",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRIKKALE/dois-doner-yahsihan_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 21.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "6,4",
+                            "WorkHoursText": "11:00-23:45",
+                            "href": "/dois-doner-ordu-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "45b49e23-f633-452d-bc81-36fe47e3445b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Fevzi Paşa Caddesi",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "6e235db9-2c55-47bc-b432-b5c05eac97e2",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,8",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "11:00-00:40",
+                            "href": "/dominos-pizza-fevzi-pasa-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Arslanlı Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 12.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "32e0461c-e2de-4aeb-923d-90d3739c32e0",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Dois Döner, Ordu Caddesi",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRIKKALE/dois-doner-yahsihan_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "6,4",
+                            "WorkHoursText": "11:00-23:45",
+                            "href": "/dois-doner-ordu-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "45b49e23-f633-452d-bc81-36fe47e3445b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Fevzi Paşa Caddesi",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "6e235db9-2c55-47bc-b432-b5c05eac97e2",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,8",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "11:00-00:40",
+                            "href": "/dominos-pizza-fevzi-pasa-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Barbaros Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 18.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "32e0461c-e2de-4aeb-923d-90d3739c32e0",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Dois Döner, Ordu Caddesi",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRIKKALE/dois-doner-yahsihan_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "6,4",
+                            "WorkHoursText": "11:00-23:45",
+                            "href": "/dois-doner-ordu-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "45b49e23-f633-452d-bc81-36fe47e3445b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Fevzi Paşa Caddesi",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "6e235db9-2c55-47bc-b432-b5c05eac97e2",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,8",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "11:00-00:40",
+                            "href": "/dominos-pizza-fevzi-pasa-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Cumhuriyet Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "8e5093e4-af6b-4b62-a4f1-787bfaf63f07",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b6479371-7ca3-43b2-8ef1-bb6a690ad070",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/burger-king-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 12.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "32e0461c-e2de-4aeb-923d-90d3739c32e0",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Dois Döner, Ordu Caddesi",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRIKKALE/dois-doner-yahsihan_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "6,4",
+                            "WorkHoursText": "11:00-23:45",
+                            "href": "/dois-doner-ordu-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "45b49e23-f633-452d-bc81-36fe47e3445b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Fevzi Paşa Caddesi",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "6e235db9-2c55-47bc-b432-b5c05eac97e2",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,8",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "11:00-00:40",
+                            "href": "/dominos-pizza-fevzi-pasa-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "8dbab28e-46ad-480e-9c1d-292660e9d4c6",
+                            "CuisineNameList": [
+                                "Tavuk",
+                                "Fast Food & Sandwich",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Popeyes, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "39755463-7327-40fe-9c66-5c25a58f5bbc",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,2",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/popeyes-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Ergenekon Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "8e5093e4-af6b-4b62-a4f1-787bfaf63f07",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b6479371-7ca3-43b2-8ef1-bb6a690ad070",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/burger-king-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "32e0461c-e2de-4aeb-923d-90d3739c32e0",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Dois Döner, Ordu Caddesi",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRIKKALE/dois-doner-yahsihan_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 21.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "6,4",
+                            "WorkHoursText": "11:00-23:45",
+                            "href": "/dois-doner-ordu-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "45b49e23-f633-452d-bc81-36fe47e3445b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Fevzi Paşa Caddesi",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "6e235db9-2c55-47bc-b432-b5c05eac97e2",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,8",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "11:00-00:40",
+                            "href": "/dominos-pizza-fevzi-pasa-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "8dbab28e-46ad-480e-9c1d-292660e9d4c6",
+                            "CuisineNameList": [
+                                "Tavuk",
+                                "Fast Food & Sandwich",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Popeyes, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "39755463-7327-40fe-9c66-5c25a58f5bbc",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,2",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/popeyes-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Fevzi Paşa Caddesi": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "8e5093e4-af6b-4b62-a4f1-787bfaf63f07",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b6479371-7ca3-43b2-8ef1-bb6a690ad070",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/burger-king-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "32e0461c-e2de-4aeb-923d-90d3739c32e0",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Dois Döner, Ordu Caddesi",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRIKKALE/dois-doner-yahsihan_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "6,4",
+                            "WorkHoursText": "11:00-23:45",
+                            "href": "/dois-doner-ordu-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "45b49e23-f633-452d-bc81-36fe47e3445b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Fevzi Paşa Caddesi",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "6e235db9-2c55-47bc-b432-b5c05eac97e2",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,8",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "11:00-00:40",
+                            "href": "/dominos-pizza-fevzi-pasa-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "8dbab28e-46ad-480e-9c1d-292660e9d4c6",
+                            "CuisineNameList": [
+                                "Tavuk",
+                                "Fast Food & Sandwich",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Popeyes, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "39755463-7327-40fe-9c66-5c25a58f5bbc",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,2",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/popeyes-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Halit Paşa Caddesi": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "8e5093e4-af6b-4b62-a4f1-787bfaf63f07",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b6479371-7ca3-43b2-8ef1-bb6a690ad070",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/burger-king-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "32e0461c-e2de-4aeb-923d-90d3739c32e0",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Dois Döner, Ordu Caddesi",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRIKKALE/dois-doner-yahsihan_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 13.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "6,4",
+                            "WorkHoursText": "11:00-23:45",
+                            "href": "/dois-doner-ordu-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "45b49e23-f633-452d-bc81-36fe47e3445b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Fevzi Paşa Caddesi",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "6e235db9-2c55-47bc-b432-b5c05eac97e2",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,8",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "11:00-00:40",
+                            "href": "/dominos-pizza-fevzi-pasa-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "8dbab28e-46ad-480e-9c1d-292660e9d4c6",
+                            "CuisineNameList": [
+                                "Tavuk",
+                                "Fast Food & Sandwich",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Popeyes, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "39755463-7327-40fe-9c66-5c25a58f5bbc",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,2",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/popeyes-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Halit Paşa Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "8e5093e4-af6b-4b62-a4f1-787bfaf63f07",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b6479371-7ca3-43b2-8ef1-bb6a690ad070",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/burger-king-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "32e0461c-e2de-4aeb-923d-90d3739c32e0",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Dois Döner, Ordu Caddesi",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRIKKALE/dois-doner-yahsihan_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 13.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "6,4",
+                            "WorkHoursText": "11:00-23:45",
+                            "href": "/dois-doner-ordu-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "45b49e23-f633-452d-bc81-36fe47e3445b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Fevzi Paşa Caddesi",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "6e235db9-2c55-47bc-b432-b5c05eac97e2",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,8",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "11:00-00:40",
+                            "href": "/dominos-pizza-fevzi-pasa-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "8dbab28e-46ad-480e-9c1d-292660e9d4c6",
+                            "CuisineNameList": [
+                                "Tavuk",
+                                "Fast Food & Sandwich",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Popeyes, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "39755463-7327-40fe-9c66-5c25a58f5bbc",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,2",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/popeyes-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Hocabey Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "8e5093e4-af6b-4b62-a4f1-787bfaf63f07",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b6479371-7ca3-43b2-8ef1-bb6a690ad070",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/burger-king-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 18.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "32e0461c-e2de-4aeb-923d-90d3739c32e0",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Dois Döner, Ordu Caddesi",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRIKKALE/dois-doner-yahsihan_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "6,4",
+                            "WorkHoursText": "11:00-23:45",
+                            "href": "/dois-doner-ordu-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "45b49e23-f633-452d-bc81-36fe47e3445b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Fevzi Paşa Caddesi",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "6e235db9-2c55-47bc-b432-b5c05eac97e2",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,8",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "11:00-00:40",
+                            "href": "/dominos-pizza-fevzi-pasa-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "8dbab28e-46ad-480e-9c1d-292660e9d4c6",
+                            "CuisineNameList": [
+                                "Tavuk",
+                                "Fast Food & Sandwich",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Popeyes, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "39755463-7327-40fe-9c66-5c25a58f5bbc",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,2",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/popeyes-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "İnönü Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "8e5093e4-af6b-4b62-a4f1-787bfaf63f07",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b6479371-7ca3-43b2-8ef1-bb6a690ad070",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/burger-king-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "32e0461c-e2de-4aeb-923d-90d3739c32e0",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Dois Döner, Ordu Caddesi",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRIKKALE/dois-doner-yahsihan_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "6,4",
+                            "WorkHoursText": "11:00-23:45",
+                            "href": "/dois-doner-ordu-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "45b49e23-f633-452d-bc81-36fe47e3445b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Fevzi Paşa Caddesi",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "6e235db9-2c55-47bc-b432-b5c05eac97e2",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,8",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "11:00-00:40",
+                            "href": "/dominos-pizza-fevzi-pasa-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "İzzet Paşa Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "8e5093e4-af6b-4b62-a4f1-787bfaf63f07",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b6479371-7ca3-43b2-8ef1-bb6a690ad070",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/burger-king-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "8dbab28e-46ad-480e-9c1d-292660e9d4c6",
+                            "CuisineNameList": [
+                                "Tavuk",
+                                "Fast Food & Sandwich",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Popeyes, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "39755463-7327-40fe-9c66-5c25a58f5bbc",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,2",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/popeyes-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Kavakyolu Toki": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "8e5093e4-af6b-4b62-a4f1-787bfaf63f07",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b6479371-7ca3-43b2-8ef1-bb6a690ad070",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/burger-king-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "8dbab28e-46ad-480e-9c1d-292660e9d4c6",
+                            "CuisineNameList": [
+                                "Tavuk",
+                                "Fast Food & Sandwich",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Popeyes, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "39755463-7327-40fe-9c66-5c25a58f5bbc",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,2",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/popeyes-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Mengüceli Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "8e5093e4-af6b-4b62-a4f1-787bfaf63f07",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b6479371-7ca3-43b2-8ef1-bb6a690ad070",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/burger-king-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Mimar Sinan Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "8e5093e4-af6b-4b62-a4f1-787bfaf63f07",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b6479371-7ca3-43b2-8ef1-bb6a690ad070",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/burger-king-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "32e0461c-e2de-4aeb-923d-90d3739c32e0",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Dois Döner, Ordu Caddesi",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRIKKALE/dois-doner-yahsihan_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "6,4",
+                            "WorkHoursText": "11:00-23:45",
+                            "href": "/dois-doner-ordu-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "45b49e23-f633-452d-bc81-36fe47e3445b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Fevzi Paşa Caddesi",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "6e235db9-2c55-47bc-b432-b5c05eac97e2",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,8",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "11:00-00:40",
+                            "href": "/dominos-pizza-fevzi-pasa-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "8dbab28e-46ad-480e-9c1d-292660e9d4c6",
+                            "CuisineNameList": [
+                                "Tavuk",
+                                "Fast Food & Sandwich",
+                                "Popeyes"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Popeyes, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/popeyes_big.gif",
+                            "MainCuisineId": "39755463-7327-40fe-9c66-5c25a58f5bbc",
+                            "MainCuisineName": "Popeyes",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,2",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/popeyes-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Ordu Caddesi": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "8e5093e4-af6b-4b62-a4f1-787bfaf63f07",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b6479371-7ca3-43b2-8ef1-bb6a690ad070",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/burger-king-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 12.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "32e0461c-e2de-4aeb-923d-90d3739c32e0",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Dois Döner, Ordu Caddesi",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRIKKALE/dois-doner-yahsihan_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "6,4",
+                            "WorkHoursText": "11:00-23:45",
+                            "href": "/dois-doner-ordu-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "45b49e23-f633-452d-bc81-36fe47e3445b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Fevzi Paşa Caddesi",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "6e235db9-2c55-47bc-b432-b5c05eac97e2",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,8",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "11:00-00:40",
+                            "href": "/dominos-pizza-fevzi-pasa-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Yavuz Selim Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 18.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "32e0461c-e2de-4aeb-923d-90d3739c32e0",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Dois Döner, Ordu Caddesi",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRIKKALE/dois-doner-yahsihan_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "6,4",
+                            "WorkHoursText": "11:00-23:45",
+                            "href": "/dois-doner-ordu-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "45b49e23-f633-452d-bc81-36fe47e3445b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Fevzi Paşa Caddesi",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "6e235db9-2c55-47bc-b432-b5c05eac97e2",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,8",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "11:00-00:40",
+                            "href": "/dominos-pizza-fevzi-pasa-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Yunus Emre Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "8e5093e4-af6b-4b62-a4f1-787bfaf63f07",
+                            "CuisineNameList": [
+                                "Burger",
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "b6479371-7ca3-43b2-8ef1-bb6a690ad070",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,5",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/burger-king-mimar-sinan-mah-erzincan-park-erzincan"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "39859f6a-af67-4e79-b3f6-4b52c1879587",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Can Tantuni, Ergenekon Mah.",
+                            "FlavourText": "7,5",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ERZINCAN/cantantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,0",
+                            "WorkHoursText": "11:30-23:30",
+                            "href": "/can-tantuni-ergenekon-mah-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,5",
+                            "CategoryName": "32e0461c-e2de-4aeb-923d-90d3739c32e0",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Dois Döner, Ordu Caddesi",
+                            "FlavourText": "6,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_KIRIKKALE/dois-doner-yahsihan_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 21.0,
+                            "ServingText": "6,7",
+                            "SpeedText": "6,4",
+                            "WorkHoursText": "11:00-23:45",
+                            "href": "/dois-doner-ordu-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "8,7",
+                            "CategoryName": "45b49e23-f633-452d-bc81-36fe47e3445b",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Fevzi Paşa Caddesi",
+                            "FlavourText": "8,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "6e235db9-2c55-47bc-b432-b5c05eac97e2",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,8",
+                            "SpeedText": "9,1",
+                            "WorkHoursText": "11:00-00:40",
+                            "href": "/dominos-pizza-fevzi-pasa-caddesi-erzincan"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "7347e377-f06b-440d-8223-fb4e33dbadb6",
+                            "CuisineNameList": [
+                                "Döner",
+                                "Kebap & Türk Mutfağı",
+                                "Usta Dönerci"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Usta Dönerci, Mimar Sinan Mah. (Erzincan Park)",
+                            "FlavourText": "6,1",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/ustadonerciguncel_big.gif",
+                            "MainCuisineId": "5693406c-d231-432c-aa9e-c4a0c102c915",
+                            "MainCuisineName": "Usta Dönerci",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,5",
+                            "SpeedText": "6,1",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/usta-donerci-mimar-sinan-mah-erzincan-park-erzincan"
+                        }
+                    ]
                 }
             ]
         }

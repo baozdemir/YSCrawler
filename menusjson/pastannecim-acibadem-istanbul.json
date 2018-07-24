@@ -1,0 +1,449 @@
+{
+    "comment": [
+        {
+            "Comment": "Güzeldi pasta tazeydi :).",
+            "Date": "2018-07-20",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çilekli mag muhteşem.",
+            "Date": "2018-07-18",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı servis.",
+            "Date": "2018-06-27",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Islak kek inanılmazdı!",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "--- siparişim: 1 profiterol, 1 anne burger, 1 kızartma tabağı --- tatlı konusunda iyiler hatta profiterol çok güzel, kızartma tabağı idare eder, ama anne burger kesinlikle olmamış, sanırım bir yanlışkıl oldu kesinlikle beğenmedik. Karışıklık olduğunu düşündük bu kadar lezzetli tatlıları olan yere.",
+            "Date": "2018-06-24",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Menüde yaprak köfteyle yaprak sarma, kısır ve patates kızartması yazıyordu ancak sadece patates geldi. Ne ekmek, ne lavaş, ne pide vs. Bir şey vardı. Daha fazla özen lütfen.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İdare eder.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Gözlemeler çok doyurucu ve fiyatta uygun.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Servisleriniz çok tatlı gerçekten bayıldım. Ama pastanın kreması çok yavandı, daha tok bi krema olsa güzel olur.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her sey guzeldi ama waffle dedikleri hayatta yenmez ama gerisi harika.",
+            "Date": "2018-05-25",
+            "Flavour": "3",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Çikolatalı mag istedim kavanozda diye yazıyordu fakat bana küçük pasta getirildi yani yanlış sipariş o yüzden hiç memnun kalmadım.",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "1",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Pastalardaki kremalar cok kotuydu tatliyi cok sevmeme ragmen yiyemedim.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "8",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Pastaların kremasını beğenmedim, fiyat uygun ama bana hitap etmedi.",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "9",
+            "Speed": "5"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "(Kasede) Bol çikolata soslu, fıstık",
+            "ItemName": "Profiterol",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "(Kavanozda)",
+            "ItemName": "Çilekli Mag",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "(Kasede) Islak kek üzeri çikolata sosu, çilek",
+            "ItemName": "Islak Kek",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "(Kavanozda)",
+            "ItemName": "Çikolatalı Mag",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Peynirli Gözleme",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre Nutella, beyaz çikolata, çilek, muz",
+            "ItemName": "Waffle",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, domates sosu, turşu, patates kızartması",
+            "ItemName": "Anne Tostu",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, domates, fesleğen, patates kızartması",
+            "ItemName": "Akdeniz Tostu",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kaşar peyniri, domates sosu, turşu, patates kızartması",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Muzlu Krep",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çilekli Krep",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Muzlu & Çilekli Krep",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Peynirli Su Böreği",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Peynirli Gözleme",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Söğüş domates, salatalık, 1 dilim beyaz peynir ile",
+            "ItemName": "Pişi Tabağı",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger köftesi, göbek marul, cheddar peyniri, ketçap, turşu, patates kızartması, isteğe göre kırmızı soğan",
+            "ItemName": "Anne Burger",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Yaprak sarma, kısır, patates kızartması ile",
+            "ItemName": "Tavuk Şnitzel",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "2 adet yaprak köfte, yaprak sarma, kısır, patates kızartması",
+            "ItemName": "Yaprak Köfte",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Patlıcan, kabak, patates, biber kızartması. Yoğurt ile",
+            "ItemName": "Kızartma Tabağı",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Söğüş domates, salatalık, rendelenmiş beyaz peynir, zeytin, taze nane, göbek marul, isteğe göre kırmızı soğan",
+            "ItemName": "Ege Salatası",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Cherry domates, göbek marul, roka, ızgara tavuk dilimleri",
+            "ItemName": "Izgara Tavuklu Salata",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolatalı kek, çikolata kreması",
+            "ItemName": "Çikolatalı Pasta",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kırmızı kadife kek, arası çilek ve krema",
+            "ItemName": "Red Velvet Pasta",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tiramisu",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre Nutella, beyaz çikolata, çilek, muz",
+            "ItemName": "Waffle",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Limon kremalı",
+            "ItemName": "Limonlu Bambu",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Muzlu, Hindistan cevizi süslemeli",
+            "ItemName": "Muzlu Ankara Sarma",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Çilekli, Hindistan cevizi süslemeli",
+            "ItemName": "Çilekli Ankara Sarma",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "(Kasede) Islak kek üzeri çikolata sosu, çilek",
+            "ItemName": "Islak Kek",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "(Kasede) Bol çikolata soslu, fıstık",
+            "ItemName": "Profiterol",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Frambuaz kremalı",
+            "ItemName": "Frambuazlı Bambu",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Mat fıstık, çikolata",
+            "ItemName": "Mat Fıstıklı Pasta (Yuvarlak)",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, kakaolu kek, çilek",
+            "ItemName": "Çikolatalı Moist",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "(Kavanozda)",
+            "ItemName": "Çilekli Mag",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "(Kavanozda)",
+            "ItemName": "Çikolatalı Mag",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, çilek",
+            "ItemName": "Annecim Çilekli Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz çikolata kreması, çilek, muz",
+            "ItemName": "Beyaz Çikolatalı & Çilekli & Muzlu Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, çikolata parçaları",
+            "ItemName": "Çikolata Parçalı Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, beyaz profiterol",
+            "ItemName": "Çikolatalı & Beyaz Profiterollü Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, böğürtlen",
+            "ItemName": "Çikolatalı & Böğürtlenli Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, çilek parçaları",
+            "ItemName": "Çikolatalı & Çilekli Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, kestane parçaları",
+            "ItemName": "Çikolatalı & Kestaneli Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, krokan parçaları",
+            "ItemName": "Çikolatalı & Krokanlı Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, muz",
+            "ItemName": "Çikolatalı & Muzlu Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, siyah profiterol",
+            "ItemName": "Çikolatalı & Siyah Profiterollü Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, vişne",
+            "ItemName": "Çikolatalı & Vişneli Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Karamel sosu, badem, üzeri profiterol süslemeli",
+            "ItemName": "Karamelli & Bademli Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Portakal kreması, badem, beyaz çikolata süslemeli",
+            "ItemName": "Portakallı & Bademli Prenses Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz krema, çilek, etrafı kedidili kekli",
+            "ItemName": "Sawyer Çilekli Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz krema, frambuaz, etrafı kedidili kekli",
+            "ItemName": "Sawyer Frambuazlı Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz krema, karışık mevsim meyveleri, etrafı kedidili kekli",
+            "ItemName": "Sawyer Karışık Meyveli Pasta (6 Kişilik)",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz çikolata kreması, çilek, muz",
+            "ItemName": "Beyaz Çikolatalı & Çilekli & Muzlu Pasta (8 Kişilik)",
+            "ItemPrice": "49,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, çikolata parçaları",
+            "ItemName": "Çikolata Parçalı Pasta (8 Kişilik)",
+            "ItemPrice": "49,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, çilek ve krokan parçaları",
+            "ItemName": "Çikolatalı & Çilekli & Krokanlı Pasta (8 Kişilik)",
+            "ItemPrice": "49,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, çilek parçaları",
+            "ItemName": "Çikolatalı & Çilekli Pasta (8 Kişilik)",
+            "ItemPrice": "49,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, kestane parçaları",
+            "ItemName": "Çikolatalı & Kestaneli Pasta (8 Kişilik)",
+            "ItemPrice": "49,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, krokan parçaları",
+            "ItemName": "Çikolatalı & Krokanlı Pasta (8 Kişilik)",
+            "ItemPrice": "49,00 TL"
+        },
+        {
+            "ItemInfo": "Çikolata kreması, muz",
+            "ItemName": "Çikolatalı & Muzlu Pasta (8 Kişilik)",
+            "ItemPrice": "49,00 TL"
+        },
+        {
+            "ItemInfo": "Portakal kreması, badem, beyaz çikolata süslemeli",
+            "ItemName": "Portakallı & Bademli Prenses Pasta (8 Kişilik)",
+            "ItemPrice": "49,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz krema, karışık mevsim meyveleri, etrafı kedidili kekli",
+            "ItemName": "Sawyer Karışık Meyveli Pasta (8 Kişilik)",
+            "ItemPrice": "49,00 TL"
+        },
+        {
+            "ItemInfo": "Cam şişe",
+            "ItemName": "Coca-Cola (30 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "Cam şişe",
+            "ItemName": "Coca-Cola Light (30 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "Cam şişe",
+            "ItemName": "Coca-Cola Şekersiz (30 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "Cam şişe",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "Cam şişe",
+            "ItemName": "Su (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        }
+    ]
+}

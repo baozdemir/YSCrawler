@@ -5,6 +5,44 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "b45167e9-a8a2-4b38-8bf9-8554618ee674",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Best Of Dürüm, Amasya (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/bestofdurum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "10:30-23:45",
+                            "href": "/best-of-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "d18a220a-094c-4992-a0a6-4457fdd876d7",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Amasya (Merkez)",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "587b1aa6-4872-41c0-b95e-a6557209524e",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,1",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-amasya-merkez-amasya"
+                        },
+                        {
                             "AvgPoint": "7,5",
                             "CategoryName": "3b6acbd5-d202-464a-9b98-8322fcaa4c48",
                             "CuisineNameList": [
@@ -22,6 +60,137 @@
                             "SpeedText": "7,6",
                             "WorkHoursText": "10:30-00:30",
                             "href": "/dominos-pizza-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "fdd7633a-9952-4702-ae4b-29f7856c4566",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Güzide Pide, Hacılar Meydanı",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/guzide-pide_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-20:00",
+                            "href": "/guzide-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,3",
+                            "CategoryName": "ea0047cc-3888-47ad-a38b-3073b55927fb",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Amasya (Merkez)",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 12.0,
+                            "ServingText": "5,4",
+                            "SpeedText": "4,6",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "af4df0b2-bdae-4431-86ee-9d353aa4374f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Hacılar Meydanı",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:45-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "1857a180-2f57-438d-9ced-0f4bda51f41c",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pasaport Pizza"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Akbilek",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "7c23e978-f0b0-4906-b1f3-d83d799f670d",
+                            "MainCuisineName": "Pasaport Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/pasaport-pizza-akbilek-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "a79ecbe4-9d6b-4e3f-a68a-ba0df19d11b1",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ziyafet Pide, Hacılar Meydanı",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ziyafet-pide-lahmacun_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/ziyafet-pide-hacilar-meydani-amasya"
                         }
                     ]
                 }
@@ -32,6 +201,63 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "b45167e9-a8a2-4b38-8bf9-8554618ee674",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Best Of Dürüm, Amasya (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/bestofdurum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "10:30-23:45",
+                            "href": "/best-of-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "d18a220a-094c-4992-a0a6-4457fdd876d7",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Amasya (Merkez)",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "587b1aa6-4872-41c0-b95e-a6557209524e",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,1",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "a39ef366-9ffc-4a1e-9da7-7bfc34e5916d",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfte Evi, Hacılar Meydanı",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/cig-kofte-evi_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:30-23:59",
+                            "href": "/cig-kofte-evi-hacilar-meydani-amasya"
+                        },
+                        {
                             "AvgPoint": "7,5",
                             "CategoryName": "3b6acbd5-d202-464a-9b98-8322fcaa4c48",
                             "CuisineNameList": [
@@ -49,6 +275,155 @@
                             "SpeedText": "7,6",
                             "WorkHoursText": "10:30-00:30",
                             "href": "/dominos-pizza-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "fdd7633a-9952-4702-ae4b-29f7856c4566",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Güzide Pide, Hacılar Meydanı",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/guzide-pide_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-20:00",
+                            "href": "/guzide-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,3",
+                            "CategoryName": "ea0047cc-3888-47ad-a38b-3073b55927fb",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Amasya (Merkez)",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "5,4",
+                            "SpeedText": "4,6",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "af4df0b2-bdae-4431-86ee-9d353aa4374f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Hacılar Meydanı",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:45-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "ab6c44fb-559c-43f4-bab6-53c415b05533",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Nasip Ocakbaşı, Şeyh Cui",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/nasipocakbasi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "08:00-20:00",
+                            "href": "/nasip-ocakbasi-seyh-cui-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "1857a180-2f57-438d-9ced-0f4bda51f41c",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pasaport Pizza"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Akbilek",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "7c23e978-f0b0-4906-b1f3-d83d799f670d",
+                            "MainCuisineName": "Pasaport Pizza",
+                            "MinimumDeliveryPrice": 14.9,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/pasaport-pizza-akbilek-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "a79ecbe4-9d6b-4e3f-a68a-ba0df19d11b1",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ziyafet Pide, Hacılar Meydanı",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ziyafet-pide-lahmacun_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/ziyafet-pide-hacilar-meydani-amasya"
                         }
                     ]
                 }
@@ -59,6 +434,82 @@
                 {
                     "comps": [
                         {
+                            "AvgPoint": "6,8",
+                            "CategoryName": "f1b3547d-aed0-4d0f-a5c5-43a96779706e",
+                            "CuisineNameList": [
+                                "Köfte",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Akgüller Kebap, Amasya (Merkez)",
+                            "FlavourText": "6,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_AMASYA/akguller-iskender_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/akguller-kebap-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "b45167e9-a8a2-4b38-8bf9-8554618ee674",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Best Of Dürüm, Amasya (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/bestofdurum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "10:30-23:45",
+                            "href": "/best-of-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "d18a220a-094c-4992-a0a6-4457fdd876d7",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Amasya (Merkez)",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "587b1aa6-4872-41c0-b95e-a6557209524e",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,1",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "a39ef366-9ffc-4a1e-9da7-7bfc34e5916d",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfte Evi, Hacılar Meydanı",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/cig-kofte-evi_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:30-23:59",
+                            "href": "/cig-kofte-evi-hacilar-meydani-amasya"
+                        },
+                        {
                             "AvgPoint": "7,5",
                             "CategoryName": "3b6acbd5-d202-464a-9b98-8322fcaa4c48",
                             "CuisineNameList": [
@@ -76,6 +527,155 @@
                             "SpeedText": "7,6",
                             "WorkHoursText": "10:30-00:30",
                             "href": "/dominos-pizza-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "fdd7633a-9952-4702-ae4b-29f7856c4566",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Güzide Pide, Hacılar Meydanı",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/guzide-pide_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-20:00",
+                            "href": "/guzide-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,3",
+                            "CategoryName": "ea0047cc-3888-47ad-a38b-3073b55927fb",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Amasya (Merkez)",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "5,4",
+                            "SpeedText": "4,6",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "af4df0b2-bdae-4431-86ee-9d353aa4374f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Hacılar Meydanı",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:45-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "ab6c44fb-559c-43f4-bab6-53c415b05533",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Nasip Ocakbaşı, Şeyh Cui",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/nasipocakbasi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "08:00-20:00",
+                            "href": "/nasip-ocakbasi-seyh-cui-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "1857a180-2f57-438d-9ced-0f4bda51f41c",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pasaport Pizza"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Akbilek",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "7c23e978-f0b0-4906-b1f3-d83d799f670d",
+                            "MainCuisineName": "Pasaport Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/pasaport-pizza-akbilek-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "a79ecbe4-9d6b-4e3f-a68a-ba0df19d11b1",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ziyafet Pide, Hacılar Meydanı",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ziyafet-pide-lahmacun_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/ziyafet-pide-hacilar-meydani-amasya"
                         }
                     ]
                 }
@@ -86,39 +686,62 @@
                 {
                     "comps": [
                         {
-                            "AvgPoint": "7,5",
-                            "CategoryName": "3b6acbd5-d202-464a-9b98-8322fcaa4c48",
+                            "AvgPoint": "7,2",
+                            "CategoryName": "b45167e9-a8a2-4b38-8bf9-8554618ee674",
                             "CuisineNameList": [
-                                "Pizza & İtalyan",
-                                "Domino's Pizza"
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
                             ],
-                            "DeliveryTime": 30,
-                            "DisplayName": "Domino's Pizza, Amasya (Merkez)",
-                            "FlavourText": "7,6",
-                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
-                            "MainCuisineId": "621383f2-ac49-4d6f-ae69-10ee6989263b",
-                            "MainCuisineName": "Domino's Pizza",
-                            "MinimumDeliveryPrice": 12.9,
-                            "ServingText": "7,2",
-                            "SpeedText": "7,6",
-                            "WorkHoursText": "10:30-00:30",
-                            "href": "/dominos-pizza-amasya-merkez-amasya"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "Çakallar": [
-                {
-                    "comps": []
-                }
-            ]
-        },
-        {
-            "Hacılar Meydanı": [
-                {
-                    "comps": [
+                            "DeliveryTime": 45,
+                            "DisplayName": "Best Of Dürüm, Amasya (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/bestofdurum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "10:30-23:45",
+                            "href": "/best-of-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "d18a220a-094c-4992-a0a6-4457fdd876d7",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Amasya (Merkez)",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "587b1aa6-4872-41c0-b95e-a6557209524e",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,1",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "a39ef366-9ffc-4a1e-9da7-7bfc34e5916d",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfte Evi, Hacılar Meydanı",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/cig-kofte-evi_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:30-23:59",
+                            "href": "/cig-kofte-evi-hacilar-meydani-amasya"
+                        },
                         {
                             "AvgPoint": "7,5",
                             "CategoryName": "3b6acbd5-d202-464a-9b98-8322fcaa4c48",
@@ -137,6 +760,566 @@
                             "SpeedText": "7,6",
                             "WorkHoursText": "10:30-00:30",
                             "href": "/dominos-pizza-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "fdd7633a-9952-4702-ae4b-29f7856c4566",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Güzide Pide, Hacılar Meydanı",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/guzide-pide_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-20:00",
+                            "href": "/guzide-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,3",
+                            "CategoryName": "ea0047cc-3888-47ad-a38b-3073b55927fb",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Amasya (Merkez)",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 12.0,
+                            "ServingText": "5,4",
+                            "SpeedText": "4,6",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "af4df0b2-bdae-4431-86ee-9d353aa4374f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Hacılar Meydanı",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 7.5,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:45-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "1857a180-2f57-438d-9ced-0f4bda51f41c",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pasaport Pizza"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Akbilek",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "7c23e978-f0b0-4906-b1f3-d83d799f670d",
+                            "MainCuisineName": "Pasaport Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/pasaport-pizza-akbilek-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "a79ecbe4-9d6b-4e3f-a68a-ba0df19d11b1",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ziyafet Pide, Hacılar Meydanı",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ziyafet-pide-lahmacun_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/ziyafet-pide-hacilar-meydani-amasya"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Çakallar": [
+                {
+                    "comps": [
+                        {
+                            "AvgPoint": "6,8",
+                            "CategoryName": "f1b3547d-aed0-4d0f-a5c5-43a96779706e",
+                            "CuisineNameList": [
+                                "Köfte",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Akgüller Kebap, Amasya (Merkez)",
+                            "FlavourText": "6,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_AMASYA/akguller-iskender_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/akguller-kebap-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "b45167e9-a8a2-4b38-8bf9-8554618ee674",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Best Of Dürüm, Amasya (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/bestofdurum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "10:30-23:45",
+                            "href": "/best-of-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "a39ef366-9ffc-4a1e-9da7-7bfc34e5916d",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfte Evi, Hacılar Meydanı",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/cig-kofte-evi_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:30-23:59",
+                            "href": "/cig-kofte-evi-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "fdd7633a-9952-4702-ae4b-29f7856c4566",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Güzide Pide, Hacılar Meydanı",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/guzide-pide_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-20:00",
+                            "href": "/guzide-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,3",
+                            "CategoryName": "ea0047cc-3888-47ad-a38b-3073b55927fb",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Amasya (Merkez)",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 35.0,
+                            "ServingText": "5,4",
+                            "SpeedText": "4,6",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "af4df0b2-bdae-4431-86ee-9d353aa4374f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Hacılar Meydanı",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 35.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:45-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "1857a180-2f57-438d-9ced-0f4bda51f41c",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pasaport Pizza"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Akbilek",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "7c23e978-f0b0-4906-b1f3-d83d799f670d",
+                            "MainCuisineName": "Pasaport Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/pasaport-pizza-akbilek-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "a79ecbe4-9d6b-4e3f-a68a-ba0df19d11b1",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ziyafet Pide, Hacılar Meydanı",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ziyafet-pide-lahmacun_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/ziyafet-pide-hacilar-meydani-amasya"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Hacılar Meydanı": [
+                {
+                    "comps": [
+                        {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "b45167e9-a8a2-4b38-8bf9-8554618ee674",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Best Of Dürüm, Amasya (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/bestofdurum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "10:30-23:45",
+                            "href": "/best-of-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "d18a220a-094c-4992-a0a6-4457fdd876d7",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Amasya (Merkez)",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "587b1aa6-4872-41c0-b95e-a6557209524e",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,1",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "a39ef366-9ffc-4a1e-9da7-7bfc34e5916d",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfte Evi, Hacılar Meydanı",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/cig-kofte-evi_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:30-23:59",
+                            "href": "/cig-kofte-evi-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,5",
+                            "CategoryName": "3b6acbd5-d202-464a-9b98-8322fcaa4c48",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Amasya (Merkez)",
+                            "FlavourText": "7,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "621383f2-ac49-4d6f-ae69-10ee6989263b",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "7,2",
+                            "SpeedText": "7,6",
+                            "WorkHoursText": "10:30-00:30",
+                            "href": "/dominos-pizza-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "fdd7633a-9952-4702-ae4b-29f7856c4566",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Güzide Pide, Hacılar Meydanı",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/guzide-pide_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-20:00",
+                            "href": "/guzide-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,3",
+                            "CategoryName": "ea0047cc-3888-47ad-a38b-3073b55927fb",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Amasya (Merkez)",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "5,4",
+                            "SpeedText": "4,6",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "af4df0b2-bdae-4431-86ee-9d353aa4374f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Hacılar Meydanı",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:45-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "ab6c44fb-559c-43f4-bab6-53c415b05533",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Nasip Ocakbaşı, Şeyh Cui",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/nasipocakbasi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "08:00-20:00",
+                            "href": "/nasip-ocakbasi-seyh-cui-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "1857a180-2f57-438d-9ced-0f4bda51f41c",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pasaport Pizza"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Akbilek",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "7c23e978-f0b0-4906-b1f3-d83d799f670d",
+                            "MainCuisineName": "Pasaport Pizza",
+                            "MinimumDeliveryPrice": 14.9,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/pasaport-pizza-akbilek-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "a79ecbe4-9d6b-4e3f-a68a-ba0df19d11b1",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ziyafet Pide, Hacılar Meydanı",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ziyafet-pide-lahmacun_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/ziyafet-pide-hacilar-meydani-amasya"
                         }
                     ]
                 }
@@ -145,21 +1328,588 @@
         {
             "İpek Köy": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "6,8",
+                            "CategoryName": "f1b3547d-aed0-4d0f-a5c5-43a96779706e",
+                            "CuisineNameList": [
+                                "Köfte",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Akgüller Kebap, Amasya (Merkez)",
+                            "FlavourText": "6,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_AMASYA/akguller-iskender_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/akguller-kebap-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "b45167e9-a8a2-4b38-8bf9-8554618ee674",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Best Of Dürüm, Amasya (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/bestofdurum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "10:30-23:45",
+                            "href": "/best-of-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "a39ef366-9ffc-4a1e-9da7-7bfc34e5916d",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfte Evi, Hacılar Meydanı",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/cig-kofte-evi_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:30-23:59",
+                            "href": "/cig-kofte-evi-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,3",
+                            "CategoryName": "ea0047cc-3888-47ad-a38b-3073b55927fb",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Amasya (Merkez)",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "5,4",
+                            "SpeedText": "4,6",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "af4df0b2-bdae-4431-86ee-9d353aa4374f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Hacılar Meydanı",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 35.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:45-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "1857a180-2f57-438d-9ced-0f4bda51f41c",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pasaport Pizza"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Akbilek",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "7c23e978-f0b0-4906-b1f3-d83d799f670d",
+                            "MainCuisineName": "Pasaport Pizza",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/pasaport-pizza-akbilek-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "a79ecbe4-9d6b-4e3f-a68a-ba0df19d11b1",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ziyafet Pide, Hacılar Meydanı",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ziyafet-pide-lahmacun_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/ziyafet-pide-hacilar-meydani-amasya"
+                        }
+                    ]
                 }
             ]
         },
         {
             "İstasyon": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "b45167e9-a8a2-4b38-8bf9-8554618ee674",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Best Of Dürüm, Amasya (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/bestofdurum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "10:30-23:45",
+                            "href": "/best-of-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "d18a220a-094c-4992-a0a6-4457fdd876d7",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Amasya (Merkez)",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "587b1aa6-4872-41c0-b95e-a6557209524e",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,1",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "a39ef366-9ffc-4a1e-9da7-7bfc34e5916d",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfte Evi, Hacılar Meydanı",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/cig-kofte-evi_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:30-23:59",
+                            "href": "/cig-kofte-evi-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "fdd7633a-9952-4702-ae4b-29f7856c4566",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Güzide Pide, Hacılar Meydanı",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/guzide-pide_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-20:00",
+                            "href": "/guzide-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,3",
+                            "CategoryName": "ea0047cc-3888-47ad-a38b-3073b55927fb",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Amasya (Merkez)",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "5,4",
+                            "SpeedText": "4,6",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "af4df0b2-bdae-4431-86ee-9d353aa4374f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Hacılar Meydanı",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:45-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "ab6c44fb-559c-43f4-bab6-53c415b05533",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Nasip Ocakbaşı, Şeyh Cui",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/nasipocakbasi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "08:00-20:00",
+                            "href": "/nasip-ocakbasi-seyh-cui-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "1857a180-2f57-438d-9ced-0f4bda51f41c",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pasaport Pizza"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Akbilek",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "7c23e978-f0b0-4906-b1f3-d83d799f670d",
+                            "MainCuisineName": "Pasaport Pizza",
+                            "MinimumDeliveryPrice": 14.9,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/pasaport-pizza-akbilek-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "a79ecbe4-9d6b-4e3f-a68a-ba0df19d11b1",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ziyafet Pide, Hacılar Meydanı",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ziyafet-pide-lahmacun_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/ziyafet-pide-hacilar-meydani-amasya"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Kirazlıdere": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "b45167e9-a8a2-4b38-8bf9-8554618ee674",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Best Of Dürüm, Amasya (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/bestofdurum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "10:30-23:45",
+                            "href": "/best-of-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "d18a220a-094c-4992-a0a6-4457fdd876d7",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Amasya (Merkez)",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "587b1aa6-4872-41c0-b95e-a6557209524e",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,1",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "a39ef366-9ffc-4a1e-9da7-7bfc34e5916d",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfte Evi, Hacılar Meydanı",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/cig-kofte-evi_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:30-23:59",
+                            "href": "/cig-kofte-evi-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "fdd7633a-9952-4702-ae4b-29f7856c4566",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Güzide Pide, Hacılar Meydanı",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/guzide-pide_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-20:00",
+                            "href": "/guzide-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,3",
+                            "CategoryName": "ea0047cc-3888-47ad-a38b-3073b55927fb",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Amasya (Merkez)",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 12.0,
+                            "ServingText": "5,4",
+                            "SpeedText": "4,6",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "af4df0b2-bdae-4431-86ee-9d353aa4374f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Hacılar Meydanı",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:45-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "1857a180-2f57-438d-9ced-0f4bda51f41c",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pasaport Pizza"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Akbilek",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "7c23e978-f0b0-4906-b1f3-d83d799f670d",
+                            "MainCuisineName": "Pasaport Pizza",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/pasaport-pizza-akbilek-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "a79ecbe4-9d6b-4e3f-a68a-ba0df19d11b1",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ziyafet Pide, Hacılar Meydanı",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ziyafet-pide-lahmacun_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/ziyafet-pide-hacilar-meydani-amasya"
+                        }
+                    ]
                 }
             ]
         },
@@ -201,7 +1951,26 @@
         {
             "Merzifon (Cami Cedit Mah.)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "caadbc92-ae3d-4dbb-a5f8-f508f4645f7d",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Öncü Döner, Merzifon (Cami Cedit Mah.)",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/oncu_durum_2_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:30-23:00",
+                            "href": "/oncu-doner-merzifon-cami-cedit-mah-amasya"
+                        }
+                    ]
                 }
             ]
         },
@@ -278,21 +2047,453 @@
         {
             "Şeyh Cui": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "b45167e9-a8a2-4b38-8bf9-8554618ee674",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Best Of Dürüm, Amasya (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/bestofdurum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "10:30-23:45",
+                            "href": "/best-of-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "d18a220a-094c-4992-a0a6-4457fdd876d7",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Amasya (Merkez)",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "587b1aa6-4872-41c0-b95e-a6557209524e",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,1",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "a39ef366-9ffc-4a1e-9da7-7bfc34e5916d",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfte Evi, Hacılar Meydanı",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/cig-kofte-evi_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:30-23:59",
+                            "href": "/cig-kofte-evi-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "fdd7633a-9952-4702-ae4b-29f7856c4566",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Güzide Pide, Hacılar Meydanı",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/guzide-pide_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-20:00",
+                            "href": "/guzide-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,3",
+                            "CategoryName": "ea0047cc-3888-47ad-a38b-3073b55927fb",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Amasya (Merkez)",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "5,4",
+                            "SpeedText": "4,6",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "ab6c44fb-559c-43f4-bab6-53c415b05533",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Nasip Ocakbaşı, Şeyh Cui",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/nasipocakbasi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "08:00-20:00",
+                            "href": "/nasip-ocakbasi-seyh-cui-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "1857a180-2f57-438d-9ced-0f4bda51f41c",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pasaport Pizza"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Akbilek",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "7c23e978-f0b0-4906-b1f3-d83d799f670d",
+                            "MainCuisineName": "Pasaport Pizza",
+                            "MinimumDeliveryPrice": 14.9,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/pasaport-pizza-akbilek-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "a79ecbe4-9d6b-4e3f-a68a-ba0df19d11b1",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ziyafet Pide, Hacılar Meydanı",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ziyafet-pide-lahmacun_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/ziyafet-pide-hacilar-meydani-amasya"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Toki (Merkez)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "b45167e9-a8a2-4b38-8bf9-8554618ee674",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Best Of Dürüm, Amasya (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/bestofdurum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "10:30-23:45",
+                            "href": "/best-of-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "a39ef366-9ffc-4a1e-9da7-7bfc34e5916d",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfte Evi, Hacılar Meydanı",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/cig-kofte-evi_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:30-23:59",
+                            "href": "/cig-kofte-evi-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "fdd7633a-9952-4702-ae4b-29f7856c4566",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Güzide Pide, Hacılar Meydanı",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/guzide-pide_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-20:00",
+                            "href": "/guzide-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,3",
+                            "CategoryName": "ea0047cc-3888-47ad-a38b-3073b55927fb",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Amasya (Merkez)",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "5,4",
+                            "SpeedText": "4,6",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "af4df0b2-bdae-4431-86ee-9d353aa4374f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Hacılar Meydanı",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:45-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "1857a180-2f57-438d-9ced-0f4bda51f41c",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pasaport Pizza"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Akbilek",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "7c23e978-f0b0-4906-b1f3-d83d799f670d",
+                            "MainCuisineName": "Pasaport Pizza",
+                            "MinimumDeliveryPrice": 14.9,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/pasaport-pizza-akbilek-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "a79ecbe4-9d6b-4e3f-a68a-ba0df19d11b1",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ziyafet Pide, Hacılar Meydanı",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ziyafet-pide-lahmacun_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/ziyafet-pide-hacilar-meydani-amasya"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Toki (Ziyere)": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "a39ef366-9ffc-4a1e-9da7-7bfc34e5916d",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfte Evi, Hacılar Meydanı",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/cig-kofte-evi_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:30-23:59",
+                            "href": "/cig-kofte-evi-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "1857a180-2f57-438d-9ced-0f4bda51f41c",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Pasaport Pizza"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pasaport Pizza, Akbilek",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/pasaport-pizza-2017_big.gif",
+                            "MainCuisineId": "7c23e978-f0b0-4906-b1f3-d83d799f670d",
+                            "MainCuisineName": "Pasaport Pizza",
+                            "MinimumDeliveryPrice": 45.0,
+                            "ServingText": "7,9",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/pasaport-pizza-akbilek-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
+                        }
+                    ]
                 }
             ]
         },
@@ -300,6 +2501,120 @@
             "Amasya Üniversitesi - 55 Evler Kampüsü": [
                 {
                     "comps": [
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "d18a220a-094c-4992-a0a6-4457fdd876d7",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Amasya (Merkez)",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "587b1aa6-4872-41c0-b95e-a6557209524e",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,1",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,3",
+                            "CategoryName": "ea0047cc-3888-47ad-a38b-3073b55927fb",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Amasya (Merkez)",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 12.0,
+                            "ServingText": "5,4",
+                            "SpeedText": "4,6",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "af4df0b2-bdae-4431-86ee-9d353aa4374f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Hacılar Meydanı",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:45-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "a79ecbe4-9d6b-4e3f-a68a-ba0df19d11b1",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ziyafet Pide, Hacılar Meydanı",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ziyafet-pide-lahmacun_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/ziyafet-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "b45167e9-a8a2-4b38-8bf9-8554618ee674",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Best Of Dürüm, Amasya (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/bestofdurum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "10:30-23:45",
+                            "href": "/best-of-durum-amasya-merkez-amasya"
+                        },
                         {
                             "AvgPoint": "7,5",
                             "CategoryName": "3b6acbd5-d202-464a-9b98-8322fcaa4c48",
@@ -318,6 +2633,24 @@
                             "SpeedText": "7,6",
                             "WorkHoursText": "10:30-00:30",
                             "href": "/dominos-pizza-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
                         }
                     ]
                 }
@@ -326,21 +2659,529 @@
         {
             "Amasya Üniversitesi - Akbilek Kampüsü": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "d18a220a-094c-4992-a0a6-4457fdd876d7",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Amasya (Merkez)",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "587b1aa6-4872-41c0-b95e-a6557209524e",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,1",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "a39ef366-9ffc-4a1e-9da7-7bfc34e5916d",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfte Evi, Hacılar Meydanı",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/cig-kofte-evi_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:30-23:59",
+                            "href": "/cig-kofte-evi-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,3",
+                            "CategoryName": "ea0047cc-3888-47ad-a38b-3073b55927fb",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Amasya (Merkez)",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "5,4",
+                            "SpeedText": "4,6",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "af4df0b2-bdae-4431-86ee-9d353aa4374f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Hacılar Meydanı",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:45-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "a79ecbe4-9d6b-4e3f-a68a-ba0df19d11b1",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ziyafet Pide, Hacılar Meydanı",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ziyafet-pide-lahmacun_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/ziyafet-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "ab6c44fb-559c-43f4-bab6-53c415b05533",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Nasip Ocakbaşı, Şeyh Cui",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/nasipocakbasi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "08:00-20:00",
+                            "href": "/nasip-ocakbasi-seyh-cui-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "b45167e9-a8a2-4b38-8bf9-8554618ee674",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Best Of Dürüm, Amasya (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/bestofdurum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "10:30-23:45",
+                            "href": "/best-of-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "fdd7633a-9952-4702-ae4b-29f7856c4566",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Güzide Pide, Hacılar Meydanı",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/guzide-pide_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-20:00",
+                            "href": "/guzide-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Amasya Üniversitesi - İpek Köy Kampüsü": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "a39ef366-9ffc-4a1e-9da7-7bfc34e5916d",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfte Evi, Hacılar Meydanı",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/cig-kofte-evi_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:30-23:59",
+                            "href": "/cig-kofte-evi-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,3",
+                            "CategoryName": "ea0047cc-3888-47ad-a38b-3073b55927fb",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Amasya (Merkez)",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "5,4",
+                            "SpeedText": "4,6",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "af4df0b2-bdae-4431-86ee-9d353aa4374f",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Hacılar Meydanı",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:45-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "a79ecbe4-9d6b-4e3f-a68a-ba0df19d11b1",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ziyafet Pide, Hacılar Meydanı",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ziyafet-pide-lahmacun_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/ziyafet-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "6,8",
+                            "CategoryName": "f1b3547d-aed0-4d0f-a5c5-43a96779706e",
+                            "CuisineNameList": [
+                                "Köfte",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Akgüller Kebap, Amasya (Merkez)",
+                            "FlavourText": "6,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_AMASYA/akguller-iskender_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 30.0,
+                            "ServingText": "6,8",
+                            "SpeedText": "6,9",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/akguller-kebap-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "b45167e9-a8a2-4b38-8bf9-8554618ee674",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Best Of Dürüm, Amasya (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/bestofdurum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "10:30-23:45",
+                            "href": "/best-of-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 40.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Amasya Üniversitesi - Şeyh Cui Kampüsü": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "7,0",
+                            "CategoryName": "d18a220a-094c-4992-a0a6-4457fdd876d7",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 50,
+                            "DisplayName": "Burger King, Amasya (Merkez)",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "587b1aa6-4872-41c0-b95e-a6557209524e",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "7,1",
+                            "SpeedText": "6,7",
+                            "WorkHoursText": "11:00-22:00",
+                            "href": "/burger-king-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,0",
+                            "CategoryName": "a39ef366-9ffc-4a1e-9da7-7bfc34e5916d",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Çiğ Köfte Evi, Hacılar Meydanı",
+                            "FlavourText": "7,8",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/cig-kofte-evi_big.gif",
+                            "MainCuisineId": "d8e69e58-f390-41f4-a179-68c67e548c11",
+                            "MainCuisineName": "Çiğ Köfte",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,3",
+                            "SpeedText": "8,9",
+                            "WorkHoursText": "11:30-23:59",
+                            "href": "/cig-kofte-evi-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,3",
+                            "CategoryName": "ea0047cc-3888-47ad-a38b-3073b55927fb",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Çiğ Köfte",
+                                "Komagene Etsiz Çiğ Köfte"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Komagene Etsiz Çiğ Köfte, Amasya (Merkez)",
+                            "FlavourText": "5,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/komagene_big.gif",
+                            "MainCuisineId": "cb841fd9-66f7-423b-87ff-7d99c1d9f00d",
+                            "MainCuisineName": "Komagene Etsiz Çiğ Köfte",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "5,4",
+                            "SpeedText": "4,6",
+                            "WorkHoursText": "10:00-01:00",
+                            "href": "/komagene-etsiz-cig-kofte-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,5",
+                            "CategoryName": "a79ecbe4-9d6b-4e3f-a68a-ba0df19d11b1",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ziyafet Pide, Hacılar Meydanı",
+                            "FlavourText": "8,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ziyafet-pide-lahmacun_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/ziyafet-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "5,8",
+                            "CategoryName": "9a2fd57a-659c-49ce-9b28-9d2fe33077b2",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Kral Dürüm, Amasya (Merkez)",
+                            "FlavourText": "6,4",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/kral-durum-amasya_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 9.0,
+                            "ServingText": "5,9",
+                            "SpeedText": "5,0",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/kral-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "ab6c44fb-559c-43f4-bab6-53c415b05533",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Nasip Ocakbaşı, Şeyh Cui",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/nasipocakbasi_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "08:00-20:00",
+                            "href": "/nasip-ocakbasi-seyh-cui-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "b45167e9-a8a2-4b38-8bf9-8554618ee674",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Best Of Dürüm, Amasya (Merkez)",
+                            "FlavourText": "7,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/bestofdurum_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,0",
+                            "SpeedText": "7,4",
+                            "WorkHoursText": "10:30-23:45",
+                            "href": "/best-of-durum-amasya-merkez-amasya"
+                        },
+                        {
+                            "AvgPoint": "7,7",
+                            "CategoryName": "fdd7633a-9952-4702-ae4b-29f7856c4566",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Güzide Pide, Hacılar Meydanı",
+                            "FlavourText": "7,3",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/guzide-pide_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "7,6",
+                            "SpeedText": "8,3",
+                            "WorkHoursText": "10:00-20:00",
+                            "href": "/guzide-pide-hacilar-meydani-amasya"
+                        },
+                        {
+                            "AvgPoint": "8,2",
+                            "CategoryName": "042ca8f3-64cc-43bb-a074-cfdb67b0c1f6",
+                            "CuisineNameList": [
+                                "Pide"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Pidecim, İstasyon",
+                            "FlavourText": "8,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_AMASYA/pidecim_big.gif",
+                            "MainCuisineId": "b2f6dfc8-f5db-4405-9fa8-7e62403e87ff",
+                            "MainCuisineName": "Pide",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "7,8",
+                            "SpeedText": "8,7",
+                            "WorkHoursText": "10:00-21:30",
+                            "href": "/pidecim-istasyon-amasya"
+                        }
+                    ]
                 }
             ]
         }

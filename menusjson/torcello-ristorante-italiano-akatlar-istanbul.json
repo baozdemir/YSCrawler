@@ -1,0 +1,813 @@
+{
+    "comment": [
+        {
+            "Comment": "Hem lokum hem pizzalar sahaneydi.",
+            "Date": "2018-07-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Guzel ama papermoon fiyati...",
+            "Date": "2018-07-22",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ekmek büyümüş, onu biraz değiştirebilir misiniz? Tam tahıllı veya kepekli olabilir veya ince, öptüm kibs.",
+            "Date": "2018-07-20",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Porsiyon o kadar küçük ve bir okadar pahali.",
+            "Date": "2018-07-18",
+            "Flavour": "2",
+            "Serving": "2",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Güzeldi, başarılar.",
+            "Date": "2018-07-14",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hamburgeri begenmedim, patatesleri güzeldi.",
+            "Date": "2018-07-11",
+            "Flavour": "5",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Kaliteli restorant!",
+            "Date": "2018-07-11",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Salata ve pizza lezzet konusunda hayal kırıklığıydı.",
+            "Date": "2018-07-11",
+            "Flavour": "4",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok geç gelmesinin dışında hamuru ve malzemeleri beğendim, elinize sağlık.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mükemmeldi.",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Nap.",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Porsiyon çok az neredeyse yemek için çay kaşığı kullandım...",
+            "Date": "2018-07-06",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her zaman taptaze altın sarısı kızartılmış cotolettalar yollardınız ama maalesef bu sefer kapkara ve mikrodalgada ısıtılmış bir cotoletta geldi, yiyemedim.. Çok üzgünüm.",
+            "Date": "2018-07-04",
+            "Flavour": "4",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Cok iyiler tebrik ederim.",
+            "Date": "2018-07-01",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cok guzel.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tşkler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Napoleone.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mükemmel.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Öncelikle makarnanın tadı ve pişirilmesi çok iyiydi, fakat bolonez sosta kıymadan fazla maydanoz vardı ve çok baskındı, sanki maydanozlu makarna istemişim gibi geldi. Onun dışında kurye arkadaş çok güler yüzlüydü fakat çatal servisi konmamıştı. Bilginize.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Evet kepçe kepçe yemek yenmemesi gerektiğine inanıyorum fakat fiyatlara göre oldukça küçük porsiyonlarda yemek geliyor. Lezzetse harika.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "4",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Salata çok ufaktı.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Torcello burger bi haria..",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizzalar cok lezzetliydi.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Gayet başarılı...",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hamur kötü, lezzeti iyi değildi. Gerçek italyan pizzasının yanından bile geçmez..",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Bir başkadır torcello, zaten bana da tecerollo derlerdi, benim gibi ).",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zman iyiler.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gerçekten çok başarılı, joker indirimi denk geldi diye deneyelim dedik, çok memnun kaldık. Fiyatları uygun, yemekleri enfes.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Uzun zamandır kaliteli, leziz, taze italyan yemeği arıyordum ve sonunda bulduğuma inanıyorum :) ilk siparişimdi ve çok memnun kaldım, teşekkürler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ellerinize sağlık. Lezzetli ve okadar sıcak geldi ki bravo umarım daima böyle kalırsınız.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika bir hamburgerdi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok iyi, iyi ki varsınız.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "10 numero.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok ağırdı ve lezzetsizdi. Müşteri notlarına hiç dikkat etmiyorsunuz. Rica ettiğimiz ikramı yapamayacaksınız bile ki buratta dediğimiz şey bu kadar pahalı bir şey değil en azından bir haber verebilirdiniz. Fiyatlarınız çok çok pahalı ve karşılığını vermiyor.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Efsolar diyarında bir efso burger.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Efsane ötesi bir lezzet.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Un italiano vero.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Etin pişme şekli sorulmalı.",
+            "Date": "2018-04-25",
+            "Flavour": "5",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzet ve hız çok iyiydi, fettuchinideki mantar oranı azdı biraz ama kaynar tencereden cıkmıs gibi gelmesi onu unutturdu, tesekkür ederim.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey harika ama fiş getirmeyiunutuyorlar.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Normalde mantarlı fettucine söylerdim, porsiyonu gayet yeterli gelirdi bu sefer bolognese söyledim ve gerçekten çok küçük porsiyon gönderdiler. 45 kiloyum, o kadar çok yemem ben bile doymadım. Kıyma var diye porsiyon küçülüyorsa keşke kıymayı azaltsalar.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "5",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Margaritta çok güzel değildi fakat lokum burger ve akdeniz salatası çok lezzetliydi elinize sağlık.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzet iyi ancak porsiyonlar hakikaten cok kucuk.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Supersiniz.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Makara siparis ettim. Cok lezzetiydi ancak porsiyon cok kucuktu.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Muhtesem.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cok iyi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Efsane.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizzalariniz muthis!",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ürün yanlış gelince aradık ve direk yenisini hazırlayıp getirdiler. Güzel işletme.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Tüm tatlıları denedim, tatlılar şaaahaane, parası fazla da olsa kalite yüksek. Umarım bu çizgiden çıkmazlar gelecekte de.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Perfectooo :).",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mükemmel kezzet.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Makarna guzeldi, ama bence lezzet ve porsiyona gore fiyatlar yuksek. Porsiyon daha fazla olabilirdi. Zincir olan malum italyan restoraninda da ayni makarnayi yemistim onun sosunun aromasi daha lezzetli gelmisti bana. Bunu yermek adina degil yapici bir oneri olmasi adina yaziyorum. Tesekkurler.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Torcelle restaronte herşey çok güzel müdaviniyiz.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı ve sıcak geldi lokum burger bi harikaydı.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İnanılmaz :).",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizzalar çok lezzetli, hızlı ve sıcak geldi, teşekkürler.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bonfile gercekten cok lezzetli ve basarili fakat porsiyonu biraz daha buyuk olmali bence.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Porsiyon biraz kucuk gibiydi ama cok lezzetliydi ellerinize saglik.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her zaman en iyisi.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Lokum, cheddar peyniri, karamelize soğan, füme et, hardal",
+            "ItemName": "Lokum Burger",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, fesleğen",
+            "ItemName": "Margherita Pizza",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Rigatoni, domates sos, mozzarella peyniri, patlıcan, kekik",
+            "ItemName": "Rigatoni Alla Siciliana",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Milföy, pasta kreması, çilek sos, karamel sos ile",
+            "ItemName": "Napoleone",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Fettuccine, porçini mantarı, krema sos",
+            "ItemName": "Fettuccine Con Panna E Porcini",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger köftesi, cheddar peyniri, karamelize soğan, füme et, hardal",
+            "ItemName": "Torcello Burger",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Manda peyniri, kaymaklı sarı cherry domates püresi, fesleğen",
+            "ItemName": "Burrata di Buffalo",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "(Domuz eti içerir.) Prosciutto parma kavun ile",
+            "ItemName": "Parma Ham con Melon",
+            "ItemPrice": "48,00 TL"
+        },
+        {
+            "ItemInfo": "Karides, zeytinyağı, sarımsak, acı biber",
+            "ItemName": "Gamberi Aglio Olio Peperencino",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Somon füme",
+            "ItemName": "Salmone Affumicato",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Antrikot füme et tabağı",
+            "ItemName": "Affumicato Entrecote",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması",
+            "ItemName": "Patatine Fritte",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, sarımsak, fesleğen, parmesanlı ekmek",
+            "ItemName": "Bruschetta",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Kalamar, karides, kum, cherry domates, fesleğen",
+            "ItemName": "Zuppa Del Calamari Guazzetto",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara mevsim sebzeleri, scamorza peyniri",
+            "ItemName": "Verdure Grigliate Con Scamorza",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Kalamar, kabak kızartması",
+            "ItemName": "Calamari E Zucchini Fritti",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Kurutulmuş sığır eti, roka, ricotta peyniri",
+            "ItemName": "Bresaola Rucola con Ricotta",
+            "ItemPrice": "44,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger köftesi, cheddar peyniri, karamelize soğan, füme et, hardal",
+            "ItemName": "Torcello Burger",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Lokum, cheddar peyniri, karamelize soğan, füme et, hardal",
+            "ItemName": "Lokum Burger",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlar ile pişirilmiş dana bonfile, demi glace sos, porçini mantarı",
+            "ItemName": "Filetto ai Porcini",
+            "ItemPrice": "74,00 TL"
+        },
+        {
+            "ItemInfo": "Galate unu ile panelenmiş süt danası, roka, sarımsak, cherry domates",
+            "ItemName": "Cotoletta alla Milanese (200 - 220 gr.)",
+            "ItemPrice": "64,00 TL"
+        },
+        {
+            "ItemInfo": "Somon fileto ızgara. Akdeniz yeşillikleri ile",
+            "ItemName": "Salmone alla Griglia",
+            "ItemPrice": "53,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lokum (200 - 220 gr.)",
+            "ItemPrice": "60,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Bonfile (220 - 250 gr.)",
+            "ItemPrice": "69,00 TL"
+        },
+        {
+            "ItemInfo": "Baby kalamar ızgara, Akdeniz yeşillikleri, havuç, sarımsak, pesto sos",
+            "ItemName": "Calamari Alla Griglia",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "Slays kesim somon balığı, kabak yatağında fırınlanarak servis edilir.",
+            "ItemName": "Tagliata Salmone Con Zucchini",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "Fileto dil balığı, ızgara sotelenmiş enginar, kapari çiçeği",
+            "ItemName": "Sogliola Di Carciofi Con Capperi",
+            "ItemPrice": "60,00 TL"
+        },
+        {
+            "ItemInfo": "Dilimlenmiş dana bonfile, roka, cherry domates",
+            "ItemName": "Robespierre",
+            "ItemPrice": "58,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Takoz Bonfile (220 - 250 gr.)",
+            "ItemPrice": "69,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, fesleğen",
+            "ItemName": "Margherita Pizza",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Dört çeşit peynirli",
+            "ItemName": "Quattro Formaggi",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, dana jambonu, mantar, zeytin, patlıcan",
+            "ItemName": "Quattro Stagioni",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sosu, mozzarella peyniri, roka, bresaola, parmesan peyniri ile",
+            "ItemName": "Valtellina",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, mısır, sosis, sucuk, dana jambon ile",
+            "ItemName": "Pizza Cacciatore",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, dana carpaccio, stracciatella peyniri, truff kreması ile",
+            "ItemName": "Pizza Torcello (SP)",
+            "ItemPrice": "55,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık sebzeler, domates sos, mozzarella peyniri",
+            "ItemName": "Pizza Ortolana",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, dana füme, jambon, siyah zeytin, mantar, enginar",
+            "ItemName": "Pizza Capricciosa",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Yarım ay pizza, mozzarella peyniri, ıspanak, füme et",
+            "ItemName": "Calzone",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, fesleğen, porçini mantarı",
+            "ItemName": "Pizza Funghi Porcini",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "(Domuz eti içerir.) Domates sos, mozzarella peyniri, porçini mantarı, prosciutto",
+            "ItemName": "Pizza Porcini Con Prosciutto",
+            "ItemPrice": "49,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, acılı sucuk, yeşil biber",
+            "ItemName": "Pizza Diavola Piccante",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, karamelize soğan, jülyen doğranmış domates, sarımsak",
+            "ItemName": "Pizza San Marco",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Kapalı focaccia, domates, mozzarella peyniri, ıspanak, breasola, parmesan peyniri, trüf yağı",
+            "ItemName": "Pizza Focaccia Farcita",
+            "ItemPrice": "60,00 TL"
+        },
+        {
+            "ItemInfo": "(Domuz eti içerir.) Domates sos, mozzarella peyniri, hafif acılı domuz sucuğu",
+            "ItemName": "Pizza Pepperoni",
+            "ItemPrice": "44,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, mozzarella peyniri, kalamar, karides, somon, taze kekik",
+            "ItemName": "Pizza ai Frutti Di Mare",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Penne, acılı domates sosu",
+            "ItemName": "Penne all'Arrabbiata",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Rigatoni, domates sos, mozzarella peyniri, patlıcan, kekik",
+            "ItemName": "Rigatoni Alla Siciliana",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Ispanak ve ricotta peyniri ile doldurulmuş ev yapımı ravioli, ada çayı, tereyağ soslu",
+            "ItemName": "Ravioli di Ricotta",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Ev yapımı troccoli, karides, domates. Kuşkonmaz ile",
+            "ItemName": "Troccoli Con Gamberi e Asparagi",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Ev yapımı tagliolini, somon füme, pembe sos ile",
+            "ItemName": "Tagliolini Neri Con Salmone",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Fettuccine, porçini mantarı, krema sos",
+            "ItemName": "Fettuccine Con Panna E Porcini",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Penne makarna, pembe sos, kabak, karides",
+            "ItemName": "Penne Gamberi E Zucchine",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Zeytinyağı, mozzarella peyniri, cherry domates, fesleğen",
+            "ItemName": "Fusilli Di Estiva",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Paccheri, dana bonfile, krema, trüf mantarı",
+            "ItemName": "Mezze Paccheri Casa Nostra",
+            "ItemPrice": "50,00 TL"
+        },
+        {
+            "ItemInfo": "Ev yapımı gnocchi, gorgonzola peyniri, krema",
+            "ItemName": "Gnocchi Al Gorgonzola",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Linguine, deniz mahsulü, cerry domates sosu ile",
+            "ItemName": "Linguine Ai Frutti Di Mare",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "Linguine, kum midyeleri, sarımsak, acı biber",
+            "ItemName": "Linguine Alle Vongole",
+            "ItemPrice": "44,00 TL"
+        },
+        {
+            "ItemInfo": "Spaghetti, taze bakla, karides",
+            "ItemName": "Spaghetti Al Fava E Gamberi",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Ev yapımı tagliatelle, dana kıyma, bolonez sosu",
+            "ItemName": "Tagliatelle al Ragu",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, parmesan peyniri",
+            "ItemName": "Insalata Di Rucola",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Portakal suyunda marine edilmiş enginar, parmesan peyniri",
+            "ItemName": "Insalata di Carciofi",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Semizotu, kırmızı pancar, cherry domates, keçi peyniri, vinegret sos",
+            "ItemName": "Insalata Di Caprino",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Akdeniz yeşillikleri, tavuk parçaları, vinegret sos",
+            "ItemName": "İnsalata Di Pollo",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Kinoa salatası, roka, nar, ceviz, badem, ızgara somon dilimleri",
+            "ItemName": "İnsalata Di Quinoa Con Salmone",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Karışık Akdeniz yeşillikleri, avokado, karides, sebze vinegret",
+            "ItemName": "İnsalata di Avocado Con Gamberi",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Dilimlenmiş dana bonfile, roka, parmesan peyniri, vinegret sos",
+            "ItemName": "Insalata Di Rucola Con Vitello",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Milföy, pasta kreması, çilek sos, karamel sos ile",
+            "ItemName": "Napoleone",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Kahveli süt tatlısı",
+            "ItemName": "Çikolata Soslu Panna Cotta",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Kahveli süt tatlısı",
+            "ItemName": "Orman Meyveli Soslu Panna Cotta",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (25 cl.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (25 cl.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (25 cl.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (20 cl.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (20 cl.)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (25 cl.)",
+            "ItemPrice": "9,00 TL"
+        }
+    ]
+}

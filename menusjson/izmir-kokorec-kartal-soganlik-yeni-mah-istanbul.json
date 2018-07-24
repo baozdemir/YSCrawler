@@ -1,0 +1,619 @@
+{
+    "comment": [
+        {
+            "Comment": "Eksiksiz ve sıcak servis için teşekkür ederiz. Gayet lezzetli ve ilgili bir müessesedir arkadaşlar, çekinmeden sipariş verebilirsiniz.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Dukkanda yemekle eve soylemek arasinda fark varmis bunu anladik kesinlikle dukkanda yenmeli.",
+            "Date": "2018-07-18",
+            "Flavour": "6",
+            "Serving": "3",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İzmir usulü sipariş verdim ama kokoreç çok küçük doğranmış ve kurumuştu. Hız konusunda iyiler.",
+            "Date": "2018-07-16",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Beklediğimden çok erken geldi tadı da güzel servisi yapan kişi de çok güleryüzlü memnun kaldım.",
+            "Date": "2018-07-14",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kokoreç güzeldi ama midyeyi tavsiye edemeyeceğim.",
+            "Date": "2018-07-12",
+            "Flavour": "4",
+            "Serving": "5",
+            "Speed": "6"
+        },
+        {
+            "Comment": "İzmir kokoreç çok kötü kurumuştu. İstanbul kokoreç çok iyiydi.",
+            "Date": "2018-07-11",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hız olarak bana fazla yakın olmamasına ragmen hızlıydı. Servis olarak kokoreçler aleminyum folyoya sarılıydı. Midyeler poşet içerisindeyim ve limon oldukça yeterliydi. Ama midyeler bana biraz küçük geldi. Lezzet olarak ortalama kokoreçlerin bir tık üzerinde diyebilirim. Midyeler idare eder.",
+            "Date": "2018-07-07",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Midyeyi beğenmedim. İyi çalışmalar.",
+            "Date": "2018-07-03",
+            "Flavour": "1",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Turşu suyu paketinde değil içecek poşetinin içerisindeydi. Bir de izmir kokoreç diğer kokoreçin domates ve bibersiz haliydi. Daha büyük parçalar beklemiştim.",
+            "Date": "2018-06-29",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İçine azdaha hiçbirsey koymasaydiniz daha iyi olurdu ya kuru kuru yerdik.",
+            "Date": "2018-06-26",
+            "Flavour": "3",
+            "Serving": "3",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Güzeldi herşey. Çok teşekkür ederim.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Eskisi gibi değil sanki biraz dikkat edilebilir.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Fena sayılmaz.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzetli sayılır. Yavaş geliyor.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Süre ve lezzet açısından oldukça güzeldi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Servis ve hız güzeldi. Kokoreç ağzımda yağ tadı bıraktı. Onun dışında lezzetliydi.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Dünya üzerinde yediğim en kötü kokoreç. Bir tebriği hakettiniz.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Ekmek çok bayattı ama kokoreçin lezzeti iyiydi. Teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Harika.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kalitede biraz düşüş var gibi. Ağzımda garip bi tat bıraktı. Ayrıca da içinde damar gibi siyah parçalar vardı. Umarım rahatsız etmez.",
+            "Date": "2018-05-25",
+            "Flavour": "6",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel böyle devam..",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Belki bana denk gelmiştir bilmiyorum ama bol yağlı ekmek arası salata yiyormuşum gibi geldi. Yağ olmayan kokorecler de yanmıştı. Közde kokorecin nasıl birşey olduğunu biliyorum. Benimki baya yanmıştı.",
+            "Date": "2018-05-25",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Kokoreçinizin tadı çok güzel fakat dün gelen kokoreç istemememe rağmen acıydı.",
+            "Date": "2018-05-25",
+            "Flavour": "6",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hayatımda yediğim en kötü midyeydi... Bir daha asla... Almayın... Midyeler temizlenmemiş tadı berbat.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Oldukca hizli ve lezzetli kokorec tavsiye edilir.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Affedersiniz de kokoreç böyle olmaz.. İçimden hala kömür kokusu geliyor ve kekik aşırı fazlaydı ve sonradan üzerine serpilmiş gibi. Midemiz çok rahatsız oldu. Ekmek tercihiniz yanlış. Hiç yağlı değil kupkuru bir şeydi. Çok iyileştirme yapmanız lazım. Lezzet puanım 1.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yarım kokoreç söyledim içindeki et miktarını çeyrek kokoreçe koysan bile az olur..",
+            "Date": "2018-05-25",
+            "Flavour": "5",
+            "Serving": "2",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Bugun gelen kokorece yağı basmissiniz ayip. Sizden baska yerden soylemiyoruz ama bu nasil bir istir. 20 tl hakki bu mu?",
+            "Date": "2018-04-25",
+            "Flavour": "2",
+            "Serving": "1",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Kokoreç kadar yağ koymuş.",
+            "Date": "2018-04-25",
+            "Flavour": "5",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İcinde bize sormadan biber atılmıştı domatesler cok iriydi siparis hizli geldi ama lezzet cok iyi degildi.",
+            "Date": "2018-04-25",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Daha öncede birçok kez sipariş verdim. Önlar gayet başarıydı fakat son verdiğim siparişte kokoreçmi yedim, kömür mü yedim anlamadım. Resmen bir gün önceden kalma kokoreç geldi. Ayrıca 3/4 ekmeğe çok az konulmuş. Ekmeğide kömüre bandırmışlar. Hayatım boyunca yiyebileceğim en kötü kokoreçti. Üzgünüm...",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Kötü.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Yanına limon ve süs biberi koyaydınız iyiydi ama kralsınız süper lezzet ve hız.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Midyeler kumluydu.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hızlı geldi sıcaktı ve lezzetliydi. Notlar da okunmuş. Teşekkürler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzeldi tavsiye ederim.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kotu dsgil ama biraz farkli orjinalinden.",
+            "Date": "2018-04-25",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Eh işte midyeler dengesiz kezzet dagılımı vardı kokoreç daha bol koyulmalı aldıgınız paranın hakkını verin bence kolay gelsin.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Mıdyeler ufak ve cok lezzetliydi mukemmel. Ama busefer kokorec soguk ve kotuydu begenmedim.",
+            "Date": "2018-04-25",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Süpersiniz.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hız olarak çok yavaştı ve kokoreç soğuktu.",
+            "Date": "2018-03-26",
+            "Flavour": "5",
+            "Serving": "7",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Joker indirim aldım midye etsiz baharat yok kokoreç buz gibi jokerden yararlanmayın.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Mukemmel.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Joker e rağmen her şey mükemmeldi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ellerinize saglik.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Midyelerde biraz fazla kimyon var. Azaltilirsa tadi sahane olabilir.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Siparişim oldukça hızlı ve sıcaktı. Kokoreçin bazı yerleri fazla baharatlı ve tuzluydu. Sanırım iyi karıştırılmamış. Lezzet olarak iyiydi. Midyeler idare eder. Siparişi getiren arkadaşımızın dükkana gidip başka siparişleri yetiştirmem lazım diyerek arabadan inmemesi biraz üzdü.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Soguktu.",
+            "Date": "2018-02-24",
+            "Flavour": "4",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hız fena değil. Lezzet çok iyi fakat midyeler fiyata göre küçük gibi.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lezzetli.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Soğanlık yeni mahallenin minimum sipariş tutarı 5 lira olmasına rağmen 7 liralık siparişimi (minimum sipariş tutarının altında denilerek) iptal etmenizin sebebi nedir?",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "2",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Midye Dolma (Adet)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "Közde çevirilip, tavada ince kıyılır. Domates, biber ve baharat ile",
+            "ItemName": "İstanbul Usulü Yarım Ekmek Arası Kuzu Kokoreç",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Közde pişirilip, iri kıyım kesilir. Kimyon, kekik, pul biber ve tuz ile",
+            "ItemName": "İzmir Usulü Yarım Ekmek Arası Kuzu Kokoreç",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "İzmir Usulü 3/4 Ekmek Arası Kokoreç",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Közde çevirilip, tavada ince kıyılır. Domates, biber ve baharat ile",
+            "ItemName": "İstanbul Usulü Çeyrek Ekmek Arası Kuzu Kokoreç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Közde pişirilip, iri kıyım kesilir. Kimyon, kekik, pul biber ve tuz ile",
+            "ItemName": "İzmir Usulü Çeyrek Ekmek Arası Kuzu Kokoreç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "İzmir Usulü 3/4 Ekmek Arası Kokoreç veya İstanbul Usulü 3/4 Ekmek Arası Kokoreç + Ballı Badem Tatlısı + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (3/4 Ekmek Arası Kokoreç)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "İzmir Usulü Yarım Ekmek Arası Kuzu Kokoreç veya İstanbul Usulü Yarım Ekmek Arası Kuzu Kokoreç + Midye Dolma (5 Adet) + Ballı Badem Tatlısı + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Ekmek Arası Kokoreç)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet İzmir veya İstanbul Usulü Yarım Ekmek Arası Kuzu Kokoreç + Ballı Badem Tatlısı + 2 Adet Ayran (20 cl.)",
+            "ItemName": "2'li Kokoreç Menü",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "30 Adet Midye Dolma + 3 Adet Yarım Ekmek Arası İzmir veya İstanbul Kuzu Kokoreç + Ballı Badem Tatlısı + 3 Adet Kutu İçecek",
+            "ItemName": "Maç Menüsü",
+            "ItemPrice": "81,00 TL"
+        },
+        {
+            "ItemInfo": "İzmir Usulü 3/4 Ekmek Arası Kokoreç veya İstanbul Usulü 3/4 Ekmek Arası Kokoreç + 10 Adet Midye Dolma + Ballı Badem Tatlısı + Ayran (30 cl.)",
+            "ItemName": "Doyum Menü 1",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "İzmir Usulü Yarım Ekmek Arası Kuzu Kokoreç veya İstanbul Usulü Yarım Ekmek Arası Kuzu Kokoreç + 5 Adet Midye Dolma + Ballı Badem Tatlısı + Coca-Cola (33 cl.)",
+            "ItemName": "Doyum Menü 2",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "2 Adet İzmir Usulü Yarım Ekmek Arası Kuzu Kokoreç veya İstanbul Usulü Yarım Ekmek Arası Kuzu Kokoreç + 20 Adet Midye Dolma + Ballı Badem Tatlısı + 2 Adet Ayran (20 cl.) ",
+            "ItemName": "2'li Kokoreç & 20'li Midye Dolma Menü",
+            "ItemPrice": "57,00 TL"
+        },
+        {
+            "ItemInfo": "Közde çevirilip, tavada ince kıyılır. Domates, biber ve baharat ile",
+            "ItemName": "İstanbul Usulü Yarım Ekmek Arası Kuzu Kokoreç",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Közde çevirilip, tavada ince kıyılır. Domates, biber ve baharat ile",
+            "ItemName": "İstanbul Usulü Çeyrek Ekmek Arası Kuzu Kokoreç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Közde pişirilip, iri kıyım kesilir. Kimyon, kekik, pul biber ve tuz ile",
+            "ItemName": "İzmir Usulü Yarım Ekmek Arası Kuzu Kokoreç",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Közde pişirilip, iri kıyım kesilir. Kimyon, kekik, pul biber ve tuz ile",
+            "ItemName": "İzmir Usulü Çeyrek Ekmek Arası Kuzu Kokoreç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "İzmir Usulü 3/4 Ekmek Arası Kokoreç",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "İstanbul Usulü 3/4 Ekmek Arası Kokoreç",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "İstanbul Usulü Kuzu Kokoreç",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "İzmir Usulü Kuzu Kokoreç",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ekmek Arası Tavuk Pirzola",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "İsteğe göre soğan",
+            "ItemName": "Ekmek Arası Köfte",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sosisli Sandviç (Büyük)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, mevsim yeşillikleri",
+            "ItemName": "Izgara Köfte",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş domates, közlenmiş yeşilbiber, mevsim yeşillikleri",
+            "ItemName": "Tavuk Pirzola",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger köftesi, marul, domates, turşu, ketçap",
+            "ItemName": "Hamburger",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sosisli Sandviç",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Midye Dolma (Adet)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ballı Badem Tatlısı",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (25 cl.) (Şişe)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy Karışık (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy Vişne Nektarı (25 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Niğde Gazozu (25 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (25 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        }
+    ]
+}

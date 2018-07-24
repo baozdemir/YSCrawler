@@ -1,0 +1,407 @@
+{
+    "comment": [
+        {
+            "Comment": "Fena sayilmaz.",
+            "Date": "2018-07-20",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "3 döner istemiştik 2 tane getirdiler özellikle fazla turşu istedik bir tane limon dilimi dahi koymamışlardı.",
+            "Date": "2018-07-16",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "4"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-07-15",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cok lezzetli herkese tavsiye ederim.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok güzel.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Puana bakip cekindim ama kesinlikle cok guzeldi.",
+            "Date": "2018-06-30",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gelen sipariş güzeldi ancak pilav kötüydü.",
+            "Date": "2018-06-23",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Antakya dönerin içinde antakya sosu diye ketçap sıkılmıştı. Içinde ızgara tavuk göğüs eti vardı, eyvallah et az değildi ama lezzetsizdi. Çift lavaşlı istedim başta tek lavaş sandım ama çiftmiş ona da eyv. Ama çok inceydi lavaşlar. Birde siparişimde ayran da olmasına rağmen poşetten ayran çıkmadı.",
+            "Date": "2018-06-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Puanının düşüklüğüne aldanmayın güzel. Lakin ekmek biraz sertti onu da belirteyim.",
+            "Date": "2018-06-23",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Puanlarına aldanmayın gayet iyi..",
+            "Date": "2018-06-23",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Puanlarını görünce çekinerek sipariş verdim ama bence gayet iyiydi. Felafel tavsiye ederim güzel.",
+            "Date": "2018-06-23",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Süper.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ekmek taze olsaydı iyi olurdu. Biraz özen lazım..",
+            "Date": "2018-05-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Cok kötü.",
+            "Date": "2018-05-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Nefis.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Orta.",
+            "Date": "2018-05-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lezzetli...",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kötü.",
+            "Date": "2018-05-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "2"
+        },
+        {
+            "Comment": "Gayet güzeldi puanının düşük olması şaşırttı.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet güzeldi sarımsaklı sos efsaneydi.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyiydi.",
+            "Date": "2018-05-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Bol sos koyun mayonez koymayın acılı dedim. Bol mayonezli acısız sossuz geldi. Hızlıydı ama başarısız.",
+            "Date": "2018-04-24",
+            "Flavour": "2",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzeti iyiydi.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Tavuk döner, mayonez, özel baharatlı sos. Patates kızartması ile",
+            "ItemName": "Arap Tavuk Döner",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Falafel, humus, salatalık, domates, marul, turşu",
+            "ItemName": "Falafel Dürüm",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Özel acılı, baharatlı kızarmış tavuk parçaları, patates kızartması, ketçap, mayonez",
+            "ItemName": "Spicy Tavuk Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Özel baharatlı kızarmış tavuk parçaları, patates kızartması, ketçap, mayonez",
+            "ItemName": "Crispy Tavuk Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Sarımsak soslu baharatlı kızarmış tavuk parçaları, patates kızartması, ketçap, mayonez",
+            "ItemName": "Escalope Tavuk Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk döner, kaşar peyniri, mantar, mayonez. Patates kızartması ile",
+            "ItemName": "Ekstra Tavuk Döner",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Özel baharatlı kızarmış tavuk parçaları, patates kızartması, ketçap, mayonez",
+            "ItemName": "Crispy Tavuk Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Özel acılı, baharatlı kızarmış tavuk parçaları, patates kızartması, ketçap, mayonez",
+            "ItemName": "Spicy Tavuk Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Özel az acılı, baharatlı kızarmış tavuk parçaları, patates kızartması, ketçap, mayonez",
+            "ItemName": "Zinger Tavuk Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Sarımsak soslu baharatlı kızarmış tavuk parçaları, patates kızartması, ketçap, mayonez",
+            "ItemName": "Escalope Tavuk Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Acı biber, tavuk parçaları, patates kızartması, ketçap, mayonez",
+            "ItemName": "Meksika Tavuk Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Hamburger köftesi, domates, marul, turşu, ketçap, mayonez",
+            "ItemName": "Hamburger",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk eti, domates, marul, turşu, ketçap, mayonez",
+            "ItemName": "Tavuk Burger",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı pilav, özel sos",
+            "ItemName": "Izgara Tavuk But",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması ile",
+            "ItemName": "Tavuk Şiş (250 gr.)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Özel baharatlı kızarmış tavuk parçaları",
+            "ItemName": "Crispy Tavuk",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Özel acılı, baharatlı kızarmış tavuk parçaları",
+            "ItemName": "Spicy Tavuk",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Özel az acılı, baharatlı kızarmış tavuk parçaları",
+            "ItemName": "Zinger Tavuk",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Sarımsak soslu baharatlı kızarmış tavuk parçaları",
+            "ItemName": "Escalope Tavuk",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Acı biber, tavuk parçaları, patates kızartması",
+            "ItemName": "Meksika Tavuk",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Kızarmış tavuk döner, kaşar peyniri. Patates kızartması ile",
+            "ItemName": "Bane Tavuk Döner",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk döner, kaşar peyniri, mantar, mayonez. Patates kızartması ile",
+            "ItemName": "Ekstra Tavuk Döner",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk döner, mayonez, özel baharatlı sos. Patates kızartması ile",
+            "ItemName": "Arap Tavuk Döner",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk döner, mayonez",
+            "ItemName": "Tavuk Döner Dürüm",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk döner, patates kızartması, mayonez, Antakya sos",
+            "ItemName": "Antakya Usulü Tavuk Döner Dürüm",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz pilav ile",
+            "ItemName": "Pilav Üstü Tavuk Döner",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması ile",
+            "ItemName": "Tavuk Döner (250 gr.)",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması ile",
+            "ItemName": "Tavuk Döner (500 gr.)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillik",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Falafel, humus, salatalık, domates, marul, turşu",
+            "ItemName": "Falafel Dürüm",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması, ketçap, mayonez",
+            "ItemName": "Patates Dürüm",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Humus",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Falafel (4 Adet)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması (Küçük)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması (Büyük)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, marul, zeytinyağı, limon suyu",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, marul, zeytinyağı, limon suyu, siyah zeytin, kızarmış ekmek, nar ekşisi",
+            "ItemName": "Fettuş",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "7UP (33 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (1 L.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Muzlu Süt",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Portakal, muz, elma, çilek",
+            "ItemName": "Karışık Meyve Suyu",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Havuç Suyu",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Portakal Suyu",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Portakal Havuç Suyu",
+            "ItemPrice": "5,00 TL"
+        }
+    ]
+}

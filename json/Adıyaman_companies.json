@@ -3,112 +3,1947 @@
         {
             "Altınşehir Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,6",
+                            "CategoryName": "d7665aa0-2310-472f-8cea-d1254c343d8a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Valilik",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "be1adca8-3f6f-4bc7-a20a-678add79d921",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "3644c7c4-5fff-4086-a13b-cea5231f679a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Gülse Hatay Döneri, Altınşehir Mah.",
+                            "FlavourText": "6,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/gulsehataydoneri_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:30-22:30",
+                            "href": "/gulse-hatay-doneri-altinsehir-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 17.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Cumhuriyet Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,6",
+                            "CategoryName": "d7665aa0-2310-472f-8cea-d1254c343d8a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Valilik",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "be1adca8-3f6f-4bc7-a20a-678add79d921",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 12.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Esentepe Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 14.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Eskisaray Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,6",
+                            "CategoryName": "d7665aa0-2310-472f-8cea-d1254c343d8a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Valilik",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "be1adca8-3f6f-4bc7-a20a-678add79d921",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "cae5652f-ff40-4873-a659-0ab9dd99dc8a",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Valilik",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "f38d1d52-8a7a-40e7-a5f1-dc042ea0a861",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/dominos-pizza-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "f0ca94b3-53a6-494b-ab37-ccbb1df5c9ae",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Naz Fast, Valilik",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_ADIYAMAN/nazfast_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/naz-fast-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         },
         {
             "İmamağa Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "cae5652f-ff40-4873-a659-0ab9dd99dc8a",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Valilik",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "f38d1d52-8a7a-40e7-a5f1-dc042ea0a861",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/dominos-pizza-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "f0ca94b3-53a6-494b-ab37-ccbb1df5c9ae",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Naz Fast, Valilik",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_ADIYAMAN/nazfast_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/naz-fast-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 12.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Kapcami Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,6",
+                            "CategoryName": "d7665aa0-2310-472f-8cea-d1254c343d8a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Valilik",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "be1adca8-3f6f-4bc7-a20a-678add79d921",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "cae5652f-ff40-4873-a659-0ab9dd99dc8a",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Valilik",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "f38d1d52-8a7a-40e7-a5f1-dc042ea0a861",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/dominos-pizza-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "f0ca94b3-53a6-494b-ab37-ccbb1df5c9ae",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Naz Fast, Valilik",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_ADIYAMAN/nazfast_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/naz-fast-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Karapınar Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,6",
+                            "CategoryName": "d7665aa0-2310-472f-8cea-d1254c343d8a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Valilik",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "be1adca8-3f6f-4bc7-a20a-678add79d921",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 14.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Malazgirt Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,6",
+                            "CategoryName": "d7665aa0-2310-472f-8cea-d1254c343d8a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Valilik",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "be1adca8-3f6f-4bc7-a20a-678add79d921",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "cae5652f-ff40-4873-a659-0ab9dd99dc8a",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Valilik",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "f38d1d52-8a7a-40e7-a5f1-dc042ea0a861",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/dominos-pizza-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "f0ca94b3-53a6-494b-ab37-ccbb1df5c9ae",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Naz Fast, Valilik",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_ADIYAMAN/nazfast_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/naz-fast-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Musalla Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,6",
+                            "CategoryName": "d7665aa0-2310-472f-8cea-d1254c343d8a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Valilik",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "be1adca8-3f6f-4bc7-a20a-678add79d921",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "cae5652f-ff40-4873-a659-0ab9dd99dc8a",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Valilik",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "f38d1d52-8a7a-40e7-a5f1-dc042ea0a861",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/dominos-pizza-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "f0ca94b3-53a6-494b-ab37-ccbb1df5c9ae",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Naz Fast, Valilik",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_ADIYAMAN/nazfast_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/naz-fast-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Sıratut Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,6",
+                            "CategoryName": "d7665aa0-2310-472f-8cea-d1254c343d8a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Valilik",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "be1adca8-3f6f-4bc7-a20a-678add79d921",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "cae5652f-ff40-4873-a659-0ab9dd99dc8a",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Valilik",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "f38d1d52-8a7a-40e7-a5f1-dc042ea0a861",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/dominos-pizza-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "f0ca94b3-53a6-494b-ab37-ccbb1df5c9ae",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Naz Fast, Valilik",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_ADIYAMAN/nazfast_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/naz-fast-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 7.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Siteler Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,6",
+                            "CategoryName": "d7665aa0-2310-472f-8cea-d1254c343d8a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Valilik",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "be1adca8-3f6f-4bc7-a20a-678add79d921",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "cae5652f-ff40-4873-a659-0ab9dd99dc8a",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Valilik",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "f38d1d52-8a7a-40e7-a5f1-dc042ea0a861",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/dominos-pizza-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "f0ca94b3-53a6-494b-ab37-ccbb1df5c9ae",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Naz Fast, Valilik",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_ADIYAMAN/nazfast_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/naz-fast-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Sümerevler Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,6",
+                            "CategoryName": "d7665aa0-2310-472f-8cea-d1254c343d8a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Valilik",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "be1adca8-3f6f-4bc7-a20a-678add79d921",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Turgut Reis Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,6",
+                            "CategoryName": "d7665aa0-2310-472f-8cea-d1254c343d8a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Valilik",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "be1adca8-3f6f-4bc7-a20a-678add79d921",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "cae5652f-ff40-4873-a659-0ab9dd99dc8a",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Valilik",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "f38d1d52-8a7a-40e7-a5f1-dc042ea0a861",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 15.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/dominos-pizza-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "f0ca94b3-53a6-494b-ab37-ccbb1df5c9ae",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Naz Fast, Valilik",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_ADIYAMAN/nazfast_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 20.0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/naz-fast-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Valilik": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,6",
+                            "CategoryName": "d7665aa0-2310-472f-8cea-d1254c343d8a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Valilik",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "be1adca8-3f6f-4bc7-a20a-678add79d921",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "cae5652f-ff40-4873-a659-0ab9dd99dc8a",
+                            "CuisineNameList": [
+                                "Pizza & İtalyan",
+                                "Domino's Pizza"
+                            ],
+                            "DeliveryTime": 30,
+                            "DisplayName": "Domino's Pizza, Valilik",
+                            "FlavourText": "7,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/dominos_pizza_2_big.gif",
+                            "MainCuisineId": "f38d1d52-8a7a-40e7-a5f1-dc042ea0a861",
+                            "MainCuisineName": "Domino's Pizza",
+                            "MinimumDeliveryPrice": 12.9,
+                            "ServingText": "8,2",
+                            "SpeedText": "8,2",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/dominos-pizza-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "-",
+                            "CategoryName": "f0ca94b3-53a6-494b-ab37-ccbb1df5c9ae",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Naz Fast, Valilik",
+                            "FlavourText": "-",
+                            "ImageFullPath": "http://images.yemeksepeti.com//categoryimages/TR_ADIYAMAN/nazfast_big.gif",
+                            "MainCuisineId": "f1300bf7-efb4-48f2-a746-dcac1a408352",
+                            "MainCuisineName": "Fast Food & Sandwich",
+                            "MinimumDeliveryPrice": 0,
+                            "ServingText": "-",
+                            "SpeedText": "-",
+                            "WorkHoursText": "10:00-22:00",
+                            "href": "/naz-fast-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Yeni Mah.": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,6",
+                            "CategoryName": "d7665aa0-2310-472f-8cea-d1254c343d8a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Valilik",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "be1adca8-3f6f-4bc7-a20a-678add79d921",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 5.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 15.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         },
         {
             "Adıyaman Üniversitesi - Merkez Kampüs": [
                 {
-                    "comps": []
+                    "comps": [
+                        {
+                            "AvgPoint": "6,6",
+                            "CategoryName": "d7665aa0-2310-472f-8cea-d1254c343d8a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Burger",
+                                "Burger King"
+                            ],
+                            "DeliveryTime": 40,
+                            "DisplayName": "Burger King, Valilik",
+                            "FlavourText": "7,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/burger_king_3_big.gif",
+                            "MainCuisineId": "be1adca8-3f6f-4bc7-a20a-678add79d921",
+                            "MainCuisineName": "Burger King",
+                            "MinimumDeliveryPrice": 9.95,
+                            "ServingText": "6,6",
+                            "SpeedText": "6,3",
+                            "WorkHoursText": "11:00-23:00",
+                            "href": "/burger-king-valilik-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,2",
+                            "CategoryName": "03cf2b87-dd79-4d59-adb1-20b56794bf5b",
+                            "CuisineNameList": [
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Rhosus Döner, Eskisaray Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/rhosus-doner_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "6,5",
+                            "WorkHoursText": "10:00-23:59",
+                            "href": "/rhosus-doner-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "5,0",
+                            "CategoryName": "6dc6a578-8527-460a-a1b9-7ba63e377cab",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Dünya Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Adam Gibi Restaurant, Yenipınar Mah.",
+                            "FlavourText": "6,0",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/adamgibilogo_big.gif",
+                            "MainCuisineId": "d4ed2760-1af2-49cc-a085-c87714ef59af",
+                            "MainCuisineName": "Dünya Mutfağı",
+                            "MinimumDeliveryPrice": 25.0,
+                            "ServingText": "3,8",
+                            "SpeedText": "5,1",
+                            "WorkHoursText": "08:00-23:59",
+                            "href": "/adam-gibi-restaurant-yenipinar-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "7,2",
+                            "CategoryName": "3644c7c4-5fff-4086-a13b-cea5231f679a",
+                            "CuisineNameList": [
+                                "Fast Food & Sandwich",
+                                "Döner"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Gülse Hatay Döneri, Altınşehir Mah.",
+                            "FlavourText": "6,9",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/gulsehataydoneri_big.gif",
+                            "MainCuisineId": "e7e10abe-47af-4e5f-8751-244336618a81",
+                            "MainCuisineName": "Döner",
+                            "MinimumDeliveryPrice": 0,
+                            "ServingText": "6,7",
+                            "SpeedText": "8,1",
+                            "WorkHoursText": "10:30-22:30",
+                            "href": "/gulse-hatay-doneri-altinsehir-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "8,1",
+                            "CategoryName": "0f3e5e03-9ded-478c-9ce2-b5f800752b20",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Mersin Damak Tantuni, Eskisaray Mah.",
+                            "FlavourText": "8,2",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ADIYAMAN/damakmersintantuniguncel_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 10.0,
+                            "ServingText": "8,2",
+                            "SpeedText": "7,8",
+                            "WorkHoursText": "11:00-21:45",
+                            "href": "/mersin-damak-tantuni-eskisaray-mah-adiyaman"
+                        },
+                        {
+                            "AvgPoint": "6,7",
+                            "CategoryName": "acfdfbe1-7434-47a7-8e51-a6df5fdc0877",
+                            "CuisineNameList": [
+                                "Kebap & Türk Mutfağı"
+                            ],
+                            "DeliveryTime": 45,
+                            "DisplayName": "Ramazan Usta Tantuni, Turgut Reis Mah.",
+                            "FlavourText": "6,6",
+                            "ImageFullPath": "http://images.yemeksepeti.com//CategoryImages/TR_ISTANBUL/ramazanustatantuni_big.gif",
+                            "MainCuisineId": "53bf4e74-469a-48af-b6ea-8523a2c3a018",
+                            "MainCuisineName": "Kebap & Türk Mutfağı",
+                            "MinimumDeliveryPrice": 17.0,
+                            "ServingText": "6,2",
+                            "SpeedText": "7,3",
+                            "WorkHoursText": "06:00-01:30",
+                            "href": "/ramazan-usta-tantuni-turgut-reis-mah-adiyaman"
+                        }
+                    ]
                 }
             ]
         }

@@ -1,0 +1,572 @@
+{
+    "comment": [
+        {
+            "Comment": "Lezzetli ve hızlıydı.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Gayet iyi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Gayet başarılı.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Yemekler guzel, fiyat daha uygun olsa harika olur.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Oldukca pahali, siradan ve lezzetsiz.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Fena değil.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Eh.",
+            "Date": "2018-01-25",
+            "Flavour": "7",
+            "Serving": "",
+            "Speed": ""
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Peynirli Su Böreği",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Peynirli Kol Böreği",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "13,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Ezine beyaz peynir, domates, taze kekik, zeytin ezmesi, mevsim yeşillikleri, patates kızartması",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, domates, mısır, mevsim yeşillikleri, kuru soğan, zeytin ve dereotlu krem sos, patates kızartması",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk jambon, dana jambon, Macar salamı, kaşar peyniri, domates, turşu, marul, patates kızartması",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Tavuk bonfile, sarıbiber, fajita baharatı, cheddar peyniri, patates kızartması",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Dana bonfile, sarıbiber, fajita baharatı, cheddar peyniri, patates kızartması",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "Patates kızartması ile",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Haşlanmış tavuk dilimleri, domates, salatalık, roka",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "200 gr. tavuk şiş, pilav, patates kızartması, yeşillik",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "200 gr. tavuk bonfile, pilav, patates kızartması, yeşillik",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "180 gr. dana bonfile, pilav, patates kızartması, yeşillik",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "47,00 TL"
+        },
+        {
+            "ItemInfo": "180 gr. dana lokum, pilav, patates kızartması, yeşillik",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "58,00 TL"
+        },
+        {
+            "ItemInfo": "180 gr. dana eti, pilav, patates kızartması, yeşillik",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "300 gr. şaşlık, pilav, patates kızartması, yeşillik",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "47,00 TL"
+        },
+        {
+            "ItemInfo": "Şaşlık, kaşarlı köfte, dana antrikot, kuzu pirzola, tavuk şiş",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "58,00 TL"
+        },
+        {
+            "ItemInfo": "200 gr. ızgara köfte, pilav, patates kızartması, yeşillik",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "200 gr. kaşarlı köfte, pilav, patates kızartması, yeşillik",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "100 gr. et döner, pilav, patates kızartması, yeşillik",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "33,50 TL"
+        },
+        {
+            "ItemInfo": "100 gr. et döner, pilav, patates kızartması, yeşillik",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "100 gr. et döner",
+            "ItemName": "Kıymalı Kol Böreği",
+            "ItemPrice": "38,50 TL"
+        },
+        {
+            "ItemInfo": "75 gr. et döner, patates kızartması, yeşillik",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "50 gr. et döner, patates kızartması, yeşillik",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, biber, mantar",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Tulum peyniri, hellim peyniri, kaşar peyniri",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "30,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "30,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "30,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "38,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "38,50 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, pastırma, sucuk",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "39,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "24,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "31,00 TL"
+        },
+        {
+            "ItemInfo": "200 gr. hamburger köftesi, yeşillik, domates",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "160 gr. dana lokum, yeşillik, domates",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "3 adet hamburger, yeşillik, domates",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "8,50 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, cherry domates, havuç, salatalık, mısır, zeytinyağı, limon",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, nane, dereotu, maydanoz, cherry domates, salatalık, siyah zeytin, mısır, ceviz, Ezine peyniri, zeytinyağı, limon",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Domates, salatalık, tatlı biber, Ezine peyniri, zeytinyağı, limon, isteğe göre soğan",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, roka, ızgara patlıcan, ızgara sarı biber, ızgara kırmızıbiber, havuç, mantar, kavrulmuş kabak, kavrulmuş ayçekirdeği, hindi fümeye sarılı labne peyniri, balsamik sos",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Marul, ton balığı, haşlanmış patates, yumurta, taze fasulye, zeytin, soğan, domates, zeytinyağı, limon",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, tulum peyniri, ceviz, mısır, közlenmiş biber, cherry domates, nar ekşisi",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Akdeniz yeşillikleri, hellim peyniri, ceviz, mısır, közlenmiş biber, cherry domates, nar ekşisi",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Marul, kurutulmuş ekmek parçacıkları, parmesan peyniri, Sezar sos",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "21,50 TL"
+        },
+        {
+            "ItemInfo": "Marul, kurutulmuş ekmek parçacıkları, parmesan peyniri, ızgara tavuk, Sezar sos",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara bonfile dilimleri, avokado ezmesi, enginar kalbi, tane mısır, cherry domates, roka, zeytinyağı ve limon",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kaymak, Antep fıstığı",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Et Döner Dürüm",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Krem Şokola",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Krem Şokola",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Krem Şokola",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Krem Şokola",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayva Tatlısı",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaymaklı Ayva Tatlısı",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaymaklı Ayva Tatlısı",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaymaklı Ayva Tatlısı",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Pataşu, pasta kreması, çikolatalı sos, muz",
+            "ItemName": "Kaymaklı Ayva Tatlısı",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pataşu, pasta kreması, çikolatalı sos, çilek",
+            "ItemName": "Kaymaklı Ayva Tatlısı",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaymaklı Ayva Tatlısı",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "15,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "16,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "8,40 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "8,40 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "8,40 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "8,40 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "8,40 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "8,40 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "8,40 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Portakal, nar, elma, havuç, çilek, muz",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "14,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "75,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çikolatalı Ekler",
+            "ItemPrice": "70,00 TL"
+        }
+    ]
+}

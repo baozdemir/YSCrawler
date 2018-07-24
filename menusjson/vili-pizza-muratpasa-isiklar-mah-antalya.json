@@ -1,0 +1,521 @@
+{
+    "comment": [
+        {
+            "Comment": "Pizzalar harika, kurye güleryüzlü, teslimat hızlı. Teşekkürler.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zaman ki gibi harikasınız...",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper! Tatlı hediye için teşekkür ederiz! Elinize sağlık! Tavsiye ediyoruz.",
+            "Date": "2018-07-15",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Favorimiz oldunuz. Hızlı ve lezzetli pizzalar için teşekkürler.",
+            "Date": "2018-07-01",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İlk defa siparis verdik yedigimiz en yumusak hamurlu pizzaydi. 8 kisilik dev pizza 25 dakikada geldi hizli servis icin tesekkurler. Bundan sonra favorimiz vili pizza...",
+            "Date": "2018-06-28",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İnce hamuru ilk defa denedim kesinlikle harika olmuş ellerinize sağlık.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Denemek istedik diye sipariş ettik, kaldığımız yere yakın olmasına rağmen geç geldi ve yanlış pizza geldi, değiştirmek istedik ama tekrar beklemek istemediğimiz için geleni denemeye karar verdik, aşırı yağlıydı gerçekten vıcık vıcık yağ çıkıyor dilimlerinden. Tavsiye etmiyoruz.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "5",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Hamur yumuşak ötesi bundan sonra favorim dev sucuk :).",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok lezzetli hızlı servis.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli hızlı servis.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel ama soğuk kolayı sıcak pizza dilimi ile aynı kuyuya koyduğunuz zaman soğuk havada bile kola ılımış hslde geldi. Harici herşey güzel.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "4",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizza değil ekmek üstü sosis gibirezalet.",
+            "Date": "2018-03-26",
+            "Flavour": "4",
+            "Serving": "5",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Değişik ve de lezzetli ufak bi aksilik oldu ancak telafi ettiler deneyebilirsiniz pizza dilimlerini bilmiyorum ama çok açsanız eğer kapalı pizzaları doyurmayabilir.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Harikaa.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper lezzet.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her şey mükemmel.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok yağlı.",
+            "Date": "2018-03-26",
+            "Flavour": "4",
+            "Serving": "6",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lezzet çok iyi. Yalnız ürün eksik gelmiş. Yeni olmasının aksaklığı diyelim.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "5",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Süper lezzet!",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Vili Sucuk Pizza (Dev Dilim) + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Vili Sucuk Pizza (Dev Dilim) Menü",
+            "ItemPrice": "16,45 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Orta Boy Pizza + İçecek (1 L.)",
+            "ItemName": "2'li Orta Boy Pizza Menü",
+            "ItemPrice": "29,90 TL"
+        },
+        {
+            "ItemInfo": "Vili Mozzarella Pizza (Dev Dilim) + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Vili Mozzarella Pizza (Dev Dilim) Menü",
+            "ItemPrice": "14,45 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, bitter çikolata, fildişi çikolata, sütlü çikolata",
+            "ItemName": "Dolu Çikolatalı Pizza (Kapalı)",
+            "ItemPrice": "3,75 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Mozzarella Pizza (Dev Dilim)",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, dana sucuk, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Sucuk Pizza (Dev Dilim)",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Orta Boy Pizza + İçecek (1 L.)",
+            "ItemName": "2'li Orta Boy Pizza Menü",
+            "ItemPrice": "29,90 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Orta Boy Pizza + 2 Adet Küçük Boy Patates Kızartması",
+            "ItemName": "2'li Orta Boy Pizza & Patates Menü",
+            "ItemPrice": "29,90 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Büyük Boy Pizza + İçecek (1 L.)",
+            "ItemName": "2'li Büyük Boy Pizza Menü",
+            "ItemPrice": "39,90 TL"
+        },
+        {
+            "ItemInfo": "2 Adet Büyük Boy Pizza + 2 Adet Küçük Boy Patates Kızartması",
+            "ItemName": "2'li Büyük Boy Pizza & Patates Menü",
+            "ItemPrice": "39,90 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz Dev Boy Pizza (50 cm.) + Coca-Cola (2 L.)",
+            "ItemName": "Dev Boy Pizza Menü",
+            "ItemPrice": "74,90 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz Dev Boy Pizza (50 cm.) + 2 Adet Büyük Boy Patates Kızartması",
+            "ItemName": "Dev Boy Pizza & Patates Menü",
+            "ItemPrice": "74,90 TL"
+        },
+        {
+            "ItemInfo": "Vili Sos Pizza (Dev Dilim) + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Vili Sos Pizza (Dev Dilim) Menü",
+            "ItemPrice": "12,45 TL"
+        },
+        {
+            "ItemInfo": "Vili Mozzarella Pizza (Dev Dilim) + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Vili Mozzarella Pizza (Dev Dilim) Menü",
+            "ItemPrice": "14,45 TL"
+        },
+        {
+            "ItemInfo": "Vili Sucuk Pizza (Dev Dilim) + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Vili Sucuk Pizza (Dev Dilim) Menü",
+            "ItemPrice": "16,45 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz Dilim Pizza + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Dilim Pizza Menü",
+            "ItemPrice": "9,95 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz Dolu Pizza (Kapalı) + Patates Kızartması + Kutu İçecek",
+            "ItemName": "Dolu Pizza Menü",
+            "ItemPrice": "8,95 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, ekstra Vili sos, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Sos Pizza (Dev Dilim)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Mozzarella Pizza (Dev Dilim)",
+            "ItemPrice": "9,50 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, dana sucuk, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Sucuk Pizza (Dev Dilim)",
+            "ItemPrice": "11,50 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Mozzarella Pizza (Dilim)",
+            "ItemPrice": "4,45 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, dana sucuk, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Sucuk Pizza (Dilim)",
+            "ItemPrice": "4,95 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, sucuk, mantar, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Mantar & Sucuk Pizza (Dilim)",
+            "ItemPrice": "4,95 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, kurutulmuş mevsim sebzeleri, dilim siyah zeytin, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Sebze Pizza (Dilim)",
+            "ItemPrice": "4,95 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, mantar, mısır, közlenmiş kırmızıbiber, kekik, zetinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Mantar Pizza (Dilim)",
+            "ItemPrice": "4,95 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, mantar, dana sucuk, mısır, közlenmiş kırmızıbiber, dilim siyah zeytin, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Karışık Pizza (Dilim)",
+            "ItemPrice": "4,95 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, ıspanak yaprakları, mantar, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Ispanak Pizza (Dilim)",
+            "ItemPrice": "4,95 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, mantar, ton balığı, mısır, soğan, susam, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Ton Balık Pizza (Dilim)",
+            "ItemPrice": "4,95 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Mozzarella Pizza (Orta)",
+            "ItemPrice": "24,90 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, dana sucuk, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Sucuk Pizza (Orta)",
+            "ItemPrice": "29,90 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, sucuk, mantar, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Mantar & Sucuk Pizza (Orta)",
+            "ItemPrice": "32,90 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, kurutulmuş mevsim sebzeleri, dilim siyah zeytin, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Sebze Pizza (Orta)",
+            "ItemPrice": "32,90 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, mantar, mısır, közlenmiş kırmızıbiber, kekik, zetinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Mantar Pizza (Orta)",
+            "ItemPrice": "29,90 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, mantar, mısır, biber, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Mantar & Mısır & Biber Pizza (Orta)",
+            "ItemPrice": "29,90 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, mantar, dana sucuk, mısır, közlenmiş kırmızıbiber, dilim siyah zeytin, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Karışık Pizza (Orta)",
+            "ItemPrice": "34,90 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, ıspanak yaprakları, mantar, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Ispanak Pizza (Orta)",
+            "ItemPrice": "29,90 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, mantar, ton balığı, mısır, soğan, susam, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Ton Balık Pizza (Orta)",
+            "ItemPrice": "32,90 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Mozzarella Pizza (Büyük)",
+            "ItemPrice": "34,90 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, dana sucuk, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Sucuk Pizza (Büyük)",
+            "ItemPrice": "39,60 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, sucuk, mantar, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Mantar & Sucuk Pizza (Büyük)",
+            "ItemPrice": "39,60 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, kurutulmuş mevsim sebzeleri, dilim siyah zeytin, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Sebze Pizza (Büyük)",
+            "ItemPrice": "39,60 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, mantar, mısır, közlenmiş kırmızıbiber, kekik, zetinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Mantar Pizza (Büyük)",
+            "ItemPrice": "39,60 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, mantar, mısır, biber, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Mantar & Mısır & Biber Pizza (Büyük)",
+            "ItemPrice": "39,60 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, mantar, dana sucuk, mısır, közlenmiş kırmızıbiber, dilim siyah zeytin, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Karışık Pizza (Büyük)",
+            "ItemPrice": "39,60 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, ıspanak yaprakları, mantar, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Ispanak Pizza (Büyük)",
+            "ItemPrice": "39,60 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, mantar, ton balığı, mısır, soğan, susam, kekik, zeytinyağı. Ketçap, mayonez ile",
+            "ItemName": "Vili Ton Balık Pizza (Büyük)",
+            "ItemPrice": "39,60 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, bitter çikolata, fildişi çikolata, sütlü çikolata",
+            "ItemName": "Dolu Çikolatalı Pizza (Kapalı)",
+            "ItemPrice": "3,75 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, elma dolgusu",
+            "ItemName": "Dolu Elmalı Pizza (Kapalı)",
+            "ItemPrice": "3,75 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos. Ketçap, mayonez ile",
+            "ItemName": "Dolu Soslu Pizza (Kapalı)",
+            "ItemPrice": "3,75 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri. Ketçap, mayonez ile",
+            "ItemName": "Dolu Soslu Peynirli Pizza (Kapalı)",
+            "ItemPrice": "3,75 TL"
+        },
+        {
+            "ItemInfo": "Vili pizza hamuru, Vili sos, mozzarella peyniri, dana sucuk. Ketçap, mayonez ile",
+            "ItemName": "Dolu Peynirli Sucuklu Pizza (Kapalı)",
+            "ItemPrice": "4,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması (Küçük)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması (Orta)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması (Büyük)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soğan Halkası",
+            "ItemPrice": "6,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Piliç Nugget",
+            "ItemPrice": "6,90 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mozzarella Stick",
+            "ItemPrice": "9,90 TL"
+        },
+        {
+            "ItemInfo": "Çikolata, yaban mersini",
+            "ItemName": "Vili Mousse",
+            "ItemPrice": "4,75 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sufle",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Damla Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ceysu (50 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ceysu (33 cl.) (Cam Şişe)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (1 L.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (1 L.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (1 L.)",
+            "ItemPrice": "4,50 TL"
+        }
+    ]
+}

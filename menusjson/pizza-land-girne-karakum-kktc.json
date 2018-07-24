@@ -1,0 +1,509 @@
+{
+    "comment": [
+        {
+            "Comment": "İyiydi.",
+            "Date": "2018-07-22",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Pizzanin icindekilerle yazanlarin yarisi birbirini tutmuyordu.",
+            "Date": "2018-07-13",
+            "Flavour": "6",
+            "Serving": "5",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Şu 30 limiti kaldırırsanız daha iyi olacak.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Olumlu yorumlara bakıp sipariş verdim fakat vermez olaydım. Hayatımda yediğim en kötü pizza, yani bir pizza bu kadar kötü mü yapılır. Hamur yemek, donmuş peynir yemek, tatsız tutsuz, üstünde malzemesi olmayan bir pizza yemek istiyorsanız hemen sipariş verebilirsiniz. Paranızla sakın rezil olmayın.",
+            "Date": "2018-07-12",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Siparişim gelmedi ve iptal ettim.",
+            "Date": "2018-07-11",
+            "Flavour": "1",
+            "Serving": "2",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Ben kıbrısta böyle pizza yemedim kim ne derse desin. Servis elemanı abide çok kibardır ayrıca teşekkür ederim.",
+            "Date": "2018-07-11",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hersey mükemmeldi! Ayrıca o kadar kibarsınız ki icecek söylemedigim halde icecek dahi koymuslardı.",
+            "Date": "2018-07-10",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sıcak ve lezzet patlaması.",
+            "Date": "2018-07-09",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kıbrısta daha önce böyle güzel pizza yemedim. İki kisilik pizza boyutu biraz daha büyük olsa daha güzel olurdu aslında ama lezzeti o kadar güzeldiki hic bitmesin istedim.",
+            "Date": "2018-07-08",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yemeye kıyamıyoruz bitmesin diye.",
+            "Date": "2018-07-04",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "20 dakika sıcakta kalan bira gibi.",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "1"
+        },
+        {
+            "Comment": "İyiydi.",
+            "Date": "2018-07-03",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Herzaman güzel sıcacık pizzalar elinize sağlık daha iyisi yok.",
+            "Date": "2018-06-29",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Mükemmel bir pizza emeğinize sağlık 100 puan.",
+            "Date": "2018-06-27",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Adadaki en iyi pizzalar derim tek geçerim 10 10 10 elinize sağlık.",
+            "Date": "2018-06-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pizza cok inceydi.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Sağlık sorunundan dolayı kola için mutlaka pipet istedim getirmediler, üstüne üstlük 1 saat 5 dakika da geldi. Lezzet olarak güzeldi.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Ellerinize sağlık verdiğim puanlardan da anlaşıldığı üzere çok beğendim türkiyede pizzahut kktc de ise pizza land diyorum bir kaç yeri denedim malzemelerden dolayı hep miğdem ekşirdi ama hiç rahatsız olöadım sizin pizzanızdan teşekkür ederim çok çok çok begendim.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hamuru çok incee.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sosis, sucuk, yeşilbiber, kırmızıbiber, zeytin, mantar, domates, mısır",
+            "ItemName": "Full Karışık Pizza (Medium)",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sosis, sucuk, yeşilbiber, kırmızıbiber, zeytin, mantar, domates, mısır",
+            "ItemName": "Full Karışık Pizza",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz 2 adet yarım pizza ile",
+            "ItemName": "Half & Half Pizza (Medium)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, mantar, yeşilbiber, zeytin, mısır",
+            "ItemName": "Karışık Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sosis, sucuk, yeşilbiber, kırmızıbiber, zeytin, mantar, domates, mısır",
+            "ItemName": "Full Karışık Pizza (Large)",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, mantar, yeşilbiber, zeytin, mısır",
+            "ItemName": "Karışık Pizza (Large)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza hamurundan peynirli sarımsaklı ekmek",
+            "ItemName": "Pizza Garlic Bread",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sarımsaklı Ekmek (3 Adet)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Peynirli Sarımsaklı Ekmek (3 Adet)",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soğan Halkası",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, mantar, yeşilbiber, zeytin, mısır",
+            "ItemName": "Karışık Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri",
+            "ItemName": "Margherita Pizza",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, mantar, soğan, zeytin, hellim peyniri",
+            "ItemName": "Kıbrıs Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, pepperoni, mantar, yeşilbiber",
+            "ItemName": "Pepperoni Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, yeşilbiber, kırmızıbiber, mısır, zeytin, domates, soğan",
+            "ItemName": "Veggie Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, yeşilbiber, mantar",
+            "ItemName": "Salamlı Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, kalamar, karides, ahtapot, midye",
+            "ItemName": "Deniz Ürünleri Pizza",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sosis, sucuk, yeşilbiber, kırmızıbiber, zeytin, mantar, domates, mısır",
+            "ItemName": "Full Karışık Pizza",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, tavuk, mantar, mısır, zeytin",
+            "ItemName": "Tavuklu Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, ton balığı, zeytin, mantar, soğan, yeşilbiber",
+            "ItemName": "Ton Balıklı Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, ıspanak, mantar, soğan",
+            "ItemName": "Ispanaklı Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, köfte, mantar, kırmızıbiber, yeşilbiber, soğan",
+            "ItemName": "Köfteli Pizza",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, hellim peyniri, cheddar peyniri, edam peyniri",
+            "ItemName": "4 Peynirli Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, mantar, soğan, yeşilbiber, kırmızıbiber, zeytin, acı sos",
+            "ItemName": "Acılı Mexican Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, ananas, salam",
+            "ItemName": "Hawaiian Pizza",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, dana eti, soğan, yeşilbiber, mantar",
+            "ItemName": "Dana Etli Pizza",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, mantar, yeşilbiber, zeytin, mısır",
+            "ItemName": "Karışık Pizza (Medium)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sosis, sucuk, yeşilbiber, kırmızıbiber, zeytin, mantar, domates, mısır",
+            "ItemName": "Full Karışık Pizza (Medium)",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, mantar, soğan, zeytin, hellim peyniri",
+            "ItemName": "Kıbrıs Pizza (Medium)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, tavuk, mantar, mısır, zeytin",
+            "ItemName": "Tavuklu Pizza (Medium)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, mantar, soğan, yeşilbiber, kırmızıbiber, zeytin, acı sos",
+            "ItemName": "Acılı Mexican Pizza (Medium)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri",
+            "ItemName": "Margherita Pizza (Medium)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, hellim peyniri, cheddar peyniri, edam peyniri",
+            "ItemName": "4 Peynirli Pizza (Medium)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, pepperoni, mantar, yeşilbiber",
+            "ItemName": "Pepperoni Pizza (Medium)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, yeşilbiber, kırmızıbiber, mısır, zeytin, domates, soğan",
+            "ItemName": "Veggie Pizza (Medium)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, ananas, salam",
+            "ItemName": "Hawaiian Pizza (Medium)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, kalamar, karides, ahtapot, midye",
+            "ItemName": "Deniz Ürünleri Pizza (Medium)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, ton balığı, zeytin, mantar, soğan, yeşilbiber",
+            "ItemName": "Ton Balıklı Pizza (Medium)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, yeşilbiber, mantar",
+            "ItemName": "Salamlı Pizza (Medium)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, köfte, mantar, kırmızıbiber, yeşilbiber, soğan",
+            "ItemName": "Köfteli Pizza (Medium)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, ıspanak, mantar, soğan",
+            "ItemName": "Ispanaklı Pizza (Medium)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, dana eti, soğan, yeşilbiber, mantar",
+            "ItemName": "Dana Etli Pizza (Medium)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, beyaz peynir, domates, zeytin, mantar, yeşilbiber, kekik",
+            "ItemName": "Akdeniz Pizza (Medium)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz 2 adet yarım pizza ile",
+            "ItemName": "Half & Half Pizza (Medium)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sucuk, mantar, yeşilbiber, zeytin, mısır",
+            "ItemName": "Karışık Pizza (Large)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, sosis, sucuk, yeşilbiber, kırmızıbiber, zeytin, mantar, domates, mısır",
+            "ItemName": "Full Karışık Pizza (Large)",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, mantar, soğan, zeytin, hellim peyniri",
+            "ItemName": "Kıbrıs Pizza (Large)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, tavuk, mantar, mısır, zeytin",
+            "ItemName": "Tavuklu Pizza (Large)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, sucuk, mantar, soğan, yeşilbiber, kırmızıbiber, zeytin, acı sos",
+            "ItemName": "Acılı Mexican Pizza (Large)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri",
+            "ItemName": "Margherita Pizza (Large)",
+            "ItemPrice": "35,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, hellim peyniri, cheddar peyniri, edam peyniri",
+            "ItemName": "4 Peynirli Pizza (Large)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, pepperoni, mantar, yeşilbiber",
+            "ItemName": "Pepperoni Pizza (Large)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, mantar, yeşilbiber, kırmızıbiber, mısır, zeytin, domates, soğan",
+            "ItemName": "Veggie Pizza (Large)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, ananas, salam",
+            "ItemName": "Hawaiian Pizza (Large)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, kalamar, karides, ahtapot, midye",
+            "ItemName": "Deniz Ürünleri Pizza (Large)",
+            "ItemPrice": "47,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, ton balığı, zeytin, mantar, soğan, yeşilbiber",
+            "ItemName": "Ton Balıklı Pizza (Large)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, salam, yeşilbiber, mantar",
+            "ItemName": "Salamlı Pizza (Large)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, köfte, mantar, kırmızıbiber, yeşilbiber, soğan",
+            "ItemName": "Köfteli Pizza (Large)",
+            "ItemPrice": "47,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, ıspanak, mantar, soğan",
+            "ItemName": "Ispanaklı Pizza (Large)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, dana eti, soğan, yeşilbiber, mantar",
+            "ItemName": "Dana Etli Pizza (Large)",
+            "ItemPrice": "47,00 TL"
+        },
+        {
+            "ItemInfo": "Pizza sosu, mozzarella peyniri, beyaz peynir, domates, zeytin, mantar, yeşilbiber, kekik",
+            "ItemName": "Akdeniz Pizza (Large)",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Seçeceğiniz 2 adet yarım pizza ile",
+            "ItemName": "Half & Half Pizza (Large)",
+            "ItemPrice": "48,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, mevsim yeşillikleri",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk, mevsim yeşillikleri",
+            "ItemName": "Tavuklu Salata",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Diet (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Max (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "7UP (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        }
+    ]
+}

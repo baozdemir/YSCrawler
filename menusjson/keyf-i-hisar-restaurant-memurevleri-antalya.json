@@ -1,0 +1,539 @@
+{
+    "comment": [
+        {
+            "Comment": "İdare eder.",
+            "Date": "2018-07-20",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Sipariş vermekle dogru karar verdiğim restaurantsınız.",
+            "Date": "2018-07-16",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel bir yer tavsiye ederiz.",
+            "Date": "2018-07-16",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Her zamanki gibi süpersiniz. Yeni paketciniz gayet güleryüzlü. Değiştiginiz için teşekkürler.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bazı aralıklarla sipariş veriyorum gercekten lezzetinizden bir şey kaybetmiyorsunuz. Teşekkürler.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok kötüydü.",
+            "Date": "2018-07-11",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Eğer sabah sabah kahvaltı etmedim nerden güzel bi kahvaltı söylerim diyosan. Ahanda burası orası. Kesin beni kesmez diye yanında tostda söylemiştim. Gereksiz oldu. Muhteşem bir kahvaltıydı. Kızartma tabağı ayrı pişi tabağı ayrı yumurtası peynir çeşitleri 3 tane reçel çeşidi bal daha neler neler.",
+            "Date": "2018-07-06",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pide lezzeti güzeldi teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Son günlerde yediğim en lezzetli lahmacundu ellerinize saglık.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gönül rahatlıgıyla sipariş verdiğim restaurantsınız. Lezzet bir harika. Ayrıca servisde mükemmeldi teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Salatada kökler vardı, marullar pek iyi durumda değildi. Pidede sorun yoktu.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "En sevdigim restorant.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Hızlı, lezzetli ve temiz. Getiren görevlide güler yüzlüydü. Teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Birdahami asla böyle bisey görmedim menü yaziyorsunuz bari uyun yazdiginiza bu nasil bi müsteri hizmetidir? Hem dagilmisti hem soguktu hemde gidim gidim di patatesi meze desen yoktu salata bi catallik pilav nerdeydi? Müsteriye saygisizlik! Yeterki paranizi alin müsteri memnuniyeti sifir!",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Gelen ürünler, birbirine karışmıştı.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "6",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gayet guzel pideleri var.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yanında koydulari meze donmus.",
+            "Date": "2018-04-25",
+            "Flavour": "2",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Kanatların tüyü olduğu gibi üstünde ve de servis rezalet.",
+            "Date": "2018-03-26",
+            "Flavour": "5",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Tek tek paketli ürünler. Reçeller ev yapımı bence. Peynir daha kaliteli olabilir belki. Doyurucu kesinlikle.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Yumurta, sucuk, cheddar peyniri, kaşar peyniri, özel sos",
+            "ItemName": "Atom Tost",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş domates, közlenmiş biber",
+            "ItemName": "Izgara Köfte",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş domates, közlenmiş biber",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, kaşar peyniri, Ezine peyiniri veya tulum peyniri, yeşil zeytin, siyah zeytin, mevsim reçelleri, bal, tereyağ, ceviz, haşlanmış yumurta, poğa.a veya simit, domates, yeşillik",
+            "ItemName": "Köy Kahvaltısı",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Kaşarlı Tost",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Yumurta, sucuk, cheddar peyniri, kaşar peyniri, özel sos",
+            "ItemName": "Atom Tost",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Beyaz Peynirli Gözleme",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşar Peynirli Gözleme",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Gözleme",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş domates, közlenmiş biber",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş domates, közlenmiş biber",
+            "ItemName": "Urfa Kebap",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş domates, közlenmiş biber",
+            "ItemName": "Beyti Sarma Kebap",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Adana kebap, ızgara köfte, tavuk şiş, tavuk kanat, tavuk pirzola, pilav, patates kızartması, acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş domates, közlenmiş biber",
+            "ItemName": "Karışık Kebap",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş domates, közlenmiş biber",
+            "ItemName": "Izgara Köfte",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş domates, közlenmiş biber",
+            "ItemName": "Şiş Köfte",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş domates, közlenmiş biber",
+            "ItemName": "Tavuk Şiş",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş domates, közlenmiş biber",
+            "ItemName": "Tavuk Kanat",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş domates, közlenmiş biber",
+            "ItemName": "Kuzu Şiş",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş domates, közlenmiş biber",
+            "ItemName": "Kuzu Pirzola",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Pilav, patates kızartması, acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş domates, közlenmiş biber",
+            "ItemName": "Keyfi Köfte",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lahmacun",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Kuşbaşılı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Kaşarlı Pide",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Beyaz Peynirli Pide",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Mevlana Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Kıymalı Kaşarlı Yumurtalı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Kuşbasılı Kaşarlı Yumurtalı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Kavurmalı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Kavurmalı Kaşarlı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Kavurmalı Kaşarlı Yumurtalı Pide",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Sucuklu Pide",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Sucuklu Kaşarlı Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Ispanaklı Pide",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Ispanaklı Kaşarlı Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Mantarlı Pide",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Mantarlı Kaşarlı Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Mantar, ıspanak, peynir. Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Keyf-İ Hisar Sebzeli Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, yumurta, kaşar peyniri, kuşbaşı. Acılı ezme, haydari, günün mezesi, mevsim salata, turşu, közlenmiş biber",
+            "ItemName": "Keyf-İ Hisar Karışık Pide",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu",
+            "ItemName": "Kiremitte Tavuk",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu",
+            "ItemName": "Kiremitte Köfte",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu",
+            "ItemName": "Kiremitte Kuşbaşı",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı ezme, haydari, günün mezesi, mevsim salata, turşu",
+            "ItemName": "Kiremitte Mantar",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mantar, ıspanak. Acılı ezme, haydari, günün mezesi, mevsim salata, turşu",
+            "ItemName": "Kiremitte Sebze",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan, cin biber turşusu ile",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan, cin biber turşusu ile",
+            "ItemName": "Urfa Dürüm",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan, cin biber turşusu ile",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kabak Tatlısı",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ekmek Kadayıfı",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sütlaç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cevizli Ev Baklavası",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Trileçe",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy Pulpy Portakal (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Kanat (1 Kg.)",
+            "ItemPrice": "60,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Kelebek (1 Kg.)",
+            "ItemPrice": "60,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Pirzola (1 Kg.)",
+            "ItemPrice": "70,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuk Kuşbaşı (1 Kg.)",
+            "ItemPrice": "70,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuşbaşı Et (1 Kg.)",
+            "ItemPrice": "110,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dana Pirzola (1 Kg.)",
+            "ItemPrice": "120,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kuzu Pirzola (1 Kg.)",
+            "ItemPrice": "110,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Izgara Et Köfte (1 Kg.)",
+            "ItemPrice": "120,00 TL"
+        }
+    ]
+}

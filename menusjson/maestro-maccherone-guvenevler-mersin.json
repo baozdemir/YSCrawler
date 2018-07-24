@@ -1,0 +1,352 @@
+{
+    "comment": [
+        {
+            "Comment": "Normal.",
+            "Date": "2018-07-21",
+            "Flavour": "5",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Diger restoranlara gore gayet uygun fiyatı ve oldukca sıcak bir şekilde geldi.",
+            "Date": "2018-07-20",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Grazie.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Jülyen tavuk göğüs dilimleri, kırmızıbiber, bitkisel krema, kaşar peyniri",
+            "ItemName": "Tavuklu Makarna",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, sucuk, salam, sosis, kırmızıbiber, mısır, mantar, zeytin",
+            "ItemName": "Karışık Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen tavuk göğüs dilimleri, iceberg marul, salatalık, cherry domates, havuç, mısır, isteğe göre salata sos",
+            "ItemName": "Tavuklu Salata",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, bitkisel krema, kaşar peyniri, isteğe göre mısır ve mantar",
+            "ItemName": "Ton Balıklı Makarna",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Yağsız biftek kıyması, domates, bitkisel krema, kaşar peyniri",
+            "ItemName": "Kıymalı Makarna",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Küp küp doğranmış beyaz peynir, iceberg marul, kırmızı kıvırcık marul, salatalık, cherry domates, havuç, zeytin, mısır, isteğe göre salata sos",
+            "ItemName": "Peynirli Salata",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Tost",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tavuklu Kaşarlı Tost",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mantarlı Kaşarlı Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Kaşar peyniri, sucuk",
+            "ItemName": "Karışık Tost",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk, marul, domates, özel sos",
+            "ItemName": "Tavuklu Sandviç",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, marul, domates, mayonez",
+            "ItemName": "Ton Balıklı Sandviç",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Brokoli, karnabahar, havuç, bitkisel krema, kaşar peyniri",
+            "ItemName": "Sebzeli Makarna",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen tavuk göğüs dilimleri, kırmızıbiber, bitkisel krema, kaşar peyniri",
+            "ItemName": "Tavuklu Makarna",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Brokoli, karnabahar, havuç, jülyen tavuk göğüs dilimleri, kırmızıbiber, bitkisel krema, kaşar peyniri",
+            "ItemName": "Sebzeli Tavuklu Makarna",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Karides, mantar, mısır, bitkisel krema, kaşar peyniri",
+            "ItemName": "Karidesli Makarna",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Kurutulmuş domates, tavuk, bitkisel krema, kaşar peyniri",
+            "ItemName": "Kurutulmuş Domatesli Makarna",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, bitkisel krema, kaşar peyniri, isteğe göre mısır ve mantar",
+            "ItemName": "Ton Balıklı Makarna",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Yağsız biftek kıyması, domates, bitkisel krema, kaşar peyniri",
+            "ItemName": "Kıymalı Makarna",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, bitkisel krema, kaşar peyniri",
+            "ItemName": "Domatesli Makarna",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Bitkisel krema, kaşar peyniri",
+            "ItemName": "Kaşarlı Makarna",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Midye, bitkisel krema, kaşar peyniri, isteğe göre mantar",
+            "ItemName": "Midyeli Makarna",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tortellini",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Spaghetti Bolognese",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Zeytinli Spaghetti",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Napoli Usulü Spaghetti",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Brokoli, karnabahar, havuç, soya sosu",
+            "ItemName": "Sebzeli Noodle",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Brokoli, karnabahar, havuç, soya sosu, jülyen doğranmış tavuk",
+            "ItemName": "Sebzeli Tavuklu Noodle",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Mantar, soya sosu",
+            "ItemName": "Mantarlı Noodle",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Soya sosu",
+            "ItemName": "Soya Soslu Noodle",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, kıyma, jalapeno biberi, mısır, kırmızıbiber",
+            "ItemName": "Mexicana Pizza (Küçük)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates",
+            "ItemName": "Margherita Pizza (Küçük)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, kırmızıbiber, mısır, mantar, zeytin",
+            "ItemName": "Veggie Pizza (Küçük)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, sucuk, salam, sosis, kırmızıbiber, mısır, mantar, zeytin",
+            "ItemName": "Karışık Pizza (Küçük)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, ton balığı, mısır, mantar",
+            "ItemName": "Ton Balıklı Pizza (Küçük)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, tavuk, jalapeno biberi, kırmızıbiber",
+            "ItemName": "Tuno Pizza (Küçük)",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, kıyma, jalapeno biberi, mısır, kırmızıbiber",
+            "ItemName": "Mexicana Pizza (Orta)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates",
+            "ItemName": "Margherita Pizza (Orta)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, kırmızıbiber, mısır, mantar, zeytin",
+            "ItemName": "Veggie Pizza (Orta)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, sucuk, salam, sosis, kırmızıbiber, mısır, mantar, zeytin",
+            "ItemName": "Karışık Pizza (Orta)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, ton balığı, mısır, mantar",
+            "ItemName": "Ton Balıklı Pizza (Orta)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, tavuk, jalapeno biberi, kırmızıbiber",
+            "ItemName": "Tuno Pizza (Orta)",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, karides, ton balığı, soğan, mantar",
+            "ItemName": "Maestro Pizza (Orta)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, kıyma, jalapeno biberi, mısır, kırmızıbiber",
+            "ItemName": "Mexicana Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, domates",
+            "ItemName": "Margherita Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, kırmızıbiber, mısır, mantar, zeytin",
+            "ItemName": "Veggie Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, sucuk, salam, sosis, kırmızıbiber, mısır, mantar, zeytin",
+            "ItemName": "Karışık Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, ton balığı, mısır, mantar",
+            "ItemName": "Ton Balıklı Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, tavuk, jalapeno biberi, kırmızıbiber",
+            "ItemName": "Tuno Pizza (Büyük)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, karides, ton balığı, soğan, mantar",
+            "ItemName": "Maestro Pizza (Büyük)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Mozzarella peyniri, kıyma, jalapeno biberi, mısır, kırmızıbiber, ton balığı, sucuk, sosis, mantar, zeytin",
+            "ItemName": "Jumbo Pizza (Jumbo)",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Jülyen tavuk göğüs dilimleri, iceberg marul, salatalık, cherry domates, havuç, mısır, isteğe göre salata sos",
+            "ItemName": "Tavuklu Salata",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Küp küp doğranmış beyaz peynir, iceberg marul, kırmızı kıvırcık marul, salatalık, cherry domates, havuç, zeytin, mısır, isteğe göre salata sos",
+            "ItemName": "Peynirli Salata",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Ton balığı, iceberg marul, kırmızı kıvırcık marul, mısır, mor lahana, salatalık, cherry domates, salatalık, cherry domates, havuç, zeytin, salata sos",
+            "ItemName": "Ton Balıklı Salata",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Iceberg marul, kırmızı kıvırcık marul, havuç, kıvırcık marul, salatalık, cherry domates, mor lahana, zeytin, mısır, salata sos",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Şekersiz (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (25 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fuse Tea (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        }
+    ]
+}

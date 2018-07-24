@@ -1,0 +1,920 @@
+{
+    "comment": [
+        {
+            "Comment": "Harika ötesi! Bu kadar güzel olabileceğini tahmin etmezdim. Kalitenizden ödün vermeyin. Sadece lezzetinizle değil, adananin yanında getirdiğiniz yeşillikler ile rakiplerinize fark attınız!",
+            "Date": "2018-07-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Berbat.",
+            "Date": "2018-07-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Lezzet her zaman süper, ama artık lütfen porsiyonları çok az da olsa büyütün açıldığınızdan beri porsiyon az 1, 5 porsiyondan aşağı imkanı yok doymanın, lütfen lezzetli diye yemekleriniz yapmayın bunu kolay gelsin.",
+            "Date": "2018-07-22",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "3-4 bina yanımızdaki restoran bize 40 dakkada sipariş gönderdi ve ciddi şekilde soğuk gönderdi.. Hakkıyla para kazanmak kolay iş değil o yüzden insanlar artık böyle kaliteden ödün veriyolar anlaşılan.. Ödediğim parayı hrlal etmiyorum..",
+            "Date": "2018-07-19",
+            "Flavour": "3",
+            "Serving": "3",
+            "Speed": "1"
+        },
+        {
+            "Comment": "İyi hizmet.",
+            "Date": "2018-07-15",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Adana kebapları çok güzel fakat pideleri ısırırken dişim kırılıyordu. Bayat pideyi kebap yapılırken üstüne koymuşlardı. Yumuşak pide koyulmalı.",
+            "Date": "2018-07-14",
+            "Flavour": "10",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Lezzetli ve hızlıydı. Servis de mükemmel. Teşekkürler...",
+            "Date": "2018-07-13",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Paketci arkadaş yeni işe başladığını söyledi çok kibar birisi böyle insanlarla çalışmaya devam edin şalgam suyu muhteşem sırf şalgam suyu için sipariş verilir lahmacunda fena değil güzeldi başarılı.",
+            "Date": "2018-07-12",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lahmacunlarınızın lezzeti halen aynı güzellikte lakin ezmeleriniz değişmiş. Eskisi daha güzeldi.",
+            "Date": "2018-07-11",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok geç geldi, 15 tane lahmacun söylemiştik ve fazladan sumaklı soğan ve ezme rica ettik ama koymamışlar. Yine de adana lahmacunu gayet lezzetli.",
+            "Date": "2018-07-07",
+            "Flavour": "9",
+            "Serving": "5",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Sipariş yanlış geldi yeni siparişin tatlısı künefe yerinetr ileçe geldi ve tadı bozuktu.",
+            "Date": "2018-07-01",
+            "Flavour": "8",
+            "Serving": "1",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Olay.",
+            "Date": "2018-06-27",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Herşey iyi fakat parasını vermiş olduğum ayran gelmedi.",
+            "Date": "2018-06-27",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yemeğin gelmesi 1 saatten fazla sürdü, lahmacunların hepsi acılı dedim hepsi acısız geldi. Ödeme kredi kartı dedim, adam pos makinesini unutmuş. Kısaca herşey çok kötüydü. Asla tavsiye etmem.",
+            "Date": "2018-06-27",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Süper lahmacun yapıyolar.",
+            "Date": "2018-06-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişim geldi kurye 13 tl dedi siparişi aldım baktım dedim ben adana dürüm istemiştim yeniden baktı dedi adana servis getirmişim yanlışlık olmuş 20 tl ödemeniz lazım demesem haberi yok bide benden 20 tl aldı. Şaka gibi diyor bu başkasının siparişiymiş benimki nerde diyorum yanında mı yok diyor.",
+            "Date": "2018-06-24",
+            "Flavour": "7",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Bildiğimiz gittiğimiz yer ama yemeğin yanında gelen künefenin üstüne şıra yı biz mi dökecektik kullanma klavuzu gelmedi? Hakikaten 2 künefe çöpe gitti.",
+            "Date": "2018-06-24",
+            "Flavour": "2",
+            "Serving": "8",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Geçen verdiğim siparişte dürümler her zamankinden daha ufak geldi ozenilmemisti daha doğrusu belirtmek istedim tşkler.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Daimi müşterileriyim mezelerini çok beğeniyorum ve fazladan koymalarını rica etmiştim ama göndermediler. Olsun, canları sağ olsun kebap gayet lezzetliydi.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Adanadan sipariş verseydik uçakla 1 saatte gelirdi. 2 sokak arkanızdayız ve 90 dk da siparişi getiremiyorsunuz. Bir daha asla!",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Soğuk ürün gönderiyorlar. Doğal olarakta tüm lezzeti gidiyor yemeğin!",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "8"
+        },
+        {
+            "Comment": "75 dakikada geldi ve geldiğinde yemek buz gibiydi.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "4",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Antalyada yediğim en güzel lahmacunlardan biri ayrıca böyle güzel servis edilemez çok teşekkür ederim.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "5 dakikalik mesafeye 1 bucuk saatte anca gelebildi siparisim.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Lahmacun sşparişi verdim ve de tüm lahmacunları aynı şekilde dizmişsiniz. Bir alt bir ğst koyulur. Tüm lahmacunların dışı yağ içindeydi.. Rezil bir iş çıkarmışsınız. Artık size sipariş vermek yok.. Daha nasıl servis edeceğinizi bile bilmiyorsunuz..",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Siparis cok gec geldi ve soguktu ayrica tadids güzel degildi bir daha yok.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Fazlasıyla harika.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "O bolgeye bu restaurant bakiyor bu bolgeye su restaurant gibi siz siparis vermis olsaniz dahi kendi aralarindaki sistemsizlik sebebiyle 19. 20de verilmis olan siparis 21. 20de servis edilebilir. 3 kere canli yardima baglandiginizda siparis yolda yaniti alinabilir. Sonunda eksik de gelebilir bilginize.",
+            "Date": "2018-06-24",
+            "Flavour": "8",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Urun gelmedi.",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Mukemmel.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zaman severek yiyoruz ama bu sefer adana dürümdeki sumak fazla kaşmıştı, bir de pidedeki kaşarlar tamamen karton kutunun kapağına yapışmıştı. Dikkat ederseniz seviniriz.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Her zamanki gibi hızlıydı, servis muazzamdı. Sağ olsunlar fazladan istediğim ezme ve sumaklı soğanı yollamışlar. Ama lahmacunlar eskiden daha lezzetliydi bence.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tşkler.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yok ya hani adanadayim yavastan basladi sanirim bozmaya kiymanin kokusundan ziyan oldu yemegim kiyma bariz kokuyordu adana kebablarinda da basladi bu koku et kokuyor bildiginiz yiyemedim fazla sirf ac oldugum icin 3-4 dilim yedim pideden.",
+            "Date": "2018-05-25",
+            "Flavour": "3",
+            "Serving": "5",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Lahmacunları çok güzel. Litlrelik şalgam istedim, 2 kapalı oet şişede geldi, bu civarda içebileceğiniz en güzel şalgam. Teşekkürler..",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ufak bi ayrıntı var 5 li fındık lahmacun eve getirdikleri broşürde 17 tl yazmakta, benden 18 lira kesildi. Heralde zam geldi broşürü degiştirmeyi unuttular.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Anlatmaya gerek yok. 1ler yetti. Karisikta her sey sayili. Dalga gecmisler resmen. Sakin siparis etmeyin!",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Servis eskiye nazaran biraz zayıfladı gibime geliyor. Güzeloba şubesi açıldığından beri.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kanat acılı olsun dedim unutuldu.",
+            "Date": "2018-05-25",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Mide bozma garantili.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "5"
+        },
+        {
+            "Comment": "İçecekler eksik geldi.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "1 saat te kupkuru geldi bidaha asla.",
+            "Date": "2018-05-25",
+            "Flavour": "3",
+            "Serving": "6",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Lahmacun iyiydi ama soğuktu.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Çok lezzetli.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "2 sokak arkada oturuyorum ama gercekten cok soguk geldi adana durum. Lezzeti cok iyi zaten kaliteli mekan ben cok seviyorum etleri kaliteli.",
+            "Date": "2018-05-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Kesinlikle tavsiye etmiyorum!",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "2",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Ayran eksik geldi.",
+            "Date": "2018-05-25",
+            "Flavour": "6",
+            "Serving": "3",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Güvendiğimiz resrorant. Umarım bizi yanıltmaz.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Buz gibi et geldi cok kotuydu yiyemedim.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "2 lahmacun sipariş vermiştim, 1 adet geldi :(.",
+            "Date": "2018-04-25",
+            "Flavour": "6",
+            "Serving": "4",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Cok güzel.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Siparişimi eksik teslim ettiler, eksik oldugunu söylemek için aradık dünyadan haberleri yok. Misafirlerimle masada 30 dk daha bekledik gelmedi iptal etmek zorunda kaldık, cok güzel bir aksam yasattınız bize cok tesekkürler! Para iadesi bekliyoruz bakalım...",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Lezzetli.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Soguk buz gibi.",
+            "Date": "2018-04-25",
+            "Flavour": "3",
+            "Serving": "3",
+            "Speed": "8"
+        },
+        {
+            "Comment": "İlk kez sipariş verdim hiz servis lezzet klelemanin mezaketi 10 numaraydi. Cok memnun kaldim elinize saglik.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bu bölgedeki en iyi lahmacun yapar yer. Ekstra malzeme de gönderiyorlar güneyin güzelliğiyle.. Sürekli oradan yiyebilirim..",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Baklavalık hamura (? ) içine yeşilimsi püre (? ) tam fıstk tanesi bile göremeden şekerli birşey yedim. Katmerdi sanırım bilmiyorum yani umarım öyledir.",
+            "Date": "2018-04-25",
+            "Flavour": "6",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pide kotu ve soguktu.",
+            "Date": "2018-04-25",
+            "Flavour": "3",
+            "Serving": "7",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Her şeyiyle gayet güzel.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tercihlerden sumakli sogani sectim acili ezme yolladiniz.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "1",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kebap mükemmel ama lahmacunlar çok ağır ve yağlıydı midemizi rahatsız etti.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "26 tl tutmasina ragmen 27 tl kestiler nedense.",
+            "Date": "2018-04-25",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Nice.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Acık gec geldi lakin lezzeti şahane idi..",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lütfen notları dikkate alın iki sipariştir domattesiz olmasını istememe rağmen domatesli geliyor.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "1",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Patlıcanlı kebap güzel değildi.",
+            "Date": "2018-04-25",
+            "Flavour": "5",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Müşteri memnuniyeti sıfır servis sıfır ve gelen ürünlerin kebap la ya da pide ile bi alakası yok yoldan geçen vatandaşı usta olarak koymuşlar.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Siparis gec geldi, ayran istedik 1 tanesi geldi digeri gelmedi.. 2 dakika icinde getiriyorum dedi 45 dakika sonra geldi.",
+            "Date": "2018-03-26",
+            "Flavour": "5",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Herşey çok güzeldi teşekkürler.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ne yazık ki katmeri yapamıyorsunuz.",
+            "Date": "2018-03-26",
+            "Flavour": "4",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Adana yiyecekseniz başka yere bakmayın bile.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Yemekler buz gibi geldi tavsiye etmiyorum.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Daha onceden hem lezzet hem hiz konusunda sorun yasatmazken son birkac aydir servis suresi ciddi problem. Siparisi istediginiz saati girmeniz restaurant icin kesinlikle bir onem tasimamakta. 1. 5 saat oncesinden siparis verseniz dahi 40 dk gecikmeli getirmekte sakinca gormemekteler.",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Patlicanli kebap efsane herzaman.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok gec geldi katmerler ve elimizle yedik ne catal ne bıcak koyma gereği duyulmamış siparişi iş yerine verdiğimiz için catal bıcakta bulamadık ne diyim.",
+            "Date": "2018-03-26",
+            "Flavour": "6",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Siparisim gec ve soguk geldi surekli burdan yemek yiyen biri olarak gercekten uzucu oldu. Bir daha siparis verirmiyim bilmiyorum adanadayima yakismadi.",
+            "Date": "2018-03-26",
+            "Flavour": "2",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Servis sırasında kola gondermeyi unutmuşlardi. Sürekli aldigimiz icin kontrol etmedim. Paketi actigimda kola yoktu ve parasini odedim. Odedigim para da degilim sizlere bilgisni verdim istemedim gondermelerini dikkatli olsunlar yeter. 9b.",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Hayatımda böyle şey görmedim, hiç bu kadar beklememiştim. O yüzden yazmayacağım, baltalamayayım belki düzelirsiniz.",
+            "Date": "2018-03-26",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Adana lahmacunları çok lezzetli, gayet de hızlı getiriyorlar ama notları dikkate alsalar daha mutlu olacağız.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Künefe hariç herşey çok lezzetli ve sıcak geldi. Lahmacun ayrıca çok iyiydi.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lavaşlar lastik gibiydi.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Eskisi gibi değil.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Elinize sağlık..",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzetli ve hili.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Her seferinde sumaklı seçmeme rağmen ısrarla ezme yollamanızı anlayamıyorum.",
+            "Date": "2018-02-24",
+            "Flavour": "6",
+            "Serving": "6",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Kebap ve lahmacun yenir. Servisler özenli. Yemekler ve ikramlar doyurucu.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lahmacun yanına soğan seçmemize rağmen ezme geldi kenarlarıda yanık olmasa lezzeti fena değil.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Xxx.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İ.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Rahatlıkla adana mutfağının lezzetlerini tadabileceğiniz bir restoran, adana muhteşem, notları okurlarsa daha güzel olacak.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lahmacun basta olmak uzere yedigimiz hersey nefisti, servisi cok basarili.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Közlenmiş acı tatlı biber ile",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata, sumaklı soğan, pişmiş soğan, yeşillik ile",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Közlenmiş acı tatlı biber ile",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Antep Katmer Tatlısı",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "6 Adet Lahmacun + Ezme Salata + Mevsim Salata + Yeşillik + Pepsi (1 L.)",
+            "ItemName": "Lahmacun Menü",
+            "ItemPrice": "48,00 TL"
+        },
+        {
+            "ItemInfo": "6 Adet Lahmacun + Ezme Salata + Mevsim Salata + Yeşillik + Pepsi (1 L.)",
+            "ItemName": "Lahmacun Menü",
+            "ItemPrice": "48,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillik, tırnak pide ile",
+            "ItemName": "Mercimek Çorbası",
+            "ItemPrice": "9,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillik ile",
+            "ItemName": "Arabaşı Çorbası",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata, sumaklı soğan, pişmiş soğan, yeşillik ile",
+            "ItemName": "Adana Kebap",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata, sumaklı soğan, pişmiş soğan, yeşillik ile",
+            "ItemName": "Adana Beyti Kebap",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata, sumaklı soğan, pişmiş soğan, yeşillik ile",
+            "ItemName": "Beyti Sarma Kebap",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata, sumaklı soğan, pişmiş soğan, yeşillik ile",
+            "ItemName": "Patlıcanlı Kebap",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "Adana kebap, et çöp şiş, ciğer şiş, tavuk şiş, tavuk kanat, fındık peynirli pide, mevsim salata, ezme salata, sumaklı soğan, pişmiş soğan, yeşillik ile",
+            "ItemName": "Karışık Kebap",
+            "ItemPrice": "42,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata, sumaklı soğan, pişmiş soğan, yeşillik ile",
+            "ItemName": "Kuzu Şiş",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata, sumaklı soğan, pişmiş soğan, yeşillik ile",
+            "ItemName": "Tavuk Kanat",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata, sumaklı soğan, pişmiş soğan, yeşillik ile",
+            "ItemName": "Tavuk Göğüs",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata, sumaklı soğan, pişmiş soğan, yeşillik ile",
+            "ItemName": "Çöp Şiş",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata, sumaklı soğan, pişmiş soğan, yeşillik ile",
+            "ItemName": "Kuzu Külbastı",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "5 adet fındık lahmacun, mevsim salata, yeşillik, ezme salata veya sumaklı soğan ile",
+            "ItemName": "Adana Lahmacun",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata veya sumaklı soğan ile",
+            "ItemName": "Antep Lahmacun",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata veya sumaklı soğan ile",
+            "ItemName": "Kaşarlı Pide",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata veya sumaklı soğan ile",
+            "ItemName": "Kuşbaşılı Pide",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata veya sumaklı soğan ile",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata veya sumaklı soğan ile",
+            "ItemName": "Kıymalı Pide",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata veya sumaklı soğan ile",
+            "ItemName": "Kıymalı Kaşarlı Pide",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "Mevsim salata, ezme salata veya sumaklı soğan ile",
+            "ItemName": "Adanadayım Karışık Pide",
+            "ItemPrice": "19,50 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Közlenmiş acı tatlı biber ile",
+            "ItemName": "Adana Dürüm",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Közlenmiş acı tatlı biber ile",
+            "ItemName": "Tavuk Şiş Dürüm",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Közlenmiş acı tatlı biber ile",
+            "ItemName": "Çöp Şiş Dürüm",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, maydanoz, isteğe göre soğan. Közlenmiş acı tatlı biber ile",
+            "ItemName": "Kuzu Şiş Dürüm",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kabak Tatlısı",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hindistan Cevizli Trileçe",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sufle",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Antep Katmer Tatlısı",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Light (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Max (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "7UP (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tropicana (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Light (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Max (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "7UP (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (1 L.)",
+            "ItemPrice": "7,50 TL"
+        }
+    ]
+}

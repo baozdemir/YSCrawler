@@ -1,0 +1,483 @@
+{
+    "comment": [
+        {
+            "Comment": "Aşırı hızlı ve sıcak geldi, fesleğenli sos çok lezzetliydi. Servis koymayı unutmuşlar sadece, tek kusuru buydu. Çok beğendik.",
+            "Date": "2018-07-19",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Güzeldi teşekkürler.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Yemege mantar koymayın diye not yazmamiza rağmen mantarla geldi. Çok lezzetli değildi.",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Not olarak ricaettiğim kapari yoktu ve sipariş olarak girdiğim köfte de eksik geldi. Neyseki restoran yetkilisi aksaklık için bizzat arayarak özürlerini iletti ve birdahaki siparişte telafi edeceklerini bildirdi. Hassasiyetleri için teşekkür ediyorum, bilakisden severek sipariş vermeye devam.",
+            "Date": "2018-03-26",
+            "Flavour": "9",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "İlk siparişime göre değerlendiyorum fesleğenli tavuk gerçekten lezzetliydi fakat sosu biraz yağlı yağı azaltılırsa daha güzel olabilir diye düşünüyorum :).",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "",
+            "Speed": ""
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-01-25",
+            "Flavour": "9",
+            "Serving": "",
+            "Speed": ""
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Közlenmiş beğendi, patlıcan, ekşi krema, tahin, sarımsak, közlenmiş soğan, beyaz peynir. Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Meksika fasulyesi, soğan, mısır, baharat, çarliston biber, tabasco sos. Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "İsli beğendi patlıcan, isli peynir, krema. Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Baharatlarla marine edilmiş tavuk, ızgara mantar. Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Brokoli, soğan, kabak, havuç, kapya biber, mantar, Meksika fasulyesi. Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Jalapeno biberi, jülyen çarliston biberi, jülyen kapya biber, susam, pul biber, sebzeli çeşni, soya sos, krema. Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "20,75 TL"
+        },
+        {
+            "ItemInfo": "Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Baharatlarla marine edilmiş et, ızgara mantar. Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "İsli beğendi patlıcan, isli peynir, krema. Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Tavuk Izgara",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Közlenmiş beğendi, patlıcan, ekşi krema, tahin, sarımsak, közlenmiş soğan, beyaz peynir. Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Brokoli, soğan, kabak, havuç, kapya biber, mantar, Meksika fasulyesi. Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Et, tavuk, köfte, levrek veya kinoa köftesi. Makarna, salata ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Roka, kapya biber, soğan, patates kızartması ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "25,50 TL"
+        },
+        {
+            "ItemInfo": "Roka, kapya biber, soğan, patates kızartması ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "19,75 TL"
+        },
+        {
+            "ItemInfo": "Roka, kapya biber, soğan, patates kızartması ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "20,75 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, lor peyniri, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Kapya biber, beyaz peynir, krema, ceviz, sarımsak tozu ve seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "6,25 TL"
+        },
+        {
+            "ItemInfo": "Erzincan tulumu, krema ve ceviz, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "6,25 TL"
+        },
+        {
+            "ItemInfo": "Krem peynir, cheddar, rokfor, süzme peynir, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "6,25 TL"
+        },
+        {
+            "ItemInfo": "Domates, siyah zeytin ve Ezine peyniri, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "6,25 TL"
+        },
+        {
+            "ItemInfo": "Fesleğen, ceviz, parmesan peyniri, beyaz peynir, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "6,25 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kapari, sarımsak, karides, kalamar ve ızgara levrek, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, ton balığı ve kapari, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Füme somon, krema, dereotu, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Karides, krema ve dereotu, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk, sote mantar, krema, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Sote mantar, jambon, sarımsak ve krema, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, kıyma ve havuç, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk eti, kuru üzüm, tikka baharatı, krema, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Kıyma, taze soğan, naneli yoğurt sos, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Izgara et, sote mantar, krema, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, ızgara köfte, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "Baharatlı domates sos, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Ispanak püresi, krema, lor peyniri, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "Acılı domates sos, kapari, siyah zeytin, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "4,75 TL"
+        },
+        {
+            "ItemInfo": "Sote mantar ve krema, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "4,75 TL"
+        },
+        {
+            "ItemInfo": "Sote mantar, domates sos, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "4,75 TL"
+        },
+        {
+            "ItemInfo": "Beğendili patlıcan, krema, köz biber, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "5,50 TL"
+        },
+        {
+            "ItemInfo": "Domates sos, sarımsak, sotelenmiş soğan, kabak, havuç, kapya biber, mantar, brokoli, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Soya sos, sarımsak, sotelenmiş soğan, kabak, havuç, kapya biber, mantar, brokoli, seçeceğiniz makarna ile",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "Göbek marul, roka, mısır, havuç, salatalık, beyaz peynir",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, domates, kapya biber, havuç, mısır, ızgara hellim peyniri, nar ekşili sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, domates, siyah zeytin, tulum peyniri, ceviz, nar ekşili sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, domates, Amerikan fıstığı, ceviz, kuru üzüm, mısır, kapya biber, beyaz peynir, tatlı ekşi sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "17,50 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, domates, taze soğan, dereotu, nane, çarliston biber, siyah zeytin, beyaz peynir, limon sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, domates, keçi peyniri, mısır, havuç, limonlu sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, mısır, patates, jalapeno biberi, pul biber, domates, marine tavuk, limonlu sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, kapya biber, domates, salatalık, mısır, çıtır tavuk",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "19,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, domates, ızgara tavuk, taze nane, kapya biber, mısır, soya filizi, parmesan sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, mısır, kapya biber, domates, sote mantar, köri baharatlı tavuk, köri sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, domates, sotelenmiş kapya biber, sotelenmiş mantar, turşu, ızgara köfte",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, domates, sotelenmiş kapya biber, mısır, sote mantar, turşu, ızgara et, parmesan sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, domates, mısır, turşu, sotelenmiş kapya biber, ton balığı, limon sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "20,50 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, tere, çarliston biber, mısır, havuç, kırmızı soğan, mezgit",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, tere, çarliston biber, mısır, havuç, kırmızı soğan, hamsi",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, domates, füme somon, çarliston biberi, dereotu, kapari çiçeği, limon sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, domates, mısır, sotelenmiş kapya biber, soğan halkası, kapari, sotelenmiş karides & kalamar & levrek, portakallı sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, domates, soğan halkası, kapari, ızgara levrek, portakallı sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, yabani pirinç, karabuğday, mercimek, ince bulgur, nohut, kinoa, mısır, kuru üzüm, nar ekşili sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "18,50 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, sotelenmiş kapya biber, yer fıstığı, enginar, portakal dilimleri, portakallı sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, kısır, domates, taze nane, lor, maydanoz, nar ekşili sos",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "16,75 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, domates, sote kapya biber, mısır",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "20,75 TL"
+        },
+        {
+            "ItemInfo": "Yeşillikler, roka, mısır, domates, lor peyniri, sote sebzeler (Kabak, havuç, kapya biber, soğan, brokoli), mayonez, acı",
+            "ItemName": "Tahinli Patlıcan Et Izgara",
+            "ItemPrice": "18,25 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dondurmalı Çıtır Tatlı",
+            "ItemPrice": "6,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dondurmalı Çıtır Tatlı",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dondurmalı Çıtır Tatlı",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dondurmalı Çıtır Tatlı",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dondurmalı Çıtır Tatlı",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dondurmalı Çıtır Tatlı",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dondurmalı Çıtır Tatlı",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dondurmalı Çıtır Tatlı",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dondurmalı Çıtır Tatlı",
+            "ItemPrice": "2,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Dondurmalı Çıtır Tatlı",
+            "ItemPrice": "1,75 TL"
+        }
+    ]
+}

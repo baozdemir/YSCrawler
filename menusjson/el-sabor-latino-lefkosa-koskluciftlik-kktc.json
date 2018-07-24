@@ -1,0 +1,316 @@
+{
+    "comment": [
+        {
+            "Comment": "Yabancı isimli restoranlarınızın yabancı isimli menüleri, sizi 3. Sınıf mekanlardan ayırmalı. Piyasada ki diğer rakiplerinizden biraz örnek almanızı ve servis, sunum konularında kendinizi geliştirmenizi tavsiye ederim ki insanlara ödedikleri paranın karşılığını verebilesiniz.",
+            "Date": "2018-07-20",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Cok basit bir adresi bulamayan ve dovecekmis gibi konusan bir paketciniz var. Ödedigim miktar yemek sepetindeki miktari gecmesine ragmen 1 yemek icin gelmiyoruz buraya dedi o zaman miktari yukseltin ve paketcinize biraz kibarlik ogretin. Mekana gelip yemek yerim paket cagirmam bir daha.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Fiyatlar uygun olsa ala.",
+            "Date": "2018-06-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fiyat bi tık daha uygun olmalı.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kalitenin sözlükte ki karşılığı olmalı bence :).",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lovely.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Küçük bir menü.",
+            "Date": "2018-03-26",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Noodles asiri kotuydu kuru kuru ve plastik gibiydi.",
+            "Date": "2018-02-24",
+            "Flavour": "3",
+            "Serving": "3",
+            "Speed": "7"
+        },
+        {
+            "Comment": "The restaurant needs to have more varity of food, as its the only latino restaurant on yemeksepeti!",
+            "Date": "2018-02-24",
+            "Flavour": "4",
+            "Serving": "4",
+            "Speed": "6"
+        },
+        {
+            "Comment": "Tek kelimeyle harikaydı.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Klasik bolognese soslu spaghetti / Traditional minced beef and tomato sauce",
+            "ItemName": "30. Spaghetti Bolognese",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Domates soslu sote edilmiş jumbo karides, kalamar, tavuk, mantar ve kremalı fettuccine / Pan fried king prawns, calamar, chicken and mushrooms in creamy tomato sauce",
+            "ItemName": "43. Fettuccine 'Sabor'",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Kremalı ve mantar soslu ızgara tavuk göğüs, patates ve sebze ile / Grilled chicken breast in cream and mushroom sauce with potatoes and vegetables",
+            "ItemName": "52. Chicken Al a Crema",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk schnitzel ve domates soslu boru makarna / Chicken escalope with penne napolitana",
+            "ItemName": "37. Pollo Scaloppina",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Banoffee Pie",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk, roka, marul, domates, limon, yeşilbiber, kırmızıbiber, kabak / Grill chicken, rocket leaves, lettuce, tomato, lemon, green pepper, red pepper, pumpkin ",
+            "ItemName": "121. Grilled Chicken and Vegetable Salad",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Klasik bolognese soslu spaghetti / Traditional minced beef and tomato sauce",
+            "ItemName": "30. Spaghetti Bolognese",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "Domates soslu ve deniz ürünleriyle spaghetti / Tomato sauce with shell fish",
+            "ItemName": "32. Spaghetti Marinara",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Acılı domates sosu ile boru makarna / Penne with spicy tomato sauce",
+            "ItemName": "33. Penne All' Arrabbiata",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Domates soslu sote edilmiş tavuk parçaları ile boru makarna / Saute chicken strips in tomato sauce",
+            "ItemName": "34. Penne with Chicken al Pomodore",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Sote edilmiş tavuk, brokoli, sarımsak ve zeytinyağlı boru makarna / Chicken saute, broccoli, garlic, olive oil with penne ",
+            "ItemName": "36. Penne with Chicken and Broccoli",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Sebzeli, cevizli pesto soslu tagliatelle",
+            "ItemName": "38. Tagliatelle Pesto Vegetables",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "42. Fettuccine Con Pollo Crema",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Domates soslu sote edilmiş jumbo karides, kalamar, tavuk, mantar ve kremalı fettuccine / Pan fried king prawns, calamar, chicken and mushrooms in creamy tomato sauce",
+            "ItemName": "43. Fettuccine 'Sabor'",
+            "ItemPrice": "32,00 TL"
+        },
+        {
+            "ItemInfo": "Sote edilmiş jumbo karides, kalamar, ve domates soslu linguine makarna / Pan fried king prawns, calamar with linguine and a touch of tomato sauce",
+            "ItemName": "46. Linguine 'Sabor'",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Sote edilmiş tavuk, İtalyan kuru domates, mantar ve kremalı boru makarna / Penne with chicken, mushrooms and sun dried tomatoes in a creamy sauce",
+            "ItemName": "68. Penne Con Pomodori Secchi",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "69. Fettuccine Beef",
+            "ItemPrice": "33,00 TL"
+        },
+        {
+            "ItemInfo": "Sote edilmiş biftek, peynir sosu ve İtalyan kuru domatesli fusilli makarna / Pan fried sirloin steak strips with blue cheese and sun dried tomatoes",
+            "ItemName": "91. Penne Beef Gorgonzola",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Acı soslu ızgara tavuk parçaları, yeşilbiber, mantar, soğan, tagliatelle makarna",
+            "ItemName": "136. Spicy Chicken Tagliatelle",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Sote edilmiş tavuklu ve sebzeli erişte",
+            "ItemName": "47. Noodles with Chicken",
+            "ItemPrice": "29,00 TL"
+        },
+        {
+            "ItemInfo": "Sote edilmiş dana etli ve sebzeli erişte",
+            "ItemName": "48. Noodles with Beef",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Tavuk schnitzel ve domates soslu boru makarna / Chicken escalope with penne napolitana",
+            "ItemName": "37. Pollo Scaloppina",
+            "ItemPrice": "36,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk göğüs, patates ve sebze / Grilled chicken breast with potatoes and vegetables",
+            "ItemName": "50. Pollo alla Griglia",
+            "ItemPrice": "34,00 TL"
+        },
+        {
+            "ItemInfo": "Kremalı ve mantar soslu ızgara tavuk göğüs, patates ve sebze ile / Grilled chicken breast in cream and mushroom sauce with potatoes and vegetables",
+            "ItemName": "52. Chicken Al a Crema",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Domates ve pesto soslu ızgara tavuk göğüs, patates ve sebze ile / Grilled chicken breast in tomato and pesto sauce with potatoes and vegetables",
+            "ItemName": "53. Chicken Pesto",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "Peynir soslu ızgara tavuk göğüs, patates ve sebze ile / Grilled chicken breast in Gorgonzola cheese sauce with potatoes and vegetables",
+            "ItemName": "59. Pollo con Gorgonzola",
+            "ItemPrice": "40,00 TL"
+        },
+        {
+            "ItemInfo": "Tatlı biber soslu ızgara tavuk göğüs, patates ve sebze ile / Grilled chicken breast in sweet chilli sauce with potatoes and vegetables",
+            "ItemName": "60. Chilli Chicken",
+            "ItemPrice": "38,00 TL"
+        },
+        {
+            "ItemInfo": "Soğan, zeytin ve biberle sote edilmis tavuk göğüs, tagliatelle makarna ile / Chicken breast sauteed with onions, olives and green peppers with tagliatelle",
+            "ItemName": "61. Chicken 'Sabor'",
+            "ItemPrice": "39,00 TL"
+        },
+        {
+            "ItemInfo": "İtalyan kuru domates ve kremalı biftek, patates ve sebze ile / Sirloin steak with sun dried tomatoes and cream with potatoes and vegetables",
+            "ItemName": "54. Bistecca con Pomodori Secchi",
+            "ItemPrice": "47,00 TL"
+        },
+        {
+            "ItemInfo": "T-bone steak, patates ve sebze ile / T- bone steak with potatoes and vegetables",
+            "ItemName": "56. Grilled T-bone Steak",
+            "ItemPrice": "58,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "57. Filetto al Peppe",
+            "ItemPrice": "62,00 TL"
+        },
+        {
+            "ItemInfo": "Mantarlı ve kremalı bonfile, patates ve sebze ile / Fillet steak with mushroom and cream sauce with potatoes and vegetables",
+            "ItemName": "58. Filetto con Funghi",
+            "ItemPrice": "62,00 TL"
+        },
+        {
+            "ItemInfo": "Soğan, zeytin ve yeşilbiberle sote edilmiş biftek tagliatelle makarna ile / Sirloin steak with onions, olives and green peppers with tagliatelle",
+            "ItemName": "64. Bistecca 'Sabor'",
+            "ItemPrice": "45,00 TL"
+        },
+        {
+            "ItemInfo": "Peynir soslu biftek, patates ve sebze ile / Served with potatoes and vegetables",
+            "ItemName": "65. Steak with Blue Cheese",
+            "ItemPrice": "47,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk göğüs, haşlanmış sebze ve salata ile / Grilled chicken breast served with boiled vegetables and salad",
+            "ItemName": "93. Diet Chicken",
+            "ItemPrice": "37,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara biftek, haşlanmış sebze ve salata ile / Grilled sirloin steak served with boiled vegetables and salad",
+            "ItemName": "95. Diet Sirloin",
+            "ItemPrice": "44,00 TL"
+        },
+        {
+            "ItemInfo": "Yeşil salata, roka, parmesan peyniri, çam fıstığı ve kuru domates / Mixed greens, rocket leaves, parmesan cheese, pine nuts and sun dried tomatoes",
+            "ItemName": "22. Parmiggiano",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "Karides, kalamar, midye, roka, domates, marul / Tossed salad topped with mixed seafood, garden rocket, tomato, lettuce",
+            "ItemName": "28. Sabor Salad",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "Izgara tavuk, roka, marul, domates, limon, yeşilbiber, kırmızıbiber, kabak / Grill chicken, rocket leaves, lettuce, tomato, lemon, green pepper, red pepper, pumpkin ",
+            "ItemName": "121. Grilled Chicken and Vegetable Salad",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Apple Pie",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Banoffee Pie",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mozaik Chocolate Cake",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fırınlanmış Sade Cheesecake",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tiramisu",
+            "ItemPrice": "13,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pepsi Light (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Yedigün (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "7UP (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        }
+    ]
+}

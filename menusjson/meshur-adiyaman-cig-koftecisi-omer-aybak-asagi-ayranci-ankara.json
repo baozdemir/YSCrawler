@@ -1,0 +1,832 @@
+{
+    "comment": [
+        {
+            "Comment": "Elinize sağlık.",
+            "Date": "2018-07-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çook iyi.",
+            "Date": "2018-07-20",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Midyeler güzeldi, teşekkürler..",
+            "Date": "2018-07-17",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ortalama.",
+            "Date": "2018-07-17",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Mükemmel.",
+            "Date": "2018-07-15",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zamanki gibi mükemmel. Teşekkürler.",
+            "Date": "2018-07-14",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kunefe basariliydi, tesekkurler.",
+            "Date": "2018-07-13",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Super.",
+            "Date": "2018-07-13",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çalışanlar wölf.",
+            "Date": "2018-07-06",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Öncelikle şunu söyleyeyim inanılmaz hızlıydı, siparişi verdikten 13 dakika sonra geldi üstelik bu kadar kısa sürede baştan sağma yapılmamıştı dürümler, gayet düzgündü. Civarımdaki bütün meşhur adıyamanlardan sipariş verdim, en iyisi kesinlikle aşağı ayrancıdaki.",
+            "Date": "2018-07-06",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Standart iyi.",
+            "Date": "2018-07-06",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Berbat bir marul göndermişlerdi çok özensizler.",
+            "Date": "2018-07-04",
+            "Flavour": "4",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Standart iyi.",
+            "Date": "2018-07-04",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Diğer çiğ köftecilerde fazla lavaş ve acı sos ek ücrete tabi oluyor, fakat bu işletmede ek ücret almadılar. Lezzeti ise mükemmel hayatımda yediğim en iyi çiğ köfte idi. Getiren kurye arkadaş çok güleryüzlü ve samimiydi teşekkürler...",
+            "Date": "2018-07-03",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızda başarılılar.",
+            "Date": "2018-07-03",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "O kadar uzun zaman sonra geldi ki üzüldüm açıkçası arkadaşı yürüyerek yolladılar zannettim. İki çiğköfte dürüm ve iki içli köfte sipariş ettik. İçli köfteler o kadar bayatlamış o kadar kurumuş ki, hiç tadı yoktu. Çiğ köfteler de eh işte diyelim bilemedim.",
+            "Date": "2018-07-02",
+            "Flavour": "5",
+            "Serving": "5",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Baarili.",
+            "Date": "2018-07-01",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Yağmurlu havada servisiniz çok hızlı geldi güler yüzlüydü, çiğ köfteleriniz çok taze ve çok lezizdi çok teşekkür ederim.",
+            "Date": "2018-06-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Midyeler 10 numaraaa.",
+            "Date": "2018-06-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süper hız, güzel lezzet. Tek problem hızli olması gerektiği için yorgun gözüken ve güler yüzlü olamayan kurye. Bir problem yoktu kurye de sadece yorgun gözüküyordu.",
+            "Date": "2018-06-26",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İçli köfte harika ama çiğ köfte o kadar lezzetli değil sanırım kullandığınız lavaş çok kıytırık.",
+            "Date": "2018-06-26",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok ucuz çok hızlı.",
+            "Date": "2018-06-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Bir değişim oldu galiba hiç eskisi gibi lezzetli değil.",
+            "Date": "2018-06-23",
+            "Flavour": "8",
+            "Serving": "6",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Mükemmeldi.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Standart iyi.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zaman iyi.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyisin be abi.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hatırlamıyorum (:.",
+            "Date": "2018-06-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Herzaman puanınıza full veririm yıllardırda sipariş veriyorum. Herşeyiniz mükemmel fazla söze gerek yok lakin künefenin yanında çatal bıçak gelmemesi bir ıslak mendil gelmemesi hiç iyi değil. (ayrıca künefeyi kesip getirseniz çok daha güzel olur) içli köftenin yanında limon getirmeniz lazım. Saygılar.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Midyeleriniz bayat.",
+            "Date": "2018-06-23",
+            "Flavour": "1",
+            "Serving": "7",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İidi.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Standart, iyi, hızlı.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Işık hızıyla geliyor.",
+            "Date": "2018-06-23",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "10000.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hizli ve guzel.",
+            "Date": "2018-06-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çok memnunuz severek tercih ediyoruz.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Süpersiniz.",
+            "Date": "2018-06-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Acı sos olmasın dedim her tarafı acı sostu yiyemedim. Midyeler yediğim en kötü midyeler olabilir kimseye tavsiye etmiyorum.",
+            "Date": "2018-06-23",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Siparişimde acı sos da istedim göndermemişler, unutulmuş.",
+            "Date": "2018-05-24",
+            "Flavour": "8",
+            "Serving": "6",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Guzel.",
+            "Date": "2018-05-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Standart iyi, çok hızlı servis.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyi.",
+            "Date": "2018-05-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Niceeeeee.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok iyi.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok hızlı geldi, ekstra lavaş isteğimi kırmadılar. Fakat çiğköfte taze değil gibiydi.",
+            "Date": "2018-05-24",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "On on on.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Midyeler o kadar bayatti ve o kadar kotu kokuyodu ki yiyemeyip attik.",
+            "Date": "2018-05-24",
+            "Flavour": "3",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Çok seviyoruz.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Standart iyi.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gayet lezzetli.",
+            "Date": "2018-05-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Cok iyi.",
+            "Date": "2018-04-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Standar, iyi.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Taze ve lezzetli. Cok hizli. Notlari dikkate aliyorlar, ekstra istekte bulundugunuzda fazlasiyla gonderiyorlar. Tesekkurler.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ikiside cok basariliydi. Ancak midye biraz daha baharatli olabilir.",
+            "Date": "2018-04-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Standart iyi.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çiğ köftenin tadında eskisine göre farklılık vardı tuzlu mu desek bilemedik? Ayrıca neredeyse hiç acısı yoktu. Acıyı çok sevmememize rağmen yine de çiğ köftede eksikliğini hissettik.",
+            "Date": "2018-04-24",
+            "Flavour": "7",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Her zaman olduğu gibi hızlı ve lezzetli.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Müthişsiniz.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zaman memnun kaldığım midyeler bayattı ve kokusu çok garipti. Başarılı bir işletmesiniz bence fakat süreklilik de çok önemli.",
+            "Date": "2018-04-24",
+            "Flavour": "3",
+            "Serving": "6",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok yakın mesafedeyim daha hızlı olmasını beklerdim 25 dakika biraz geç, onun dışında müşteri isteklerini dikkate alan bir yer, 2 adet ekstra lavaş istedim sağolsunlar 4 tane ekstra yollamışlar. Lezzeti de iyiydi.",
+            "Date": "2018-04-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Her daim 10.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Hızlı ve güzel.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok lezzetliydi sağolun.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyiydi teşekkürler.",
+            "Date": "2018-04-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Elinize saglık lezzetliydi.",
+            "Date": "2018-04-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Öncelikle çiğköftesi her zaman çok lezzetli ancak midye konusunda aynı şeyi söyleyemeyeceğim. Midyelerin taze olduğunu düşünmüyorum ve kokuyordu.",
+            "Date": "2018-03-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sipariş hızı ve lezzeti çok iyiydi.",
+            "Date": "2018-03-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Dürümler iyiydi.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Ankarada tek geçeceğim çiğköfteci.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Standart, güzel.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Favori mekan.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Midyenin akşam saatine kalmaması üzdü :(.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Standart iyi, temiz hizmet.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Fiyat / performans açısından künefesi iyi.",
+            "Date": "2018-03-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Her zaman ki gibi cok basarili.",
+            "Date": "2018-03-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "İnanılmaz hızlı.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Dürüm de künefe de güzel hızlı ve güzel paketlenmiş.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Notları okuduğunuz için teşekkürler.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Künefeleri çok iyi ya.",
+            "Date": "2018-03-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "8 dakikada geldi, inanılmaz.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok iyiydi.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Tadı yerindeydi bide lavaşı taze olsaydı daha güzel olur du.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Erken geldi. İyiydi.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Midye bayattı sanırım. Midemi bozdu :(.",
+            "Date": "2018-02-23",
+            "Flavour": "1",
+            "Serving": "2",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Ortalamanın üstü lezzet.",
+            "Date": "2018-02-23",
+            "Flavour": "6",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Künefesi birçok mekanda daha güzel.",
+            "Date": "2018-02-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Çiğ köfte lezzetliydi, acısı tam kıvamında. Teşekkürler.",
+            "Date": "2018-02-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Olması gerektiği gibi, hızlı ve lezzetli.",
+            "Date": "2018-02-23",
+            "Flavour": "8",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "En hızlı ve en lezzetli senelerdir. Kurye arkadaş da çok güler yüzlü. Elinize sağlık.",
+            "Date": "2018-02-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Servis gayet hızlı. Ürünleri lezzetli ve taze.",
+            "Date": "2018-02-23",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzet güzel ıslak mendil olmadığından 1 puan eksik verdim.",
+            "Date": "2018-02-23",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İçli köfte taze değildi malasef, fakat çiğköfte mükemmeldi herzamanki gibi.",
+            "Date": "2018-02-23",
+            "Flavour": "7",
+            "Serving": "9",
+            "Speed": "9"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "Az acılı lavaş arası 100 gr. çiğ köfte, isteğe göre acı sos, nar ekşisi, yeşillik ile",
+            "ItemName": "Çiğ Köfte Dürüm",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Adet",
+            "ItemName": "Midye Dolma (Orta)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "Az acılı 400 gr. çiğ köfte, iceberg marul, limon, isteğe göre acı sos, 4 adet lavaş ile",
+            "ItemName": "Çiğ Köfte (Tam)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Az acılı 200 gr. çiğ köfte, iceberg marul, limon, isteğe göre acı sos, 2 adet lavaş ile ",
+            "ItemName": "Çiğ Köfte (Yarım)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte Dürüm + Künefe + Ayran (20 cl.)",
+            "ItemName": "Çiğ Köfte Dürüm Menü",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "Az acılı 600 gr. çiğ köfte, iceberg marul, limon, isteğe göre acı sos, 4 adet lavaş ile",
+            "ItemName": "Çiğ Köfte (1,5 Porsiyon)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Çiğ Köfte Dürüm + Künefe + Ayran (20 cl.)",
+            "ItemName": "Çiğ Köfte Dürüm Menü",
+            "ItemPrice": "11,00 TL"
+        },
+        {
+            "ItemInfo": "5 Adet Çiğ Köfte Dürüm + 5 Adet Ayran (20 cl.)",
+            "ItemName": "5'li Çiğ Köfte Dürüm Menü",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Az acılı 600 gr. çiğ köfte, iceberg marul, limon, isteğe göre acı sos, 4 adet lavaş ile",
+            "ItemName": "Çiğ Köfte (1,5 Porsiyon)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Az acılı 200 gr. çiğ köfte, iceberg marul, limon, isteğe göre acı sos, 2 adet lavaş ile ",
+            "ItemName": "Çiğ Köfte (Yarım)",
+            "ItemPrice": "7,50 TL"
+        },
+        {
+            "ItemInfo": "Az acılı 400 gr. çiğ köfte, iceberg marul, limon, isteğe göre acı sos, 4 adet lavaş ile",
+            "ItemName": "Çiğ Köfte (Tam)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "Az acılı lavaş arası 100 gr. çiğ köfte, isteğe göre acı sos, nar ekşisi, yeşillik ile",
+            "ItemName": "Çiğ Köfte Dürüm",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "Adet",
+            "ItemName": "Midye Dolma (Orta)",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "İzmir Midye Dolma (1 Porsiyon)",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Hatay Usulü Kızartma İçli Köfte (Adet)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "3,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (20 cl.)",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Meyveli Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "1,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (1 L.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Biber Turşusu (1 kg.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Acılı Ezme (1 kg.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "Salatalık, havuç, kornişon, biber turşusu",
+            "ItemName": "Karışık Turşu (1 kg.)",
+            "ItemPrice": "6,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Salatalık Turşusu ( 1kg.)",
+            "ItemPrice": "6,00 TL"
+        }
+    ]
+}

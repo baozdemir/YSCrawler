@@ -1,0 +1,732 @@
+{
+    "comment": [
+        {
+            "Comment": "Nokta.",
+            "Date": "2018-07-22",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "10"
+        },
+        {
+            "Comment": "İyiyidi.",
+            "Date": "2018-07-22",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Joker indiriminden midir bilmem ama kavurmali kasarli pidenin porsiyonu kucuktu. Tadı iyi.",
+            "Date": "2018-07-20",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Lezzetliydi. Baya ağzına kadar kavurma doluydu. Ancak joker olmasa tercih etmem sanırım.",
+            "Date": "2018-07-12",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Daha alacak çok yolunuz var...",
+            "Date": "2018-07-07",
+            "Flavour": "3",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kuşbaşılı pide lezzetliydi.",
+            "Date": "2018-06-28",
+            "Flavour": "8",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Sipariş birbuçuk saat sonra geldi ve buz gib... Savunma pazar günleri bir adet kurye çalışıyormuş ve herkesin yemeği geç kalmış yapacsk birşey yokmuş...",
+            "Date": "2018-06-24",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Güzeldi.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Güzel pide yapıyorlar. Ancak orada yediğinizde gelen turşu ikramının pakette gelmemesi kötü.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Özellikle yemeğin yanındaki pide mükemmel ötesiydi teşekkürler.",
+            "Date": "2018-06-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kaliteli ve lezzetli dondurmalar. Hızlı gönderim. Fiyatlar ortalamanın biraz üstü ama kaliteye değer.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "10",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Herzaman şahane bide kapalının yanına turşu koysanız super olurdu.",
+            "Date": "2018-06-24",
+            "Flavour": "9",
+            "Serving": "7",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Cok kuru bafra pidesi boyle olur mu kiymali ekmek gibi geldi.",
+            "Date": "2018-06-24",
+            "Flavour": "3",
+            "Serving": "5",
+            "Speed": "8"
+        },
+        {
+            "Comment": "O kadar serttiki pideleri dişimiz kesmedi bu nasıl kötü bir hamurdur.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "4",
+            "Speed": "4"
+        },
+        {
+            "Comment": "Baya hızlı geldi tek sorun biraz sertleşmişti pide.",
+            "Date": "2018-05-25",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Kuşbaşılı pide de etler sert kayış gibiydi beğenmedim.",
+            "Date": "2018-05-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "1"
+        },
+        {
+            "Comment": "Görüyorsunuz anlatmaya gerek yok. Mikemmel.",
+            "Date": "2018-05-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Daha güzel bekledim yalan yok hamur çok ince geldi bana.",
+            "Date": "2018-04-25",
+            "Flavour": "6",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Mükemmel bir restoran. Özellikle mıhlama çok iyi, her gün yesem sıkılmam!",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzeti mükemmeldi. Teşekkürler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kesinlikle denenmeli.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "8",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Lezzet cok iyiydi. Siparis de tam zamaninda geldi ama siparisle birlikte pecete, islak mendil vb. De ekleyebilirseniz daha iyi olur. Tesekkurler.",
+            "Date": "2018-04-25",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pideler oldukça lezzetli ve porsiyonlar doyurucu. Teşekkürler.",
+            "Date": "2018-04-25",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Hayatımda çubuk kraker gibi bafra pidesi yemedim. 3 porsiyon söylerseniz anca doyarsınız. Menüde kola 33 lük diyor gelen kola 20 lik.",
+            "Date": "2018-04-25",
+            "Flavour": "1",
+            "Serving": "1",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Sipariş notum okunmamış oysa kendi yerinizde daha ucuza daha fazla yiyordum.",
+            "Date": "2018-04-25",
+            "Flavour": "6",
+            "Serving": "1",
+            "Speed": "5"
+        },
+        {
+            "Comment": "Lezzetli idi ama çok yağlı.. Birde iş yeri olmasına rağmen fiş getirmediler..",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "9",
+            "Speed": "9"
+        },
+        {
+            "Comment": "Gayet hızlı geldi, sıcak sıcak tam lezzetinde yiyebildim. Tadı gerçekten güzeldi. Yağlıydı ancak bu bence lezzet konusunda başarılı olmasının bir sebebi olabilir. Yahu zaten bir kere geliyoruz şu dünyaya yiyin :) tavsiye ediyorum, bu civardaki en başarılı pidecilerden biri.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "8",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Pide gayet güzeldi ama turşu için aynı şeyi söyleyemiyeceğim dereotu ve fazla yağlı gibi olması bana göre değildi.",
+            "Date": "2018-03-26",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Muhteşemdi. Teşekkürler...",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-03-26",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Gerçekten hızlı sıcak ve lezzetli bir yemek yedik. Tesekkurler.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Lezzetli pideler ama sadece biraz boyu küçük :).",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "9",
+            "Speed": "8"
+        },
+        {
+            "Comment": "Her zamanki gibi efsaneydi...",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yediğim en güzel pideydi hızlı ve sıcak geldi herkese tavsiye ederim.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Kavurmaşı kaşarlı denenebilir.",
+            "Date": "2018-02-24",
+            "Flavour": "9",
+            "Serving": "9",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Güzel.",
+            "Date": "2018-02-24",
+            "Flavour": "8",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Biz ailecek çok seviyoruz bu tadı.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Yağlı olmasın dediğim halde çok yağlı geldi ve yedikten sonra yağ resmen sapsarı oldu kap katı beğenmedim ve çok uzun sürdü gelmesi.",
+            "Date": "2018-02-24",
+            "Flavour": "2",
+            "Serving": "2",
+            "Speed": "3"
+        },
+        {
+            "Comment": "İyi değil.",
+            "Date": "2018-02-24",
+            "Flavour": "6",
+            "Serving": "1",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Herşey güzelde doymadım be hacı abi :).",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "10",
+            "Speed": "10"
+        },
+        {
+            "Comment": "Çok kuruydu ve soğuktu evimin 2 bina yanında olmasına ragmen sıcak değildi. Fiyat ve lezzet benim için uyumsuz.",
+            "Date": "2018-02-24",
+            "Flavour": "7",
+            "Serving": "7",
+            "Speed": "7"
+        },
+        {
+            "Comment": "Porsiyonlar çok ufak.",
+            "Date": "2018-02-24",
+            "Flavour": "10",
+            "Serving": "1",
+            "Speed": "3"
+        },
+        {
+            "Comment": "Lezzeti yerindeydi fakat pide çok ufaktı.",
+            "Date": "2018-01-25",
+            "Flavour": "7",
+            "Serving": "6",
+            "Speed": "7"
+        }
+    ],
+    "menu": [
+        {
+            "ItemInfo": "İnce hamur üzerine kavrulmuş dana kıyması, soğan, karabiber",
+            "ItemName": "Bafra Pidesi (Kapalı)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "Dana eti, domates, yeşilbiber, karabiber",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide (Açık)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Kaşarlı Pide (Açık)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "Bafra Pidesi (Kapalı) + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Bafra Pidesi Kapalı)",
+            "ItemPrice": "20,70 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine yağsız dana kavurma, kaşar peyniri, tereyağı",
+            "ItemName": "Kavurmalı Kaşarlı Pide (Kapalı)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Pastırma, kavurma, sucuk, kaşar peyniri",
+            "ItemName": "Karışık Pide (Açık)",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Bafra Pidesi (Kapalı) + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Bafra Pidesi Kapalı)",
+            "ItemPrice": "20,70 TL"
+        },
+        {
+            "ItemInfo": "Fırında Akçaabat Köfte + Coca-Cola (33 cl.)",
+            "ItemName": "Seçilmiş Menü (Fırında Akçaabat Köfteı)",
+            "ItemPrice": "24,30 TL"
+        },
+        {
+            "ItemInfo": "Köy Peynirli Bafra Pidesi (Açık) + Kutu İçecek (Kampanya koşulları için restoranın Promosyonlar bölümüne göz atınız. İndirimli fiyat ürün sepete eklendikten sonra uygulanır.)",
+            "ItemName": "Vodafone Menüsü (Köy Peynirli Bafra Pidesi Açık)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mıhlama",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Menemen",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sahanda Yumurta",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Yumurta",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pastırmalı Yumurta",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Beyaz peynir, maydanoz, yumurta",
+            "ItemName": "Peynirli Yumurta",
+            "ItemPrice": "16,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Yumurta",
+            "ItemPrice": "14,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, kavurma, pastırma, kaşar peyniri, yumurta",
+            "ItemName": "Karışık Yumurta",
+            "ItemPrice": "21,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Tereyağlı Süzme Mercimek Çorbası",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kaşarlı Pide (Açık)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine kavrulmuş dana kıyması, karabiber",
+            "ItemName": "Kıymalı Pide (Açık)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine kavrulmuş dana kıyması, kaşar peyniri, karabiber",
+            "ItemName": "Kıymalı Kaşarlı Pide (Açık)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sucuklu Kaşarlı Pide (Açık)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Pide (Açık)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Kaşarlı Pide (Açık)",
+            "ItemPrice": "26,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine dana eti, domates, yeşil biber, baharat, tereyağı",
+            "ItemName": "Kuşbaşılı Pide (Açık)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Dana eti, domates, yeşilbiber, karabiber",
+            "ItemName": "Kuşbaşılı Kaşarlı Pide (Açık)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pastırmalı Pide (Açık)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Pastırmalı Kaşarlı Pide (Açık)",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine kültür mantarı, domates, yeşil biber, kaşar peyniri, tereyağı",
+            "ItemName": "Mantarlı Kaşarlı Pide (Açık)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patatesli Kaşarlı Pide (Açık)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ispanaklı Kaşarlı Pide (Açık)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Ispanak, kaşar peyniri, mantar, domates, biber, mısır, zeytin",
+            "ItemName": "Veggie Pide (Açık)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Özel Trabzon peynirli",
+            "ItemName": "Sürmene Pidesi (Açık)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Rendelenmiş köy peyniir, maydanoz, yumurta",
+            "ItemName": "Köy Peynirli Bafra Pidesi (Açık)",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "Domates, yeşilbiber, kaşar peyniri",
+            "ItemName": "Sebzeli Kaşarlı Pide (Açık)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "Pastırma, kavurma, sucuk, kaşar peyniri",
+            "ItemName": "Karışık Pide (Açık)",
+            "ItemPrice": "28,00 TL"
+        },
+        {
+            "ItemInfo": "Sucuk, sosis, pastırma, kaşar peyniri, domates, mısır, zeytin, pizza sosu",
+            "ItemName": "Süper Pizza (1-2 Kişilik)",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine kaşar peyniri, tereyağı",
+            "ItemName": "Kaşarlı Pide (Kapalı)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine kavrulmuş dana kıyması, kaşar peyniri, soğan, karabiber",
+            "ItemName": "Kıymalı Kaşarlı Pide (Kapalı)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine dana sucuk, kaşar peyniri, tereyağı",
+            "ItemName": "Sucuklu Kaşarlı Pide (Kapalı)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine dana kavurma, tereyağı",
+            "ItemName": "Kavurmalı Pide (Kapalı)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine yağsız dana kavurma, kaşar peyniri, tereyağı",
+            "ItemName": "Kavurmalı Kaşarlı Pide (Kapalı)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine kavrulmuş dana kavurma, pastırma, sucuk, kaşar peyniri",
+            "ItemName": "Karışık Pide (Kapalı)",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine rendelenmiş köy peyniri, maydanoz, yumurta",
+            "ItemName": "Köy Peynirli Bafra Pide (Kapalı)",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine kavrulmuş dana kıyması, soğan, karabiber",
+            "ItemName": "Bafra Pidesi (Kapalı)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine yağsız dana pastırma, kaşar peyniri, tereyağı",
+            "ItemName": "Pastırmalı Kaşarlı Pide (Kapalı)",
+            "ItemPrice": "23,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine kavrulmuş ısğanak, soğan, kaşar peyniri, tereyağı",
+            "ItemName": "Ispanaklı Kaşarlı Pide (Kapalı)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine kavrulmuş patates, soğan, kaşar peyniri, tereyağı",
+            "ItemName": "Patatesli Kaşarlı Pide (Kapalı)",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "İnce hamur üzerine mantar, kaşar peyniri, tereyağı",
+            "ItemName": "Mantarlı Kaşarlı Pide (Kapalı)",
+            "ItemPrice": "18,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kıymalı Yoğurtlu Pide",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavurmalı Yoğurtlu Pide",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ispanaklı Yoğurtlu Pide",
+            "ItemPrice": "20,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fırında Kuşbaşılı Güveç",
+            "ItemPrice": "25,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fırında Kuşbaşılı Kaşarlı Güveç",
+            "ItemPrice": "27,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fırında Mantarlı Kaşarlı Güveç",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "Kavurma, kaşar peyniri, sucuk, pastırma",
+            "ItemName": "Fırında Karışık Güveç",
+            "ItemPrice": "30,00 TL"
+        },
+        {
+            "ItemInfo": "6 adet köfte",
+            "ItemName": "Fırında Akçaabat Köfte",
+            "ItemPrice": "22,00 TL"
+        },
+        {
+            "ItemInfo": "6 adet köfte",
+            "ItemName": "Fırında Kaşarlı Köfte",
+            "ItemPrice": "24,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ev Yapımı Karışık Turşu",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Kavrulmuş Fasulye Turşusu",
+            "ItemPrice": "15,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Patates Kızartması",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Çoban Salata",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Mevsim Salata",
+            "ItemPrice": "17,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Künefe",
+            "ItemPrice": "12,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fırın Sütlaç",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Cappy (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Lipton Ice Tea (33 cl.)",
+            "ItemPrice": "5,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Şalgam Suyu (33 cl.)",
+            "ItemPrice": "4,50 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (30 cl.)",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonlu Soda",
+            "ItemPrice": "4,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "3,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Soda",
+            "ItemPrice": "2,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Limonata",
+            "ItemPrice": "7,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Taze Sıkma Portakal Suyu",
+            "ItemPrice": "10,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola (1 L.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Ayran (1 L.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Light (1 L.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Coca-Cola Zero (1 L.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Fanta (1 L.)",
+            "ItemPrice": "8,00 TL"
+        },
+        {
+            "ItemInfo": "",
+            "ItemName": "Sprite (1 L.)",
+            "ItemPrice": "8,00 TL"
+        }
+    ]
+}
