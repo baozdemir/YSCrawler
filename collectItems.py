@@ -59,16 +59,16 @@ def getAllCompaniesFromZone():
 																		itemNameL.append(itemName)
 																		print("{}".format(itemName))                              
 							aHref.append({ "hrefs" : hrefL })
-                                                        zoneHref.append({zone['name'] : aHref})
-                                                        aZone.append({ "items" : itemNameL })
+							zoneHref.append({zone['name'] : aHref})
+							aZone.append({ "items" : itemNameL })
 							cityZones.append({zone['name'] : aZone})
 							aZone = []
-                                                        aHref = []
+							aHref = []
 				aCity = ({ key : cityZones })
 				cityZones = []    
 				with open("allItems/{}_meals.json".format(key), 'w') as f:
 					json.dump(aCity, f, ensure_ascii=False, indent=4, sort_keys=True)
-                                aCity = ({ key : zoneHref })
+				aCity = ({ key : zoneHref })
 				zoneHref = []    
 				with open("allItems/{}_hrefs.json".format(key), 'w') as f:
 					json.dump(aCity, f, ensure_ascii=False, indent=4, sort_keys=True)
