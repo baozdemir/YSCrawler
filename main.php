@@ -124,7 +124,11 @@
                                     </table>
                                 </div>
                                 <div class="tab-pane fade" id="yemekarama-tab">
-                                    <select class="form-control" id="aramasonuc" name="aramasonuc" style="width:300px;"></select>
+                                    <select class="form-control" id="arama" name="arama" style="width:300px;"></select><br/>
+                                    <div id="aramasonuc">
+
+                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>

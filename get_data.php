@@ -111,7 +111,7 @@ if (isset($_POST['cities_id'])) {
     $pair = explode("/", $_POST['zone_id3']);
     $index_zone = $pair[0];
     $zone = $pair[1];
-    $string = file_get_contents("http://dentaltourism-turkey.com/yscrawler/allItems/" . $city . "_companies.json");
+    $string = file_get_contents("http://dentaltourism-turkey.com/yscrawler/allItems/" . $city . "_meals.json");
     debug_to_console($string);
     $jsonfile = json_decode($string, TRUE);
     $company_length = count($jsonfile[$city][$index_zone][$zone][0]['items']);
@@ -122,7 +122,36 @@ if (isset($_POST['cities_id'])) {
         echo "<option value='" . $DisplayName . "'>" . $DisplayName . "</option>";
     }
     echo "</optgroup>";
+} else if (isset($_POST['yemek'])) {
+    $pair = explode("/", $_POST['city_id4']);
+    $index = $pair[0];
+    $city = $pair[1];
+
+    $pair = explode("/", $_POST['zone_id4']);
+    $index_zone = $pair[0];
+    $zone = $pair[1];
+    $string = file_get_contents("http://dentaltourism-turkey.com/yscrawler/allItems/" . $city . "_hrefs.json");
+    debug_to_console($string);
+    $jsonfile = json_decode($string, TRUE);
+    $company_length = count($jsonfile[$city][$index_zone][$zone][0]['hrefs']);
+    debug_to_console($company_length);
+    $max=-1;
+    $maxHref="";
+    
+    for ($i = 0; $i < $company_length; $i++) {
+        $href = $jsonfile[$city][$index_zone][$zone][0]['hrefs'][$i];
+        $stringMenu = file_get_contents("http://dentaltourism-turkey.com/yscrawler/analysis" . $href . ".json");
+        $jsonfileMenu = json_decode($stringMenu, TRUE);
+        if (isset($jsonfileMenu['averageScore'][$_POST["yemek"]])) {
+            if($jsonfileMenu['averageScore'][$_POST["yemek"]]>max){
+                $max = $jsonfileMenu['averageScore'][$_POST["yemek"]];
+                $maxHref = $href;
+            }
+        }    
+    }
+    echo 'href:'.$maxHref.' avg. puan: '.$max;
 } else if (isset($_POST['href'])) {
+
     $stringMenu = file_get_contents("http://dentaltourism-turkey.com/yscrawler/menusjson/" . $_POST['href'] . ".json");
     $jsonfileMenu = json_decode($stringMenu, TRUE);
     $menu_length = count($jsonfileMenu['menu']);

@@ -74,18 +74,30 @@ $(document).ready(function () {
                 data: {zone_id3: zone_id, city_id3: city_id},
                 success: function (response) {
                     if (response != '') {
-                        $("#aramasonuc").removeAttr('disabled', 'disabled').html(response);
+                        $("#arama").removeAttr('disabled', 'disabled').html(response);
                     }
                 }
 
             });
         }
     });
-    $(document).on('change', '#aramasonuc', function () {
+    $(document).on('change', '#arama', function () {
         var zone_id = $('#zones').val();
         var city_id = $('#cities').val();
-        var yemek = $('#aramasonuc').val();
-         
+        var yemek = $('#arama').val();
+         if (zone_id != "") {
+            $.ajax({
+                url: "get_data.php",
+                type: 'POST',
+                data: {zone_id4: zone_id, city_id4: city_id, yemek: yemek},
+                success: function (response) {
+                    if (response != '') {
+                        $("#aramasonuc").removeAttr('disabled', 'disabled').html(response);
+                    }
+                }
+
+            });
+        }
     });
 });
 function getList(hrefv) {
