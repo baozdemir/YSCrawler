@@ -85,7 +85,7 @@
                         </div>
                         <div class="panel-body">
                             <div class="tab-content">
-                                <div class="tab-pane fade in active" id="restorant-tab">
+                                <div class="tab-pane fade in active" id="zone-tab">
                                     <table border=0 class="circle-list">
                                         <tr>
                                             <td>
@@ -107,8 +107,8 @@
                     <div class="panel with-nav-tabs panel-default">
                         <div class="panel-heading">
                             <ul class="nav nav-tabs">
-                                <li class="active"><a href="#restorant-tab" data-toggle="tab">Restorantlar</a></li>
-
+                                <li class="active"><a href="#restorant-tab" data-toggle="tab">Restoranlar</a></li>
+                                <li><a href="#yemekarama-tab" data-toggle="tab">Yemek Arama</a></li>   
                             </ul>
                         </div>
                         <div class="panel-body">
@@ -122,6 +122,9 @@
                                             </td>
                                         </tr>
                                     </table>
+                                </div>
+                                <div class="tab-pane fade" id="yemekarama-tab">
+                                    <select class="form-control" id="aramasonuc" name="aramasonuc" style="width:300px;"></select>
                                 </div>
                             </div>
                         </div>

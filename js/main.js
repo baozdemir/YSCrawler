@@ -44,7 +44,7 @@ $(document).ready(function () {
     $(document).on('change', '#zones', function () {
         var zone_id = $('#zones').val();
         var city_id = $('#cities').val();
-         console.log(zone_id);
+        console.log(zone_id);
         if (zone_id != "") {
             $.ajax({
                 url: "get_data.php",
@@ -55,9 +55,9 @@ $(document).ready(function () {
                         $("#companylist").removeAttr('disabled', 'disabled').html(response);
                     }
                 }
-                
+
             });
-             $.ajax({
+            $.ajax({
                 url: "get_data.php",
                 type: 'POST',
                 data: {zone_id2: zone_id, city_id2: city_id},
@@ -66,50 +66,67 @@ $(document).ready(function () {
                         $("#zoneInfo").removeAttr('disabled', 'disabled').html(response);
                     }
                 }
-                
+
+            });
+            $.ajax({
+                url: "get_data.php",
+                type: 'POST',
+                data: {zone_id3: zone_id, city_id3: city_id},
+                success: function (response) {
+                    if (response != '') {
+                        $("#aramasonuc").removeAttr('disabled', 'disabled').html(response);
+                    }
+                }
+
             });
         }
-    });  
+    });
+    $(document).on('change', '#aramasonuc', function () {
+        var zone_id = $('#zones').val();
+        var city_id = $('#cities').val();
+        var yemek = $('#aramasonuc').val();
+         
+    });
 });
 function getList(hrefv) {
-        var href = hrefv;
-        var href2 = hrefv;
-        var href3 = hrefv;
-        
-        if (href != "") {
-            $.ajax({
-                url: "get_data.php",
-                type: 'POST',
-                data: {href: href},
-                success: function (response) {
-                    //var resp = $.trim(response);
-                    if (response != '') {
-                        $("#menu-table").removeAttr('disabled', 'disabled').html(response);
-                    }
+    var href = hrefv;
+    var href2 = hrefv;
+    var href3 = hrefv;
+
+    if (href != "") {
+        $.ajax({
+            url: "get_data.php",
+            type: 'POST',
+            data: {href: href},
+            success: function (response) {
+                //var resp = $.trim(response);
+                if (response != '') {
+                    $("#menu-table").removeAttr('disabled', 'disabled').html(response);
                 }
-            });
-            $.ajax({
-                url: "get_data.php",
-                type: 'POST',
-                data: {href2: href2},
-                success: function (response2) {
-                    //var resp = $.trim(response);
-                    if (response2 != '') {
-                        $("#comments").removeAttr('disabled', 'disabled').html(response2);
-                    }
+            }
+        });
+        $.ajax({
+            url: "get_data.php",
+            type: 'POST',
+            data: {href2: href2},
+            success: function (response2) {
+                //var resp = $.trim(response);
+                if (response2 != '') {
+                    $("#comments").removeAttr('disabled', 'disabled').html(response2);
                 }
-            });
-            $.ajax({
-                url: "get_data.php",
-                type: 'POST',
-                data: {href3: href3},
-                success: function (response3) {
-                    //var resp = $.trim(response);
-                    if (response3 != '') {
-                        $("#analysis").removeAttr('disabled', 'disabled').html(response3);
-                    }
+            }
+        });
+        $.ajax({
+            url: "get_data.php",
+            type: 'POST',
+            data: {href3: href3},
+            success: function (response3) {
+                //var resp = $.trim(response);
+                if (response3 != '') {
+                    $("#analysis").removeAttr('disabled', 'disabled').html(response3);
                 }
-            });
-           
-        }
+            }
+        });
+
     }
+}

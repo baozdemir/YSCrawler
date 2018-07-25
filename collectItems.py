@@ -12,7 +12,7 @@ def getAllCompaniesFromZone():
 	DisplayName,CategoryName,CuisineNameList,DeliveryTime,MinimumDeliveryPrice,ImageFullPath,MainCuisineId,MainCuisineName,ServingText,href,SpeedText,FlavourText,AvgPoint,WorkHoursText = [], [], [], [], [], [], [], [], [], [], [], [], [], []
 
 	#json file location attrs
-	allZones,aCity, aZone, cityZones = [], [], [],[]
+	allZones,aCity, aZone, cityZones,zoneHref,aHref = [], [], [],[],[],[]
 
 	with open('zonesAdiyaman.json', 'r') as f:
 		zones_json = json.load(f)
@@ -58,11 +58,18 @@ def getAllCompaniesFromZone():
 																	if itemName not in itemNameL:
 																		itemNameL.append(itemName)
 																		print("{}".format(itemName))                              
-							aZone.append({ "items" : itemNameL })
+							aHref.append({ "hrefs" : hrefL })
+                                                        zoneHref.append({zone['name'] : aHref})
+                                                        aZone.append({ "items" : itemNameL })
 							cityZones.append({zone['name'] : aZone})
 							aZone = []
+                                                        aHref = []
 				aCity = ({ key : cityZones })
 				cityZones = []    
-				with open("allItems/{}_companies.json".format(key), 'w') as f:
+				with open("allItems/{}_meals.json".format(key), 'w') as f:
+					json.dump(aCity, f, ensure_ascii=False, indent=4, sort_keys=True)
+                                aCity = ({ key : zoneHref })
+				zoneHref = []    
+				with open("allItems/{}_hrefs.json".format(key), 'w') as f:
 					json.dump(aCity, f, ensure_ascii=False, indent=4, sort_keys=True)
 getAllCompaniesFromZone()

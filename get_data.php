@@ -1,5 +1,13 @@
 <?php
 
+function debug_to_console($data) {
+    $output = $data;
+    if (is_array($output))
+        $output = implode(',', $output);
+
+    echo "<script>console.log( 'Debug Objects: " . $output . "' );</script>";
+}
+
 if (isset($_POST['cities_id'])) {
     $string = file_get_contents("http://dentaltourism-turkey.com/yscrawler/zones.json");
     $jsonfile = json_decode($string, TRUE);
@@ -26,15 +34,6 @@ if (isset($_POST['cities_id'])) {
         echo "<option value='" . $j . "/" . $jsonfile['allZones'][$index][$city][0]['Diğer Semtler'][$j]['name'] . "'>" . $jsonfile['allZones'][$index][$city][0]['Diğer Semtler'][$j]['name'] . "</option>";
     }
     echo "</optgroup>";
-
-    function debug_to_console($data) {
-        $output = $data;
-        if (is_array($output))
-            $output = implode(',', $output);
-
-        echo "<script>console.log( 'Debug Objects: " . $output . "' );</script>";
-    }
-
 } else if (isset($_POST['zone_id'])) {
     $pair = explode("/", $_POST['city_id']);
     $index = $pair[0];
@@ -71,10 +70,10 @@ if (isset($_POST['cities_id'])) {
 
     $max_comment = 0;
     $max_comment_comp = "";
-    
-    $max_avg=0;
-    $max_avg_comp="";
-    
+
+    $max_avg = 0;
+    $max_avg_comp = "";
+
     for ($i = 0; $i < $company_length; $i++) {
         $DisplayName = $jsonfile[$city][$index_zone][$zone][0]['comps'][$i]['DisplayName'];
         $href = $jsonfile[$city][$index_zone][$zone][0]['comps'][$i]['href'];
@@ -101,11 +100,28 @@ if (isset($_POST['cities_id'])) {
             $max_comment = $comp_comment;
         }
         //yorumlarda
-        
     }
     echo '<h6>En fazla yorum yapılan restoran:<h6>' . $max_comp . ' ' . $max . ' yorum';
     echo '<h6>En fazla yorum yapan restoran:<h6>' . $max_comment_comp . ' ' . $max_comment . ' yorum';
+} else if (isset($_POST['zone_id3'])) {
+    $pair = explode("/", $_POST['city_id3']);
+    $index = $pair[0];
+    $city = $pair[1];
 
+    $pair = explode("/", $_POST['zone_id3']);
+    $index_zone = $pair[0];
+    $zone = $pair[1];
+    $string = file_get_contents("http://dentaltourism-turkey.com/yscrawler/allItems/" . $city . "_companies.json");
+    debug_to_console($string);
+    $jsonfile = json_decode($string, TRUE);
+    $company_length = count($jsonfile[$city][$index_zone][$zone][0]['items']);
+    debug_to_console($company_length);
+    echo " <optgroup label='Yemekler'>";
+    for ($i = 0; $i < $company_length; $i++) {
+        $DisplayName = $jsonfile[$city][$index_zone][$zone][0]['items'][$i];
+        echo "<option value='" . $DisplayName . "'>" . $DisplayName . "</option>";
+    }
+    echo "</optgroup>";
 } else if (isset($_POST['href'])) {
     $stringMenu = file_get_contents("http://dentaltourism-turkey.com/yscrawler/menusjson/" . $_POST['href'] . ".json");
     $jsonfileMenu = json_decode($stringMenu, TRUE);
